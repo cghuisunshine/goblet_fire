@@ -1,0 +1,348 @@
+{
+  "title": "Harry Potter and the Goblet of Fire",
+  "spine": [
+    {
+      "duration": 28.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0001 - Opening Credits.mp3"
+    },
+    {
+      "duration": 1735.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0002 - Chapter 1_ The Riddle House.mp3"
+    },
+    {
+      "duration": 1116.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0003 - Chapter 2_ The Scar.mp3"
+    },
+    {
+      "duration": 1234.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0004 - Chapter 3_ The Invitation.mp3"
+    },
+    {
+      "duration": 1200.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0005 - Chapter 4_ Back to the Burrow.mp3"
+    },
+    {
+      "duration": 1402.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0006 - Chapter 5_ Weasleys’ Wizard Wheezes.mp3"
+    },
+    {
+      "duration": 878.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0007 - Chapter 6_ The Portkey.mp3"
+    },
+    {
+      "duration": 2020.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0008 - Chapter 7_ Bagman and Crouch.mp3"
+    },
+    {
+      "duration": 2359.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0009 - Chapter 8_ The Quidditch World Cup.mp3"
+    },
+    {
+      "duration": 2809.000249,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0010 - Chapter 9_ The Dark Mark.mp3"
+    },
+    {
+      "duration": 1249.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0011 - Chapter 10_ Mayhem at the Ministry.mp3"
+    },
+    {
+      "duration": 1301.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0012 - Chapter 11_ Aboard the Hogwarts Express.mp3"
+    },
+    {
+      "duration": 2274.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0013 - Chapter 12_ The Triwizard Tournament.mp3"
+    },
+    {
+      "duration": 1670.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0014 - Chapter 13_ Mad-Eye Moody.mp3"
+    },
+    {
+      "duration": 1930.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0015 - Chapter 14_ The Unforgivable Curses.mp3"
+    },
+    {
+      "duration": 2102.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0016 - Chapter 15_ Beauxbatons and Durmstrang.mp3"
+    },
+    {
+      "duration": 2454.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0017 - Chapter 16_ The Goblet of Fire.mp3"
+    },
+    {
+      "duration": 1716.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0018 - Chapter 17_ The Four Champions.mp3"
+    },
+    {
+      "duration": 2656.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0019 - Chapter 18_ The Weighing of the Wands.mp3"
+    },
+    {
+      "duration": 2422.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0020 - Chapter 19_ The Hungarian Horntail.mp3"
+    },
+    {
+      "duration": 2791.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0021 - Chapter 20_ The First Task.mp3"
+    },
+    {
+      "duration": 2103.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0022 - Chapter 21_ The House-Elf Liberation Front.mp3"
+    },
+    {
+      "duration": 1644.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0023 - Chapter 22_ The Unexpected Task.mp3"
+    },
+    {
+      "duration": 3013.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0024 - Chapter 23_ The Yule Ball.mp3"
+    },
+    {
+      "duration": 2300.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0025 - Chapter 24_ Rita Skeeter’s Scoop.mp3"
+    },
+    {
+      "duration": 2166.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0026 - Chapter 25_ The Egg and the Eye.mp3"
+    },
+    {
+      "duration": 3016.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0027 - Chapter 26_ The Second Task.mp3"
+    },
+    {
+      "duration": 2627.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0028 - Chapter 27_ Padfoot Returns.mp3"
+    },
+    {
+      "duration": 2804.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0029 - Chapter 28_ The Madness of Mr Crouch.mp3"
+    },
+    {
+      "duration": 1633.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0030 - Chapter 29_ The Dream.mp3"
+    },
+    {
+      "duration": 2606.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0031 - Chapter 30_ The Pensieve.mp3"
+    },
+    {
+      "duration": 3062.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0032 - Chapter 31_ The Third Task.mp3"
+    },
+    {
+      "duration": 901.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0033 - Chapter 32_ Flesh, Blood and Bone.mp3"
+    },
+    {
+      "duration": 1852.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0034 - Chapter 33_ The Death Eaters.mp3"
+    },
+    {
+      "duration": 1247.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0035 - Chapter 34_ Priori Incantatem.mp3"
+    },
+    {
+      "duration": 2478.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0036 - Chapter 35_ Veritaserum.mp3"
+    },
+    {
+      "duration": 2472.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0037 - Chapter 36_ The Parting of the Ways.mp3"
+    },
+    {
+      "duration": 1951.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0038 - Chapter 37_ The Beginning.mp3"
+    },
+    {
+      "duration": 102.0,
+      "path": "Harry Potter and the Goblet of Fire, Book 4 - 0039 - The Story Continues in Harry Potter and the Order of the Phoenix.mp3"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1: The Riddle House",
+      "spine": 1,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 2: The Scar",
+      "spine": 2,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 3: The Invitation",
+      "spine": 3,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 4: Back to the Burrow",
+      "spine": 4,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 5: Weasleys’ Wizard Wheezes",
+      "spine": 5,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 6: The Portkey",
+      "spine": 6,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 7: Bagman and Crouch",
+      "spine": 7,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 8: The Quidditch World Cup",
+      "spine": 8,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 9: The Dark Mark",
+      "spine": 9,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 10: Mayhem at the Ministry",
+      "spine": 10,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 11: Aboard the Hogwarts Express",
+      "spine": 11,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 12: The Triwizard Tournament",
+      "spine": 12,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 13: Mad-Eye Moody",
+      "spine": 13,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 14: The Unforgivable Curses",
+      "spine": 14,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 15: Beauxbatons and Durmstrang",
+      "spine": 15,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 16: The Goblet of Fire",
+      "spine": 16,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 17: The Four Champions",
+      "spine": 17,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 18: The Weighing of the Wands",
+      "spine": 18,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 19: The Hungarian Horntail",
+      "spine": 19,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 20: The First Task",
+      "spine": 20,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 21: The House-Elf Liberation Front",
+      "spine": 21,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 22: The Unexpected Task",
+      "spine": 22,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 23: The Yule Ball",
+      "spine": 23,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 24: Rita Skeeter’s Scoop",
+      "spine": 24,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 25: The Egg and the Eye",
+      "spine": 25,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 26: The Second Task",
+      "spine": 26,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 27: Padfoot Returns",
+      "spine": 27,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 28: The Madness of Mr Crouch",
+      "spine": 28,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 29: The Dream",
+      "spine": 29,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 30: The Pensieve",
+      "spine": 30,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 31: The Third Task",
+      "spine": 31,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 32: Flesh, Blood and Bone",
+      "spine": 32,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 33: The Death Eaters",
+      "spine": 33,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 34: Priori Incantatem",
+      "spine": 34,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 35: Veritaserum",
+      "spine": 35,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 36: The Parting of the Ways",
+      "spine": 36,
+      "offset": 0.0
+    },
+    {
+      "title": "Chapter 37: The Beginning",
+      "spine": 37,
+      "offset": 0.0
+    }
+  ]
+}
