@@ -13,38 +13,98 @@
   {
    "begin": "8.360",
    "children": [],
-   "end": "55.800",
+   "end": "22.200",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "One of the best things about the aftermath of the second task was that everybody was very keen to hear details of what had happened down in the lake, which meant that Ron was getting to share Harry's limelight for once. Harry noticed that Ron's version of events changed subtly with every retelling. At first, he gave what seemed to be the truth; it tallied with Hermione's story, anyway - Dumbledore had put all the hostages into a bewitched sleep in Professor McGonagall's office, first assuring them that they would be quite safe, and would awake when they were back above the water. One week later, however, Ron was telling a thrilling tale of kidnap in which he struggled single-handedly against fifty heavily armed merpeople who had to beat him into submission before tying him up."
+    "One of the best things about the aftermath of the second task was that everybody was very keen to hear details of what had happened down in the lake, which meant that Ron was getting to share Harry's limelight for once."
    ]
   },
   {
-   "begin": "55.800",
+   "begin": "22.200",
    "children": [],
-   "end": "72.720",
+   "end": "27.440",
    "id": "f000003",
    "language": "eng",
    "lines": [
-    "\"But I had my wand hidden up my sleeve,\" he assured Padma Patil, who seemed to be a lot keener on Ron now that he was getting so much attention and was making a point of talking to him every time they passed in the corridors. \"I could've taken those mer-idiots any time I wanted.\""
+    "Harry noticed that Ron's version of events changed subtly with every retelling."
+   ]
+  },
+  {
+   "begin": "27.440",
+   "children": [],
+   "end": "43.720",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "At first, he gave what seemed to be the truth; it tallied with Hermione's story, anyway - Dumbledore had put all the hostages into a bewitched sleep in Professor McGonagall's office, first assuring them that they would be quite safe, and would awake when they were back above the water."
+   ]
+  },
+  {
+   "begin": "43.720",
+   "children": [],
+   "end": "55.880",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "One week later, however, Ron was telling a thrilling tale of kidnap in which he struggled single-handedly against fifty heavily armed merpeople who had to beat him into submission before tying him up."
+   ]
+  },
+  {
+   "begin": "55.880",
+   "children": [],
+   "end": "69.000",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "\"But I had my wand hidden up my sleeve,\" he assured Padma Patil, who seemed to be a lot keener on Ron now that he was getting so much attention and was making a point of talking to him every time they passed in the corridors."
+   ]
+  },
+  {
+   "begin": "69.000",
+   "children": [],
+   "end": "72.720",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "\"I could've taken those mer-idiots any time I wanted.\""
    ]
   },
   {
    "begin": "72.720",
    "children": [],
-   "end": "85.880",
-   "id": "f000004",
+   "end": "75.920",
+   "id": "f000008",
    "language": "eng",
    "lines": [
-    "\"What were you going to do, snore at them?\" said Hermione waspishly. People had been teasing her so much about being the thing that Viktor Krum would most miss that she was in a rather tetchy mood."
+    "\"What were you going to do, snore at them?\""
    ]
   },
   {
-   "begin": "85.880",
+   "begin": "75.920",
+   "children": [],
+   "end": "77.480",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "said Hermione waspishly."
+   ]
+  },
+  {
+   "begin": "77.480",
+   "children": [],
+   "end": "85.800",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "People had been teasing her so much about being the thing that Viktor Krum would most miss that she was in a rather tetchy mood."
+   ]
+  },
+  {
+   "begin": "85.800",
    "children": [],
    "end": "93.200",
-   "id": "f000005",
+   "id": "f000011",
    "language": "eng",
    "lines": [
     "Ron's ears went red, and thereafter, he reverted to the bewitched sleep version of events."
@@ -53,18 +113,38 @@
   {
    "begin": "93.200",
    "children": [],
-   "end": "125.720",
-   "id": "f000006",
+   "end": "102.600",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "As they entered March the weather became drier, but cruel winds skinned their hands and faces every time they went out onto the grounds. There were delays in the post because the owls kept being blown off course. The brown owl that Harry had sent to Sirius with the dates of the Hogsmeade weekend turned up at breakfast on Friday morning with half its feathers sticking up the wrong way; Harry had no sooner torn off Sirius's reply than it took flight, clearly afraid it was going to be sent outside again."
+    "As they entered March the weather became drier, but cruel winds skinned their hands and faces every time they went out onto the grounds."
    ]
   },
   {
-   "begin": "125.720",
+   "begin": "102.600",
+   "children": [],
+   "end": "107.360",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "There were delays in the post because the owls kept being blown off course."
+   ]
+  },
+  {
+   "begin": "107.360",
+   "children": [],
+   "end": "125.680",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "The brown owl that Harry had sent to Sirius with the dates of the Hogsmeade weekend turned up at breakfast on Friday morning with half its feathers sticking up the wrong way; Harry had no sooner torn off Sirius's reply than it took flight, clearly afraid it was going to be sent outside again."
+   ]
+  },
+  {
+   "begin": "125.680",
    "children": [],
    "end": "129.560",
-   "id": "f000007",
+   "id": "f000015",
    "language": "eng",
    "lines": [
     "Sirius's letter was almost as short as the previous one."
@@ -73,98 +153,258 @@
   {
    "begin": "129.560",
    "children": [],
-   "end": "139.480",
-   "id": "f000008",
+   "end": "137.480",
+   "id": "f000016",
    "language": "eng",
    "lines": [
-    "Be at stile at end of road out of Hogsmeade (past Dervish and Banges) at two o'clock on Saturday afternoon. Bring as much food as you can."
+    "Be at stile at end of road out of Hogsmeade (past Dervish and Banges) at two o'clock on Saturday afternoon."
+   ]
+  },
+  {
+   "begin": "137.480",
+   "children": [],
+   "end": "139.480",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "Bring as much food as you can."
    ]
   },
   {
    "begin": "139.480",
    "children": [],
-   "end": "144.480",
-   "id": "f000009",
+   "end": "142.880",
+   "id": "f000018",
    "language": "eng",
    "lines": [
-    "\"He hasn't come back to Hogsmeade?\" said Ron incredulously."
+    "\"He hasn't come back to Hogsmeade?\""
+   ]
+  },
+  {
+   "begin": "142.880",
+   "children": [],
+   "end": "144.480",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "said Ron incredulously."
    ]
   },
   {
    "begin": "144.480",
    "children": [],
-   "end": "147.160",
-   "id": "f000010",
+   "end": "146.440",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "\"It looks like it, doesn't it?\" said Hermione."
+    "\"It looks like it, doesn't it?\""
+   ]
+  },
+  {
+   "begin": "146.440",
+   "children": [],
+   "end": "147.160",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "said Hermione."
    ]
   },
   {
    "begin": "147.160",
    "children": [],
    "end": "152.560",
-   "id": "f000011",
+   "id": "f000022",
    "language": "eng",
    "lines": [
-    "\"I can't believe him,\" said Harry tensely, \"if he's caught. . .\""
+    "\"I can't believe him,\" said Harry tensely, \"if he's caught."
    ]
   },
   {
    "begin": "152.560",
    "children": [],
-   "end": "159.360",
-   "id": "f000012",
+   "end": "152.560",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "\"Made it so far, though, hasn't he?\" said Ron. \"And it's not like the place is swarming with dementors anymore.\""
+    "."
+   ]
+  },
+  {
+   "begin": "152.560",
+   "children": [],
+   "end": "152.560",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "152.560",
+   "children": [],
+   "end": "154.800",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "\"Made it so far, though, hasn't he?\""
+   ]
+  },
+  {
+   "begin": "154.800",
+   "children": [],
+   "end": "155.440",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "said Ron."
+   ]
+  },
+  {
+   "begin": "155.440",
+   "children": [],
+   "end": "159.360",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "\"And it's not like the place is swarming with dementors anymore.\""
    ]
   },
   {
    "begin": "159.360",
    "children": [],
-   "end": "178.880",
-   "id": "f000013",
+   "end": "162.520",
+   "id": "f000028",
    "language": "eng",
    "lines": [
-    "Harry folded up the letter, thinking. If he was honest with himself, he really wanted to see Sirius again. He therefore approached the final lesson of the afternoon - double Potions - feeling considerably more cheerful than he usually did when descending the steps to the dungeons."
+    "Harry folded up the letter, thinking."
    ]
   },
   {
-   "begin": "178.880",
+   "begin": "162.520",
    "children": [],
-   "end": "200.840",
-   "id": "f000014",
+   "end": "167.960",
+   "id": "f000029",
    "language": "eng",
    "lines": [
-    "Malfoy, Crabbe, and Goyle were standing in a huddle outside the classroom door with Pansy Parkinson's gang of Slytherin girls. All of them were looking at something Harry couldn't see and sniggering heartily. Pansys pug-like face peered excitedly around Goyle's broad back as Harry, Ron, and Hermione approached."
+    "If he was honest with himself, he really wanted to see Sirius again."
+   ]
+  },
+  {
+   "begin": "167.960",
+   "children": [],
+   "end": "178.920",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "He therefore approached the final lesson of the afternoon - double Potions - feeling considerably more cheerful than he usually did when descending the steps to the dungeons."
+   ]
+  },
+  {
+   "begin": "178.920",
+   "children": [],
+   "end": "187.800",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Malfoy, Crabbe, and Goyle were standing in a huddle outside the classroom door with Pansy Parkinson's gang of Slytherin girls."
+   ]
+  },
+  {
+   "begin": "187.800",
+   "children": [],
+   "end": "192.160",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "All of them were looking at something Harry couldn't see and sniggering heartily."
+   ]
+  },
+  {
+   "begin": "192.160",
+   "children": [],
+   "end": "200.840",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "Pansys pug-like face peered excitedly around Goyle's broad back as Harry, Ron, and Hermione approached."
    ]
   },
   {
    "begin": "200.840",
    "children": [],
-   "end": "220.080",
-   "id": "f000015",
+   "end": "202.920",
+   "id": "f000034",
    "language": "eng",
    "lines": [
-    "\"There they are, there they are!\" she giggled, and the knot of Slytherins broke apart. Harry saw that Pansy had a magazine in her hands - Witch Weekly. The moving picture on the front showed a curly-haired witch who was smiling toothily and pointing at a large sponge cake with her wand."
+    "\"There they are, there they are!\""
+   ]
+  },
+  {
+   "begin": "202.920",
+   "children": [],
+   "end": "206.800",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "she giggled, and the knot of Slytherins broke apart."
+   ]
+  },
+  {
+   "begin": "206.800",
+   "children": [],
+   "end": "211.840",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Harry saw that Pansy had a magazine in her hands - Witch Weekly."
+   ]
+  },
+  {
+   "begin": "211.840",
+   "children": [],
+   "end": "220.080",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "The moving picture on the front showed a curly-haired witch who was smiling toothily and pointing at a large sponge cake with her wand."
    ]
   },
   {
    "begin": "220.080",
    "children": [],
-   "end": "236.040",
-   "id": "f000016",
+   "end": "224.000",
+   "id": "f000038",
    "language": "eng",
    "lines": [
-    "\"You might find something to interest you in there, Granger!\" Pansy said loudly, and she threw the magazine at Hermione, who caught it, looking startled. At that moment, the dungeon door opened, and Snape beckoned them all inside."
+    "\"You might find something to interest you in there, Granger!\""
+   ]
+  },
+  {
+   "begin": "224.000",
+   "children": [],
+   "end": "230.080",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "Pansy said loudly, and she threw the magazine at Hermione, who caught it, looking startled."
+   ]
+  },
+  {
+   "begin": "230.080",
+   "children": [],
+   "end": "236.040",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "At that moment, the dungeon door opened, and Snape beckoned them all inside."
    ]
   },
   {
    "begin": "236.040",
    "children": [],
    "end": "240.880",
-   "id": "f000017",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "Hermione, Harry, and Ron headed for a table at the back of the dungeon as usual."
@@ -173,38 +413,98 @@
   {
    "begin": "240.880",
    "children": [],
-   "end": "256.040",
-   "id": "f000018",
+   "end": "250.960",
+   "id": "f000042",
    "language": "eng",
    "lines": [
-    "Once Snape had turned his back on them to write up the ingredients of todays potion on the blackboard, Hermione hastily rifled through the magazine under the desk. At last, in the center pages, Hermione found what they were looking for."
+    "Once Snape had turned his back on them to write up the ingredients of todays potion on the blackboard, Hermione hastily rifled through the magazine under the desk."
+   ]
+  },
+  {
+   "begin": "250.960",
+   "children": [],
+   "end": "256.040",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "At last, in the center pages, Hermione found what they were looking for."
    ]
   },
   {
    "begin": "256.040",
    "children": [],
-   "end": "297.080",
-   "id": "f000019",
+   "end": "259.080",
+   "id": "f000044",
    "language": "eng",
    "lines": [
-    "Harry and Ron leaned in closer. A color photograph of Harry headed a short piece entitled: Harry Potter's Secret Heartache A boy like no other, perhaps - yet a boy suffering all the usual pangs of adolescence, writes Rita Skeeter. Deprived of love since the tragic demise of his parents, fourteen-year-old Harry Potter thought he had found solace in his steady girlfriend at Hogwarts, Muggle-born Hermione Granger. Little did he know that he would shortly be suffering yet another emotional blow in a life already littered with personal loss."
+    "Harry and Ron leaned in closer."
+   ]
+  },
+  {
+   "begin": "259.080",
+   "children": [],
+   "end": "276.400",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "A color photograph of Harry headed a short piece entitled: Harry Potter's Secret Heartache A boy like no other, perhaps - yet a boy suffering all the usual pangs of adolescence, writes Rita Skeeter."
+   ]
+  },
+  {
+   "begin": "276.400",
+   "children": [],
+   "end": "288.680",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Deprived of love since the tragic demise of his parents, fourteen-year-old Harry Potter thought he had found solace in his steady girlfriend at Hogwarts, Muggle-born Hermione Granger."
+   ]
+  },
+  {
+   "begin": "288.680",
+   "children": [],
+   "end": "297.080",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "Little did he know that he would shortly be suffering yet another emotional blow in a life already littered with personal loss."
    ]
   },
   {
    "begin": "297.080",
    "children": [],
-   "end": "330.080",
-   "id": "f000020",
+   "end": "305.240",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "Miss Granger, a plain but ambitious girl, seems to have a taste for famous wizards that Harry alone cannot satisfy. Since the arrival at Hogwarts of Viktor Krum, Bulgarian Seeker and hero of the last World Quidditch Cup, Miss Granger has been toying with both boys' affections. Krum, who is openly smitten with the devious Miss Granger, has already invited her to visit him in Bulgaria over the summer holidays, and insists that he has \"never felt this way about any other girl.\""
+    "Miss Granger, a plain but ambitious girl, seems to have a taste for famous wizards that Harry alone cannot satisfy."
    ]
   },
   {
-   "begin": "330.080",
+   "begin": "305.240",
+   "children": [],
+   "end": "315.960",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Since the arrival at Hogwarts of Viktor Krum, Bulgarian Seeker and hero of the last World Quidditch Cup, Miss Granger has been toying with both boys' affections."
+   ]
+  },
+  {
+   "begin": "315.960",
+   "children": [],
+   "end": "329.120",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "Krum, who is openly smitten with the devious Miss Granger, has already invited her to visit him in Bulgaria over the summer holidays, and insists that he has \"never felt this way about any other girl.\""
+   ]
+  },
+  {
+   "begin": "329.120",
    "children": [],
    "end": "336.920",
-   "id": "f000021",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "However, it might not be Miss Granger's doubtful natural charms that have captured these unfortunate boys' interest."
@@ -213,48 +513,118 @@
   {
    "begin": "336.920",
    "children": [],
-   "end": "350.080",
-   "id": "f000022",
+   "end": "347.360",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "\"She's really ugly,\" says Pansy Parkinson, a pretty and vivacious fourth-year student, \"but she'd be well up to making a Love Potion, she's quite brainy. I think that's how she's doing it.\""
+    "\"She's really ugly,\" says Pansy Parkinson, a pretty and vivacious fourth-year student, \"but she'd be well up to making a Love Potion, she's quite brainy."
    ]
   },
   {
-   "begin": "350.080",
+   "begin": "347.360",
    "children": [],
-   "end": "364.480",
-   "id": "f000023",
+   "end": "350.040",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "Love Potions are, of course, banned at Hogwarts, and no doubt Albus Dumbledore will want to investigate these claims. In the meantime, Harry Potters well-wishers must hope that, next time, he bestows his heart on a worthier candidate."
+    "I think that's how she's doing it.\""
+   ]
+  },
+  {
+   "begin": "350.040",
+   "children": [],
+   "end": "357.400",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Love Potions are, of course, banned at Hogwarts, and no doubt Albus Dumbledore will want to investigate these claims."
+   ]
+  },
+  {
+   "begin": "357.400",
+   "children": [],
+   "end": "364.480",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "In the meantime, Harry Potters well-wishers must hope that, next time, he bestows his heart on a worthier candidate."
    ]
   },
   {
    "begin": "364.480",
    "children": [],
-   "end": "376.960",
-   "id": "f000024",
+   "end": "366.800",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "\"I told you!\" Ron hissed at Hermione as she stared down at the article. \"I told you not to annoy Rita Skeeter! She's made you out to be some sort of- of scarlet woman!\""
+    "\"I told you!\""
+   ]
+  },
+  {
+   "begin": "366.800",
+   "children": [],
+   "end": "370.520",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "Ron hissed at Hermione as she stared down at the article."
+   ]
+  },
+  {
+   "begin": "370.520",
+   "children": [],
+   "end": "373.040",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "\"I told you not to annoy Rita Skeeter!"
+   ]
+  },
+  {
+   "begin": "373.040",
+   "children": [],
+   "end": "376.960",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "She's made you out to be some sort of- of scarlet woman!\""
    ]
   },
   {
    "begin": "376.960",
    "children": [],
-   "end": "387.040",
-   "id": "f000025",
+   "end": "380.360",
+   "id": "f000060",
    "language": "eng",
    "lines": [
-    "Hermione stopped looking astonished and snorted with laughter. \"Scarlet woman?\" she repeated, shaking with suppressed giggles as she looked around at Ron."
+    "Hermione stopped looking astonished and snorted with laughter."
+   ]
+  },
+  {
+   "begin": "380.360",
+   "children": [],
+   "end": "382.920",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "\"Scarlet woman?\""
+   ]
+  },
+  {
+   "begin": "382.920",
+   "children": [],
+   "end": "387.040",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "she repeated, shaking with suppressed giggles as she looked around at Ron."
    ]
   },
   {
    "begin": "387.040",
    "children": [],
    "end": "392.840",
-   "id": "f000026",
+   "id": "f000063",
    "language": "eng",
    "lines": [
     "\"It's what my mum calls them,\" Ron muttered, his ears going red."
@@ -263,58 +633,178 @@
   {
    "begin": "392.840",
    "children": [],
-   "end": "404.800",
-   "id": "f000027",
+   "end": "401.440",
+   "id": "f000064",
    "language": "eng",
    "lines": [
-    "\"If that's the best Rita can do, she's losing her touch,\" said Hermione, still giggling, as she threw Witch Weekly onto the empty chair beside her. \"What a pile of old rubbish.\""
+    "\"If that's the best Rita can do, she's losing her touch,\" said Hermione, still giggling, as she threw Witch Weekly onto the empty chair beside her."
    ]
   },
   {
-   "begin": "404.800",
+   "begin": "401.440",
    "children": [],
-   "end": "422.560",
-   "id": "f000028",
+   "end": "403.600",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "She looked over at the Slytherins, who were all watching her and Harry closely across the room to see if they had been upset by the article. Hermione gave them a sarcastic smile and a wave, and she, Harry, and Ron started unpacking the ingredients they would need for their Wit-Sharpening Potion."
+    "\"What a pile of old rubbish.\""
+   ]
+  },
+  {
+   "begin": "403.600",
+   "children": [],
+   "end": "413.360",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "She looked over at the Slytherins, who were all watching her and Harry closely across the room to see if they had been upset by the article."
+   ]
+  },
+  {
+   "begin": "413.360",
+   "children": [],
+   "end": "422.560",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "Hermione gave them a sarcastic smile and a wave, and she, Harry, and Ron started unpacking the ingredients they would need for their Wit-Sharpening Potion."
    ]
   },
   {
    "begin": "422.560",
    "children": [],
-   "end": "434.440",
-   "id": "f000029",
+   "end": "431.240",
+   "id": "f000068",
    "language": "eng",
    "lines": [
-    "\"There's something funny, though,\" said Hermione ten minutes later, holding her pestle suspended over a bowl of scarab beetles. \"How could Rita Skeeter have known . . . ?\""
+    "\"There's something funny, though,\" said Hermione ten minutes later, holding her pestle suspended over a bowl of scarab beetles."
+   ]
+  },
+  {
+   "begin": "431.240",
+   "children": [],
+   "end": "434.440",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "\"How could Rita Skeeter have known ."
    ]
   },
   {
    "begin": "434.440",
    "children": [],
-   "end": "439.560",
-   "id": "f000030",
+   "end": "434.440",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "\"Known what?\" said Ron quickly. \"You haven't been mixing up Love Potions, have you?\""
+    "."
+   ]
+  },
+  {
+   "begin": "434.440",
+   "children": [],
+   "end": "434.440",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "434.440",
+   "children": [],
+   "end": "434.440",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "?\""
+   ]
+  },
+  {
+   "begin": "434.440",
+   "children": [],
+   "end": "435.720",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "\"Known what?\""
+   ]
+  },
+  {
+   "begin": "435.720",
+   "children": [],
+   "end": "436.880",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "said Ron quickly."
+   ]
+  },
+  {
+   "begin": "436.880",
+   "children": [],
+   "end": "439.560",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "\"You haven't been mixing up Love Potions, have you?\""
    ]
   },
   {
    "begin": "439.560",
    "children": [],
-   "end": "451.000",
-   "id": "f000031",
+   "end": "444.880",
+   "id": "f000076",
    "language": "eng",
    "lines": [
-    "\"Don't be stupid,\" Hermione snapped, starting to pound up her beetles again. \"No, it's just. . . how did she know Viktor asked me to visit him over the summer?\""
+    "\"Don't be stupid,\" Hermione snapped, starting to pound up her beetles again."
+   ]
+  },
+  {
+   "begin": "444.880",
+   "children": [],
+   "end": "446.400",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "\"No, it's just."
+   ]
+  },
+  {
+   "begin": "446.400",
+   "children": [],
+   "end": "446.400",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "446.400",
+   "children": [],
+   "end": "446.400",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "446.400",
+   "children": [],
+   "end": "451.000",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "how did she know Viktor asked me to visit him over the summer?\""
    ]
   },
   {
    "begin": "451.000",
    "children": [],
    "end": "456.480",
-   "id": "f000032",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "Hermione blushed scarlet as she said this and determinedly avoided Ron's eyes."
@@ -323,28 +813,68 @@
   {
    "begin": "456.480",
    "children": [],
-   "end": "461.080",
-   "id": "f000033",
+   "end": "457.880",
+   "id": "f000082",
    "language": "eng",
    "lines": [
-    "\"What?\" said Ron, dropping his pestle with a loud clunk."
+    "\"What?\""
+   ]
+  },
+  {
+   "begin": "457.880",
+   "children": [],
+   "end": "461.080",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "said Ron, dropping his pestle with a loud clunk."
    ]
   },
   {
    "begin": "461.080",
    "children": [],
-   "end": "488.360",
-   "id": "f000034",
+   "end": "465.880",
+   "id": "f000084",
    "language": "eng",
    "lines": [
-    "\"He asked me right after he'd pulled me out of the lake,\" Hermione muttered. \"After he'd got rid of his shark's head. Madam Pomfrey gave us both blankets and then he sort of pulled me away from the judges so they wouldn't hear, and he said, if I wasn't doing anything over the summer, would I like to -\" \"And what did you say?\" said Ron, who had picked up his pestle and was grinding it on the desk, a good six inches from his bowl, because he was looking at"
+    "\"He asked me right after he'd pulled me out of the lake,\" Hermione muttered."
    ]
   },
   {
-   "begin": "488.360",
+   "begin": "465.880",
+   "children": [],
+   "end": "468.920",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "\"After he'd got rid of his shark's head."
+   ]
+  },
+  {
+   "begin": "468.920",
+   "children": [],
+   "end": "481.200",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "Madam Pomfrey gave us both blankets and then he sort of pulled me away from the judges so they wouldn't hear, and he said, if I wasn't doing anything over the summer, would I like to -\" \"And what did you say?\""
+   ]
+  },
+  {
+   "begin": "481.200",
+   "children": [],
+   "end": "488.320",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "said Ron, who had picked up his pestle and was grinding it on the desk, a good six inches from his bowl, because he was looking at"
+   ]
+  },
+  {
+   "begin": "488.320",
    "children": [],
    "end": "489.000",
-   "id": "f000035",
+   "id": "f000088",
    "language": "eng",
    "lines": [
     "Hermione."
@@ -353,78 +883,528 @@
   {
    "begin": "489.000",
    "children": [],
-   "end": "510.880",
-   "id": "f000036",
+   "end": "501.720",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "\"And he did say he'd never felt the same way about anyone else,\" Hermione went on, going so red now that Harry could almost feel the heat coming from her, \"but how could Rita Skeeter have heard him? She wasn't there ... or was she? Maybe she has got an Invisibility Cloak; maybe she sneaked onto the grounds to watch the second task. ...\""
+    "\"And he did say he'd never felt the same way about anyone else,\" Hermione went on, going so red now that Harry could almost feel the heat coming from her, \"but how could Rita Skeeter have heard him?"
+   ]
+  },
+  {
+   "begin": "501.720",
+   "children": [],
+   "end": "503.800",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "She wasn't there ..."
+   ]
+  },
+  {
+   "begin": "503.800",
+   "children": [],
+   "end": "504.480",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "or was she?"
+   ]
+  },
+  {
+   "begin": "504.480",
+   "children": [],
+   "end": "510.880",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "Maybe she has got an Invisibility Cloak; maybe she sneaked onto the grounds to watch the second task."
    ]
   },
   {
    "begin": "510.880",
    "children": [],
-   "end": "517.960",
-   "id": "f000037",
+   "end": "510.880",
+   "id": "f000093",
    "language": "eng",
    "lines": [
-    "\"And what did you say?\" Ron repeated, pounding his pestle down so hard that it dented the desk."
+    "...\""
+   ]
+  },
+  {
+   "begin": "510.880",
+   "children": [],
+   "end": "513.320",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "\"And what did you say?\""
+   ]
+  },
+  {
+   "begin": "513.320",
+   "children": [],
+   "end": "517.960",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "Ron repeated, pounding his pestle down so hard that it dented the desk."
    ]
   },
   {
    "begin": "517.960",
    "children": [],
-   "end": "535.640",
-   "id": "f000038",
+   "end": "525.920",
+   "id": "f000096",
    "language": "eng",
    "lines": [
-    "\"Well, I was too busy seeing whether you and Harry were okay to-\" \"Fascinating though your social life undoubtedly is. Miss Granger,\" said an icy voice right behind them, and all three of them jumped, \"I must ask you not to discuss it in my class. Ten points from Gryffindor.\""
+    "\"Well, I was too busy seeing whether you and Harry were okay to-\" \"Fascinating though your social life undoubtedly is."
    ]
   },
   {
-   "begin": "535.640",
+   "begin": "525.920",
    "children": [],
-   "end": "548.200",
-   "id": "f000039",
+   "end": "533.120",
+   "id": "f000097",
    "language": "eng",
    "lines": [
-    "Snape had glided over to their desk while they were talking. The whole class was now looking around at them; Malfoy took the opportunity to flash POTTER STINKS across the dungeon at Harry."
+    "Miss Granger,\" said an icy voice right behind them, and all three of them jumped, \"I must ask you not to discuss it in my class."
+   ]
+  },
+  {
+   "begin": "533.120",
+   "children": [],
+   "end": "534.640",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "Ten points from Gryffindor.\""
+   ]
+  },
+  {
+   "begin": "534.640",
+   "children": [],
+   "end": "539.720",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "Snape had glided over to their desk while they were talking."
+   ]
+  },
+  {
+   "begin": "539.720",
+   "children": [],
+   "end": "548.200",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "The whole class was now looking around at them; Malfoy took the opportunity to flash POTTER STINKS across the dungeon at Harry."
    ]
   },
   {
    "begin": "548.200",
    "children": [],
-   "end": "569.200",
-   "id": "f000040",
+   "end": "549.840",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "\"Ah . . . reading magazines under the table as well?\" Snape added, snatching up the copy of Witch Weekly. \"A further ten points from Gryffindor ... oh but of course ...\" Snapes black eyes glittered as they fell on Rita Skeeter's article. \"Potter has to keep up with his press cuttings. . . .\""
+    "\"Ah ."
    ]
   },
   {
-   "begin": "569.200",
+   "begin": "549.840",
    "children": [],
-   "end": "637.680",
-   "id": "f000041",
+   "end": "549.840",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "The dungeon rang with the Slytherins' laughter, and an unpleasant smile curled Snape's thin mouth. To Harry's fury, he began to read the article aloud. \"'Harry Potter's Secret Heartache. . . dear, dear. Potter, what's ailing you now? 'A boy like no other, perhaps. . .'\" Harry could feel his face burning. Snape was pausing at the end of every sentence to allow the Slytherins a hearty laugh. The article sounded ten times worse when read by Snape. Even Hermione was blushing scarlet now. \"'. . . Harry Potter's well-wishers must hope that, next time, he bestows his heart upon a worthier candidate.' How very touching,\" sneered Snape, rolling up the magazine to continued gales of laughter from the Slytherins. \"Well, I think I had better separate the three of you, so you can keep your minds on your potions rather than on your tangled love lives. Weasley, you stay here. Miss Granger, over there, beside Miss Parkinson. Potter - that table in front of my desk. Move. Now.\""
+    "."
    ]
   },
   {
-   "begin": "637.680",
+   "begin": "549.840",
+   "children": [],
+   "end": "549.840",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "549.840",
+   "children": [],
+   "end": "553.040",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "reading magazines under the table as well?\""
+   ]
+  },
+  {
+   "begin": "553.040",
+   "children": [],
+   "end": "556.440",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Snape added, snatching up the copy of Witch Weekly."
+   ]
+  },
+  {
+   "begin": "556.440",
+   "children": [],
+   "end": "559.320",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "\"A further ten points from Gryffindor ..."
+   ]
+  },
+  {
+   "begin": "559.320",
+   "children": [],
+   "end": "560.840",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "oh but of course ...\""
+   ]
+  },
+  {
+   "begin": "560.840",
+   "children": [],
+   "end": "565.400",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "Snapes black eyes glittered as they fell on Rita Skeeter's article."
+   ]
+  },
+  {
+   "begin": "565.400",
+   "children": [],
+   "end": "568.480",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "\"Potter has to keep up with his press cuttings."
+   ]
+  },
+  {
+   "begin": "568.480",
+   "children": [],
+   "end": "568.480",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "568.480",
+   "children": [],
+   "end": "568.480",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "568.480",
+   "children": [],
+   "end": "568.480",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "568.480",
+   "children": [],
+   "end": "576.040",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "The dungeon rang with the Slytherins' laughter, and an unpleasant smile curled Snape's thin mouth."
+   ]
+  },
+  {
+   "begin": "576.040",
+   "children": [],
+   "end": "580.160",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "To Harry's fury, he began to read the article aloud."
+   ]
+  },
+  {
+   "begin": "580.160",
+   "children": [],
+   "end": "583.320",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "\"'Harry Potter's Secret Heartache."
+   ]
+  },
+  {
+   "begin": "583.320",
+   "children": [],
+   "end": "583.320",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "583.320",
+   "children": [],
+   "end": "583.320",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "583.320",
+   "children": [],
+   "end": "584.480",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "dear, dear."
+   ]
+  },
+  {
+   "begin": "584.480",
+   "children": [],
+   "end": "586.560",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "Potter, what's ailing you now?"
+   ]
+  },
+  {
+   "begin": "586.560",
+   "children": [],
+   "end": "589.720",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "'A boy like no other, perhaps."
+   ]
+  },
+  {
+   "begin": "589.720",
+   "children": [],
+   "end": "589.720",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "589.720",
+   "children": [],
+   "end": "589.720",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    ".'\""
+   ]
+  },
+  {
+   "begin": "589.720",
+   "children": [],
+   "end": "592.440",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "Harry could feel his face burning."
+   ]
+  },
+  {
+   "begin": "592.440",
+   "children": [],
+   "end": "597.880",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "Snape was pausing at the end of every sentence to allow the Slytherins a hearty laugh."
+   ]
+  },
+  {
+   "begin": "597.880",
+   "children": [],
+   "end": "602.160",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "The article sounded ten times worse when read by Snape."
+   ]
+  },
+  {
+   "begin": "602.160",
+   "children": [],
+   "end": "603.840",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "Even Hermione was blushing scarlet now."
+   ]
+  },
+  {
+   "begin": "603.840",
+   "children": [],
+   "end": "603.840",
+   "id": "f000127",
+   "language": "eng",
+   "lines": [
+    "\"'."
+   ]
+  },
+  {
+   "begin": "603.840",
+   "children": [],
+   "end": "603.840",
+   "id": "f000128",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "603.840",
+   "children": [],
+   "end": "603.840",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "603.840",
+   "children": [],
+   "end": "611.560",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "Harry Potter's well-wishers must hope that, next time, he bestows his heart upon a worthier candidate.'"
+   ]
+  },
+  {
+   "begin": "611.560",
+   "children": [],
+   "end": "620.480",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "How very touching,\" sneered Snape, rolling up the magazine to continued gales of laughter from the Slytherins."
+   ]
+  },
+  {
+   "begin": "620.480",
+   "children": [],
+   "end": "628.120",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "\"Well, I think I had better separate the three of you, so you can keep your minds on your potions rather than on your tangled love lives."
+   ]
+  },
+  {
+   "begin": "628.120",
+   "children": [],
+   "end": "630.000",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "Weasley, you stay here."
+   ]
+  },
+  {
+   "begin": "630.000",
+   "children": [],
+   "end": "632.760",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Miss Granger, over there, beside Miss Parkinson."
+   ]
+  },
+  {
+   "begin": "632.760",
+   "children": [],
+   "end": "635.160",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Potter - that table in front of my desk."
+   ]
+  },
+  {
+   "begin": "635.160",
+   "children": [],
+   "end": "635.880",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "Move."
+   ]
+  },
+  {
+   "begin": "635.880",
+   "children": [],
+   "end": "636.720",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "Now.\""
+   ]
+  },
+  {
+   "begin": "636.720",
+   "children": [],
+   "end": "645.040",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Furious, Harry threw his ingredients and his bag into his cauldron and dragged it up to the front of the dungeon to the empty table."
+   ]
+  },
+  {
+   "begin": "645.040",
+   "children": [],
+   "end": "650.560",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "Snape followed, sat down at his desk and watched Harry unload his cauldron."
+   ]
+  },
+  {
+   "begin": "650.560",
    "children": [],
    "end": "659.040",
-   "id": "f000042",
+   "id": "f000140",
    "language": "eng",
    "lines": [
-    "Furious, Harry threw his ingredients and his bag into his cauldron and dragged it up to the front of the dungeon to the empty table. Snape followed, sat down at his desk and watched Harry unload his cauldron. Determined not to look at Snape, Harry resumed the mashing of his scarab beetles, imagining each one to have Snape's face."
+    "Determined not to look at Snape, Harry resumed the mashing of his scarab beetles, imagining each one to have Snape's face."
    ]
   },
   {
    "begin": "659.040",
    "children": [],
    "end": "664.680",
-   "id": "f000043",
+   "id": "f000141",
    "language": "eng",
    "lines": [
     "\"All this press attention seems to have inflated your already over-large head."
@@ -433,58 +1413,118 @@
   {
    "begin": "664.680",
    "children": [],
-   "end": "670.200",
-   "id": "f000044",
+   "end": "669.280",
+   "id": "f000142",
    "language": "eng",
    "lines": [
     "Potter,\" said Snape quietly, once the rest of the class had settled down again."
    ]
   },
   {
-   "begin": "670.200",
+   "begin": "669.280",
    "children": [],
-   "end": "681.640",
-   "id": "f000045",
+   "end": "671.400",
+   "id": "f000143",
    "language": "eng",
    "lines": [
-    "Harry didn't answer. He knew Snape was trying to provoke him; he had done this before. No doubt he was hoping for an excuse to take a round fifty points from Gryffindor before the end of the class."
+    "Harry didn't answer."
+   ]
+  },
+  {
+   "begin": "671.400",
+   "children": [],
+   "end": "675.400",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "He knew Snape was trying to provoke him; he had done this before."
+   ]
+  },
+  {
+   "begin": "675.400",
+   "children": [],
+   "end": "681.640",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "No doubt he was hoping for an excuse to take a round fifty points from Gryffindor before the end of the class."
    ]
   },
   {
    "begin": "681.640",
    "children": [],
-   "end": "709.520",
-   "id": "f000046",
+   "end": "702.640",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "\"You might be laboring under the delusion that the entire wizarding world is impressed with you,\" Snape went on, so quietly that no one else could hear him (Harry continued to pound his scarab beetles, even though he had already reduced them to a very fine powder), \"but I don't care how many times your picture appears in the papers. To me. Potter, you are nothing but a nasty little boy who considers rules to be beneath him.\""
+    "\"You might be laboring under the delusion that the entire wizarding world is impressed with you,\" Snape went on, so quietly that no one else could hear him (Harry continued to pound his scarab beetles, even though he had already reduced them to a very fine powder), \"but I don't care how many times your picture appears in the papers."
    ]
   },
   {
-   "begin": "709.520",
+   "begin": "702.640",
    "children": [],
-   "end": "721.920",
-   "id": "f000047",
+   "end": "703.240",
+   "id": "f000147",
    "language": "eng",
    "lines": [
-    "Harry tipped the powdered beetles into his cauldron and started cutting up his ginger roots. His hands were shaking slightly out of anger, but he kept his eyes down, as though he couldn't hear what Snape was saying to him."
+    "To me."
+   ]
+  },
+  {
+   "begin": "703.240",
+   "children": [],
+   "end": "708.400",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "Potter, you are nothing but a nasty little boy who considers rules to be beneath him.\""
+   ]
+  },
+  {
+   "begin": "708.400",
+   "children": [],
+   "end": "714.440",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "Harry tipped the powdered beetles into his cauldron and started cutting up his ginger roots."
+   ]
+  },
+  {
+   "begin": "714.440",
+   "children": [],
+   "end": "721.920",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "His hands were shaking slightly out of anger, but he kept his eyes down, as though he couldn't hear what Snape was saying to him."
    ]
   },
   {
    "begin": "721.920",
    "children": [],
-   "end": "742.920",
-   "id": "f000048",
+   "end": "739.760",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "\"So I give you fair warning, Potter,\" Snape continued in a sorter and more dangerous voice, \"pint-sized celebrity or not - if I catch you breaking into my office one more time -\" \"I haven't been anywhere near your office!\" said Harry angrily, forgetting his feigned deafness."
+    "\"So I give you fair warning, Potter,\" Snape continued in a sorter and more dangerous voice, \"pint-sized celebrity or not - if I catch you breaking into my office one more time -\" \"I haven't been anywhere near your office!\""
+   ]
+  },
+  {
+   "begin": "739.760",
+   "children": [],
+   "end": "742.920",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "said Harry angrily, forgetting his feigned deafness."
    ]
   },
   {
    "begin": "742.920",
    "children": [],
    "end": "749.520",
-   "id": "f000049",
+   "id": "f000153",
    "language": "eng",
    "lines": [
     "\"Don't lie to me,\" Snape hissed, his fathomless black eyes boring into Harrys."
@@ -493,28 +1533,78 @@
   {
    "begin": "749.520",
    "children": [],
-   "end": "758.120",
-   "id": "f000050",
+   "end": "751.560",
+   "id": "f000154",
    "language": "eng",
    "lines": [
-    "\"Boomslang skin. Gillyweed. Both come from my private stores, and I know who stole them.\""
+    "\"Boomslang skin."
    ]
   },
   {
-   "begin": "758.120",
+   "begin": "751.560",
    "children": [],
-   "end": "780.240",
-   "id": "f000051",
+   "end": "752.880",
+   "id": "f000155",
    "language": "eng",
    "lines": [
-    "Harry stared back at Snape, determined not to blink or to look guilty. In truth, he hadn't stolen either of these things from Snape. Hermione had taken the boomslang skin back in their second year - they had needed it for the Polyjuice Potion - and while Snape had suspected Harry at the time, he had never been able to prove it. Dobby, of course, had stolen the gillyweed."
+    "Gillyweed."
+   ]
+  },
+  {
+   "begin": "752.880",
+   "children": [],
+   "end": "756.880",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "Both come from my private stores, and I know who stole them.\""
+   ]
+  },
+  {
+   "begin": "756.880",
+   "children": [],
+   "end": "763.040",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Harry stared back at Snape, determined not to blink or to look guilty."
+   ]
+  },
+  {
+   "begin": "763.040",
+   "children": [],
+   "end": "766.880",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "In truth, he hadn't stolen either of these things from Snape."
+   ]
+  },
+  {
+   "begin": "766.880",
+   "children": [],
+   "end": "777.440",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "Hermione had taken the boomslang skin back in their second year - they had needed it for the Polyjuice Potion - and while Snape had suspected Harry at the time, he had never been able to prove it."
+   ]
+  },
+  {
+   "begin": "777.440",
+   "children": [],
+   "end": "780.240",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "Dobby, of course, had stolen the gillyweed."
    ]
   },
   {
    "begin": "780.240",
    "children": [],
    "end": "784.600",
-   "id": "f000052",
+   "id": "f000161",
    "language": "eng",
    "lines": [
     "\"I don't know what you're talking about,\" Harry lied coldly."
@@ -523,48 +1613,168 @@
   {
    "begin": "784.600",
    "children": [],
-   "end": "800.240",
-   "id": "f000053",
+   "end": "788.080",
+   "id": "f000162",
    "language": "eng",
    "lines": [
-    "\"You were out of bed on the night my office was broken into!\" Snape hissed. \"I know it. Potter! Now, Mad-Eye Moody might have joined your fan club, but I will not tolerate your behavior! One more nighttime stroll into my office, Potter, and you will pay!\""
+    "\"You were out of bed on the night my office was broken into!\""
+   ]
+  },
+  {
+   "begin": "788.080",
+   "children": [],
+   "end": "789.280",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "Snape hissed."
+   ]
+  },
+  {
+   "begin": "789.280",
+   "children": [],
+   "end": "789.880",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "\"I know it."
+   ]
+  },
+  {
+   "begin": "789.880",
+   "children": [],
+   "end": "790.280",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "Potter!"
+   ]
+  },
+  {
+   "begin": "790.280",
+   "children": [],
+   "end": "795.880",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "Now, Mad-Eye Moody might have joined your fan club, but I will not tolerate your behavior!"
+   ]
+  },
+  {
+   "begin": "795.880",
+   "children": [],
+   "end": "800.240",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "One more nighttime stroll into my office, Potter, and you will pay!\""
    ]
   },
   {
    "begin": "800.240",
    "children": [],
-   "end": "809.120",
-   "id": "f000054",
+   "end": "805.120",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "\"Right,\" said Harry coolly, turning back to his ginger roots. \"I'll bear that in mind if I ever get the urge to go in there.\""
+    "\"Right,\" said Harry coolly, turning back to his ginger roots."
    ]
   },
   {
-   "begin": "809.120",
+   "begin": "805.120",
    "children": [],
-   "end": "827.200",
-   "id": "f000055",
+   "end": "808.160",
+   "id": "f000169",
    "language": "eng",
    "lines": [
-    "Snape's eyes flashed. He plunged a hand into the inside of his black robes. For one wild moment. Harry thought Snape was about to pull out his wand and curse him then he saw that Snape had drawn out a small crystal bottle of a completely clear potion. Harry stared at it."
+    "\"I'll bear that in mind if I ever get the urge to go in there.\""
+   ]
+  },
+  {
+   "begin": "808.160",
+   "children": [],
+   "end": "810.760",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "Snape's eyes flashed."
+   ]
+  },
+  {
+   "begin": "810.760",
+   "children": [],
+   "end": "814.320",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "He plunged a hand into the inside of his black robes."
+   ]
+  },
+  {
+   "begin": "814.320",
+   "children": [],
+   "end": "816.240",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "For one wild moment."
+   ]
+  },
+  {
+   "begin": "816.240",
+   "children": [],
+   "end": "825.360",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "Harry thought Snape was about to pull out his wand and curse him then he saw that Snape had drawn out a small crystal bottle of a completely clear potion."
+   ]
+  },
+  {
+   "begin": "825.360",
+   "children": [],
+   "end": "827.200",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "Harry stared at it."
    ]
   },
   {
    "begin": "827.200",
    "children": [],
-   "end": "833.640",
-   "id": "f000056",
+   "end": "829.680",
+   "id": "f000175",
    "language": "eng",
    "lines": [
-    "\"Do you know what this is. Potter?\" Snape said, his eyes glittering dangerously"
+    "\"Do you know what this is."
+   ]
+  },
+  {
+   "begin": "829.680",
+   "children": [],
+   "end": "830.240",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "Potter?\""
+   ]
+  },
+  {
+   "begin": "830.240",
+   "children": [],
+   "end": "833.640",
+   "id": "f000177",
+   "language": "eng",
+   "lines": [
+    "Snape said, his eyes glittering dangerously"
    ]
   },
   {
    "begin": "833.640",
    "children": [],
    "end": "834.000",
-   "id": "f000057",
+   "id": "f000178",
    "language": "eng",
    "lines": [
     "again."
@@ -574,7 +1784,7 @@
    "begin": "834.000",
    "children": [],
    "end": "837.880",
-   "id": "f000058",
+   "id": "f000179",
    "language": "eng",
    "lines": [
     "\"No,\" said Harry, with complete honesty this time."
@@ -584,7 +1794,7 @@
    "begin": "837.880",
    "children": [],
    "end": "850.400",
-   "id": "f000059",
+   "id": "f000180",
    "language": "eng",
    "lines": [
     "\"It is Veritaserum - a Truth Potion so powerful that three drops would have you spilling your innermost secrets for this entire class to hear,\" said Snape viciously."
@@ -593,28 +1803,208 @@
   {
    "begin": "850.400",
    "children": [],
-   "end": "871.000",
-   "id": "f000060",
+   "end": "855.520",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "\"Now, the use of this potion is controlled by very strict Ministry guidelines. But unless you watch your step, you might just find that my hand slips\" - he shook the crystal bottle slightly - \"right over your evening pumpkin juice. And then. Potter . . . then we'll find out whether you've been in my office or not.\""
+    "\"Now, the use of this potion is controlled by very strict Ministry guidelines."
+   ]
+  },
+  {
+   "begin": "855.520",
+   "children": [],
+   "end": "866.560",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "But unless you watch your step, you might just find that my hand slips\" - he shook the crystal bottle slightly - \"right over your evening pumpkin juice."
+   ]
+  },
+  {
+   "begin": "866.560",
+   "children": [],
+   "end": "867.280",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "And then."
+   ]
+  },
+  {
+   "begin": "867.280",
+   "children": [],
+   "end": "867.880",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "Potter ."
+   ]
+  },
+  {
+   "begin": "867.880",
+   "children": [],
+   "end": "867.920",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "867.920",
+   "children": [],
+   "end": "868.000",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "868.000",
+   "children": [],
+   "end": "871.000",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "then we'll find out whether you've been in my office or not.\""
    ]
   },
   {
    "begin": "871.000",
    "children": [],
-   "end": "916.280",
-   "id": "f000061",
+   "end": "873.680",
+   "id": "f000188",
    "language": "eng",
    "lines": [
-    "Harry said nothing. He turned back to his ginger roots once more, picked up his knife, and started slicing them again. He didn't like the sound of that Truth Potion at all, nor would he put it past Snape to slip him some. He repressed a shudder at the thought of what might come spilling out of his mouth if Snape did it... quite apart from landing a whole lot of people in trouble - Hermione and Dobby for a start - there were all the other things he was concealing . . . like the fact that he was in contact with Sirius . . . and - his insides squirmed at the thought - how he felt about Cho. ... He tipped his ginger roots into the cauldron too, and wondered whether he ought to take a leaf out of Moody s book and start drinking only from a private hip flask."
+    "Harry said nothing."
+   ]
+  },
+  {
+   "begin": "873.680",
+   "children": [],
+   "end": "879.720",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "He turned back to his ginger roots once more, picked up his knife, and started slicing them again."
+   ]
+  },
+  {
+   "begin": "879.720",
+   "children": [],
+   "end": "886.160",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "He didn't like the sound of that Truth Potion at all, nor would he put it past Snape to slip him some."
+   ]
+  },
+  {
+   "begin": "886.160",
+   "children": [],
+   "end": "891.560",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "He repressed a shudder at the thought of what might come spilling out of his mouth if Snape did it..."
+   ]
+  },
+  {
+   "begin": "891.560",
+   "children": [],
+   "end": "898.520",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "quite apart from landing a whole lot of people in trouble - Hermione and Dobby for a start - there were all the other things he was concealing ."
+   ]
+  },
+  {
+   "begin": "898.520",
+   "children": [],
+   "end": "898.520",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "898.520",
+   "children": [],
+   "end": "898.520",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "898.520",
+   "children": [],
+   "end": "901.280",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "like the fact that he was in contact with Sirius ."
+   ]
+  },
+  {
+   "begin": "901.280",
+   "children": [],
+   "end": "901.280",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "901.280",
+   "children": [],
+   "end": "901.280",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "901.280",
+   "children": [],
+   "end": "906.920",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "and - his insides squirmed at the thought - how he felt about Cho."
+   ]
+  },
+  {
+   "begin": "906.920",
+   "children": [],
+   "end": "906.920",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "..."
+   ]
+  },
+  {
+   "begin": "906.920",
+   "children": [],
+   "end": "916.280",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "He tipped his ginger roots into the cauldron too, and wondered whether he ought to take a leaf out of Moody s book and start drinking only from a private hip flask."
    ]
   },
   {
    "begin": "916.280",
    "children": [],
    "end": "919.200",
-   "id": "f000062",
+   "id": "f000201",
    "language": "eng",
    "lines": [
     "There was a knock on the dungeon door."
@@ -623,48 +2013,88 @@
   {
    "begin": "919.200",
    "children": [],
-   "end": "923.120",
-   "id": "f000063",
+   "end": "922.520",
+   "id": "f000202",
    "language": "eng",
    "lines": [
     "\"Enter,\" said Snape in his usual voice."
    ]
   },
   {
-   "begin": "923.120",
+   "begin": "922.520",
    "children": [],
-   "end": "928.320",
-   "id": "f000064",
+   "end": "925.520",
+   "id": "f000203",
    "language": "eng",
    "lines": [
-    "The class looked around as the door opened. Professor Karkaroff came in."
+    "The class looked around as the door opened."
    ]
   },
   {
-   "begin": "928.320",
+   "begin": "925.520",
    "children": [],
-   "end": "935.840",
-   "id": "f000065",
+   "end": "927.760",
+   "id": "f000204",
    "language": "eng",
    "lines": [
-    "Everyone watched him as he walked up toward Snape's desk. He was twisting his finger around his goatee and looking agitated."
+    "Professor Karkaroff came in."
+   ]
+  },
+  {
+   "begin": "927.760",
+   "children": [],
+   "end": "931.160",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "Everyone watched him as he walked up toward Snape's desk."
+   ]
+  },
+  {
+   "begin": "931.160",
+   "children": [],
+   "end": "935.840",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "He was twisting his finger around his goatee and looking agitated."
    ]
   },
   {
    "begin": "935.840",
    "children": [],
-   "end": "953.200",
-   "id": "f000066",
+   "end": "940.960",
+   "id": "f000207",
    "language": "eng",
    "lines": [
-    "\"We need to talk,\" said Karkaroff abruptly when he had reached Snape. He seemed so determined that nobody should hear what he was saying that he was barely opening his lips; it was as though he were a rather poor ventriloquist. Harry kept his eyes on his ginger roots, listening hard."
+    "\"We need to talk,\" said Karkaroff abruptly when he had reached Snape."
+   ]
+  },
+  {
+   "begin": "940.960",
+   "children": [],
+   "end": "949.280",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "He seemed so determined that nobody should hear what he was saying that he was barely opening his lips; it was as though he were a rather poor ventriloquist."
+   ]
+  },
+  {
+   "begin": "949.280",
+   "children": [],
+   "end": "953.200",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "Harry kept his eyes on his ginger roots, listening hard."
    ]
   },
   {
    "begin": "953.200",
    "children": [],
    "end": "959.960",
-   "id": "f000067",
+   "id": "f000210",
    "language": "eng",
    "lines": [
     "\"I'll talk to you after my lesson, Karkaroff,\" Snape muttered, but Karkaroff interrupted him."
@@ -673,48 +2103,88 @@
   {
    "begin": "959.960",
    "children": [],
-   "end": "965.520",
-   "id": "f000068",
+   "end": "963.760",
+   "id": "f000211",
    "language": "eng",
    "lines": [
-    "\"I want to talk now, while you can't slip off, Severus. You've been avoiding me.\""
+    "\"I want to talk now, while you can't slip off, Severus."
+   ]
+  },
+  {
+   "begin": "963.760",
+   "children": [],
+   "end": "965.520",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "You've been avoiding me.\""
    ]
   },
   {
    "begin": "965.520",
    "children": [],
-   "end": "969.240",
-   "id": "f000069",
+   "end": "968.160",
+   "id": "f000213",
    "language": "eng",
    "lines": [
     "\"After the lesson,\" Snape snapped."
    ]
   },
   {
-   "begin": "969.240",
+   "begin": "968.160",
    "children": [],
-   "end": "982.480",
-   "id": "f000070",
+   "end": "978.200",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "Under the pretext of holding up a measuring cup to see if he'd poured out enough armadillo bile, Harry sneaked a sidelong glance at the pair of them. Karkaroff looked extremely worried, and Snape looked angry."
+    "Under the pretext of holding up a measuring cup to see if he'd poured out enough armadillo bile, Harry sneaked a sidelong glance at the pair of them."
+   ]
+  },
+  {
+   "begin": "978.200",
+   "children": [],
+   "end": "982.480",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "Karkaroff looked extremely worried, and Snape looked angry."
    ]
   },
   {
    "begin": "982.480",
    "children": [],
-   "end": "1000.920",
-   "id": "f000071",
+   "end": "987.000",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "Karkaroff hovered behind Snape's desk for the rest of the double period. He seemed intent on preventing Snape from slipping away at the end of class. Keen to hear what Karkaroff wanted to say, Harry deliberately knocked over his bottle of armadillo bile with two minutes to go to the bell, which gave him an excuse to"
+    "Karkaroff hovered behind Snape's desk for the rest of the double period."
    ]
   },
   {
-   "begin": "1000.920",
+   "begin": "987.000",
+   "children": [],
+   "end": "991.080",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "He seemed intent on preventing Snape from slipping away at the end of class."
+   ]
+  },
+  {
+   "begin": "991.080",
+   "children": [],
+   "end": "1000.880",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "Keen to hear what Karkaroff wanted to say, Harry deliberately knocked over his bottle of armadillo bile with two minutes to go to the bell, which gave him an excuse to"
+   ]
+  },
+  {
+   "begin": "1000.880",
    "children": [],
    "end": "1007.000",
-   "id": "f000072",
+   "id": "f000219",
    "language": "eng",
    "lines": [
     "duck down behind his cauldron and mop up while the rest of the class moved noisily toward the door."
@@ -723,18 +2193,28 @@
   {
    "begin": "1007.000",
    "children": [],
-   "end": "1011.160",
-   "id": "f000073",
+   "end": "1009.080",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "\"What's so urgent?\" he heard Snape hiss at Karkaroff."
+    "\"What's so urgent?\""
+   ]
+  },
+  {
+   "begin": "1009.080",
+   "children": [],
+   "end": "1011.160",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "he heard Snape hiss at Karkaroff."
    ]
   },
   {
    "begin": "1011.160",
    "children": [],
    "end": "1023.520",
-   "id": "f000074",
+   "id": "f000222",
    "language": "eng",
    "lines": [
     "\"This,\" said Karkaroff, and Harry, peering around the edge of his cauldron, saw Karkaroff pull up the left-hand sleeve of his robe and show Snape something on his inner forearm."
@@ -743,18 +2223,58 @@
   {
    "begin": "1023.520",
    "children": [],
-   "end": "1038.320",
-   "id": "f000075",
+   "end": "1024.720",
+   "id": "f000223",
    "language": "eng",
    "lines": [
-    "\"Well?\" said Karkaroff, still making every effort not to move his lips. \"Do you see? It's never been this clear, never since - \" \"Put it away!\" snarled Snape, his black eyes sweeping the classroom."
+    "\"Well?\""
+   ]
+  },
+  {
+   "begin": "1024.720",
+   "children": [],
+   "end": "1028.680",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "said Karkaroff, still making every effort not to move his lips."
+   ]
+  },
+  {
+   "begin": "1028.680",
+   "children": [],
+   "end": "1030.200",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "\"Do you see?"
+   ]
+  },
+  {
+   "begin": "1030.200",
+   "children": [],
+   "end": "1034.720",
+   "id": "f000226",
+   "language": "eng",
+   "lines": [
+    "It's never been this clear, never since - \" \"Put it away!\""
+   ]
+  },
+  {
+   "begin": "1034.720",
+   "children": [],
+   "end": "1038.320",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "snarled Snape, his black eyes sweeping the classroom."
    ]
   },
   {
    "begin": "1038.320",
    "children": [],
    "end": "1043.120",
-   "id": "f000076",
+   "id": "f000228",
    "language": "eng",
    "lines": [
     "\"But you must have noticed -\" Karkaroff began in an agitated voice."
@@ -763,18 +2283,48 @@
   {
    "begin": "1043.120",
    "children": [],
-   "end": "1048.160",
-   "id": "f000077",
+   "end": "1045.320",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "\"We can talk later, Karkaroff!\" spat Snape. \"Potter! What are you doing?\""
+    "\"We can talk later, Karkaroff!\""
+   ]
+  },
+  {
+   "begin": "1045.320",
+   "children": [],
+   "end": "1046.400",
+   "id": "f000230",
+   "language": "eng",
+   "lines": [
+    "spat Snape."
+   ]
+  },
+  {
+   "begin": "1046.400",
+   "children": [],
+   "end": "1047.240",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "\"Potter!"
+   ]
+  },
+  {
+   "begin": "1047.240",
+   "children": [],
+   "end": "1048.160",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "What are you doing?\""
    ]
   },
   {
    "begin": "1048.160",
    "children": [],
    "end": "1056.160",
-   "id": "f000078",
+   "id": "f000233",
    "language": "eng",
    "lines": [
     "\"Clearing up my armadillo bile, Professor,\" said Harry innocently, straightening up and showing Snape the sodden rag he was holding."
@@ -783,48 +2333,168 @@
   {
    "begin": "1056.160",
    "children": [],
-   "end": "1078.840",
-   "id": "f000079",
+   "end": "1060.560",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "Karkaroff turned on his heel and strode out of the dungeon. He looked both worried and angry. Not wanting to remain alone with an exceptionally angry Snape, Harry threw his books and ingredients back into his bag and left at top speed to tell Ron and Hermione what he had just witnessed."
+    "Karkaroff turned on his heel and strode out of the dungeon."
    ]
   },
   {
-   "begin": "1078.840",
+   "begin": "1060.560",
    "children": [],
-   "end": "1105.560",
-   "id": "f000080",
+   "end": "1063.080",
+   "id": "f000235",
    "language": "eng",
    "lines": [
-    "They left the castle at noon the next day to find a weak silver sun shining down upon the grounds. The weather was milder than it had been all year, and by the time they arrived in Hogsmeade, all three of them had taken off their cloaks and thrown them over their shoulders. The food Sirius had told them to bring was in Harry's bag; they had sneaked a dozen chicken legs, a loaf of bread, and a flask of pumpkin juice from the lunch table."
+    "He looked both worried and angry."
    ]
   },
   {
-   "begin": "1105.560",
+   "begin": "1063.080",
    "children": [],
-   "end": "1130.280",
-   "id": "f000081",
+   "end": "1075.560",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "They went into Gladrags Wizardwear to buy a present for Dobby, where they had fun selecting the most lurid socks they could find, including a pair patterned with flashing gold and silver stars, and another that screamed loudly when they became too smelly. Then, at half past one, they made their way up the High Street, past Dervish and Banges, and out toward the edge of the village."
+    "Not wanting to remain alone with an exceptionally angry Snape, Harry threw his books and ingredients back into his bag and left at top speed to tell Ron and Hermione what he had just witnessed."
    ]
   },
   {
-   "begin": "1130.280",
+   "begin": "1075.560",
+   "children": [],
+   "end": "1084.960",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "They left the castle at noon the next day to find a weak silver sun shining down upon the grounds."
+   ]
+  },
+  {
+   "begin": "1084.960",
+   "children": [],
+   "end": "1094.240",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "The weather was milder than it had been all year, and by the time they arrived in Hogsmeade, all three of them had taken off their cloaks and thrown them over their shoulders."
+   ]
+  },
+  {
+   "begin": "1094.240",
+   "children": [],
+   "end": "1104.000",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "The food Sirius had told them to bring was in Harry's bag; they had sneaked a dozen chicken legs, a loaf of bread, and a flask of pumpkin juice from the lunch table."
+   ]
+  },
+  {
+   "begin": "1104.000",
+   "children": [],
+   "end": "1120.840",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "They went into Gladrags Wizardwear to buy a present for Dobby, where they had fun selecting the most lurid socks they could find, including a pair patterned with flashing gold and silver stars, and another that screamed loudly when they became too smelly."
+   ]
+  },
+  {
+   "begin": "1120.840",
+   "children": [],
+   "end": "1129.240",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Then, at half past one, they made their way up the High Street, past Dervish and Banges, and out toward the edge of the village."
+   ]
+  },
+  {
+   "begin": "1129.240",
+   "children": [],
+   "end": "1132.480",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "Harry had never been in this direction before."
+   ]
+  },
+  {
+   "begin": "1132.480",
+   "children": [],
+   "end": "1137.400",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "The winding lane was leading them out into the wild countryside around Hogsmeade."
+   ]
+  },
+  {
+   "begin": "1137.400",
+   "children": [],
+   "end": "1145.840",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "The cottages were fewer here, and their gardens larger; they were walking toward the foot of the mountain in whose shadow Hogsmeade lay."
+   ]
+  },
+  {
+   "begin": "1145.840",
+   "children": [],
+   "end": "1150.360",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "Then they turned a corner and saw a stile at the end of the lane."
+   ]
+  },
+  {
+   "begin": "1150.360",
    "children": [],
    "end": "1161.120",
-   "id": "f000082",
+   "id": "f000246",
    "language": "eng",
    "lines": [
-    "Harry had never been in this direction before. The winding lane was leading them out into the wild countryside around Hogsmeade. The cottages were fewer here, and their gardens larger; they were walking toward the foot of the mountain in whose shadow Hogsmeade lay. Then they turned a corner and saw a stile at the end of the lane. Waiting for them, its front paws on the topmost bar, was a very large, shaggy black dog, which was carrying some newspapers in its mouth and looking very familiar. . . ."
+    "Waiting for them, its front paws on the topmost bar, was a very large, shaggy black dog, which was carrying some newspapers in its mouth and looking very familiar."
+   ]
+  },
+  {
+   "begin": "1161.120",
+   "children": [],
+   "end": "1161.120",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1161.120",
+   "children": [],
+   "end": "1161.120",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1161.120",
+   "children": [],
+   "end": "1161.120",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "."
    ]
   },
   {
    "begin": "1161.120",
    "children": [],
    "end": "1164.840",
-   "id": "f000083",
+   "id": "f000250",
    "language": "eng",
    "lines": [
     "\"Hello, Sirius,\" said Harry when they had reached him."
@@ -834,7 +2504,7 @@
    "begin": "1164.840",
    "children": [],
    "end": "1170.280",
-   "id": "f000084",
+   "id": "f000251",
    "language": "eng",
    "lines": [
     "The black dog sniffed Harry's bag eagerly, wagged its tail once, then turned and"
@@ -843,58 +2513,178 @@
   {
    "begin": "1170.280",
    "children": [],
-   "end": "1180.000",
-   "id": "f000085",
+   "end": "1175.760",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "began to trot away from them across the scrubby patch of ground that rose to meet the rocky foot of the mountain. Harry, Ron, and Hermione climbed over the stile and followed."
+    "began to trot away from them across the scrubby patch of ground that rose to meet the rocky foot of the mountain."
+   ]
+  },
+  {
+   "begin": "1175.760",
+   "children": [],
+   "end": "1180.000",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "Harry, Ron, and Hermione climbed over the stile and followed."
    ]
   },
   {
    "begin": "1180.000",
    "children": [],
-   "end": "1208.160",
-   "id": "f000086",
+   "end": "1186.520",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "Sirius led them to the very foot of the mountain, where the ground was covered with boulders and rocks. It was easy for him, with his four paws, but Harry, Ron, and Hermione were soon out of breath. They followed Sirius higher, up onto the mountain itself. For nearly half an hour they climbed a steep, winding, and stony path, following Sirius's wagging tail, sweating in the sun, the shoulder straps of Harry's bag cutting into his shoulders."
+    "Sirius led them to the very foot of the mountain, where the ground was covered with boulders and rocks."
+   ]
+  },
+  {
+   "begin": "1186.520",
+   "children": [],
+   "end": "1192.160",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "It was easy for him, with his four paws, but Harry, Ron, and Hermione were soon out of breath."
+   ]
+  },
+  {
+   "begin": "1192.160",
+   "children": [],
+   "end": "1196.000",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "They followed Sirius higher, up onto the mountain itself."
+   ]
+  },
+  {
+   "begin": "1196.000",
+   "children": [],
+   "end": "1208.160",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "For nearly half an hour they climbed a steep, winding, and stony path, following Sirius's wagging tail, sweating in the sun, the shoulder straps of Harry's bag cutting into his shoulders."
    ]
   },
   {
    "begin": "1208.160",
    "children": [],
-   "end": "1255.600",
-   "id": "f000087",
+   "end": "1216.920",
+   "id": "f000258",
    "language": "eng",
    "lines": [
-    "Then, at last, Sirius slipped out of sight, and when they reached the place where he had vanished, they saw a narrow fissure in the rock. They squeezed into it and found themselves in a cool, dimly lit cave. Tethered at the end of it, one end of his rope around a large rock, was Buckbeak the hippogriff. Half gray horse, half giant eagle, Buckbeak's fierce orange eye flashed at the sight of them. All three of them bowed low to him, and after regarding them imperiously for a moment, Buckbeak bent his scaly front knees and allowed Hermione to rush forward and stroke his feathery neck. Harry, however, was looking at the black dog, which had just turned into his godfather."
+    "Then, at last, Sirius slipped out of sight, and when they reached the place where he had vanished, they saw a narrow fissure in the rock."
    ]
   },
   {
-   "begin": "1255.600",
+   "begin": "1216.920",
    "children": [],
-   "end": "1269.640",
-   "id": "f000088",
+   "end": "1222.560",
+   "id": "f000259",
    "language": "eng",
    "lines": [
-    "Sirius was wearing ragged gray robes; the same ones he had been wearing when he had left Azkaban. His black hair was longer than it had been when he had appeared in the fire, and it was untidy and matted once more. He looked very thin."
+    "They squeezed into it and found themselves in a cool, dimly lit cave."
    ]
   },
   {
-   "begin": "1269.640",
+   "begin": "1222.560",
    "children": [],
-   "end": "1278.520",
-   "id": "f000089",
+   "end": "1228.800",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "\"Chicken!\" he said hoarsely after removing the old Daily Prophets from his mouth and throwing them down onto the cave floor."
+    "Tethered at the end of it, one end of his rope around a large rock, was Buckbeak the hippogriff."
    ]
   },
   {
-   "begin": "1278.520",
+   "begin": "1228.800",
+   "children": [],
+   "end": "1236.080",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "Half gray horse, half giant eagle, Buckbeak's fierce orange eye flashed at the sight of them."
+   ]
+  },
+  {
+   "begin": "1236.080",
+   "children": [],
+   "end": "1248.600",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "All three of them bowed low to him, and after regarding them imperiously for a moment, Buckbeak bent his scaly front knees and allowed Hermione to rush forward and stroke his feathery neck."
+   ]
+  },
+  {
+   "begin": "1248.600",
+   "children": [],
+   "end": "1254.160",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "Harry, however, was looking at the black dog, which had just turned into his godfather."
+   ]
+  },
+  {
+   "begin": "1254.160",
+   "children": [],
+   "end": "1261.040",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "Sirius was wearing ragged gray robes; the same ones he had been wearing when he had left Azkaban."
+   ]
+  },
+  {
+   "begin": "1261.040",
+   "children": [],
+   "end": "1267.920",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "His black hair was longer than it had been when he had appeared in the fire, and it was untidy and matted once more."
+   ]
+  },
+  {
+   "begin": "1267.920",
+   "children": [],
+   "end": "1269.560",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "He looked very thin."
+   ]
+  },
+  {
+   "begin": "1269.560",
+   "children": [],
+   "end": "1271.080",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "\"Chicken!\""
+   ]
+  },
+  {
+   "begin": "1271.080",
+   "children": [],
+   "end": "1277.800",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "he said hoarsely after removing the old Daily Prophets from his mouth and throwing them down onto the cave floor."
+   ]
+  },
+  {
+   "begin": "1277.800",
    "children": [],
    "end": "1282.880",
-   "id": "f000090",
+   "id": "f000269",
    "language": "eng",
    "lines": [
     "Harry pulled open his bag and handed over the bundle of chicken legs and bread."
@@ -903,18 +2693,28 @@
   {
    "begin": "1282.880",
    "children": [],
-   "end": "1294.640",
-   "id": "f000091",
+   "end": "1291.960",
+   "id": "f000270",
    "language": "eng",
    "lines": [
-    "\"Thanks,\" said Sirius, opening it, grabbing a drumstick, sitting down on the cave floor, and tearing off a large chunk with his teeth. \"I've been living off rats mostly."
+    "\"Thanks,\" said Sirius, opening it, grabbing a drumstick, sitting down on the cave floor, and tearing off a large chunk with his teeth."
+   ]
+  },
+  {
+   "begin": "1291.960",
+   "children": [],
+   "end": "1294.640",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "\"I've been living off rats mostly."
    ]
   },
   {
    "begin": "1294.640",
    "children": [],
    "end": "1298.800",
-   "id": "f000092",
+   "id": "f000272",
    "language": "eng",
    "lines": [
     "Can't steal too much food from Hogsmeade; I'd draw attention to myself.\""
@@ -924,7 +2724,7 @@
    "begin": "1298.800",
    "children": [],
    "end": "1303.600",
-   "id": "f000093",
+   "id": "f000273",
    "language": "eng",
    "lines": [
     "He grinned up at Harry, but Harry returned the grin only reluctantly."
@@ -933,138 +2733,478 @@
   {
    "begin": "1303.600",
    "children": [],
-   "end": "1306.920",
-   "id": "f000094",
+   "end": "1306.240",
+   "id": "f000274",
    "language": "eng",
    "lines": [
-    "\"What're you doing here, Sirius?\" he said."
+    "\"What're you doing here, Sirius?\""
+   ]
+  },
+  {
+   "begin": "1306.240",
+   "children": [],
+   "end": "1306.920",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "he said."
    ]
   },
   {
    "begin": "1306.920",
    "children": [],
-   "end": "1317.640",
-   "id": "f000095",
+   "end": "1313.560",
+   "id": "f000276",
    "language": "eng",
    "lines": [
-    "\"Fulfilling my duty as godfather,\" said Sirius, gnawing on the chicken bone in a very doglike way. \"Don't worry about it, I'm pretending to be a lovable stray.\""
+    "\"Fulfilling my duty as godfather,\" said Sirius, gnawing on the chicken bone in a very doglike way."
+   ]
+  },
+  {
+   "begin": "1313.560",
+   "children": [],
+   "end": "1317.640",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "\"Don't worry about it, I'm pretending to be a lovable stray.\""
    ]
   },
   {
    "begin": "1317.640",
    "children": [],
-   "end": "1338.840",
-   "id": "f000096",
+   "end": "1325.840",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "He was still grinning, but seeing the anxiety in Harrys face, said more seriously, \"I want to be on the spot. Your last letter . . . well, let's just say things are getting fishier. I've been stealing the paper every time someone throws one out, and by the looks of things, I'm not the only one who's getting worried.\""
+    "He was still grinning, but seeing the anxiety in Harrys face, said more seriously, \"I want to be on the spot."
+   ]
+  },
+  {
+   "begin": "1325.840",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000279",
+   "language": "eng",
+   "lines": [
+    "Your last letter ."
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1331.680",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "well, let's just say things are getting fishier."
+   ]
+  },
+  {
+   "begin": "1331.680",
+   "children": [],
+   "end": "1338.840",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "I've been stealing the paper every time someone throws one out, and by the looks of things, I'm not the only one who's getting worried.\""
    ]
   },
   {
    "begin": "1338.840",
    "children": [],
-   "end": "1347.960",
-   "id": "f000097",
+   "end": "1344.680",
+   "id": "f000284",
    "language": "eng",
    "lines": [
-    "He nodded at the yellowing Daily Prophets on the cave floor, and Ron picked them up and unfolded them. Harry, however, continued to stare at Sirius."
+    "He nodded at the yellowing Daily Prophets on the cave floor, and Ron picked them up and unfolded them."
+   ]
+  },
+  {
+   "begin": "1344.680",
+   "children": [],
+   "end": "1347.960",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "Harry, however, continued to stare at Sirius."
    ]
   },
   {
    "begin": "1347.960",
    "children": [],
-   "end": "1351.000",
-   "id": "f000098",
+   "end": "1349.840",
+   "id": "f000286",
    "language": "eng",
    "lines": [
-    "\"What if they catch you? What if you're seen?\""
+    "\"What if they catch you?"
+   ]
+  },
+  {
+   "begin": "1349.840",
+   "children": [],
+   "end": "1351.000",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "What if you're seen?\""
    ]
   },
   {
    "begin": "1351.000",
    "children": [],
-   "end": "1359.560",
-   "id": "f000099",
+   "end": "1359.480",
+   "id": "f000288",
    "language": "eng",
    "lines": [
     "\"You three and Dumbledore are the only ones around here who know I'm an Animagus,\" said Sirius, shrugging, and continuing to devour the chicken leg."
    ]
   },
   {
-   "begin": "1359.560",
+   "begin": "1359.480",
    "children": [],
-   "end": "1374.840",
-   "id": "f000100",
+   "end": "1363.200",
+   "id": "f000289",
    "language": "eng",
    "lines": [
-    "Ron nudged Harry and passed him the Daily Prophets. There were two: The first bore the headline Mystery Illness ofBartemius Crouch, the second, Ministry Witch Still Missing-Minister of Magic Now Personally Involved."
+    "Ron nudged Harry and passed him the Daily Prophets."
+   ]
+  },
+  {
+   "begin": "1363.200",
+   "children": [],
+   "end": "1374.840",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "There were two: The first bore the headline Mystery Illness ofBartemius Crouch, the second, Ministry Witch Still Missing-Minister of Magic Now Personally Involved."
    ]
   },
   {
    "begin": "1374.840",
    "children": [],
-   "end": "1393.400",
-   "id": "f000101",
+   "end": "1378.120",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "Harry scanned the story about Crouch. Phrases jumped out at him: hasn't been seen in public since November. . . house appears deserted. . . St. Mungo's Hospital for Magical Maladies and Injuries decline comment. . . Ministry refuses to confirm rumors of critical illness. . . ."
+    "Harry scanned the story about Crouch."
+   ]
+  },
+  {
+   "begin": "1378.120",
+   "children": [],
+   "end": "1383.240",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "Phrases jumped out at him: hasn't been seen in public since November."
+   ]
+  },
+  {
+   "begin": "1383.240",
+   "children": [],
+   "end": "1383.240",
+   "id": "f000293",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1383.240",
+   "children": [],
+   "end": "1383.240",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1383.240",
+   "children": [],
+   "end": "1385.200",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "house appears deserted."
+   ]
+  },
+  {
+   "begin": "1385.200",
+   "children": [],
+   "end": "1385.200",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1385.200",
+   "children": [],
+   "end": "1385.200",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1385.200",
+   "children": [],
+   "end": "1389.120",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "St. Mungo's Hospital for Magical Maladies and Injuries decline comment."
+   ]
+  },
+  {
+   "begin": "1389.120",
+   "children": [],
+   "end": "1389.120",
+   "id": "f000299",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1389.120",
+   "children": [],
+   "end": "1389.120",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1389.120",
+   "children": [],
+   "end": "1393.400",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "Ministry refuses to confirm rumors of critical illness."
    ]
   },
   {
    "begin": "1393.400",
    "children": [],
-   "end": "1401.520",
-   "id": "f000102",
+   "end": "1393.400",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "\"They're making it sound like he's dying,\" said Harry slowly. \"But he can't be that ill if he managed to get up here. . . .\""
+    "."
+   ]
+  },
+  {
+   "begin": "1393.400",
+   "children": [],
+   "end": "1393.400",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1393.400",
+   "children": [],
+   "end": "1393.400",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1393.400",
+   "children": [],
+   "end": "1398.040",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "\"They're making it sound like he's dying,\" said Harry slowly."
+   ]
+  },
+  {
+   "begin": "1398.040",
+   "children": [],
+   "end": "1401.520",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "\"But he can't be that ill if he managed to get up here."
    ]
   },
   {
    "begin": "1401.520",
    "children": [],
-   "end": "1408.200",
-   "id": "f000103",
+   "end": "1401.520",
+   "id": "f000307",
    "language": "eng",
    "lines": [
-    "\"My brothers Crouch's personal assistant,\" Ron informed Sirius. \"He says Crouch is suffering from overwork.\""
+    "."
+   ]
+  },
+  {
+   "begin": "1401.520",
+   "children": [],
+   "end": "1401.520",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1401.520",
+   "children": [],
+   "end": "1401.520",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1401.520",
+   "children": [],
+   "end": "1405.840",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "\"My brothers Crouch's personal assistant,\" Ron informed Sirius."
+   ]
+  },
+  {
+   "begin": "1405.840",
+   "children": [],
+   "end": "1408.200",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "\"He says Crouch is suffering from overwork.\""
    ]
   },
   {
    "begin": "1408.200",
    "children": [],
-   "end": "1418.960",
-   "id": "f000104",
+   "end": "1416.240",
+   "id": "f000312",
    "language": "eng",
    "lines": [
-    "\"Mind you, he did look ill, last time I saw him up close,\" said Harry slowly, still reading the story. \"The night my name came out of the goblet. ...\""
+    "\"Mind you, he did look ill, last time I saw him up close,\" said Harry slowly, still reading the story."
+   ]
+  },
+  {
+   "begin": "1416.240",
+   "children": [],
+   "end": "1418.960",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "\"The night my name came out of the goblet."
    ]
   },
   {
    "begin": "1418.960",
    "children": [],
-   "end": "1434.360",
-   "id": "f000105",
+   "end": "1418.960",
+   "id": "f000314",
    "language": "eng",
    "lines": [
-    "\"Getting his comeuppance for sacking Winky, isn't he?\" said Hermione, an edge to her voice. She was stroking Buckbeak, who was crunching up Sirius's chicken bones. \"I bet he wishes he hadn't done it now - bet he feels the difference now she's not there to look after him.\""
+    "...\""
+   ]
+  },
+  {
+   "begin": "1418.960",
+   "children": [],
+   "end": "1422.720",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "\"Getting his comeuppance for sacking Winky, isn't he?\""
+   ]
+  },
+  {
+   "begin": "1422.720",
+   "children": [],
+   "end": "1424.320",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "said Hermione, an edge to her voice."
+   ]
+  },
+  {
+   "begin": "1424.320",
+   "children": [],
+   "end": "1428.560",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "She was stroking Buckbeak, who was crunching up Sirius's chicken bones."
+   ]
+  },
+  {
+   "begin": "1428.560",
+   "children": [],
+   "end": "1434.360",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "\"I bet he wishes he hadn't done it now - bet he feels the difference now she's not there to look after him.\""
    ]
   },
   {
    "begin": "1434.360",
    "children": [],
-   "end": "1443.960",
-   "id": "f000106",
+   "end": "1441.240",
+   "id": "f000319",
    "language": "eng",
    "lines": [
-    "\"Hermione's obsessed with house-elfs,\" Ron muttered to Sirius, casting Hermione a dark look. Sirius, however, looked interested."
+    "\"Hermione's obsessed with house-elfs,\" Ron muttered to Sirius, casting Hermione a dark look."
+   ]
+  },
+  {
+   "begin": "1441.240",
+   "children": [],
+   "end": "1443.960",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "Sirius, however, looked interested."
    ]
   },
   {
    "begin": "1443.960",
    "children": [],
    "end": "1446.400",
-   "id": "f000107",
+   "id": "f000321",
    "language": "eng",
    "lines": [
     "\"Crouch sacked his house-elf?\""
@@ -1073,38 +3213,58 @@
   {
    "begin": "1446.400",
    "children": [],
-   "end": "1464.360",
-   "id": "f000108",
+   "end": "1457.960",
+   "id": "f000322",
    "language": "eng",
    "lines": [
-    "\"Yeah, at the Quidditch World Cup,\" said Harry, and he launched into the story of the Dark Mark's appearance, and Winky being found with Harrys wand clutched in her hand, and Mr. Crouch's fury. When Harry had finished, Sirius was on his feet again and had started pacing up and down the cave."
+    "\"Yeah, at the Quidditch World Cup,\" said Harry, and he launched into the story of the Dark Mark's appearance, and Winky being found with Harrys wand clutched in her hand, and Mr. Crouch's fury."
+   ]
+  },
+  {
+   "begin": "1457.960",
+   "children": [],
+   "end": "1464.360",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "When Harry had finished, Sirius was on his feet again and had started pacing up and down the cave."
    ]
   },
   {
    "begin": "1464.360",
    "children": [],
-   "end": "1469.880",
-   "id": "f000109",
+   "end": "1470.000",
+   "id": "f000324",
    "language": "eng",
    "lines": [
     "\"Let me get this straight,\" he said after a while, brandishing a fresh chicken leg."
    ]
   },
   {
-   "begin": "1469.880",
+   "begin": "1470.000",
    "children": [],
-   "end": "1475.160",
-   "id": "f000110",
+   "end": "1472.840",
+   "id": "f000325",
    "language": "eng",
    "lines": [
-    "\"You first saw the elfin the Top Box. She was saving Crouch a seat, right?\""
+    "\"You first saw the elfin the Top Box."
+   ]
+  },
+  {
+   "begin": "1472.840",
+   "children": [],
+   "end": "1475.160",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "She was saving Crouch a seat, right?\""
    ]
   },
   {
    "begin": "1475.160",
    "children": [],
    "end": "1478.320",
-   "id": "f000111",
+   "id": "f000327",
    "language": "eng",
    "lines": [
     "\"Right,\" said Harry, Ron, and Hermione together."
@@ -1114,7 +3274,7 @@
    "begin": "1478.320",
    "children": [],
    "end": "1480.920",
-   "id": "f000112",
+   "id": "f000328",
    "language": "eng",
    "lines": [
     "\"But Crouch didn't turn up for the match?\""
@@ -1123,38 +3283,138 @@
   {
    "begin": "1480.920",
    "children": [],
-   "end": "1484.360",
-   "id": "f000113",
+   "end": "1482.520",
+   "id": "f000329",
    "language": "eng",
    "lines": [
-    "\"No,\" said Harry. \"I think he said he'd been too busy.\""
+    "\"No,\" said Harry."
+   ]
+  },
+  {
+   "begin": "1482.520",
+   "children": [],
+   "end": "1484.360",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "\"I think he said he'd been too busy.\""
    ]
   },
   {
    "begin": "1484.360",
    "children": [],
-   "end": "1493.960",
-   "id": "f000114",
+   "end": "1487.920",
+   "id": "f000331",
    "language": "eng",
    "lines": [
-    "Sirius paced all around the cave in silence. Then he said, \"Harry, did you check your pockets for your wand after you'd left the Top Box?\""
+    "Sirius paced all around the cave in silence."
+   ]
+  },
+  {
+   "begin": "1487.920",
+   "children": [],
+   "end": "1493.960",
+   "id": "f000332",
+   "language": "eng",
+   "lines": [
+    "Then he said, \"Harry, did you check your pockets for your wand after you'd left the Top Box?\""
    ]
   },
   {
    "begin": "1493.960",
    "children": [],
-   "end": "1510.920",
-   "id": "f000115",
+   "end": "1495.480",
+   "id": "f000333",
    "language": "eng",
    "lines": [
-    "\"Erm . . .\" Harry thought hard. \"No,\" he said finally. \"I didn't need to use it before we got in the forest. And then I put my hand in my pocket, and all that was in there were my Omnioculars.\" He stared at Sirius. \"Are you saying whoever"
+    "\"Erm ."
+   ]
+  },
+  {
+   "begin": "1495.480",
+   "children": [],
+   "end": "1495.480",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1495.480",
+   "children": [],
+   "end": "1495.480",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1495.480",
+   "children": [],
+   "end": "1496.920",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "Harry thought hard."
+   ]
+  },
+  {
+   "begin": "1496.920",
+   "children": [],
+   "end": "1499.080",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "\"No,\" he said finally."
+   ]
+  },
+  {
+   "begin": "1499.080",
+   "children": [],
+   "end": "1502.000",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "\"I didn't need to use it before we got in the forest."
+   ]
+  },
+  {
+   "begin": "1502.000",
+   "children": [],
+   "end": "1506.440",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "And then I put my hand in my pocket, and all that was in there were my Omnioculars.\""
+   ]
+  },
+  {
+   "begin": "1506.440",
+   "children": [],
+   "end": "1508.640",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "He stared at Sirius."
+   ]
+  },
+  {
+   "begin": "1508.640",
+   "children": [],
+   "end": "1510.920",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "\"Are you saying whoever"
    ]
   },
   {
    "begin": "1510.920",
    "children": [],
    "end": "1514.200",
-   "id": "f000116",
+   "id": "f000342",
    "language": "eng",
    "lines": [
     "conjured the Mark stole my wand in the Top Box?\""
@@ -1164,7 +3424,7 @@
    "begin": "1514.200",
    "children": [],
    "end": "1516.920",
-   "id": "f000117",
+   "id": "f000343",
    "language": "eng",
    "lines": [
     "\"It's possible,\" said Sirius."
@@ -1173,58 +3433,148 @@
   {
    "begin": "1516.920",
    "children": [],
-   "end": "1521.200",
-   "id": "f000118",
+   "end": "1519.680",
+   "id": "f000344",
    "language": "eng",
    "lines": [
-    "\"Winky didn't steal that wand!\" Hermione insisted."
+    "\"Winky didn't steal that wand!\""
+   ]
+  },
+  {
+   "begin": "1519.680",
+   "children": [],
+   "end": "1521.200",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "Hermione insisted."
    ]
   },
   {
    "begin": "1521.200",
    "children": [],
-   "end": "1529.760",
-   "id": "f000119",
+   "end": "1528.000",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "\"The elf wasn't the only one in that box,\" said Sirius, his brow furrowed as he continued to pace. \"Who else was sitting behind you?\""
+    "\"The elf wasn't the only one in that box,\" said Sirius, his brow furrowed as he continued to pace."
+   ]
+  },
+  {
+   "begin": "1528.000",
+   "children": [],
+   "end": "1529.760",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "\"Who else was sitting behind you?\""
    ]
   },
   {
    "begin": "1529.760",
    "children": [],
-   "end": "1537.360",
-   "id": "f000120",
+   "end": "1532.120",
+   "id": "f000348",
    "language": "eng",
    "lines": [
-    "\"Loads of people,\" said Harry. \"Some Bulgarian ministers .. . Cornelius Fudge ... the Malfoys ...\""
+    "\"Loads of people,\" said Harry."
+   ]
+  },
+  {
+   "begin": "1532.120",
+   "children": [],
+   "end": "1534.280",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "\"Some Bulgarian ministers .."
+   ]
+  },
+  {
+   "begin": "1534.280",
+   "children": [],
+   "end": "1534.280",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1534.280",
+   "children": [],
+   "end": "1535.960",
+   "id": "f000351",
+   "language": "eng",
+   "lines": [
+    "Cornelius Fudge ..."
+   ]
+  },
+  {
+   "begin": "1535.960",
+   "children": [],
+   "end": "1537.360",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "the Malfoys ...\""
    ]
   },
   {
    "begin": "1537.360",
    "children": [],
-   "end": "1547.800",
-   "id": "f000121",
+   "end": "1538.760",
+   "id": "f000353",
    "language": "eng",
    "lines": [
-    "\"The Malfoys!\" said Ron suddenly, so loudly that his voice echoed all around the cave, and Buckbeak tossed his head nervously. \"I bet it was Lucius Malfoy!\""
+    "\"The Malfoys!\""
+   ]
+  },
+  {
+   "begin": "1538.760",
+   "children": [],
+   "end": "1545.520",
+   "id": "f000354",
+   "language": "eng",
+   "lines": [
+    "said Ron suddenly, so loudly that his voice echoed all around the cave, and Buckbeak tossed his head nervously."
+   ]
+  },
+  {
+   "begin": "1545.520",
+   "children": [],
+   "end": "1547.800",
+   "id": "f000355",
+   "language": "eng",
+   "lines": [
+    "\"I bet it was Lucius Malfoy!\""
    ]
   },
   {
    "begin": "1547.800",
    "children": [],
-   "end": "1550.280",
-   "id": "f000122",
+   "end": "1549.280",
+   "id": "f000356",
    "language": "eng",
    "lines": [
-    "\"Anyone else?\" said Sirius."
+    "\"Anyone else?\""
+   ]
+  },
+  {
+   "begin": "1549.280",
+   "children": [],
+   "end": "1550.280",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "said Sirius."
    ]
   },
   {
    "begin": "1550.280",
    "children": [],
    "end": "1552.080",
-   "id": "f000123",
+   "id": "f000358",
    "language": "eng",
    "lines": [
     "\"No one,\" said Harry."
@@ -1234,7 +3584,7 @@
    "begin": "1552.080",
    "children": [],
    "end": "1556.080",
-   "id": "f000124",
+   "id": "f000359",
    "language": "eng",
    "lines": [
     "\"Yes, there was, there was Ludo Bagman,\" Hermione reminded him."
@@ -1244,47 +3594,107 @@
    "begin": "1556.080",
    "children": [],
    "end": "1557.040",
-   "id": "f000125",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "\"Oh yeah . . .\""
+    "\"Oh yeah ."
    ]
   },
   {
    "begin": "1557.040",
    "children": [],
-   "end": "1564.960",
-   "id": "f000126",
+   "end": "1557.040",
+   "id": "f000361",
    "language": "eng",
    "lines": [
-    "\"I don't know anything about Bagman except that he used to be Beater for the Wimbourne Wasps,\" said Sirius, still pacing. \"What's he like?\""
+    "."
+   ]
+  },
+  {
+   "begin": "1557.040",
+   "children": [],
+   "end": "1557.040",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1557.040",
+   "children": [],
+   "end": "1564.000",
+   "id": "f000363",
+   "language": "eng",
+   "lines": [
+    "\"I don't know anything about Bagman except that he used to be Beater for the Wimbourne Wasps,\" said Sirius, still pacing."
+   ]
+  },
+  {
+   "begin": "1564.000",
+   "children": [],
+   "end": "1564.960",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "\"What's he like?\""
    ]
   },
   {
    "begin": "1564.960",
    "children": [],
-   "end": "1569.640",
-   "id": "f000127",
+   "end": "1566.960",
+   "id": "f000365",
    "language": "eng",
    "lines": [
-    "\"He's okay,\" said Harry. \"He keeps offering to help me with the Triwizard Tournament.\""
+    "\"He's okay,\" said Harry."
+   ]
+  },
+  {
+   "begin": "1566.960",
+   "children": [],
+   "end": "1569.640",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "\"He keeps offering to help me with the Triwizard Tournament.\""
    ]
   },
   {
    "begin": "1569.640",
    "children": [],
-   "end": "1576.120",
-   "id": "f000128",
+   "end": "1571.520",
+   "id": "f000367",
    "language": "eng",
    "lines": [
-    "\"Does he, now?\" said Sirius, frowning more deeply. \"I wonder why he'd do that?\""
+    "\"Does he, now?\""
    ]
   },
   {
-   "begin": "1576.120",
+   "begin": "1571.520",
+   "children": [],
+   "end": "1573.640",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "said Sirius, frowning more deeply."
+   ]
+  },
+  {
+   "begin": "1573.640",
+   "children": [],
+   "end": "1576.800",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "\"I wonder why he'd do that?\""
+   ]
+  },
+  {
+   "begin": "1576.800",
    "children": [],
    "end": "1579.240",
-   "id": "f000129",
+   "id": "f000370",
    "language": "eng",
    "lines": [
     "\"Says he's taken a liking to me,\" said Harry."
@@ -1294,7 +3704,7 @@
    "begin": "1579.240",
    "children": [],
    "end": "1582.480",
-   "id": "f000130",
+   "id": "f000371",
    "language": "eng",
    "lines": [
     "\"Hmm,\" said Sirius, looking thoughtful."
@@ -1303,48 +3713,118 @@
   {
    "begin": "1582.480",
    "children": [],
-   "end": "1590.240",
-   "id": "f000131",
+   "end": "1588.200",
+   "id": "f000372",
    "language": "eng",
    "lines": [
-    "\"We saw him in the forest just before the Dark Mark appeared,\" Hermione told Sirius. \"Remember?\" she said to Harry and Ron."
+    "\"We saw him in the forest just before the Dark Mark appeared,\" Hermione told Sirius."
+   ]
+  },
+  {
+   "begin": "1588.200",
+   "children": [],
+   "end": "1588.680",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "\"Remember?\""
+   ]
+  },
+  {
+   "begin": "1588.680",
+   "children": [],
+   "end": "1590.240",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "she said to Harry and Ron."
    ]
   },
   {
    "begin": "1590.240",
    "children": [],
-   "end": "1597.240",
-   "id": "f000132",
+   "end": "1593.360",
+   "id": "f000375",
    "language": "eng",
    "lines": [
-    "\"Yeah, but he didn't stay in the forest, did he?\" said Ron. \"The moment we told him about the riot, he went off to the campsite.\""
+    "\"Yeah, but he didn't stay in the forest, did he?\""
+   ]
+  },
+  {
+   "begin": "1593.360",
+   "children": [],
+   "end": "1594.080",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "said Ron."
+   ]
+  },
+  {
+   "begin": "1594.080",
+   "children": [],
+   "end": "1597.240",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "\"The moment we told him about the riot, he went off to the campsite.\""
    ]
   },
   {
    "begin": "1597.240",
    "children": [],
-   "end": "1602.360",
-   "id": "f000133",
+   "end": "1598.960",
+   "id": "f000378",
    "language": "eng",
    "lines": [
-    "\"How d'you know?\" Hermione shot back. \"How d'you know where he Disapparated to?\""
+    "\"How d'you know?\""
+   ]
+  },
+  {
+   "begin": "1598.960",
+   "children": [],
+   "end": "1600.000",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Hermione shot back."
+   ]
+  },
+  {
+   "begin": "1600.000",
+   "children": [],
+   "end": "1602.360",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "\"How d'you know where he Disapparated to?\""
    ]
   },
   {
    "begin": "1602.360",
    "children": [],
-   "end": "1609.800",
-   "id": "f000134",
+   "end": "1605.480",
+   "id": "f000381",
    "language": "eng",
    "lines": [
-    "\"Come off it,\" said Ron incredulously. \"Are you saying you reckon Ludo Bagman conjured the Dark Mark?\""
+    "\"Come off it,\" said Ron incredulously."
+   ]
+  },
+  {
+   "begin": "1605.480",
+   "children": [],
+   "end": "1609.800",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "\"Are you saying you reckon Ludo Bagman conjured the Dark Mark?\""
    ]
   },
   {
    "begin": "1609.800",
    "children": [],
    "end": "1613.640",
-   "id": "f000135",
+   "id": "f000383",
    "language": "eng",
    "lines": [
     "\"It's more likely he did it than Winky,\" said Hermione stubbornly."
@@ -1354,7 +3834,7 @@
    "begin": "1613.640",
    "children": [],
    "end": "1623.080",
-   "id": "f000136",
+   "id": "f000384",
    "language": "eng",
    "lines": [
     "\"Told you,\" said Ron, looking meaningfully at Sirius, \"told you she's obsessed with house -\" But Sirius held up a hand to silence Ron."
@@ -1364,7 +3844,7 @@
    "begin": "1623.080",
    "children": [],
    "end": "1630.760",
-   "id": "f000137",
+   "id": "f000385",
    "language": "eng",
    "lines": [
     "\"When the Dark Mark had been conjured, and the elf had been discovered holding Harry's wand, what did Crouch do?\""
@@ -1374,7 +3854,7 @@
    "begin": "1630.760",
    "children": [],
    "end": "1635.440",
-   "id": "f000138",
+   "id": "f000386",
    "language": "eng",
    "lines": [
     "\"Went to look in the bushes,\" said Harry, \"but there wasn't anyone else there.\""
@@ -1383,118 +3863,278 @@
   {
    "begin": "1635.440",
    "children": [],
-   "end": "1644.600",
-   "id": "f000139",
+   "end": "1643.360",
+   "id": "f000387",
    "language": "eng",
    "lines": [
-    "\"Of course,\" Sirius muttered, pacing up and down, \"of course, he'd want to pin it on anyone but his own elf... and then he sacked her?\""
+    "\"Of course,\" Sirius muttered, pacing up and down, \"of course, he'd want to pin it on anyone but his own elf..."
+   ]
+  },
+  {
+   "begin": "1643.360",
+   "children": [],
+   "end": "1644.600",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "and then he sacked her?\""
    ]
   },
   {
    "begin": "1644.600",
    "children": [],
-   "end": "1656.960",
-   "id": "f000140",
+   "end": "1656.160",
+   "id": "f000389",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Hermione in a heated voice, \"he sacked her, just because she hadn't stayed in her tent and let herself get trampled -\" \"Hermione, will you give it a rest with the elf!\" said Ron."
+    "\"Yes,\" said Hermione in a heated voice, \"he sacked her, just because she hadn't stayed in her tent and let herself get trampled -\" \"Hermione, will you give it a rest with the elf!\""
+   ]
+  },
+  {
+   "begin": "1656.160",
+   "children": [],
+   "end": "1656.960",
+   "id": "f000390",
+   "language": "eng",
+   "lines": [
+    "said Ron."
    ]
   },
   {
    "begin": "1656.960",
    "children": [],
-   "end": "1669.720",
-   "id": "f000141",
+   "end": "1663.440",
+   "id": "f000391",
    "language": "eng",
    "lines": [
-    "Sirius shook his head and said, \"She's got the measure of Crouch better than you have, Ron. If you want to know what a mans like, take a good look at how he treats his inferiors, not his equals.\""
+    "Sirius shook his head and said, \"She's got the measure of Crouch better than you have, Ron."
+   ]
+  },
+  {
+   "begin": "1663.440",
+   "children": [],
+   "end": "1669.720",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "If you want to know what a mans like, take a good look at how he treats his inferiors, not his equals.\""
    ]
   },
   {
    "begin": "1669.720",
    "children": [],
-   "end": "1674.720",
-   "id": "f000142",
+   "end": "1675.200",
+   "id": "f000393",
    "language": "eng",
    "lines": [
     "He ran a hand over his unshaven face, evidently thinking hard."
    ]
   },
   {
-   "begin": "1674.720",
+   "begin": "1675.200",
    "children": [],
-   "end": "1698.520",
-   "id": "f000143",
+   "end": "1677.920",
+   "id": "f000394",
    "language": "eng",
    "lines": [
-    "\"All these absences of Barty Crouch's ... he goes to the trouble of making sure his house-elf saves him a seat at the Quidditch World Cup, but doesn't bother to turn up and watch. He works very hard to reinstate the Triwizard Tournament, and then stops coming to that too. . . . It's not like Crouch. If he's ever taken a day off work because of illness before this, I'll eat Buckbeak.\""
+    "\"All these absences of Barty Crouch's ..."
+   ]
+  },
+  {
+   "begin": "1677.920",
+   "children": [],
+   "end": "1685.800",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "he goes to the trouble of making sure his house-elf saves him a seat at the Quidditch World Cup, but doesn't bother to turn up and watch."
+   ]
+  },
+  {
+   "begin": "1685.800",
+   "children": [],
+   "end": "1691.720",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "He works very hard to reinstate the Triwizard Tournament, and then stops coming to that too."
+   ]
+  },
+  {
+   "begin": "1691.720",
+   "children": [],
+   "end": "1691.720",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1691.720",
+   "children": [],
+   "end": "1691.720",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1691.720",
+   "children": [],
+   "end": "1691.720",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1691.720",
+   "children": [],
+   "end": "1693.520",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "It's not like Crouch."
+   ]
+  },
+  {
+   "begin": "1693.520",
+   "children": [],
+   "end": "1698.520",
+   "id": "f000401",
+   "language": "eng",
+   "lines": [
+    "If he's ever taken a day off work because of illness before this, I'll eat Buckbeak.\""
    ]
   },
   {
    "begin": "1698.520",
    "children": [],
-   "end": "1701.120",
-   "id": "f000144",
+   "end": "1700.480",
+   "id": "f000402",
    "language": "eng",
    "lines": [
-    "\"D'you know Crouch, then?\" said Harry."
+    "\"D'you know Crouch, then?\""
+   ]
+  },
+  {
+   "begin": "1700.480",
+   "children": [],
+   "end": "1701.120",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "said Harry."
    ]
   },
   {
    "begin": "1701.120",
    "children": [],
-   "end": "1710.960",
-   "id": "f000145",
+   "end": "1703.440",
+   "id": "f000404",
    "language": "eng",
    "lines": [
-    "Sirius's face darkened. He suddenly looked as menacing as he had the night when Harry first met him, the night when Harry still believed Sirius to be a murderer."
+    "Sirius's face darkened."
+   ]
+  },
+  {
+   "begin": "1703.440",
+   "children": [],
+   "end": "1710.960",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "He suddenly looked as menacing as he had the night when Harry first met him, the night when Harry still believed Sirius to be a murderer."
    ]
   },
   {
    "begin": "1710.960",
    "children": [],
-   "end": "1720.480",
-   "id": "f000146",
+   "end": "1715.040",
+   "id": "f000406",
    "language": "eng",
    "lines": [
-    "\"Oh I know Crouch all right,\" he said quietly. \"He was the one who gave the order for me to be sent to Azkaban - without a trial.\""
+    "\"Oh I know Crouch all right,\" he said quietly."
+   ]
+  },
+  {
+   "begin": "1715.040",
+   "children": [],
+   "end": "1720.480",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "\"He was the one who gave the order for me to be sent to Azkaban - without a trial.\""
    ]
   },
   {
    "begin": "1720.480",
    "children": [],
-   "end": "1723.840",
-   "id": "f000147",
+   "end": "1721.920",
+   "id": "f000408",
    "language": "eng",
    "lines": [
-    "\"What?\" said Ron and Hermione together."
+    "\"What?\""
+   ]
+  },
+  {
+   "begin": "1721.920",
+   "children": [],
+   "end": "1723.840",
+   "id": "f000409",
+   "language": "eng",
+   "lines": [
+    "said Ron and Hermione together."
    ]
   },
   {
    "begin": "1723.840",
    "children": [],
-   "end": "1726.120",
-   "id": "f000148",
+   "end": "1725.280",
+   "id": "f000410",
    "language": "eng",
    "lines": [
-    "\"You're kidding!\" said Harry."
+    "\"You're kidding!\""
+   ]
+  },
+  {
+   "begin": "1725.280",
+   "children": [],
+   "end": "1726.120",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "said Harry."
    ]
   },
   {
    "begin": "1726.120",
    "children": [],
-   "end": "1735.960",
-   "id": "f000149",
+   "end": "1731.000",
+   "id": "f000412",
    "language": "eng",
    "lines": [
-    "\"No, I'm not,\" said Sirius, taking another great bite of chicken. \"Crouch used to be Head of the Department of Magical Law Enforcement, didn't you know?\""
+    "\"No, I'm not,\" said Sirius, taking another great bite of chicken."
+   ]
+  },
+  {
+   "begin": "1731.000",
+   "children": [],
+   "end": "1735.960",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "\"Crouch used to be Head of the Department of Magical Law Enforcement, didn't you know?\""
    ]
   },
   {
    "begin": "1735.960",
    "children": [],
    "end": "1739.000",
-   "id": "f000150",
+   "id": "f000414",
    "language": "eng",
    "lines": [
     "Harry, Ron, and Hermione shook their heads."
@@ -1503,28 +4143,148 @@
   {
    "begin": "1739.000",
    "children": [],
-   "end": "1762.360",
-   "id": "f000151",
+   "end": "1742.880",
+   "id": "f000415",
    "language": "eng",
    "lines": [
-    "\"He was tipped for the next Minister of Magic,\" said Sirius. \"He's a great wizard, Barty Crouch, powerfully magical - and power-hungry. Oh never a Voldemort supporter,\" he said, reading the look on Harrys face. \"No, Barty Crouch was always very outspoken against the Dark Side. But then a lot of people who were against the Dark Side . . . well, you wouldn't understand . . . you're too young. ...\""
+    "\"He was tipped for the next Minister of Magic,\" said Sirius."
+   ]
+  },
+  {
+   "begin": "1742.880",
+   "children": [],
+   "end": "1747.480",
+   "id": "f000416",
+   "language": "eng",
+   "lines": [
+    "\"He's a great wizard, Barty Crouch, powerfully magical - and power-hungry."
+   ]
+  },
+  {
+   "begin": "1747.480",
+   "children": [],
+   "end": "1751.640",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "Oh never a Voldemort supporter,\" he said, reading the look on Harrys face."
+   ]
+  },
+  {
+   "begin": "1751.640",
+   "children": [],
+   "end": "1756.360",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "\"No, Barty Crouch was always very outspoken against the Dark Side."
+   ]
+  },
+  {
+   "begin": "1756.360",
+   "children": [],
+   "end": "1759.520",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "But then a lot of people who were against the Dark Side ."
+   ]
+  },
+  {
+   "begin": "1759.520",
+   "children": [],
+   "end": "1759.520",
+   "id": "f000420",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1759.520",
+   "children": [],
+   "end": "1759.520",
+   "id": "f000421",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1759.520",
+   "children": [],
+   "end": "1761.520",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "well, you wouldn't understand ."
+   ]
+  },
+  {
+   "begin": "1761.520",
+   "children": [],
+   "end": "1761.520",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1761.520",
+   "children": [],
+   "end": "1761.520",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1761.520",
+   "children": [],
+   "end": "1762.360",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "you're too young."
    ]
   },
   {
    "begin": "1762.360",
    "children": [],
-   "end": "1769.320",
-   "id": "f000152",
+   "end": "1762.360",
+   "id": "f000426",
    "language": "eng",
    "lines": [
-    "\"That's what my dad said at the World Cup,\" said Ron, with a trace of irritation in his voice. \"Try us, why don't you?\""
+    "...\""
+   ]
+  },
+  {
+   "begin": "1762.360",
+   "children": [],
+   "end": "1767.920",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "\"That's what my dad said at the World Cup,\" said Ron, with a trace of irritation in his voice."
+   ]
+  },
+  {
+   "begin": "1767.920",
+   "children": [],
+   "end": "1769.320",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "\"Try us, why don't you?\""
    ]
   },
   {
    "begin": "1769.320",
    "children": [],
    "end": "1773.160",
-   "id": "f000153",
+   "id": "f000429",
    "language": "eng",
    "lines": [
     "A grin flashed across Sirius's thin face."
@@ -1533,18 +4293,218 @@
   {
    "begin": "1773.160",
    "children": [],
-   "end": "1818.720",
-   "id": "f000154",
+   "end": "1775.440",
+   "id": "f000430",
    "language": "eng",
    "lines": [
-    "\"All right, I'll try you. . . .\" He walked once up the cave, back again, and then said, \"Imagine that Voldemort's powerful now. You don't know who his supporters are, you don't know who's working for him and who isn't; you know he can control people so that they do terrible things without being able to stop themselves. You're scared for yourself, and your family, and your friends. Every week, news comes of more deaths, more disappearances, more torturing . . . the Ministry of Magic's in disarray, they don't know what to do, they're trying to keep everything hidden from the Muggles, but meanwhile, Muggles are dying too. Terror everywhere . . . panic . . . confusion . . . that's how it used to be."
+    "\"All right, I'll try you."
+   ]
+  },
+  {
+   "begin": "1775.440",
+   "children": [],
+   "end": "1775.440",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1775.440",
+   "children": [],
+   "end": "1775.440",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1775.440",
+   "children": [],
+   "end": "1775.440",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1775.440",
+   "children": [],
+   "end": "1783.960",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "He walked once up the cave, back again, and then said, \"Imagine that Voldemort's powerful now."
+   ]
+  },
+  {
+   "begin": "1783.960",
+   "children": [],
+   "end": "1795.360",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "You don't know who his supporters are, you don't know who's working for him and who isn't; you know he can control people so that they do terrible things without being able to stop themselves."
+   ]
+  },
+  {
+   "begin": "1795.360",
+   "children": [],
+   "end": "1799.640",
+   "id": "f000436",
+   "language": "eng",
+   "lines": [
+    "You're scared for yourself, and your family, and your friends."
+   ]
+  },
+  {
+   "begin": "1799.640",
+   "children": [],
+   "end": "1805.400",
+   "id": "f000437",
+   "language": "eng",
+   "lines": [
+    "Every week, news comes of more deaths, more disappearances, more torturing ."
+   ]
+  },
+  {
+   "begin": "1805.400",
+   "children": [],
+   "end": "1805.400",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1805.400",
+   "children": [],
+   "end": "1805.400",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1805.400",
+   "children": [],
+   "end": "1813.680",
+   "id": "f000440",
+   "language": "eng",
+   "lines": [
+    "the Ministry of Magic's in disarray, they don't know what to do, they're trying to keep everything hidden from the Muggles, but meanwhile, Muggles are dying too."
+   ]
+  },
+  {
+   "begin": "1813.680",
+   "children": [],
+   "end": "1815.040",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "Terror everywhere ."
+   ]
+  },
+  {
+   "begin": "1815.040",
+   "children": [],
+   "end": "1815.040",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1815.040",
+   "children": [],
+   "end": "1815.040",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1815.040",
+   "children": [],
+   "end": "1815.720",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "panic ."
+   ]
+  },
+  {
+   "begin": "1815.720",
+   "children": [],
+   "end": "1815.720",
+   "id": "f000445",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1815.720",
+   "children": [],
+   "end": "1815.720",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1815.720",
+   "children": [],
+   "end": "1816.600",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "confusion ."
+   ]
+  },
+  {
+   "begin": "1816.600",
+   "children": [],
+   "end": "1816.600",
+   "id": "f000448",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1816.600",
+   "children": [],
+   "end": "1816.600",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1816.600",
+   "children": [],
+   "end": "1818.720",
+   "id": "f000450",
+   "language": "eng",
+   "lines": [
+    "that's how it used to be."
    ]
   },
   {
    "begin": "1818.720",
    "children": [],
    "end": "1824.680",
-   "id": "f000155",
+   "id": "f000451",
    "language": "eng",
    "lines": [
     "\"Well, times like that bring out the best in some people and the worst in others."
@@ -1553,38 +4513,228 @@
   {
    "begin": "1824.680",
    "children": [],
-   "end": "1891.840",
-   "id": "f000156",
+   "end": "1828.680",
+   "id": "f000452",
    "language": "eng",
    "lines": [
-    "Crouch's principles might've been good in the beginning - I wouldn't know. He rose quickly through the Ministry, and he started ordering very harsh measures against Voldemorts supporters. The Aurors were given new powers - powers to kill rather than capture, for instance. And I wasn't the only one who was handed straight to the dementors without trial. Crouch fought violence with violence, and authorized the use of the Unforgivable Curses against suspects. I would say he became as ruthless and cruel as many on the Dark Side. He had his supporters, mind you - plenty of people thought he was going about things the right way, and there were a lot of witches and wizards clamoring for him to take over as Minister of Magic. When Voldemort disappeared, it looked like only a matter of time until Crouch got the top job. But then something rather unfortunate happened. ...\" Sirius smiled grimly. \"Crouch's own son was caught with a group of Death Eaters who'd managed to talk their way out of Azkaban. Apparently they were trying to find Voldemort and return him to power.\""
+    "Crouch's principles might've been good in the beginning - I wouldn't know."
+   ]
+  },
+  {
+   "begin": "1828.680",
+   "children": [],
+   "end": "1835.040",
+   "id": "f000453",
+   "language": "eng",
+   "lines": [
+    "He rose quickly through the Ministry, and he started ordering very harsh measures against Voldemorts supporters."
+   ]
+  },
+  {
+   "begin": "1835.040",
+   "children": [],
+   "end": "1841.160",
+   "id": "f000454",
+   "language": "eng",
+   "lines": [
+    "The Aurors were given new powers - powers to kill rather than capture, for instance."
+   ]
+  },
+  {
+   "begin": "1841.160",
+   "children": [],
+   "end": "1845.720",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "And I wasn't the only one who was handed straight to the dementors without trial."
+   ]
+  },
+  {
+   "begin": "1845.720",
+   "children": [],
+   "end": "1853.880",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "Crouch fought violence with violence, and authorized the use of the Unforgivable Curses against suspects."
+   ]
+  },
+  {
+   "begin": "1853.880",
+   "children": [],
+   "end": "1858.000",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "I would say he became as ruthless and cruel as many on the Dark Side."
+   ]
+  },
+  {
+   "begin": "1858.000",
+   "children": [],
+   "end": "1868.280",
+   "id": "f000458",
+   "language": "eng",
+   "lines": [
+    "He had his supporters, mind you - plenty of people thought he was going about things the right way, and there were a lot of witches and wizards clamoring for him to take over as Minister of Magic."
+   ]
+  },
+  {
+   "begin": "1868.280",
+   "children": [],
+   "end": "1874.280",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "When Voldemort disappeared, it looked like only a matter of time until Crouch got the top job."
+   ]
+  },
+  {
+   "begin": "1874.280",
+   "children": [],
+   "end": "1878.040",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "But then something rather unfortunate happened."
+   ]
+  },
+  {
+   "begin": "1878.040",
+   "children": [],
+   "end": "1878.040",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "...\""
+   ]
+  },
+  {
+   "begin": "1878.040",
+   "children": [],
+   "end": "1880.840",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "Sirius smiled grimly."
+   ]
+  },
+  {
+   "begin": "1880.840",
+   "children": [],
+   "end": "1887.520",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "\"Crouch's own son was caught with a group of Death Eaters who'd managed to talk their way out of Azkaban."
+   ]
+  },
+  {
+   "begin": "1887.520",
+   "children": [],
+   "end": "1891.840",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "Apparently they were trying to find Voldemort and return him to power.\""
    ]
   },
   {
    "begin": "1891.840",
    "children": [],
-   "end": "1895.600",
-   "id": "f000157",
+   "end": "1894.320",
+   "id": "f000465",
    "language": "eng",
    "lines": [
-    "\"Crouch's son was caught?\" gasped Hermione."
+    "\"Crouch's son was caught?\""
+   ]
+  },
+  {
+   "begin": "1894.320",
+   "children": [],
+   "end": "1895.600",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "gasped Hermione."
    ]
   },
   {
    "begin": "1895.600",
    "children": [],
-   "end": "1916.520",
-   "id": "f000158",
+   "end": "1904.840",
+   "id": "f000467",
    "language": "eng",
    "lines": [
-    "\"Yep,\" said Sirius, throwing his chicken bone to Buckbeak, flinging himself back down on the ground beside the loaf of bread, and tearing it in half. \"Nasty little shock for old Barty, I'd imagine. Should have spent a bit more time at home with his family, shouldn't he? Ought to have left the office early once in a while . . . gotten to know his own son.\""
+    "\"Yep,\" said Sirius, throwing his chicken bone to Buckbeak, flinging himself back down on the ground beside the loaf of bread, and tearing it in half."
+   ]
+  },
+  {
+   "begin": "1904.840",
+   "children": [],
+   "end": "1908.000",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "\"Nasty little shock for old Barty, I'd imagine."
+   ]
+  },
+  {
+   "begin": "1908.000",
+   "children": [],
+   "end": "1911.600",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "Should have spent a bit more time at home with his family, shouldn't he?"
+   ]
+  },
+  {
+   "begin": "1911.600",
+   "children": [],
+   "end": "1914.320",
+   "id": "f000470",
+   "language": "eng",
+   "lines": [
+    "Ought to have left the office early once in a while ."
+   ]
+  },
+  {
+   "begin": "1914.320",
+   "children": [],
+   "end": "1914.360",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1914.360",
+   "children": [],
+   "end": "1914.440",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1914.440",
+   "children": [],
+   "end": "1916.520",
+   "id": "f000473",
+   "language": "eng",
+   "lines": [
+    "gotten to know his own son.\""
    ]
   },
   {
    "begin": "1916.520",
    "children": [],
    "end": "1919.760",
-   "id": "f000159",
+   "id": "f000474",
    "language": "eng",
    "lines": [
     "He began to wolf down large pieces of bread."
@@ -1593,88 +4743,318 @@
   {
    "begin": "1919.760",
    "children": [],
-   "end": "1923.080",
-   "id": "f000160",
+   "end": "1922.200",
+   "id": "f000475",
    "language": "eng",
    "lines": [
-    "\"Was his son a Death Eater?\" said Harry."
+    "\"Was his son a Death Eater?\""
+   ]
+  },
+  {
+   "begin": "1922.200",
+   "children": [],
+   "end": "1923.080",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "said Harry."
    ]
   },
   {
    "begin": "1923.080",
    "children": [],
-   "end": "1941.720",
-   "id": "f000161",
+   "end": "1927.600",
+   "id": "f000477",
    "language": "eng",
    "lines": [
-    "\"No idea,\" said Sirius, still stuffing down bread. \"I was in Azkaban myself when he was brought in. This is mostly stuff I've found out since I got out. The boy was definitely caught in the company of people I'd bet my life were Death Eaters - but he might have been in the wrong place at the wrong time, just like the house-elf.\""
+    "\"No idea,\" said Sirius, still stuffing down bread."
+   ]
+  },
+  {
+   "begin": "1927.600",
+   "children": [],
+   "end": "1930.000",
+   "id": "f000478",
+   "language": "eng",
+   "lines": [
+    "\"I was in Azkaban myself when he was brought in."
+   ]
+  },
+  {
+   "begin": "1930.000",
+   "children": [],
+   "end": "1932.880",
+   "id": "f000479",
+   "language": "eng",
+   "lines": [
+    "This is mostly stuff I've found out since I got out."
+   ]
+  },
+  {
+   "begin": "1932.880",
+   "children": [],
+   "end": "1941.720",
+   "id": "f000480",
+   "language": "eng",
+   "lines": [
+    "The boy was definitely caught in the company of people I'd bet my life were Death Eaters - but he might have been in the wrong place at the wrong time, just like the house-elf.\""
    ]
   },
   {
    "begin": "1941.720",
    "children": [],
-   "end": "1945.880",
-   "id": "f000162",
+   "end": "1944.680",
+   "id": "f000481",
    "language": "eng",
    "lines": [
-    "\"Did Crouch try and get his son off?\" Hermione whispered."
+    "\"Did Crouch try and get his son off?\""
+   ]
+  },
+  {
+   "begin": "1944.680",
+   "children": [],
+   "end": "1945.880",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "Hermione whispered."
    ]
   },
   {
    "begin": "1945.880",
    "children": [],
-   "end": "1950.120",
-   "id": "f000163",
+   "end": "1949.360",
+   "id": "f000483",
    "language": "eng",
    "lines": [
     "Sirius let out a laugh that was much more like a bark."
    ]
   },
   {
-   "begin": "1950.120",
+   "begin": "1949.360",
    "children": [],
-   "end": "1954.840",
-   "id": "f000164",
+   "end": "1952.920",
+   "id": "f000484",
    "language": "eng",
    "lines": [
-    "\"Crouch let his son off? I thought you had the measure of him, Hermione!"
+    "\"Crouch let his son off?"
+   ]
+  },
+  {
+   "begin": "1952.920",
+   "children": [],
+   "end": "1954.840",
+   "id": "f000485",
+   "language": "eng",
+   "lines": [
+    "I thought you had the measure of him, Hermione!"
    ]
   },
   {
    "begin": "1954.840",
    "children": [],
-   "end": "1985.880",
-   "id": "f000165",
+   "end": "1963.920",
+   "id": "f000486",
    "language": "eng",
    "lines": [
-    "Anything that threatened to tarnish his reputation had to go; he had dedicated his whole life to becoming Minister of Magic. You saw him dismiss a devoted houseelf because she associated him with the Dark Mark again - doesn't that tell you what he's like? Crouch's fatherly affection stretched just far enough to give his son a trial, and by all accounts, it wasn't much more than an excuse for Crouch to show how much he hated the boy . . . then he sent him straight to Azkaban.\""
+    "Anything that threatened to tarnish his reputation had to go; he had dedicated his whole life to becoming Minister of Magic."
+   ]
+  },
+  {
+   "begin": "1963.920",
+   "children": [],
+   "end": "1971.800",
+   "id": "f000487",
+   "language": "eng",
+   "lines": [
+    "You saw him dismiss a devoted houseelf because she associated him with the Dark Mark again - doesn't that tell you what he's like?"
+   ]
+  },
+  {
+   "begin": "1971.800",
+   "children": [],
+   "end": "1983.200",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "Crouch's fatherly affection stretched just far enough to give his son a trial, and by all accounts, it wasn't much more than an excuse for Crouch to show how much he hated the boy ."
+   ]
+  },
+  {
+   "begin": "1983.200",
+   "children": [],
+   "end": "1983.200",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1983.200",
+   "children": [],
+   "end": "1983.200",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1983.200",
+   "children": [],
+   "end": "1985.880",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "then he sent him straight to Azkaban.\""
    ]
   },
   {
    "begin": "1985.880",
    "children": [],
-   "end": "1991.680",
-   "id": "f000166",
+   "end": "1990.000",
+   "id": "f000492",
    "language": "eng",
    "lines": [
-    "\"He gave his own son to the dementors?\" asked Harry quietly."
+    "\"He gave his own son to the dementors?\""
+   ]
+  },
+  {
+   "begin": "1990.000",
+   "children": [],
+   "end": "1991.680",
+   "id": "f000493",
+   "language": "eng",
+   "lines": [
+    "asked Harry quietly."
    ]
   },
   {
    "begin": "1991.680",
    "children": [],
-   "end": "2018.640",
-   "id": "f000167",
+   "end": "1996.640",
+   "id": "f000494",
    "language": "eng",
    "lines": [
-    "\"That's right,\" said Sirius, and he didn't look remotely amused now. \"I saw the dementors bringing him in, watched them through the bars in my cell door. He can't have been more than nineteen. They took him into a cell near mine. He was screaming for his mother by nightfall. He went quiet after a few days, though . . .they all went quiet in the end. . . except when they shrieked in their sleep. ...\""
+    "\"That's right,\" said Sirius, and he didn't look remotely amused now."
    ]
   },
   {
-   "begin": "2018.640",
+   "begin": "1996.640",
+   "children": [],
+   "end": "2002.680",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "\"I saw the dementors bringing him in, watched them through the bars in my cell door."
+   ]
+  },
+  {
+   "begin": "2002.680",
+   "children": [],
+   "end": "2005.080",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "He can't have been more than nineteen."
+   ]
+  },
+  {
+   "begin": "2005.080",
+   "children": [],
+   "end": "2007.880",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "They took him into a cell near mine."
+   ]
+  },
+  {
+   "begin": "2007.880",
+   "children": [],
+   "end": "2010.800",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "He was screaming for his mother by nightfall."
+   ]
+  },
+  {
+   "begin": "2010.800",
+   "children": [],
+   "end": "2013.840",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "He went quiet after a few days, though ."
+   ]
+  },
+  {
+   "begin": "2013.840",
+   "children": [],
+   "end": "2013.840",
+   "id": "f000500",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2013.840",
+   "children": [],
+   "end": "2016.320",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    ".they all went quiet in the end."
+   ]
+  },
+  {
+   "begin": "2016.320",
+   "children": [],
+   "end": "2016.320",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2016.320",
+   "children": [],
+   "end": "2016.320",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2016.320",
+   "children": [],
+   "end": "2018.760",
+   "id": "f000504",
+   "language": "eng",
+   "lines": [
+    "except when they shrieked in their sleep."
+   ]
+  },
+  {
+   "begin": "2018.760",
+   "children": [],
+   "end": "2018.760",
+   "id": "f000505",
+   "language": "eng",
+   "lines": [
+    "...\""
+   ]
+  },
+  {
+   "begin": "2018.760",
    "children": [],
    "end": "2027.800",
-   "id": "f000168",
+   "id": "f000506",
    "language": "eng",
    "lines": [
     "For a moment, the deadened look in Sirius's eyes became more pronounced than ever, as though shutters had closed behind them."
@@ -1683,28 +5063,58 @@
   {
    "begin": "2027.800",
    "children": [],
-   "end": "2031.320",
-   "id": "f000169",
+   "end": "2030.360",
+   "id": "f000507",
    "language": "eng",
    "lines": [
-    "\"So he's still in Azkaban?\" Harry said."
+    "\"So he's still in Azkaban?\""
+   ]
+  },
+  {
+   "begin": "2030.360",
+   "children": [],
+   "end": "2031.320",
+   "id": "f000508",
+   "language": "eng",
+   "lines": [
+    "Harry said."
    ]
   },
   {
    "begin": "2031.320",
    "children": [],
-   "end": "2039.680",
-   "id": "f000170",
+   "end": "2034.360",
+   "id": "f000509",
    "language": "eng",
    "lines": [
-    "\"No,\" said Sirius dully. \"No, he's not in there anymore. He died about a year after they brought him in.\""
+    "\"No,\" said Sirius dully."
+   ]
+  },
+  {
+   "begin": "2034.360",
+   "children": [],
+   "end": "2036.960",
+   "id": "f000510",
+   "language": "eng",
+   "lines": [
+    "\"No, he's not in there anymore."
+   ]
+  },
+  {
+   "begin": "2036.960",
+   "children": [],
+   "end": "2039.680",
+   "id": "f000511",
+   "language": "eng",
+   "lines": [
+    "He died about a year after they brought him in.\""
    ]
   },
   {
    "begin": "2039.680",
    "children": [],
    "end": "2041.320",
-   "id": "f000171",
+   "id": "f000512",
    "language": "eng",
    "lines": [
     "\"He died?\""
@@ -1713,18 +5123,128 @@
   {
    "begin": "2041.320",
    "children": [],
-   "end": "2083.440",
-   "id": "f000172",
+   "end": "2045.200",
+   "id": "f000513",
    "language": "eng",
    "lines": [
-    "\"He wasn't the only one,\" said Sirius bitterly. \"Most go mad in there, and plenty stop eating in the end. They lose the will to live. You could always tell when a death was coming, because the dementors could sense it, they got excited. That boy looked pretty sickly when he arrived. Crouch being an important Ministry member, he and his wife were allowed a deathbed visit. That was the last time I saw Barty Crouch, half carrying his wife past my cell. She died herself, apparently, shortly afterward. Grief. Wasted away just like the boy. Crouch never came for his sons body. The dementors buried him outside the fortress; I watched them do it.\""
+    "\"He wasn't the only one,\" said Sirius bitterly."
+   ]
+  },
+  {
+   "begin": "2045.200",
+   "children": [],
+   "end": "2048.960",
+   "id": "f000514",
+   "language": "eng",
+   "lines": [
+    "\"Most go mad in there, and plenty stop eating in the end."
+   ]
+  },
+  {
+   "begin": "2048.960",
+   "children": [],
+   "end": "2050.880",
+   "id": "f000515",
+   "language": "eng",
+   "lines": [
+    "They lose the will to live."
+   ]
+  },
+  {
+   "begin": "2050.880",
+   "children": [],
+   "end": "2056.800",
+   "id": "f000516",
+   "language": "eng",
+   "lines": [
+    "You could always tell when a death was coming, because the dementors could sense it, they got excited."
+   ]
+  },
+  {
+   "begin": "2056.800",
+   "children": [],
+   "end": "2060.000",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "That boy looked pretty sickly when he arrived."
+   ]
+  },
+  {
+   "begin": "2060.000",
+   "children": [],
+   "end": "2065.080",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "Crouch being an important Ministry member, he and his wife were allowed a deathbed visit."
+   ]
+  },
+  {
+   "begin": "2065.080",
+   "children": [],
+   "end": "2070.840",
+   "id": "f000519",
+   "language": "eng",
+   "lines": [
+    "That was the last time I saw Barty Crouch, half carrying his wife past my cell."
+   ]
+  },
+  {
+   "begin": "2070.840",
+   "children": [],
+   "end": "2074.080",
+   "id": "f000520",
+   "language": "eng",
+   "lines": [
+    "She died herself, apparently, shortly afterward."
+   ]
+  },
+  {
+   "begin": "2074.080",
+   "children": [],
+   "end": "2075.280",
+   "id": "f000521",
+   "language": "eng",
+   "lines": [
+    "Grief."
+   ]
+  },
+  {
+   "begin": "2075.280",
+   "children": [],
+   "end": "2077.280",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "Wasted away just like the boy."
+   ]
+  },
+  {
+   "begin": "2077.280",
+   "children": [],
+   "end": "2079.760",
+   "id": "f000523",
+   "language": "eng",
+   "lines": [
+    "Crouch never came for his sons body."
+   ]
+  },
+  {
+   "begin": "2079.760",
+   "children": [],
+   "end": "2083.440",
+   "id": "f000524",
+   "language": "eng",
+   "lines": [
+    "The dementors buried him outside the fortress; I watched them do it.\""
    ]
   },
   {
    "begin": "2083.440",
    "children": [],
    "end": "2091.840",
-   "id": "f000173",
+   "id": "f000525",
    "language": "eng",
    "lines": [
     "Sirius threw aside the bread he had just lifted to his mouth and instead picked up the flask of pumpkin juice and drained it."
@@ -1733,38 +5253,98 @@
   {
    "begin": "2091.840",
    "children": [],
-   "end": "2123.160",
-   "id": "f000174",
+   "end": "2100.520",
+   "id": "f000526",
    "language": "eng",
    "lines": [
-    "\"So old Crouch lost it all, just when he thought he had it made,\" he continued, wiping his mouth with the back of his hand. \"One moment, a hero, poised to become Minister of Magic...next, his son dead, his wife dead, the family name dishonored, and, so I've heard since I escaped, a big drop in popularity. Once the boy had died, people started feeling a bit more sympathetic toward the son and started asking how a nice young lad from a good family had gone so badly astray."
+    "\"So old Crouch lost it all, just when he thought he had it made,\" he continued, wiping his mouth with the back of his hand."
+   ]
+  },
+  {
+   "begin": "2100.520",
+   "children": [],
+   "end": "2113.880",
+   "id": "f000527",
+   "language": "eng",
+   "lines": [
+    "\"One moment, a hero, poised to become Minister of Magic...next, his son dead, his wife dead, the family name dishonored, and, so I've heard since I escaped, a big drop in popularity."
+   ]
+  },
+  {
+   "begin": "2113.880",
+   "children": [],
+   "end": "2123.160",
+   "id": "f000528",
+   "language": "eng",
+   "lines": [
+    "Once the boy had died, people started feeling a bit more sympathetic toward the son and started asking how a nice young lad from a good family had gone so badly astray."
    ]
   },
   {
    "begin": "2123.160",
    "children": [],
-   "end": "2134.600",
-   "id": "f000175",
+   "end": "2127.000",
+   "id": "f000529",
    "language": "eng",
    "lines": [
-    "The conclusion was that his father never cared much for him. So Cornelius Fudge got the top job, and Crouch was shunted sideways into the Department of International Magical Cooperation.\""
+    "The conclusion was that his father never cared much for him."
+   ]
+  },
+  {
+   "begin": "2127.000",
+   "children": [],
+   "end": "2134.600",
+   "id": "f000530",
+   "language": "eng",
+   "lines": [
+    "So Cornelius Fudge got the top job, and Crouch was shunted sideways into the Department of International Magical Cooperation.\""
    ]
   },
   {
    "begin": "2134.600",
    "children": [],
-   "end": "2159.080",
-   "id": "f000176",
+   "end": "2138.320",
+   "id": "f000531",
    "language": "eng",
    "lines": [
-    "There was a long silence. Harry was thinking of the way Crouch's eyes had bulged as he'd looked down at his disobedient house-elf back in the wood at the Quidditch World Cup. This, then, must have been why Crouch had overreacted to Winky being found beneath the Dark Mark. It had brought back memories of his son, and the old scandal, and his fall from grace at the Ministry."
+    "There was a long silence."
    ]
   },
   {
-   "begin": "2159.080",
+   "begin": "2138.320",
+   "children": [],
+   "end": "2146.400",
+   "id": "f000532",
+   "language": "eng",
+   "lines": [
+    "Harry was thinking of the way Crouch's eyes had bulged as he'd looked down at his disobedient house-elf back in the wood at the Quidditch World Cup."
+   ]
+  },
+  {
+   "begin": "2146.400",
+   "children": [],
+   "end": "2152.480",
+   "id": "f000533",
+   "language": "eng",
+   "lines": [
+    "This, then, must have been why Crouch had overreacted to Winky being found beneath the Dark Mark."
+   ]
+  },
+  {
+   "begin": "2152.480",
+   "children": [],
+   "end": "2159.040",
+   "id": "f000534",
+   "language": "eng",
+   "lines": [
+    "It had brought back memories of his son, and the old scandal, and his fall from grace at the Ministry."
+   ]
+  },
+  {
+   "begin": "2159.040",
    "children": [],
    "end": "2164.920",
-   "id": "f000177",
+   "id": "f000535",
    "language": "eng",
    "lines": [
     "\"Moody says Crouch is obsessed with catching Dark wizards,\" Harry told Sirius."
@@ -1773,28 +5353,48 @@
   {
    "begin": "2164.920",
    "children": [],
-   "end": "2175.240",
-   "id": "f000178",
+   "end": "2169.720",
+   "id": "f000536",
    "language": "eng",
    "lines": [
-    "\"Yeah, I've heard it's become a bit of a mania with him,\" said Sirius, nodding. \"If you ask me, he still thinks he can bring back the old popularity by catching one more Death Eater.\""
+    "\"Yeah, I've heard it's become a bit of a mania with him,\" said Sirius, nodding."
+   ]
+  },
+  {
+   "begin": "2169.720",
+   "children": [],
+   "end": "2175.240",
+   "id": "f000537",
+   "language": "eng",
+   "lines": [
+    "\"If you ask me, he still thinks he can bring back the old popularity by catching one more Death Eater.\""
    ]
   },
   {
    "begin": "2175.240",
    "children": [],
-   "end": "2181.640",
-   "id": "f000179",
+   "end": "2179.240",
+   "id": "f000538",
    "language": "eng",
    "lines": [
-    "\"And he sneaked up here to search Snape's office!\" s aid Ron triumphantly, looking at Hermione."
+    "\"And he sneaked up here to search Snape's office!\""
+   ]
+  },
+  {
+   "begin": "2179.240",
+   "children": [],
+   "end": "2181.640",
+   "id": "f000539",
+   "language": "eng",
+   "lines": [
+    "s aid Ron triumphantly, looking at Hermione."
    ]
   },
   {
    "begin": "2181.640",
    "children": [],
    "end": "2186.120",
-   "id": "f000180",
+   "id": "f000540",
    "language": "eng",
    "lines": [
     "\"Yes, and that doesn't make sense at all,\" said Sirius."
@@ -1803,78 +5403,178 @@
   {
    "begin": "2186.120",
    "children": [],
-   "end": "2190.680",
-   "id": "f000181",
+   "end": "2187.400",
+   "id": "f000541",
    "language": "eng",
    "lines": [
-    "\"Yeah, it does!\" said Ron excitedly, but Sirius shook his head."
+    "\"Yeah, it does!\""
+   ]
+  },
+  {
+   "begin": "2187.400",
+   "children": [],
+   "end": "2190.680",
+   "id": "f000542",
+   "language": "eng",
+   "lines": [
+    "said Ron excitedly, but Sirius shook his head."
    ]
   },
   {
    "begin": "2190.680",
    "children": [],
-   "end": "2200.840",
-   "id": "f000182",
+   "end": "2196.640",
+   "id": "f000543",
    "language": "eng",
    "lines": [
-    "\"Listen, if Crouch wants to investigate Snape, why hasn't he been coming to judge the tournament? It would be an ideal excuse to make regular visits to Hogwarts and keep an eye on him.\""
+    "\"Listen, if Crouch wants to investigate Snape, why hasn't he been coming to judge the tournament?"
+   ]
+  },
+  {
+   "begin": "2196.640",
+   "children": [],
+   "end": "2200.840",
+   "id": "f000544",
+   "language": "eng",
+   "lines": [
+    "It would be an ideal excuse to make regular visits to Hogwarts and keep an eye on him.\""
    ]
   },
   {
    "begin": "2200.840",
    "children": [],
-   "end": "2206.840",
-   "id": "f000183",
+   "end": "2204.480",
+   "id": "f000545",
    "language": "eng",
    "lines": [
-    "\"So you think Snape could be up to something, then?\" asked Harry, but Hermione broke in."
+    "\"So you think Snape could be up to something, then?\""
    ]
   },
   {
-   "begin": "2206.840",
+   "begin": "2204.480",
    "children": [],
-   "end": "2226.960",
-   "id": "f000184",
+   "end": "2206.760",
+   "id": "f000546",
    "language": "eng",
    "lines": [
-    "\"Look, I don't care what you say, Dumbledore trusts Snape -\" \"Oh give it a rest, Hermione,\" said Ron impatiently. \"I know Dumbledores brilliant and everything, but that doesn't mean a really clever Dark wizard couldn't fool him -\" \"Why did Snape save Harry's life in the first year, then? Why didn't he just let him die?\""
+    "asked Harry, but Hermione broke in."
+   ]
+  },
+  {
+   "begin": "2206.760",
+   "children": [],
+   "end": "2215.400",
+   "id": "f000547",
+   "language": "eng",
+   "lines": [
+    "\"Look, I don't care what you say, Dumbledore trusts Snape -\" \"Oh give it a rest, Hermione,\" said Ron impatiently."
+   ]
+  },
+  {
+   "begin": "2215.400",
+   "children": [],
+   "end": "2225.000",
+   "id": "f000548",
+   "language": "eng",
+   "lines": [
+    "\"I know Dumbledores brilliant and everything, but that doesn't mean a really clever Dark wizard couldn't fool him -\" \"Why did Snape save Harry's life in the first year, then?"
+   ]
+  },
+  {
+   "begin": "2225.000",
+   "children": [],
+   "end": "2226.960",
+   "id": "f000549",
+   "language": "eng",
+   "lines": [
+    "Why didn't he just let him die?\""
    ]
   },
   {
    "begin": "2226.960",
    "children": [],
-   "end": "2236.920",
-   "id": "f000185",
+   "end": "2232.520",
+   "id": "f000550",
    "language": "eng",
    "lines": [
-    "\"I dunno - maybe he thought Dumbledore would kick him out-\" \"What d'you think, Sirius?\" Harry said loudly, and Ron and Hermione stopped bickering to listen."
+    "\"I dunno - maybe he thought Dumbledore would kick him out-\" \"What d'you think, Sirius?\""
    ]
   },
   {
-   "begin": "2236.920",
+   "begin": "2232.520",
    "children": [],
-   "end": "2270.520",
-   "id": "f000186",
+   "end": "2236.880",
+   "id": "f000551",
    "language": "eng",
    "lines": [
-    "\"I think they've both got a point,\" said Sirius, looking thoughtfully at Ron and Hermione. \"Ever since I found out Snape was teaching here, I've wondered why Dumbledore hired him. Snape's always been fascinated by the Dark Arts, he was famous for it at school. Slimy, oily, greasy-haired kid, he was,\" Sirius added, and Harry and Ron grinned at each other. \"Snape knew more curses when he arrived at school than half the kids in seventh year, and he was part of a gang of Slytherins who nearly all turned out to be Death Eaters.\""
+    "Harry said loudly, and Ron and Hermione stopped bickering to listen."
+   ]
+  },
+  {
+   "begin": "2236.880",
+   "children": [],
+   "end": "2243.240",
+   "id": "f000552",
+   "language": "eng",
+   "lines": [
+    "\"I think they've both got a point,\" said Sirius, looking thoughtfully at Ron and Hermione."
+   ]
+  },
+  {
+   "begin": "2243.240",
+   "children": [],
+   "end": "2248.920",
+   "id": "f000553",
+   "language": "eng",
+   "lines": [
+    "\"Ever since I found out Snape was teaching here, I've wondered why Dumbledore hired him."
+   ]
+  },
+  {
+   "begin": "2248.920",
+   "children": [],
+   "end": "2253.440",
+   "id": "f000554",
+   "language": "eng",
+   "lines": [
+    "Snape's always been fascinated by the Dark Arts, he was famous for it at school."
+   ]
+  },
+  {
+   "begin": "2253.440",
+   "children": [],
+   "end": "2260.480",
+   "id": "f000555",
+   "language": "eng",
+   "lines": [
+    "Slimy, oily, greasy-haired kid, he was,\" Sirius added, and Harry and Ron grinned at each other."
+   ]
+  },
+  {
+   "begin": "2260.480",
+   "children": [],
+   "end": "2270.520",
+   "id": "f000556",
+   "language": "eng",
+   "lines": [
+    "\"Snape knew more curses when he arrived at school than half the kids in seventh year, and he was part of a gang of Slytherins who nearly all turned out to be Death Eaters.\""
    ]
   },
   {
    "begin": "2270.520",
    "children": [],
-   "end": "2275.280",
-   "id": "f000187",
+   "end": "2275.240",
+   "id": "f000557",
    "language": "eng",
    "lines": [
     "Sirius held up his fingers and began ticking off names."
    ]
   },
   {
-   "begin": "2275.280",
+   "begin": "2275.240",
    "children": [],
    "end": "2279.440",
-   "id": "f000188",
+   "id": "f000558",
    "language": "eng",
    "lines": [
     "\"Rosier and Wilkes - they were both killed by Aurors the year before Voldemort"
@@ -1883,18 +5583,68 @@
   {
    "begin": "2279.440",
    "children": [],
-   "end": "2302.800",
-   "id": "f000189",
+   "end": "2280.000",
+   "id": "f000559",
    "language": "eng",
    "lines": [
-    "fell. The Lestranges - they're a married couple - they're in Azkaban. Avery - from what I've heard he wormed his way out of trouble by saying he'd been acting under the Imperius Curse - he's still at large. But as far as I know, Snape was never even accused of being a Death Eater - not that that means much. Plenty of them were never caught. And Snape s certainly clever and cunning enough to keep himself out of trouble.\""
+    "fell."
+   ]
+  },
+  {
+   "begin": "2280.000",
+   "children": [],
+   "end": "2283.480",
+   "id": "f000560",
+   "language": "eng",
+   "lines": [
+    "The Lestranges - they're a married couple - they're in Azkaban."
+   ]
+  },
+  {
+   "begin": "2283.480",
+   "children": [],
+   "end": "2291.360",
+   "id": "f000561",
+   "language": "eng",
+   "lines": [
+    "Avery - from what I've heard he wormed his way out of trouble by saying he'd been acting under the Imperius Curse - he's still at large."
+   ]
+  },
+  {
+   "begin": "2291.360",
+   "children": [],
+   "end": "2297.040",
+   "id": "f000562",
+   "language": "eng",
+   "lines": [
+    "But as far as I know, Snape was never even accused of being a Death Eater - not that that means much."
+   ]
+  },
+  {
+   "begin": "2297.040",
+   "children": [],
+   "end": "2298.520",
+   "id": "f000563",
+   "language": "eng",
+   "lines": [
+    "Plenty of them were never caught."
+   ]
+  },
+  {
+   "begin": "2298.520",
+   "children": [],
+   "end": "2302.800",
+   "id": "f000564",
+   "language": "eng",
+   "lines": [
+    "And Snape s certainly clever and cunning enough to keep himself out of trouble.\""
    ]
   },
   {
    "begin": "2302.800",
    "children": [],
    "end": "2307.720",
-   "id": "f000190",
+   "id": "f000565",
    "language": "eng",
    "lines": [
     "\"Snape knows Karkaroff pretty well, but he wants to keep that quiet,\" said Ron."
@@ -1903,48 +5653,138 @@
   {
    "begin": "2307.720",
    "children": [],
-   "end": "2322.840",
-   "id": "f000191",
+   "end": "2312.440",
+   "id": "f000566",
    "language": "eng",
    "lines": [
-    "\"Yeah, you should've seen Snape's face when Karkaroff turned up in Potions yesterday!\" said Harry quickly. \"Karkaroff wanted to talk to Snape, he says Snape's been avoiding him. Karkaroff looked really worried. He showed Snape something on his arm, but I couldn't see what it was.\""
+    "\"Yeah, you should've seen Snape's face when Karkaroff turned up in Potions yesterday!\""
+   ]
+  },
+  {
+   "begin": "2312.440",
+   "children": [],
+   "end": "2313.800",
+   "id": "f000567",
+   "language": "eng",
+   "lines": [
+    "said Harry quickly."
+   ]
+  },
+  {
+   "begin": "2313.800",
+   "children": [],
+   "end": "2317.880",
+   "id": "f000568",
+   "language": "eng",
+   "lines": [
+    "\"Karkaroff wanted to talk to Snape, he says Snape's been avoiding him."
+   ]
+  },
+  {
+   "begin": "2317.880",
+   "children": [],
+   "end": "2319.600",
+   "id": "f000569",
+   "language": "eng",
+   "lines": [
+    "Karkaroff looked really worried."
+   ]
+  },
+  {
+   "begin": "2319.600",
+   "children": [],
+   "end": "2322.840",
+   "id": "f000570",
+   "language": "eng",
+   "lines": [
+    "He showed Snape something on his arm, but I couldn't see what it was.\""
    ]
   },
   {
    "begin": "2322.840",
    "children": [],
-   "end": "2329.080",
-   "id": "f000192",
+   "end": "2326.400",
+   "id": "f000571",
    "language": "eng",
    "lines": [
-    "He showed Snape something on his arm?\" said Sirius, looking frankly bewildered."
+    "He showed Snape something on his arm?\""
    ]
   },
   {
-   "begin": "2329.080",
+   "begin": "2326.400",
    "children": [],
-   "end": "2341.560",
-   "id": "f000193",
+   "end": "2329.000",
+   "id": "f000572",
    "language": "eng",
    "lines": [
-    "He ran his fingers distractedly through his filthy hair, then shrugged again. \"Well, I've no idea what that's about. . . but if Karkaroff s genuinely worried, and he's going to Snape for answers ...\""
+    "said Sirius, looking frankly bewildered."
+   ]
+  },
+  {
+   "begin": "2329.000",
+   "children": [],
+   "end": "2334.040",
+   "id": "f000573",
+   "language": "eng",
+   "lines": [
+    "He ran his fingers distractedly through his filthy hair, then shrugged again."
+   ]
+  },
+  {
+   "begin": "2334.040",
+   "children": [],
+   "end": "2336.320",
+   "id": "f000574",
+   "language": "eng",
+   "lines": [
+    "\"Well, I've no idea what that's about."
+   ]
+  },
+  {
+   "begin": "2336.320",
+   "children": [],
+   "end": "2336.320",
+   "id": "f000575",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2336.320",
+   "children": [],
+   "end": "2336.320",
+   "id": "f000576",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2336.320",
+   "children": [],
+   "end": "2341.560",
+   "id": "f000577",
+   "language": "eng",
+   "lines": [
+    "but if Karkaroff s genuinely worried, and he's going to Snape for answers ...\""
    ]
   },
   {
    "begin": "2341.560",
    "children": [],
-   "end": "2347.000",
-   "id": "f000194",
+   "end": "2346.960",
+   "id": "f000578",
    "language": "eng",
    "lines": [
     "Sirius stared at the cave wall, then made a grimace of frustration."
    ]
   },
   {
-   "begin": "2347.000",
+   "begin": "2346.960",
    "children": [],
    "end": "2360.680",
-   "id": "f000195",
+   "id": "f000579",
    "language": "eng",
    "lines": [
     "\"There's still the fact that Dumbledore trusts Snape, and I know Dumbledore trusts where a lot of other people wouldn't, but I just can't see him letting Snape teach at Hogwarts if he'd ever worked for Voldemort.\""
@@ -1953,28 +5793,198 @@
   {
    "begin": "2360.680",
    "children": [],
-   "end": "2367.000",
-   "id": "f000196",
+   "end": "2365.400",
+   "id": "f000580",
    "language": "eng",
    "lines": [
-    "\"Why are Moody and Crouch so keen to get into Snapes office then?\" said Ron stubbornly."
+    "\"Why are Moody and Crouch so keen to get into Snapes office then?\""
+   ]
+  },
+  {
+   "begin": "2365.400",
+   "children": [],
+   "end": "2367.000",
+   "id": "f000581",
+   "language": "eng",
+   "lines": [
+    "said Ron stubbornly."
    ]
   },
   {
    "begin": "2367.000",
    "children": [],
-   "end": "2412.720",
-   "id": "f000197",
+   "end": "2376.640",
+   "id": "f000582",
    "language": "eng",
    "lines": [
-    "\"Well,\" said Sirius slowly, \"I wouldn't put it past Mad-Eye to have searched every single teacher's office when he got to Hogwarts. He takes his Defense Against the Dark Arts seriously, Moody. I'm not sure he trusts anyone at all, and after the things he's seen, it's not surprising. I'll say this for Moody, though, he never killed if he could help it. Always brought people in alive where possible. He was tough, but he never descended to the level of the Death Eaters. Crouch, though . . . he's a different matter ... is he really ill? If he is, why did he make the effort to drag himself up to Snape's office? And if he's not. . . what's he up to? What was he doing at the World Cup that was so important he didn't turn up in the Top Box?"
+    "\"Well,\" said Sirius slowly, \"I wouldn't put it past Mad-Eye to have searched every single teacher's office when he got to Hogwarts."
    ]
   },
   {
-   "begin": "2412.720",
+   "begin": "2376.640",
+   "children": [],
+   "end": "2379.800",
+   "id": "f000583",
+   "language": "eng",
+   "lines": [
+    "He takes his Defense Against the Dark Arts seriously, Moody."
+   ]
+  },
+  {
+   "begin": "2379.800",
+   "children": [],
+   "end": "2384.920",
+   "id": "f000584",
+   "language": "eng",
+   "lines": [
+    "I'm not sure he trusts anyone at all, and after the things he's seen, it's not surprising."
+   ]
+  },
+  {
+   "begin": "2384.920",
+   "children": [],
+   "end": "2389.000",
+   "id": "f000585",
+   "language": "eng",
+   "lines": [
+    "I'll say this for Moody, though, he never killed if he could help it."
+   ]
+  },
+  {
+   "begin": "2389.000",
+   "children": [],
+   "end": "2392.160",
+   "id": "f000586",
+   "language": "eng",
+   "lines": [
+    "Always brought people in alive where possible."
+   ]
+  },
+  {
+   "begin": "2392.160",
+   "children": [],
+   "end": "2395.920",
+   "id": "f000587",
+   "language": "eng",
+   "lines": [
+    "He was tough, but he never descended to the level of the Death Eaters."
+   ]
+  },
+  {
+   "begin": "2395.920",
+   "children": [],
+   "end": "2397.200",
+   "id": "f000588",
+   "language": "eng",
+   "lines": [
+    "Crouch, though ."
+   ]
+  },
+  {
+   "begin": "2397.200",
+   "children": [],
+   "end": "2397.200",
+   "id": "f000589",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2397.200",
+   "children": [],
+   "end": "2397.200",
+   "id": "f000590",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2397.200",
+   "children": [],
+   "end": "2398.520",
+   "id": "f000591",
+   "language": "eng",
+   "lines": [
+    "he's a different matter ..."
+   ]
+  },
+  {
+   "begin": "2398.520",
+   "children": [],
+   "end": "2400.400",
+   "id": "f000592",
+   "language": "eng",
+   "lines": [
+    "is he really ill?"
+   ]
+  },
+  {
+   "begin": "2400.400",
+   "children": [],
+   "end": "2405.040",
+   "id": "f000593",
+   "language": "eng",
+   "lines": [
+    "If he is, why did he make the effort to drag himself up to Snape's office?"
+   ]
+  },
+  {
+   "begin": "2405.040",
+   "children": [],
+   "end": "2406.360",
+   "id": "f000594",
+   "language": "eng",
+   "lines": [
+    "And if he's not."
+   ]
+  },
+  {
+   "begin": "2406.360",
+   "children": [],
+   "end": "2406.360",
+   "id": "f000595",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2406.360",
+   "children": [],
+   "end": "2406.360",
+   "id": "f000596",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2406.360",
+   "children": [],
+   "end": "2407.360",
+   "id": "f000597",
+   "language": "eng",
+   "lines": [
+    "what's he up to?"
+   ]
+  },
+  {
+   "begin": "2407.360",
+   "children": [],
+   "end": "2412.680",
+   "id": "f000598",
+   "language": "eng",
+   "lines": [
+    "What was he doing at the World Cup that was so important he didn't turn up in the Top Box?"
+   ]
+  },
+  {
+   "begin": "2412.680",
    "children": [],
    "end": "2416.600",
-   "id": "f000198",
+   "id": "f000599",
    "language": "eng",
    "lines": [
     "What's he been doing while he should have been judging the tournament?\""
@@ -1983,98 +5993,218 @@
   {
    "begin": "2416.600",
    "children": [],
-   "end": "2429.720",
-   "id": "f000199",
+   "end": "2421.760",
+   "id": "f000600",
    "language": "eng",
    "lines": [
-    "Sirius lapsed into silence, still staring at the cave wall. Buckbeak was ferreting around on the rocky floor, looking for bones he might have overlooked. Finally, Sirius looked up at Ron."
+    "Sirius lapsed into silence, still staring at the cave wall."
    ]
   },
   {
-   "begin": "2429.720",
+   "begin": "2421.760",
    "children": [],
-   "end": "2437.320",
-   "id": "f000200",
+   "end": "2427.840",
+   "id": "f000601",
    "language": "eng",
    "lines": [
-    "\"You say your brother s Crouch's personal assistant? Any chance you could ask him if he's seen Crouch lately?\""
+    "Buckbeak was ferreting around on the rocky floor, looking for bones he might have overlooked."
+   ]
+  },
+  {
+   "begin": "2427.840",
+   "children": [],
+   "end": "2429.680",
+   "id": "f000602",
+   "language": "eng",
+   "lines": [
+    "Finally, Sirius looked up at Ron."
+   ]
+  },
+  {
+   "begin": "2429.680",
+   "children": [],
+   "end": "2434.560",
+   "id": "f000603",
+   "language": "eng",
+   "lines": [
+    "\"You say your brother s Crouch's personal assistant?"
+   ]
+  },
+  {
+   "begin": "2434.560",
+   "children": [],
+   "end": "2437.320",
+   "id": "f000604",
+   "language": "eng",
+   "lines": [
+    "Any chance you could ask him if he's seen Crouch lately?\""
    ]
   },
   {
    "begin": "2437.320",
    "children": [],
-   "end": "2445.640",
-   "id": "f000201",
+   "end": "2440.280",
+   "id": "f000605",
    "language": "eng",
    "lines": [
-    "\"I can try,\" said Ron doubtfully. \"Better not make it sound like I reckon Crouch is up to anything dodgy, though. Percy loves Crouch.\""
+    "\"I can try,\" said Ron doubtfully."
+   ]
+  },
+  {
+   "begin": "2440.280",
+   "children": [],
+   "end": "2443.760",
+   "id": "f000606",
+   "language": "eng",
+   "lines": [
+    "\"Better not make it sound like I reckon Crouch is up to anything dodgy, though."
+   ]
+  },
+  {
+   "begin": "2443.760",
+   "children": [],
+   "end": "2445.640",
+   "id": "f000607",
+   "language": "eng",
+   "lines": [
+    "Percy loves Crouch.\""
    ]
   },
   {
    "begin": "2445.640",
    "children": [],
-   "end": "2456.040",
-   "id": "f000202",
+   "end": "2455.880",
+   "id": "f000608",
    "language": "eng",
    "lines": [
     "\"And you might try and find out whether they've got any leads on Bertha Jorkins while you're at it,\" said Sirius, gesturing to the second copy of the Daily Prophet."
    ]
   },
   {
-   "begin": "2456.040",
+   "begin": "2455.880",
    "children": [],
-   "end": "2458.280",
-   "id": "f000203",
+   "end": "2458.200",
+   "id": "f000609",
    "language": "eng",
    "lines": [
     "\"Bagman told me they hadn't,\" said Harry."
    ]
   },
   {
-   "begin": "2458.280",
+   "begin": "2458.200",
    "children": [],
-   "end": "2463.240",
-   "id": "f000204",
+   "end": "2463.200",
+   "id": "f000610",
    "language": "eng",
    "lines": [
     "\"Yes, he's quoted in the article in there,\" said Sirius, nodding at the paper."
    ]
   },
   {
-   "begin": "2463.240",
+   "begin": "2463.200",
    "children": [],
-   "end": "2473.120",
-   "id": "f000205",
+   "end": "2466.800",
+   "id": "f000611",
    "language": "eng",
    "lines": [
-    "\"Blustering on about how bad Bertha's memory is. Well, maybe she's changed since I knew her, but the Bertha I knew wasn't forgetful at all - quite the reverse."
+    "\"Blustering on about how bad Bertha's memory is."
+   ]
+  },
+  {
+   "begin": "2466.800",
+   "children": [],
+   "end": "2473.120",
+   "id": "f000612",
+   "language": "eng",
+   "lines": [
+    "Well, maybe she's changed since I knew her, but the Bertha I knew wasn't forgetful at all - quite the reverse."
    ]
   },
   {
    "begin": "2473.120",
    "children": [],
-   "end": "2488.400",
-   "id": "f000206",
+   "end": "2477.000",
+   "id": "f000613",
    "language": "eng",
    "lines": [
-    "She was a bit dim, but she had an excellent memory for gossip. It used to get her into a lot of trouble; she never knew when to keep her mouth shut. I can see her being a bit of a liability at the Ministry of Magic . . . maybe that's why Bagman didn't bother to look for her for so long. ...\""
+    "She was a bit dim, but she had an excellent memory for gossip."
+   ]
+  },
+  {
+   "begin": "2477.000",
+   "children": [],
+   "end": "2481.080",
+   "id": "f000614",
+   "language": "eng",
+   "lines": [
+    "It used to get her into a lot of trouble; she never knew when to keep her mouth shut."
+   ]
+  },
+  {
+   "begin": "2481.080",
+   "children": [],
+   "end": "2484.800",
+   "id": "f000615",
+   "language": "eng",
+   "lines": [
+    "I can see her being a bit of a liability at the Ministry of Magic ."
+   ]
+  },
+  {
+   "begin": "2484.800",
+   "children": [],
+   "end": "2484.800",
+   "id": "f000616",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2484.800",
+   "children": [],
+   "end": "2484.800",
+   "id": "f000617",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2484.800",
+   "children": [],
+   "end": "2488.280",
+   "id": "f000618",
+   "language": "eng",
+   "lines": [
+    "maybe that's why Bagman didn't bother to look for her for so long."
+   ]
+  },
+  {
+   "begin": "2488.280",
+   "children": [],
+   "end": "2488.400",
+   "id": "f000619",
+   "language": "eng",
+   "lines": [
+    "...\""
    ]
   },
   {
    "begin": "2488.400",
    "children": [],
-   "end": "2493.840",
-   "id": "f000207",
+   "end": "2493.760",
+   "id": "f000620",
    "language": "eng",
    "lines": [
     "Sirius heaved an enormous sigh and rubbed his shadowed eyes."
    ]
   },
   {
-   "begin": "2493.840",
+   "begin": "2493.760",
    "children": [],
    "end": "2495.320",
-   "id": "f000208",
+   "id": "f000621",
    "language": "eng",
    "lines": [
     "\"What's the time?\""
@@ -2084,7 +6214,7 @@
    "begin": "2495.320",
    "children": [],
    "end": "2501.280",
-   "id": "f000209",
+   "id": "f000622",
    "language": "eng",
    "lines": [
     "Harry checked his watch, then remembered it hadn't been working since it had spent over an hour in the lake."
@@ -2093,38 +6223,108 @@
   {
    "begin": "2501.280",
    "children": [],
-   "end": "2504.040",
-   "id": "f000210",
+   "end": "2504.000",
+   "id": "f000623",
    "language": "eng",
    "lines": [
     "\"It's half past three,\" said Hermione."
    ]
   },
   {
-   "begin": "2504.040",
+   "begin": "2504.000",
    "children": [],
-   "end": "2509.560",
-   "id": "f000211",
+   "end": "2508.240",
+   "id": "f000624",
    "language": "eng",
    "lines": [
-    "\"You'd better get back to school,\" Sirius said, getting to his feet. \"Now listen . . .\""
+    "\"You'd better get back to school,\" Sirius said, getting to his feet."
+   ]
+  },
+  {
+   "begin": "2508.240",
+   "children": [],
+   "end": "2509.440",
+   "id": "f000625",
+   "language": "eng",
+   "lines": [
+    "\"Now listen ."
+   ]
+  },
+  {
+   "begin": "2509.440",
+   "children": [],
+   "end": "2509.480",
+   "id": "f000626",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2509.480",
+   "children": [],
+   "end": "2509.560",
+   "id": "f000627",
+   "language": "eng",
+   "lines": [
+    ".\""
    ]
   },
   {
    "begin": "2509.560",
    "children": [],
-   "end": "2526.560",
-   "id": "f000212",
+   "end": "2511.840",
+   "id": "f000628",
    "language": "eng",
    "lines": [
-    "He looked particularly hard at Harry. \"I don't want you lot sneaking out of school to see me, all right? Just send notes to me here. I still want to hear about anything odd. But you're not to go leaving Hogwarts without permission; it would be an ideal opportunity for someone to attack you.\""
+    "He looked particularly hard at Harry."
+   ]
+  },
+  {
+   "begin": "2511.840",
+   "children": [],
+   "end": "2515.880",
+   "id": "f000629",
+   "language": "eng",
+   "lines": [
+    "\"I don't want you lot sneaking out of school to see me, all right?"
+   ]
+  },
+  {
+   "begin": "2515.880",
+   "children": [],
+   "end": "2517.920",
+   "id": "f000630",
+   "language": "eng",
+   "lines": [
+    "Just send notes to me here."
+   ]
+  },
+  {
+   "begin": "2517.920",
+   "children": [],
+   "end": "2520.560",
+   "id": "f000631",
+   "language": "eng",
+   "lines": [
+    "I still want to hear about anything odd."
+   ]
+  },
+  {
+   "begin": "2520.560",
+   "children": [],
+   "end": "2526.560",
+   "id": "f000632",
+   "language": "eng",
+   "lines": [
+    "But you're not to go leaving Hogwarts without permission; it would be an ideal opportunity for someone to attack you.\""
    ]
   },
   {
    "begin": "2526.560",
    "children": [],
    "end": "2534.280",
-   "id": "f000213",
+   "id": "f000633",
    "language": "eng",
    "lines": [
     "\"No one's tried to attack me so far, except a dragon and a couple of grindylows,\" Harry said, but Sirius scowled at him."
@@ -2133,28 +6333,68 @@
   {
    "begin": "2534.280",
    "children": [],
-   "end": "2545.800",
-   "id": "f000214",
+   "end": "2535.400",
+   "id": "f000634",
    "language": "eng",
    "lines": [
-    "\"I don't care . . . I'll breathe freely again when this tournament's over, and that's not until June. And don't forget, if you're talking about me among yourselves, call me Snuffles, okay?\""
+    "\"I don't care ."
+   ]
+  },
+  {
+   "begin": "2535.400",
+   "children": [],
+   "end": "2535.400",
+   "id": "f000635",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2535.400",
+   "children": [],
+   "end": "2535.400",
+   "id": "f000636",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2535.400",
+   "children": [],
+   "end": "2540.160",
+   "id": "f000637",
+   "language": "eng",
+   "lines": [
+    "I'll breathe freely again when this tournament's over, and that's not until June."
+   ]
+  },
+  {
+   "begin": "2540.160",
+   "children": [],
+   "end": "2545.800",
+   "id": "f000638",
+   "language": "eng",
+   "lines": [
+    "And don't forget, if you're talking about me among yourselves, call me Snuffles, okay?\""
    ]
   },
   {
    "begin": "2545.800",
    "children": [],
-   "end": "2551.120",
-   "id": "f000215",
+   "end": "2551.040",
+   "id": "f000639",
    "language": "eng",
    "lines": [
     "He handed Harry the empty napkin and flask and went to pat Buckbeak good-bye."
    ]
   },
   {
-   "begin": "2551.120",
+   "begin": "2551.040",
    "children": [],
    "end": "2556.280",
-   "id": "f000216",
+   "id": "f000640",
    "language": "eng",
    "lines": [
     "\"I'll walk to the edge of the village with you,\" said Sirius, \"see if I can scrounge another paper.\""
@@ -2163,61 +6403,251 @@
   {
    "begin": "2556.280",
    "children": [],
-   "end": "2579.000",
-   "id": "f000217",
+   "end": "2566.800",
+   "id": "f000641",
    "language": "eng",
    "lines": [
-    "He transformed into the great black dog before they left the cave, and they walked back down the mountainside with him, across the boulder-strewn ground, and back to the stile. Here he allowed each of them to pat him on the head, before turning and setting off at a run around the outskirts of the village. Harry, Ron, and Hermione made their way back into Hogsmeade and up toward Hogwarts."
+    "He transformed into the great black dog before they left the cave, and they walked back down the mountainside with him, across the boulder-strewn ground, and back to the stile."
    ]
   },
   {
-   "begin": "2579.000",
+   "begin": "2566.800",
    "children": [],
-   "end": "2596.000",
-   "id": "f000218",
+   "end": "2573.480",
+   "id": "f000642",
    "language": "eng",
    "lines": [
-    "\"Wonder if Percy knows all that stuff about Crouch?\" Ron said as they walked up the drive to the castle. \"But maybe he doesn't care . . . It'd probably just make him admire Crouch even more. Yeah, Percy loves rules. He'd just say Crouch was refusing to break them for his own son.\""
+    "Here he allowed each of them to pat him on the head, before turning and setting off at a run around the outskirts of the village."
+   ]
+  },
+  {
+   "begin": "2573.480",
+   "children": [],
+   "end": "2578.880",
+   "id": "f000643",
+   "language": "eng",
+   "lines": [
+    "Harry, Ron, and Hermione made their way back into Hogsmeade and up toward Hogwarts."
+   ]
+  },
+  {
+   "begin": "2578.880",
+   "children": [],
+   "end": "2583.320",
+   "id": "f000644",
+   "language": "eng",
+   "lines": [
+    "\"Wonder if Percy knows all that stuff about Crouch?\""
+   ]
+  },
+  {
+   "begin": "2583.320",
+   "children": [],
+   "end": "2586.160",
+   "id": "f000645",
+   "language": "eng",
+   "lines": [
+    "Ron said as they walked up the drive to the castle."
+   ]
+  },
+  {
+   "begin": "2586.160",
+   "children": [],
+   "end": "2587.800",
+   "id": "f000646",
+   "language": "eng",
+   "lines": [
+    "\"But maybe he doesn't care ."
+   ]
+  },
+  {
+   "begin": "2587.800",
+   "children": [],
+   "end": "2587.800",
+   "id": "f000647",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2587.800",
+   "children": [],
+   "end": "2587.840",
+   "id": "f000648",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2587.840",
+   "children": [],
+   "end": "2590.680",
+   "id": "f000649",
+   "language": "eng",
+   "lines": [
+    "It'd probably just make him admire Crouch even more."
+   ]
+  },
+  {
+   "begin": "2590.680",
+   "children": [],
+   "end": "2592.680",
+   "id": "f000650",
+   "language": "eng",
+   "lines": [
+    "Yeah, Percy loves rules."
+   ]
+  },
+  {
+   "begin": "2592.680",
+   "children": [],
+   "end": "2596.000",
+   "id": "f000651",
+   "language": "eng",
+   "lines": [
+    "He'd just say Crouch was refusing to break them for his own son.\""
    ]
   },
   {
    "begin": "2596.000",
    "children": [],
-   "end": "2601.360",
-   "id": "f000219",
+   "end": "2601.240",
+   "id": "f000652",
    "language": "eng",
    "lines": [
     "\"Percy would never throw any of his family to the dementors,\" said Hermione severely."
    ]
   },
   {
-   "begin": "2601.360",
+   "begin": "2601.240",
    "children": [],
-   "end": "2607.800",
-   "id": "f000220",
+   "end": "2603.320",
+   "id": "f000653",
    "language": "eng",
    "lines": [
-    "\"I don't know,\" said Ron. \"If he thought we were standing in the way of his career .. . Percy's really ambitious, you know. ...\""
+    "\"I don't know,\" said Ron."
+   ]
+  },
+  {
+   "begin": "2603.320",
+   "children": [],
+   "end": "2605.880",
+   "id": "f000654",
+   "language": "eng",
+   "lines": [
+    "\"If he thought we were standing in the way of his career .."
+   ]
+  },
+  {
+   "begin": "2605.880",
+   "children": [],
+   "end": "2605.880",
+   "id": "f000655",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2605.880",
+   "children": [],
+   "end": "2607.760",
+   "id": "f000656",
+   "language": "eng",
+   "lines": [
+    "Percy's really ambitious, you know."
+   ]
+  },
+  {
+   "begin": "2607.760",
+   "children": [],
+   "end": "2607.800",
+   "id": "f000657",
+   "language": "eng",
+   "lines": [
+    "...\""
    ]
   },
   {
    "begin": "2607.800",
    "children": [],
-   "end": "2615.680",
-   "id": "f000221",
+   "end": "2615.560",
+   "id": "f000658",
    "language": "eng",
    "lines": [
     "They walked up the stone steps into the entrance hall, where the delicious smells of dinner wafted toward them from the Great Hall."
    ]
   },
   {
-   "begin": "2615.680",
+   "begin": "2615.560",
    "children": [],
-   "end": "2627.000",
-   "id": "f000222",
+   "end": "2620.040",
+   "id": "f000659",
    "language": "eng",
    "lines": [
-    "\"Poor old Snuffles,\" said Ron, breathing deeply. \"He must really like you. Harry. . . . Imagine having to live off rats.\""
+    "\"Poor old Snuffles,\" said Ron, breathing deeply."
+   ]
+  },
+  {
+   "begin": "2620.040",
+   "children": [],
+   "end": "2622.280",
+   "id": "f000660",
+   "language": "eng",
+   "lines": [
+    "\"He must really like you."
+   ]
+  },
+  {
+   "begin": "2622.280",
+   "children": [],
+   "end": "2622.720",
+   "id": "f000661",
+   "language": "eng",
+   "lines": [
+    "Harry."
+   ]
+  },
+  {
+   "begin": "2622.720",
+   "children": [],
+   "end": "2622.760",
+   "id": "f000662",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2622.760",
+   "children": [],
+   "end": "2622.760",
+   "id": "f000663",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2622.760",
+   "children": [],
+   "end": "2622.760",
+   "id": "f000664",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2622.760",
+   "children": [],
+   "end": "2627.000",
+   "id": "f000665",
+   "language": "eng",
+   "lines": [
+    "Imagine having to live off rats.\""
    ]
   }
  ]

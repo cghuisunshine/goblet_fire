@@ -13,68 +13,198 @@
   {
    "begin": "8.280",
    "children": [],
-   "end": "31.200",
+   "end": "19.080",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry had no idea how long a bath he would need to work out the secret of the golden egg, he decided to do it at night, when he would be able to take as much time as he wanted. Reluctant though he was to accept more favors from Cedric, he also decided to use the prefects' bathroom; far fewer people were allowed in there, so it was much less likely that he would be disturbed."
+    "Harry had no idea how long a bath he would need to work out the secret of the golden egg, he decided to do it at night, when he would be able to take as much time as he wanted."
+   ]
+  },
+  {
+   "begin": "19.080",
+   "children": [],
+   "end": "31.200",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "Reluctant though he was to accept more favors from Cedric, he also decided to use the prefects' bathroom; far fewer people were allowed in there, so it was much less likely that he would be disturbed."
    ]
   },
   {
    "begin": "31.200",
    "children": [],
-   "end": "74.880",
-   "id": "f000003",
-   "language": "eng",
-   "lines": [
-    "Harry planned his excursion carefully, because he had been caught out of bed and out-of-bounds by Filch the caretaker in the middle of the night once before, and had no desire to repeat the experience. The Invisibility Cloak would, of course, be essential, and as an added precaution, Harry thought he would take the Marauders Map, which, next to the cloak, was the most useful aid to rule-breaking Harry owned. The map showed the whole of Hogwarts, including its many shortcuts and secret passageways and, most important of all, it revealed the people inside the castle as minuscule, labeled dots, moving around the corridors, so that Harry would be forewarned if somebody was approaching the bathroom."
-   ]
-  },
-  {
-   "begin": "74.880",
-   "children": [],
-   "end": "98.280",
+   "end": "42.840",
    "id": "f000004",
    "language": "eng",
    "lines": [
-    "On Thursday night, Harry sneaked up to bed, put on the cloak, crept back downstairs, and, just as he had done on the night when Hagrid had shown him the dragons, waited for the portrait hole to open. This time it was Ron who waited outside to give the Fat Lady the password (\"banana fritters\"), \"Good luck,\" Ron muttered, climbing into the room as Harry crept out past him."
+    "Harry planned his excursion carefully, because he had been caught out of bed and out-of-bounds by Filch the caretaker in the middle of the night once before, and had no desire to repeat the experience."
    ]
   },
   {
-   "begin": "98.280",
+   "begin": "42.840",
    "children": [],
-   "end": "132.400",
+   "end": "55.000",
    "id": "f000005",
    "language": "eng",
    "lines": [
-    "It was awkward moving under the cloak tonight, because Harry had the heavy egg under one arm and the map held in front of his nose with the other. However, the moonlit corridors were empty and silent, and by checking the map at strategic intervals, Harry was able to ensure that he wouldn't run into anyone he wanted to avoid. When he reached the statue of Boris the Bewildered, a lost-looking wizard with his gloves on the wrong hands, he located the right door, leaned close to it, and muttered the password, \"Pine fresh,\" just as Cedric had told him."
+    "The Invisibility Cloak would, of course, be essential, and as an added precaution, Harry thought he would take the Marauders Map, which, next to the cloak, was the most useful aid to rule-breaking Harry owned."
+   ]
+  },
+  {
+   "begin": "55.000",
+   "children": [],
+   "end": "74.840",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "The map showed the whole of Hogwarts, including its many shortcuts and secret passageways and, most important of all, it revealed the people inside the castle as minuscule, labeled dots, moving around the corridors, so that Harry would be forewarned if somebody was approaching the bathroom."
+   ]
+  },
+  {
+   "begin": "74.840",
+   "children": [],
+   "end": "87.040",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "On Thursday night, Harry sneaked up to bed, put on the cloak, crept back downstairs, and, just as he had done on the night when Hagrid had shown him the dragons, waited for the portrait hole to open."
+   ]
+  },
+  {
+   "begin": "87.040",
+   "children": [],
+   "end": "98.320",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "This time it was Ron who waited outside to give the Fat Lady the password (\"banana fritters\"), \"Good luck,\" Ron muttered, climbing into the room as Harry crept out past him."
+   ]
+  },
+  {
+   "begin": "98.320",
+   "children": [],
+   "end": "107.040",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "It was awkward moving under the cloak tonight, because Harry had the heavy egg under one arm and the map held in front of his nose with the other."
+   ]
+  },
+  {
+   "begin": "107.040",
+   "children": [],
+   "end": "117.960",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "However, the moonlit corridors were empty and silent, and by checking the map at strategic intervals, Harry was able to ensure that he wouldn't run into anyone he wanted to avoid."
+   ]
+  },
+  {
+   "begin": "117.960",
+   "children": [],
+   "end": "132.400",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "When he reached the statue of Boris the Bewildered, a lost-looking wizard with his gloves on the wrong hands, he located the right door, leaned close to it, and muttered the password, \"Pine fresh,\" just as Cedric had told him."
    ]
   },
   {
    "begin": "132.400",
    "children": [],
-   "end": "141.720",
-   "id": "f000006",
+   "end": "134.320",
+   "id": "f000012",
    "language": "eng",
    "lines": [
-    "The door creaked open. Harry slipped inside, bolted the door behind him, and pulled off the Invisibility Cloak, looking around."
+    "The door creaked open."
+   ]
+  },
+  {
+   "begin": "134.320",
+   "children": [],
+   "end": "141.720",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Harry slipped inside, bolted the door behind him, and pulled off the Invisibility Cloak, looking around."
    ]
   },
   {
    "begin": "141.720",
    "children": [],
-   "end": "191.480",
-   "id": "f000007",
+   "end": "147.920",
+   "id": "f000014",
    "language": "eng",
    "lines": [
-    "His immediate reaction was that it would be worth becoming a prefect just to be able to use this bathroom. It was softly lit by a splendid candle-filled chandelier, and everything was made of white marble, including what looked like an empty, rectangular swimming pool sunk into the middle of the floor. About a hundred golden taps stood all around the pools edges, each with a differently colored Jewel set into its handle. There was also a diving board. Long white linen curtains hung at the windows; a large pile of fluffy white towels sat in a corner, and there was a single golden-framed painting on the wall. It featured a blonde mermaid who was fast asleep on a rock, her long hair over her face. It fluttered every time she"
+    "His immediate reaction was that it would be worth becoming a prefect just to be able to use this bathroom."
+   ]
+  },
+  {
+   "begin": "147.920",
+   "children": [],
+   "end": "160.240",
+   "id": "f000015",
+   "language": "eng",
+   "lines": [
+    "It was softly lit by a splendid candle-filled chandelier, and everything was made of white marble, including what looked like an empty, rectangular swimming pool sunk into the middle of the floor."
+   ]
+  },
+  {
+   "begin": "160.240",
+   "children": [],
+   "end": "167.680",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "About a hundred golden taps stood all around the pools edges, each with a differently colored Jewel set into its handle."
+   ]
+  },
+  {
+   "begin": "167.680",
+   "children": [],
+   "end": "170.440",
+   "id": "f000017",
+   "language": "eng",
+   "lines": [
+    "There was also a diving board."
+   ]
+  },
+  {
+   "begin": "170.440",
+   "children": [],
+   "end": "180.200",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "Long white linen curtains hung at the windows; a large pile of fluffy white towels sat in a corner, and there was a single golden-framed painting on the wall."
+   ]
+  },
+  {
+   "begin": "180.200",
+   "children": [],
+   "end": "186.960",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "It featured a blonde mermaid who was fast asleep on a rock, her long hair over her face."
+   ]
+  },
+  {
+   "begin": "186.960",
+   "children": [],
+   "end": "191.480",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "It fluttered every time she"
    ]
   },
   {
    "begin": "191.480",
    "children": [],
    "end": "192.880",
-   "id": "f000008",
+   "id": "f000021",
    "language": "eng",
    "lines": [
     "snored."
@@ -84,7 +214,7 @@
    "begin": "192.880",
    "children": [],
    "end": "198.200",
-   "id": "f000009",
+   "id": "f000022",
    "language": "eng",
    "lines": [
     "Harry moved forward, looking around, his footsteps echoing off the walls."
@@ -93,28 +223,78 @@
   {
    "begin": "198.200",
    "children": [],
-   "end": "225.240",
-   "id": "f000010",
+   "end": "209.240",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "Magnificent though the bathroom was - and quite keen though he was to try out a few of those taps - now he was here he couldn't quite suppress the feeling that Cedric might have been having him on. How on earth was this supposed to help solve the mystery of the egg? Nevertheless, he put one of the Huffy towels, the cloak, the map, and the egg at the side of the swimming-pool-sized bath, then knelt down and turned on a few of the taps."
+    "Magnificent though the bathroom was - and quite keen though he was to try out a few of those taps - now he was here he couldn't quite suppress the feeling that Cedric might have been having him on."
    ]
   },
   {
-   "begin": "225.240",
+   "begin": "209.240",
    "children": [],
-   "end": "275.760",
-   "id": "f000011",
+   "end": "214.040",
+   "id": "f000024",
    "language": "eng",
    "lines": [
-    "He could tell at once that they carried different sorts of bubble bath mixed with the water, though it wasn't bubble bath as Harry had ever experienced it. One tap gushed pink and blue bubbles the size of footballs; another poured ice-white foam so thick that Harry thought it would have supported his weight if he'd cared to test it; a third sent heavily perfumed purple clouds hovering over the surface of the water. Harry amused himself for awhile turning the taps on and off, particularly enjoying the effect of one whose jet bounced off the surface of the water in large arcs. Then, when the deep pool was full of hot water, foam, and bubbles, which took a very short time considering its size, Harry turned off all the taps, pulled off his pajamas, slippers, and dressing gown, and slid into the water."
+    "How on earth was this supposed to help solve the mystery of the egg?"
+   ]
+  },
+  {
+   "begin": "214.040",
+   "children": [],
+   "end": "225.200",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Nevertheless, he put one of the Huffy towels, the cloak, the map, and the egg at the side of the swimming-pool-sized bath, then knelt down and turned on a few of the taps."
+   ]
+  },
+  {
+   "begin": "225.200",
+   "children": [],
+   "end": "233.720",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "He could tell at once that they carried different sorts of bubble bath mixed with the water, though it wasn't bubble bath as Harry had ever experienced it."
+   ]
+  },
+  {
+   "begin": "233.720",
+   "children": [],
+   "end": "250.720",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "One tap gushed pink and blue bubbles the size of footballs; another poured ice-white foam so thick that Harry thought it would have supported his weight if he'd cared to test it; a third sent heavily perfumed purple clouds hovering over the surface of the water."
+   ]
+  },
+  {
+   "begin": "250.720",
+   "children": [],
+   "end": "260.840",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Harry amused himself for awhile turning the taps on and off, particularly enjoying the effect of one whose jet bounced off the surface of the water in large arcs."
+   ]
+  },
+  {
+   "begin": "260.840",
+   "children": [],
+   "end": "275.760",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Then, when the deep pool was full of hot water, foam, and bubbles, which took a very short time considering its size, Harry turned off all the taps, pulled off his pajamas, slippers, and dressing gown, and slid into the water."
    ]
   },
   {
    "begin": "275.760",
    "children": [],
    "end": "285.920",
-   "id": "f000012",
+   "id": "f000030",
    "language": "eng",
    "lines": [
     "It was so deep that his feet barely touched the bottom, and he actually did a couple of lengths before swimming back to the side and treading water, staring at the egg."
@@ -124,7 +304,7 @@
    "begin": "285.920",
    "children": [],
    "end": "299.320",
-   "id": "f000013",
+   "id": "f000031",
    "language": "eng",
    "lines": [
     "Highly enjoyable though it was to swim in hot and foamy water with clouds of different-colored steam wafting all around him, no stroke of brilliance came to him, no sudden burst of understanding."
@@ -133,58 +313,108 @@
   {
    "begin": "299.320",
    "children": [],
-   "end": "331.960",
-   "id": "f000014",
+   "end": "304.560",
+   "id": "f000032",
    "language": "eng",
    "lines": [
-    "Harry stretched out his arms, lifted the egg in his wet hands, and opened it. The wailing, screeching sound filled the bathroom, echoing and reverberating off the marble walls, but it sounded just as incomprehensible as ever, if not more so with all the echoes. He snapped it shut again, worried that the sound would attract Filch, wondering whether that hadn't been Cedric's plan - and then, making him jump so badly that he dropped the egg, which clattered away across the bathroom floor, someone spoke."
+    "Harry stretched out his arms, lifted the egg in his wet hands, and opened it."
+   ]
+  },
+  {
+   "begin": "304.560",
+   "children": [],
+   "end": "316.360",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "The wailing, screeching sound filled the bathroom, echoing and reverberating off the marble walls, but it sounded just as incomprehensible as ever, if not more so with all the echoes."
+   ]
+  },
+  {
+   "begin": "316.360",
+   "children": [],
+   "end": "331.960",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "He snapped it shut again, worried that the sound would attract Filch, wondering whether that hadn't been Cedric's plan - and then, making him jump so badly that he dropped the egg, which clattered away across the bathroom floor, someone spoke."
    ]
   },
   {
    "begin": "331.960",
    "children": [],
-   "end": "336.480",
-   "id": "f000015",
+   "end": "336.440",
+   "id": "f000035",
    "language": "eng",
    "lines": [
     "\"I'd try putting it in the water, if I were you.\""
    ]
   },
   {
-   "begin": "336.480",
+   "begin": "336.440",
    "children": [],
-   "end": "354.400",
-   "id": "f000016",
+   "end": "340.120",
+   "id": "f000036",
    "language": "eng",
    "lines": [
-    "Harry had swallowed a considerable amount of bubbles in shock. He stood up, sputtering, and saw the ghost of a very glum-looking girl sitting cross-legged on top of one of the taps. It was Moaning Myrtle, who was usually to be heard sobbing in the S-bend of a toilet three floors below."
+    "Harry had swallowed a considerable amount of bubbles in shock."
+   ]
+  },
+  {
+   "begin": "340.120",
+   "children": [],
+   "end": "348.360",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "He stood up, sputtering, and saw the ghost of a very glum-looking girl sitting cross-legged on top of one of the taps."
+   ]
+  },
+  {
+   "begin": "348.360",
+   "children": [],
+   "end": "354.400",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "It was Moaning Myrtle, who was usually to be heard sobbing in the S-bend of a toilet three floors below."
    ]
   },
   {
    "begin": "354.400",
    "children": [],
-   "end": "360.560",
-   "id": "f000017",
+   "end": "356.240",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "\"Myrtle!\" Harry said in outrage, \"I'm - I'm not wearing anything!\""
+    "\"Myrtle!\""
    ]
   },
   {
-   "begin": "360.560",
+   "begin": "356.240",
    "children": [],
-   "end": "369.120",
-   "id": "f000018",
+   "end": "360.520",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "Harry said in outrage, \"I'm - I'm not wearing anything!\""
+   ]
+  },
+  {
+   "begin": "360.520",
+   "children": [],
+   "end": "369.960",
+   "id": "f000041",
    "language": "eng",
    "lines": [
     "The foam was so dense that this hardly mattered, but he had a nasty feeling that Myrtle had been spying on him from out of one of the taps ever since he had arrived."
    ]
   },
   {
-   "begin": "369.120",
+   "begin": "369.960",
    "children": [],
    "end": "374.600",
-   "id": "f000019",
+   "id": "f000042",
    "language": "eng",
    "lines": [
     "\"I closed my eyes when you got in,\" she said, blinking at him through her thick"
@@ -193,38 +423,128 @@
   {
    "begin": "374.600",
    "children": [],
-   "end": "378.720",
-   "id": "f000020",
+   "end": "375.360",
+   "id": "f000043",
    "language": "eng",
    "lines": [
-    "spectacles. \"You haven't been to see me for ages.\""
+    "spectacles."
+   ]
+  },
+  {
+   "begin": "375.360",
+   "children": [],
+   "end": "378.720",
+   "id": "f000044",
+   "language": "eng",
+   "lines": [
+    "\"You haven't been to see me for ages.\""
    ]
   },
   {
    "begin": "378.720",
    "children": [],
-   "end": "390.920",
-   "id": "f000021",
+   "end": "380.200",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "\"Yeah . . . well. . .\" said Harry, bending his knees slightly, just to make absolutely sure Myrtle couldn't see anything but his head, \"I'm not supposed to come into your bathroom, am I? It's a girls' one.\""
+    "\"Yeah ."
+   ]
+  },
+  {
+   "begin": "380.200",
+   "children": [],
+   "end": "380.200",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "380.200",
+   "children": [],
+   "end": "380.200",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "380.200",
+   "children": [],
+   "end": "380.560",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "well."
+   ]
+  },
+  {
+   "begin": "380.560",
+   "children": [],
+   "end": "380.560",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "380.560",
+   "children": [],
+   "end": "380.720",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "380.720",
+   "children": [],
+   "end": "389.960",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "said Harry, bending his knees slightly, just to make absolutely sure Myrtle couldn't see anything but his head, \"I'm not supposed to come into your bathroom, am I?"
+   ]
+  },
+  {
+   "begin": "389.960",
+   "children": [],
+   "end": "390.920",
+   "id": "f000052",
+   "language": "eng",
+   "lines": [
+    "It's a girls' one.\""
    ]
   },
   {
    "begin": "390.920",
    "children": [],
-   "end": "398.360",
-   "id": "f000022",
+   "end": "394.960",
+   "id": "f000053",
    "language": "eng",
    "lines": [
-    "\"You didn't used to care,\" said Myrtle miserably. \"You used to be in there all the time.\""
+    "\"You didn't used to care,\" said Myrtle miserably."
    ]
   },
   {
-   "begin": "398.360",
+   "begin": "394.960",
+   "children": [],
+   "end": "398.320",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "\"You used to be in there all the time.\""
+   ]
+  },
+  {
+   "begin": "398.320",
    "children": [],
    "end": "416.000",
-   "id": "f000023",
+   "id": "f000055",
    "language": "eng",
    "lines": [
     "This was true, though only because Harry, Ron, and Hermione had found Myrtle's out-of-order toilets a convenient place to brew Polyjuice Potion in secret - a forbidden potion that had turned him and Ron into living replicas of Crabbe and Goyle for an hour, so that they could sneak into the Slytherin common room."
@@ -233,48 +553,138 @@
   {
    "begin": "416.000",
    "children": [],
-   "end": "427.040",
-   "id": "f000024",
+   "end": "419.080",
+   "id": "f000056",
    "language": "eng",
    "lines": [
-    "\"I got told off for going in there.\" said Harry, which was half-true; Percy had once caught him coming out of Myrtles bathroom. \"I thought I'd better not come back after that.\""
+    "\"I got told off for going in there.\""
+   ]
+  },
+  {
+   "begin": "419.080",
+   "children": [],
+   "end": "424.240",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "said Harry, which was half-true; Percy had once caught him coming out of Myrtles bathroom."
+   ]
+  },
+  {
+   "begin": "424.240",
+   "children": [],
+   "end": "427.040",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "\"I thought I'd better not come back after that.\""
    ]
   },
   {
    "begin": "427.040",
    "children": [],
-   "end": "433.320",
-   "id": "f000025",
+   "end": "428.560",
+   "id": "f000059",
    "language": "eng",
    "lines": [
-    "\"Oh ... I see ...\" said Myrtle, picking at a spot on her chin in a morose sort of way."
+    "\"Oh ..."
+   ]
+  },
+  {
+   "begin": "428.560",
+   "children": [],
+   "end": "429.240",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "I see ...\""
+   ]
+  },
+  {
+   "begin": "429.240",
+   "children": [],
+   "end": "433.320",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "said Myrtle, picking at a spot on her chin in a morose sort of way."
    ]
   },
   {
    "begin": "433.320",
    "children": [],
-   "end": "439.640",
-   "id": "f000026",
+   "end": "434.560",
+   "id": "f000062",
    "language": "eng",
    "lines": [
-    "\"Well... anyway... I'd try the egg in the water. That's what Cedric Diggory did.\""
+    "\"Well..."
+   ]
+  },
+  {
+   "begin": "434.560",
+   "children": [],
+   "end": "435.680",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "anyway..."
+   ]
+  },
+  {
+   "begin": "435.680",
+   "children": [],
+   "end": "437.760",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "I'd try the egg in the water."
+   ]
+  },
+  {
+   "begin": "437.760",
+   "children": [],
+   "end": "439.640",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "That's what Cedric Diggory did.\""
    ]
   },
   {
    "begin": "439.640",
    "children": [],
-   "end": "448.360",
-   "id": "f000027",
+   "end": "442.360",
+   "id": "f000066",
    "language": "eng",
    "lines": [
-    "\"Have you been spying on him too?\" said Harry indignantly. \"What d'you do, sneak up here in the evenings to watch the prefects take baths?\""
+    "\"Have you been spying on him too?\""
+   ]
+  },
+  {
+   "begin": "442.360",
+   "children": [],
+   "end": "443.760",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "said Harry indignantly."
+   ]
+  },
+  {
+   "begin": "443.760",
+   "children": [],
+   "end": "448.360",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "\"What d'you do, sneak up here in the evenings to watch the prefects take baths?\""
    ]
   },
   {
    "begin": "448.360",
    "children": [],
    "end": "454.720",
-   "id": "f000028",
+   "id": "f000069",
    "language": "eng",
    "lines": [
     "\"Sometimes,\" said Myrtle, rather slyly, \"but I've never come out to speak to anyone before.\""
@@ -283,18 +693,28 @@
   {
    "begin": "454.720",
    "children": [],
-   "end": "460.400",
-   "id": "f000029",
+   "end": "457.800",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "\"I'm honored,\" said Harry darkly. \"You keep your eyes shut!\""
+    "\"I'm honored,\" said Harry darkly."
+   ]
+  },
+  {
+   "begin": "457.800",
+   "children": [],
+   "end": "460.400",
+   "id": "f000071",
+   "language": "eng",
+   "lines": [
+    "\"You keep your eyes shut!\""
    ]
   },
   {
    "begin": "460.400",
    "children": [],
    "end": "470.040",
-   "id": "f000030",
+   "id": "f000072",
    "language": "eng",
    "lines": [
     "He made sure Myrtle had her glasses well covered before hoisting himself out of the bath, wrapping the towel firmly around his waist, and going to retrieve the egg."
@@ -303,158 +723,548 @@
   {
    "begin": "470.040",
    "children": [],
-   "end": "477.720",
-   "id": "f000031",
+   "end": "474.920",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "Once he was back in the water, Myrtle peered through her fingers and said, \"Go on, then . .. open it under the water!\""
+    "Once he was back in the water, Myrtle peered through her fingers and said, \"Go on, then ."
    ]
   },
   {
-   "begin": "477.720",
+   "begin": "474.920",
    "children": [],
-   "end": "490.880",
-   "id": "f000032",
+   "end": "475.160",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "Harry lowered the egg beneath the foamy surface and opened it... and this time, it did not wail. A gurgling song was coming out of it, a song whose words he couldnt distinguish through the water."
+    ".."
+   ]
+  },
+  {
+   "begin": "475.160",
+   "children": [],
+   "end": "477.680",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "open it under the water!\""
+   ]
+  },
+  {
+   "begin": "477.680",
+   "children": [],
+   "end": "482.280",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Harry lowered the egg beneath the foamy surface and opened it..."
+   ]
+  },
+  {
+   "begin": "482.280",
+   "children": [],
+   "end": "485.080",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "and this time, it did not wail."
+   ]
+  },
+  {
+   "begin": "485.080",
+   "children": [],
+   "end": "490.880",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "A gurgling song was coming out of it, a song whose words he couldnt distinguish through the water."
    ]
   },
   {
    "begin": "490.880",
    "children": [],
-   "end": "500.200",
-   "id": "f000033",
+   "end": "498.240",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "\"You need to put your head under too,\" said Myrtle, who seemed to be thoroughly enjoying bossing him around. \"Go on!\""
+    "\"You need to put your head under too,\" said Myrtle, who seemed to be thoroughly enjoying bossing him around."
+   ]
+  },
+  {
+   "begin": "498.240",
+   "children": [],
+   "end": "500.200",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "\"Go on!\""
    ]
   },
   {
    "begin": "500.200",
    "children": [],
-   "end": "522.960",
-   "id": "f000034",
+   "end": "522.920",
+   "id": "f000081",
    "language": "eng",
    "lines": [
     "Harry took a great breath and slid under the surface - and now, sitting on the marble bottom of the bubble-filled bath, he heard a chorus of eerie voices singing to him from the open egg in his hands: \"Come seek us where our voices sound, We cannot sing above the ground, And while you re searching, ponder this:"
    ]
   },
   {
-   "begin": "522.960",
+   "begin": "522.920",
    "children": [],
-   "end": "546.040",
-   "id": "f000035",
+   "end": "546.160",
+   "id": "f000082",
    "language": "eng",
    "lines": [
     "Wove taken what you'll sorely miss, An hour long you'll have to look, And to recover what we took, But past an hour- the prospect's black, Too late, it's gone, it wont come back\" Harry let himself float back upward and broke the bubbly surface, shaking his hair out of his eyes."
    ]
   },
   {
-   "begin": "546.040",
+   "begin": "546.160",
    "children": [],
-   "end": "548.000",
-   "id": "f000036",
+   "end": "547.320",
+   "id": "f000083",
    "language": "eng",
    "lines": [
-    "\"Hear it?\" said Myrtle."
+    "\"Hear it?\""
+   ]
+  },
+  {
+   "begin": "547.320",
+   "children": [],
+   "end": "548.000",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "said Myrtle."
    ]
   },
   {
    "begin": "548.000",
    "children": [],
-   "end": "556.080",
-   "id": "f000037",
+   "end": "549.200",
+   "id": "f000085",
    "language": "eng",
    "lines": [
-    "\"Yeah ... 'Come seek us where our voices sound .. .' and if I need persuading ... hang on, I need to listen again....\""
+    "\"Yeah ..."
    ]
   },
   {
-   "begin": "556.080",
+   "begin": "549.200",
    "children": [],
-   "end": "569.760",
-   "id": "f000038",
+   "end": "552.480",
+   "id": "f000086",
    "language": "eng",
    "lines": [
-    "He sank back beneath the water. It took three more underwater renditions of the egg's song before Harry had it memorized; then he trod water for a while, thinking hard, while Myrtle sat and watched him."
+    "'Come seek us where our voices sound .."
+   ]
+  },
+  {
+   "begin": "552.480",
+   "children": [],
+   "end": "552.480",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    ".'"
+   ]
+  },
+  {
+   "begin": "552.480",
+   "children": [],
+   "end": "553.960",
+   "id": "f000088",
+   "language": "eng",
+   "lines": [
+    "and if I need persuading ..."
+   ]
+  },
+  {
+   "begin": "553.960",
+   "children": [],
+   "end": "555.760",
+   "id": "f000089",
+   "language": "eng",
+   "lines": [
+    "hang on, I need to listen again....\""
+   ]
+  },
+  {
+   "begin": "555.760",
+   "children": [],
+   "end": "559.160",
+   "id": "f000090",
+   "language": "eng",
+   "lines": [
+    "He sank back beneath the water."
+   ]
+  },
+  {
+   "begin": "559.160",
+   "children": [],
+   "end": "569.760",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "It took three more underwater renditions of the egg's song before Harry had it memorized; then he trod water for a while, thinking hard, while Myrtle sat and watched him."
    ]
   },
   {
    "begin": "569.760",
    "children": [],
-   "end": "578.840",
-   "id": "f000039",
+   "end": "576.120",
+   "id": "f000092",
    "language": "eng",
    "lines": [
-    "\"I've got to go and look for people who can't use their voices above the ground. . . .\" he said slowly. \"Er . . . who could that be?\""
+    "\"I've got to go and look for people who can't use their voices above the ground."
+   ]
+  },
+  {
+   "begin": "576.120",
+   "children": [],
+   "end": "576.120",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "576.120",
+   "children": [],
+   "end": "576.120",
+   "id": "f000094",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "576.120",
+   "children": [],
+   "end": "576.120",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "576.120",
+   "children": [],
+   "end": "577.120",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "he said slowly."
+   ]
+  },
+  {
+   "begin": "577.120",
+   "children": [],
+   "end": "577.760",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "\"Er ."
+   ]
+  },
+  {
+   "begin": "577.760",
+   "children": [],
+   "end": "577.760",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "577.760",
+   "children": [],
+   "end": "577.760",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "577.760",
+   "children": [],
+   "end": "578.840",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "who could that be?\""
    ]
   },
   {
    "begin": "578.840",
    "children": [],
-   "end": "581.480",
-   "id": "f000040",
+   "end": "580.960",
+   "id": "f000101",
    "language": "eng",
    "lines": [
     "\"Slow, aren't you?\""
    ]
   },
   {
-   "begin": "581.480",
+   "begin": "580.960",
    "children": [],
-   "end": "605.360",
-   "id": "f000041",
+   "end": "590.120",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "He had never seen Moaning Myrtle so cheerful, apart from the day when a dose of PolyJuice Potion had given Hermione the hairy face and tail of a cat. Harry stared around the bathroom, thinking ... if the voices could only be heard underwater, then it made sense for them to belong to underwater creatures. He ran this theory past Myrtle, who smirked at him."
+    "He had never seen Moaning Myrtle so cheerful, apart from the day when a dose of PolyJuice Potion had given Hermione the hairy face and tail of a cat."
    ]
   },
   {
-   "begin": "605.360",
+   "begin": "590.120",
    "children": [],
-   "end": "614.640",
-   "id": "f000042",
+   "end": "594.560",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "\"Well, thats what Diggory thought,\" she said. \"He lay there talking to himself for ages about it. Ages and ages . . . nearly all the bubbles had gone. ...\""
+    "Harry stared around the bathroom, thinking ..."
+   ]
+  },
+  {
+   "begin": "594.560",
+   "children": [],
+   "end": "601.760",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "if the voices could only be heard underwater, then it made sense for them to belong to underwater creatures."
+   ]
+  },
+  {
+   "begin": "601.760",
+   "children": [],
+   "end": "604.840",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "He ran this theory past Myrtle, who smirked at him."
+   ]
+  },
+  {
+   "begin": "604.840",
+   "children": [],
+   "end": "608.120",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "\"Well, thats what Diggory thought,\" she said."
+   ]
+  },
+  {
+   "begin": "608.120",
+   "children": [],
+   "end": "611.200",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "\"He lay there talking to himself for ages about it."
+   ]
+  },
+  {
+   "begin": "611.200",
+   "children": [],
+   "end": "612.600",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "Ages and ages ."
+   ]
+  },
+  {
+   "begin": "612.600",
+   "children": [],
+   "end": "612.600",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "612.600",
+   "children": [],
+   "end": "612.600",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "612.600",
+   "children": [],
+   "end": "614.640",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "nearly all the bubbles had gone."
    ]
   },
   {
    "begin": "614.640",
    "children": [],
-   "end": "622.440",
-   "id": "f000043",
+   "end": "614.640",
+   "id": "f000112",
    "language": "eng",
    "lines": [
-    "\"Underwater ...\" Harry said slowly. \"Myrtle . . . what lives in the lake, apart from the giant squid?\""
+    "...\""
    ]
   },
   {
-   "begin": "622.440",
+   "begin": "614.640",
    "children": [],
-   "end": "630.800",
-   "id": "f000044",
+   "end": "616.920",
+   "id": "f000113",
    "language": "eng",
    "lines": [
-    "\"Oh all sorts,\" she said. \"I sometimes go down there . . . sometimes don't have any choice, if someone flushes my toilet when I'm not expecting it....\""
+    "\"Underwater ...\""
+   ]
+  },
+  {
+   "begin": "616.920",
+   "children": [],
+   "end": "618.240",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "Harry said slowly."
+   ]
+  },
+  {
+   "begin": "618.240",
+   "children": [],
+   "end": "619.280",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "\"Myrtle ."
+   ]
+  },
+  {
+   "begin": "619.280",
+   "children": [],
+   "end": "619.280",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "619.280",
+   "children": [],
+   "end": "619.280",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "619.280",
+   "children": [],
+   "end": "622.320",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "what lives in the lake, apart from the giant squid?\""
+   ]
+  },
+  {
+   "begin": "622.320",
+   "children": [],
+   "end": "625.120",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "\"Oh all sorts,\" she said."
+   ]
+  },
+  {
+   "begin": "625.120",
+   "children": [],
+   "end": "626.480",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "\"I sometimes go down there ."
+   ]
+  },
+  {
+   "begin": "626.480",
+   "children": [],
+   "end": "626.480",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "626.480",
+   "children": [],
+   "end": "626.480",
+   "id": "f000122",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "626.480",
+   "children": [],
+   "end": "630.800",
+   "id": "f000123",
+   "language": "eng",
+   "lines": [
+    "sometimes don't have any choice, if someone flushes my toilet when I'm not expecting it....\""
    ]
   },
   {
    "begin": "630.800",
    "children": [],
-   "end": "646.760",
-   "id": "f000045",
+   "end": "637.120",
+   "id": "f000124",
    "language": "eng",
    "lines": [
-    "Trying not to think about Moaning Myrtle zooming down a pipe to the lake with the contents of a toilet. Harry said, \"Well, does anything in there have a human voice? Hang on -\" Harry's eyes had fallen on the picture of the snoozing mermaid on the wall."
+    "Trying not to think about Moaning Myrtle zooming down a pipe to the lake with the contents of a toilet."
+   ]
+  },
+  {
+   "begin": "637.120",
+   "children": [],
+   "end": "640.880",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "Harry said, \"Well, does anything in there have a human voice?"
+   ]
+  },
+  {
+   "begin": "640.880",
+   "children": [],
+   "end": "646.760",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "Hang on -\" Harry's eyes had fallen on the picture of the snoozing mermaid on the wall."
    ]
   },
   {
    "begin": "646.760",
    "children": [],
    "end": "650.800",
-   "id": "f000046",
+   "id": "f000127",
    "language": "eng",
    "lines": [
     "\"Myrtle, there aren't merpeople in there, are there?\""
@@ -463,58 +1273,198 @@
   {
    "begin": "650.800",
    "children": [],
-   "end": "663.200",
-   "id": "f000047",
+   "end": "659.160",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "\"Oooh, very good,\" she said, her thick glasses twinkling, \"it took Diggory much longer than that! And that was with her awake too\" - Myrtle jerked her head"
+    "\"Oooh, very good,\" she said, her thick glasses twinkling, \"it took Diggory much longer than that!"
    ]
   },
   {
-   "begin": "663.200",
+   "begin": "659.160",
    "children": [],
-   "end": "671.720",
-   "id": "f000048",
+   "end": "663.160",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "toward the mermaid with an expression of great dislike on her glum face - \"giggling and showing off and flashing her fins.. ..\""
+    "And that was with her awake too\" - Myrtle jerked her head"
+   ]
+  },
+  {
+   "begin": "663.160",
+   "children": [],
+   "end": "671.160",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "toward the mermaid with an expression of great dislike on her glum face - \"giggling and showing off and flashing her fins.."
+   ]
+  },
+  {
+   "begin": "671.160",
+   "children": [],
+   "end": "671.720",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "..\""
    ]
   },
   {
    "begin": "671.720",
    "children": [],
-   "end": "680.080",
-   "id": "f000049",
+   "end": "672.760",
+   "id": "f000132",
    "language": "eng",
    "lines": [
-    "\"Thats it, isn't it?\" said Harry excitedly. \"The second tasks to go and find the merpeople in the lake and ... and ...\""
+    "\"Thats it, isn't it?\""
    ]
   },
   {
-   "begin": "680.080",
+   "begin": "672.760",
    "children": [],
-   "end": "710.920",
-   "id": "f000050",
+   "end": "674.200",
+   "id": "f000133",
    "language": "eng",
    "lines": [
-    "But he suddenly realized what he was saying, and he felt the excitement drain out of him as though someone had just pulled a plug in his stomach. He wasn't a very good swimmer; he'd never had much practice. Dudley had had lessons in his youth, but Aunt Petunia and Uncle Vernon, no doubt hoping that Harry would drown one day, hadn't bothered to give him any. A couple of lengths of this bath were all very well, but that lake was very large, and very deep . . . and merpeople would surely live right at the bottom. . . ."
+    "said Harry excitedly."
+   ]
+  },
+  {
+   "begin": "674.200",
+   "children": [],
+   "end": "678.120",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "\"The second tasks to go and find the merpeople in the lake and ..."
+   ]
+  },
+  {
+   "begin": "678.120",
+   "children": [],
+   "end": "679.120",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "and ...\""
+   ]
+  },
+  {
+   "begin": "679.120",
+   "children": [],
+   "end": "688.200",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "But he suddenly realized what he was saying, and he felt the excitement drain out of him as though someone had just pulled a plug in his stomach."
+   ]
+  },
+  {
+   "begin": "688.200",
+   "children": [],
+   "end": "692.800",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "He wasn't a very good swimmer; he'd never had much practice."
+   ]
+  },
+  {
+   "begin": "692.800",
+   "children": [],
+   "end": "701.440",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "Dudley had had lessons in his youth, but Aunt Petunia and Uncle Vernon, no doubt hoping that Harry would drown one day, hadn't bothered to give him any."
+   ]
+  },
+  {
+   "begin": "701.440",
+   "children": [],
+   "end": "707.800",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "A couple of lengths of this bath were all very well, but that lake was very large, and very deep ."
+   ]
+  },
+  {
+   "begin": "707.800",
+   "children": [],
+   "end": "707.800",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "707.800",
+   "children": [],
+   "end": "707.800",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "707.800",
+   "children": [],
+   "end": "710.920",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "and merpeople would surely live right at the bottom."
    ]
   },
   {
    "begin": "710.920",
    "children": [],
-   "end": "717.880",
-   "id": "f000051",
+   "end": "710.920",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "710.920",
+   "children": [],
+   "end": "710.920",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "710.920",
+   "children": [],
+   "end": "710.920",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "710.920",
+   "children": [],
+   "end": "717.080",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "\"Myrtle,\" Harry said slowly, \"how am I supposed to breathe?\""
    ]
   },
   {
-   "begin": "717.880",
+   "begin": "717.080",
    "children": [],
    "end": "721.640",
-   "id": "f000052",
+   "id": "f000147",
    "language": "eng",
    "lines": [
     "At this, Myrtle's eyes filled with sudden tears again."
@@ -523,88 +1473,408 @@
   {
    "begin": "721.640",
    "children": [],
-   "end": "726.320",
-   "id": "f000053",
+   "end": "723.240",
+   "id": "f000148",
    "language": "eng",
    "lines": [
-    "\"Tactless!\" she muttered, groping in her robes for a handkerchief."
+    "\"Tactless!\""
+   ]
+  },
+  {
+   "begin": "723.240",
+   "children": [],
+   "end": "726.320",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "she muttered, groping in her robes for a handkerchief."
    ]
   },
   {
    "begin": "726.320",
    "children": [],
-   "end": "730.080",
-   "id": "f000054",
+   "end": "728.280",
+   "id": "f000150",
    "language": "eng",
    "lines": [
-    "\"What's tactless?\" said Harry, bewildered."
+    "\"What's tactless?\""
+   ]
+  },
+  {
+   "begin": "728.280",
+   "children": [],
+   "end": "730.080",
+   "id": "f000151",
+   "language": "eng",
+   "lines": [
+    "said Harry, bewildered."
    ]
   },
   {
    "begin": "730.080",
    "children": [],
-   "end": "741.400",
-   "id": "f000055",
+   "end": "732.560",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "\"Talking about breathing in front of me!\" she said shrilly, and her voice echoed loudly around the bathroom. \"When I can't. . . when I haven't. . . not for ages ...\""
+    "\"Talking about breathing in front of me!\""
    ]
   },
   {
-   "begin": "741.400",
+   "begin": "732.560",
    "children": [],
-   "end": "753.280",
-   "id": "f000056",
+   "end": "736.400",
+   "id": "f000153",
    "language": "eng",
    "lines": [
-    "She buried her face in her handkerchief and sniffed loudly. Harry remembered how touchy Myrtle had always been about being dead, but none of the other ghosts he knew made such a fuss about it."
+    "she said shrilly, and her voice echoed loudly around the bathroom."
    ]
   },
   {
-   "begin": "753.280",
+   "begin": "736.400",
+   "children": [],
+   "end": "737.600",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "\"When I can't."
+   ]
+  },
+  {
+   "begin": "737.600",
+   "children": [],
+   "end": "737.600",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "737.600",
+   "children": [],
+   "end": "737.600",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "737.600",
+   "children": [],
+   "end": "738.920",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "when I haven't."
+   ]
+  },
+  {
+   "begin": "738.920",
+   "children": [],
+   "end": "738.960",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "738.960",
+   "children": [],
+   "end": "738.960",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "738.960",
+   "children": [],
+   "end": "741.080",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "not for ages ...\""
+   ]
+  },
+  {
+   "begin": "741.080",
+   "children": [],
+   "end": "744.760",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "She buried her face in her handkerchief and sniffed loudly."
+   ]
+  },
+  {
+   "begin": "744.760",
+   "children": [],
+   "end": "752.760",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "Harry remembered how touchy Myrtle had always been about being dead, but none of the other ghosts he knew made such a fuss about it."
+   ]
+  },
+  {
+   "begin": "752.760",
+   "children": [],
+   "end": "755.360",
+   "id": "f000163",
+   "language": "eng",
+   "lines": [
+    "\"Sorry,\" he said impatiently."
+   ]
+  },
+  {
+   "begin": "755.360",
    "children": [],
    "end": "757.720",
-   "id": "f000057",
+   "id": "f000164",
    "language": "eng",
    "lines": [
-    "\"Sorry,\" he said impatiently. \"I didn't mean - I just forgot. . .\""
+    "\"I didn't mean - I just forgot."
    ]
   },
   {
    "begin": "757.720",
    "children": [],
-   "end": "799.480",
-   "id": "f000058",
+   "end": "757.720",
+   "id": "f000165",
    "language": "eng",
    "lines": [
-    "\"Oh yes, very easy to forget Myrtle's dead,\" said Myrtle, gulping, looking at him out of swollen eyes. \"Nobody missed me even when I was alive. Took them hours and hours to find my body - I know, I was sitting there waiting for them. Olive Hornby came into the bathroom - Are you in here again, sulking, Myrtle?' she said, 'because Professor Dippet asked me to look for you -' And then she saw my body . . . ooooh, she didn't forget it until her dying day, I made sure of that... followed her around and reminded her, I did. I remember at her brother's wedding -\" But Harry wasn't listening; he was thinking about the merpeople's song again."
+    "."
+   ]
+  },
+  {
+   "begin": "757.720",
+   "children": [],
+   "end": "757.720",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "757.720",
+   "children": [],
+   "end": "766.200",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "\"Oh yes, very easy to forget Myrtle's dead,\" said Myrtle, gulping, looking at him out of swollen eyes."
+   ]
+  },
+  {
+   "begin": "766.200",
+   "children": [],
+   "end": "769.360",
+   "id": "f000168",
+   "language": "eng",
+   "lines": [
+    "\"Nobody missed me even when I was alive."
+   ]
+  },
+  {
+   "begin": "769.360",
+   "children": [],
+   "end": "774.760",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "Took them hours and hours to find my body - I know, I was sitting there waiting for them."
+   ]
+  },
+  {
+   "begin": "774.760",
+   "children": [],
+   "end": "779.680",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "Olive Hornby came into the bathroom - Are you in here again, sulking, Myrtle?'"
+   ]
+  },
+  {
+   "begin": "779.680",
+   "children": [],
+   "end": "784.720",
+   "id": "f000171",
+   "language": "eng",
+   "lines": [
+    "she said, 'because Professor Dippet asked me to look for you -' And then she saw my body ."
+   ]
+  },
+  {
+   "begin": "784.720",
+   "children": [],
+   "end": "784.720",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "784.720",
+   "children": [],
+   "end": "784.720",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "784.720",
+   "children": [],
+   "end": "789.760",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "ooooh, she didn't forget it until her dying day, I made sure of that..."
+   ]
+  },
+  {
+   "begin": "789.760",
+   "children": [],
+   "end": "792.560",
+   "id": "f000175",
+   "language": "eng",
+   "lines": [
+    "followed her around and reminded her, I did."
+   ]
+  },
+  {
+   "begin": "792.560",
+   "children": [],
+   "end": "799.480",
+   "id": "f000176",
+   "language": "eng",
+   "lines": [
+    "I remember at her brother's wedding -\" But Harry wasn't listening; he was thinking about the merpeople's song again."
    ]
   },
   {
    "begin": "799.480",
    "children": [],
-   "end": "818.720",
-   "id": "f000059",
+   "end": "803.240",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "\"We've taken what you II sorely miss.\" That sounded as though they were going to steal something of his, something he had to get back. What were they going to take? \"--and then, of course, she went to the Ministry of Magic to stop me stalking her, so I had to come back here and live in my toilet.\""
+    "\"We've taken what you II sorely miss.\""
+   ]
+  },
+  {
+   "begin": "803.240",
+   "children": [],
+   "end": "808.360",
+   "id": "f000178",
+   "language": "eng",
+   "lines": [
+    "That sounded as though they were going to steal something of his, something he had to get back."
+   ]
+  },
+  {
+   "begin": "808.360",
+   "children": [],
+   "end": "810.160",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "What were they going to take?"
+   ]
+  },
+  {
+   "begin": "810.160",
+   "children": [],
+   "end": "818.720",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "\"--and then, of course, she went to the Ministry of Magic to stop me stalking her, so I had to come back here and live in my toilet.\""
    ]
   },
   {
    "begin": "818.720",
    "children": [],
-   "end": "826.800",
-   "id": "f000060",
+   "end": "821.240",
+   "id": "f000181",
    "language": "eng",
    "lines": [
-    "\"Good,\" said Harry vaguely. \"Well, I'm a lot further on than I was. . . . Shut your eyes again, will you? I'm getting out.\""
+    "\"Good,\" said Harry vaguely."
    ]
   },
   {
-   "begin": "826.800",
+   "begin": "821.240",
+   "children": [],
+   "end": "823.600",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "\"Well, I'm a lot further on than I was."
+   ]
+  },
+  {
+   "begin": "823.600",
+   "children": [],
+   "end": "823.600",
+   "id": "f000183",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "823.600",
+   "children": [],
+   "end": "823.600",
+   "id": "f000184",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "823.600",
+   "children": [],
+   "end": "823.600",
+   "id": "f000185",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "823.600",
+   "children": [],
+   "end": "825.080",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "Shut your eyes again, will you?"
+   ]
+  },
+  {
+   "begin": "825.080",
+   "children": [],
+   "end": "826.160",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "I'm getting out.\""
+   ]
+  },
+  {
+   "begin": "826.160",
    "children": [],
    "end": "833.640",
-   "id": "f000061",
+   "id": "f000188",
    "language": "eng",
    "lines": [
     "He retrieved the egg from the bottom of the bath, climbed out, dried himself, and pulled on his pajamas and dressing gown again."
@@ -613,168 +1883,708 @@
   {
    "begin": "833.640",
    "children": [],
-   "end": "843.120",
-   "id": "f000062",
+   "end": "837.920",
+   "id": "f000189",
    "language": "eng",
    "lines": [
-    "\"Will you come and visit me in my bathroom again sometime?\" Moaning Myrtle asked mournfully as Harry picked up the Invisibility Cloak."
+    "\"Will you come and visit me in my bathroom again sometime?\""
+   ]
+  },
+  {
+   "begin": "837.920",
+   "children": [],
+   "end": "843.120",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "Moaning Myrtle asked mournfully as Harry picked up the Invisibility Cloak."
    ]
   },
   {
    "begin": "843.120",
    "children": [],
-   "end": "854.960",
-   "id": "f000063",
+   "end": "843.560",
+   "id": "f000191",
    "language": "eng",
    "lines": [
-    "\"Er . . . I'll try,\" Harry said, though privately thinking the only way he'd be visiting Myrtle's bathroom again was if every other toilet in the castle got blocked. \"See you. Myrtle... thanks for your help.\""
+    "\"Er ."
+   ]
+  },
+  {
+   "begin": "843.560",
+   "children": [],
+   "end": "843.560",
+   "id": "f000192",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "843.560",
+   "children": [],
+   "end": "843.560",
+   "id": "f000193",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "843.560",
+   "children": [],
+   "end": "853.040",
+   "id": "f000194",
+   "language": "eng",
+   "lines": [
+    "I'll try,\" Harry said, though privately thinking the only way he'd be visiting Myrtle's bathroom again was if every other toilet in the castle got blocked."
+   ]
+  },
+  {
+   "begin": "853.040",
+   "children": [],
+   "end": "853.560",
+   "id": "f000195",
+   "language": "eng",
+   "lines": [
+    "\"See you."
+   ]
+  },
+  {
+   "begin": "853.560",
+   "children": [],
+   "end": "853.920",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "Myrtle..."
+   ]
+  },
+  {
+   "begin": "853.920",
+   "children": [],
+   "end": "854.960",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "thanks for your help.\""
    ]
   },
   {
    "begin": "854.960",
    "children": [],
-   "end": "864.280",
-   "id": "f000064",
+   "end": "864.160",
+   "id": "f000198",
    "language": "eng",
    "lines": [
     "\"Bye, 'bye,\" she said gloomily, and as Harry put on the Invisibllity Cloak he saw her zoom back up the tap."
    ]
   },
   {
-   "begin": "864.280",
+   "begin": "864.160",
    "children": [],
-   "end": "891.000",
-   "id": "f000065",
+   "end": "870.160",
+   "id": "f000199",
    "language": "eng",
    "lines": [
-    "Out in the dark corridor, Harry examined the Marauders Map to check that the coast was still clear. Yes, the dots belonging to Filch and his cat, Mrs. Norris, were safely in their office . .. nothing else seemed to be moving apart from Peeves, though he was bouncing around the trophy room on the floor above. ... Harry had taken his first step back toward Gryffindor Tower when something else on the map caught his eye . . . something distinctly odd."
+    "Out in the dark corridor, Harry examined the Marauders Map to check that the coast was still clear."
+   ]
+  },
+  {
+   "begin": "870.160",
+   "children": [],
+   "end": "875.520",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "Yes, the dots belonging to Filch and his cat, Mrs. Norris, were safely in their office ."
+   ]
+  },
+  {
+   "begin": "875.520",
+   "children": [],
+   "end": "875.520",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "875.520",
+   "children": [],
+   "end": "881.320",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "nothing else seemed to be moving apart from Peeves, though he was bouncing around the trophy room on the floor above."
+   ]
+  },
+  {
+   "begin": "881.320",
+   "children": [],
+   "end": "881.320",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "..."
+   ]
+  },
+  {
+   "begin": "881.320",
+   "children": [],
+   "end": "888.360",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Harry had taken his first step back toward Gryffindor Tower when something else on the map caught his eye ."
+   ]
+  },
+  {
+   "begin": "888.360",
+   "children": [],
+   "end": "888.360",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "888.360",
+   "children": [],
+   "end": "888.360",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "888.360",
+   "children": [],
+   "end": "891.000",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "something distinctly odd."
    ]
   },
   {
    "begin": "891.000",
    "children": [],
-   "end": "908.840",
-   "id": "f000066",
+   "end": "895.200",
+   "id": "f000208",
    "language": "eng",
    "lines": [
-    "Peeves was not the only thing that was moving. A single dot was flitting around a room in the bottom left-hand corner - Snapes office. But the dot wasn't labeled \"Severus Snape\" ... it was Bartemius Crouch."
+    "Peeves was not the only thing that was moving."
    ]
   },
   {
-   "begin": "908.840",
+   "begin": "895.200",
    "children": [],
-   "end": "926.960",
-   "id": "f000067",
+   "end": "901.280",
+   "id": "f000209",
    "language": "eng",
    "lines": [
-    "Harry stared at the dot. Mr. Crouch was supposed to be too ill to go to work or to come to the Yule Ball - so what was he doing, sneaking into Hogwarts at one o'clock in the morning? Harry watched closely as the dot moved around and around the room, pausing here and there. ..."
+    "A single dot was flitting around a room in the bottom left-hand corner - Snapes office."
+   ]
+  },
+  {
+   "begin": "901.280",
+   "children": [],
+   "end": "904.800",
+   "id": "f000210",
+   "language": "eng",
+   "lines": [
+    "But the dot wasn't labeled \"Severus Snape\" ..."
+   ]
+  },
+  {
+   "begin": "904.800",
+   "children": [],
+   "end": "907.680",
+   "id": "f000211",
+   "language": "eng",
+   "lines": [
+    "it was Bartemius Crouch."
+   ]
+  },
+  {
+   "begin": "907.680",
+   "children": [],
+   "end": "910.480",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Harry stared at the dot."
+   ]
+  },
+  {
+   "begin": "910.480",
+   "children": [],
+   "end": "920.560",
+   "id": "f000213",
+   "language": "eng",
+   "lines": [
+    "Mr. Crouch was supposed to be too ill to go to work or to come to the Yule Ball - so what was he doing, sneaking into Hogwarts at one o'clock in the morning?"
+   ]
+  },
+  {
+   "begin": "920.560",
+   "children": [],
+   "end": "926.960",
+   "id": "f000214",
+   "language": "eng",
+   "lines": [
+    "Harry watched closely as the dot moved around and around the room, pausing here and there."
    ]
   },
   {
    "begin": "926.960",
    "children": [],
-   "end": "941.000",
-   "id": "f000068",
+   "end": "926.960",
+   "id": "f000215",
    "language": "eng",
    "lines": [
-    "Harry hesitated, thinking . . . and then his curiosity got the better of him. He turned and set off in the opposite direction toward the nearest staircase. He was going to see what Crouch was up to."
+    "..."
    ]
   },
   {
-   "begin": "941.000",
+   "begin": "926.960",
    "children": [],
-   "end": "974.760",
-   "id": "f000069",
+   "end": "929.840",
+   "id": "f000216",
    "language": "eng",
    "lines": [
-    "Harry walked down the stairs as quietly as possible, though the faces in some of the portraits still turned curiously at the squeak of a floorboard, the rustle of his pajamas. He crept along the corridor below, pushed aside a tapestry about halfway along, and proceeded down a narrower staircase, a shortcut that would take him down two floors. He kept glancing down at the map, wondering ... It just didn't seem in character, somehow, for correct, law-abiding Mr. Crouch to be sneaking around somebody else's office this late at night...."
+    "Harry hesitated, thinking ."
+   ]
+  },
+  {
+   "begin": "929.840",
+   "children": [],
+   "end": "929.840",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "929.840",
+   "children": [],
+   "end": "929.840",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "929.840",
+   "children": [],
+   "end": "932.520",
+   "id": "f000219",
+   "language": "eng",
+   "lines": [
+    "and then his curiosity got the better of him."
+   ]
+  },
+  {
+   "begin": "932.520",
+   "children": [],
+   "end": "937.200",
+   "id": "f000220",
+   "language": "eng",
+   "lines": [
+    "He turned and set off in the opposite direction toward the nearest staircase."
+   ]
+  },
+  {
+   "begin": "937.200",
+   "children": [],
+   "end": "940.120",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "He was going to see what Crouch was up to."
+   ]
+  },
+  {
+   "begin": "940.120",
+   "children": [],
+   "end": "949.880",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "Harry walked down the stairs as quietly as possible, though the faces in some of the portraits still turned curiously at the squeak of a floorboard, the rustle of his pajamas."
+   ]
+  },
+  {
+   "begin": "949.880",
+   "children": [],
+   "end": "961.480",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "He crept along the corridor below, pushed aside a tapestry about halfway along, and proceeded down a narrower staircase, a shortcut that would take him down two floors."
+   ]
+  },
+  {
+   "begin": "961.480",
+   "children": [],
+   "end": "965.280",
+   "id": "f000224",
+   "language": "eng",
+   "lines": [
+    "He kept glancing down at the map, wondering ..."
+   ]
+  },
+  {
+   "begin": "965.280",
+   "children": [],
+   "end": "974.760",
+   "id": "f000225",
+   "language": "eng",
+   "lines": [
+    "It just didn't seem in character, somehow, for correct, law-abiding Mr. Crouch to be sneaking around somebody else's office this late at night...."
    ]
   },
   {
    "begin": "974.760",
    "children": [],
-   "end": "1017.840",
-   "id": "f000070",
+   "end": "989.880",
+   "id": "f000226",
    "language": "eng",
    "lines": [
-    "And then, halfway down the staircase, not thinking about what he was doing, not concentrating on anything but the peculiar behavior of Mr. Crouch, Harrys leg suddenly sank right through the trick step Neville always forgot to jump. He gave an ungainly wobble, and the golden egg, still damp from the bath, slipped from under his arm. He lurched forward to try and catch it, but too late; the egg fell down the long staircase with a bang as loud as a bass drum on every step - the Invisibility Cloak slipped - Harry snatched at it, and the Marauder s Map fluttered out of his hand and slid down six stairs, where, sunk in the step to above his knee,"
+    "And then, halfway down the staircase, not thinking about what he was doing, not concentrating on anything but the peculiar behavior of Mr. Crouch, Harrys leg suddenly sank right through the trick step Neville always forgot to jump."
    ]
   },
   {
-   "begin": "1017.840",
+   "begin": "989.880",
    "children": [],
-   "end": "1020.360",
-   "id": "f000071",
+   "end": "996.640",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "He gave an ungainly wobble, and the golden egg, still damp from the bath, slipped from under his arm."
+   ]
+  },
+  {
+   "begin": "996.640",
+   "children": [],
+   "end": "1017.520",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "He lurched forward to try and catch it, but too late; the egg fell down the long staircase with a bang as loud as a bass drum on every step - the Invisibility Cloak slipped - Harry snatched at it, and the Marauder s Map fluttered out of his hand and slid down six stairs, where, sunk in the step to above his knee,"
+   ]
+  },
+  {
+   "begin": "1017.520",
+   "children": [],
+   "end": "1019.160",
+   "id": "f000229",
    "language": "eng",
    "lines": [
     "he couldn't reach it."
    ]
   },
   {
-   "begin": "1020.360",
+   "begin": "1019.160",
    "children": [],
-   "end": "1048.240",
-   "id": "f000072",
+   "end": "1028.760",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "The golden egg fell through the tapestry at the bottom of the staircase, burst open, and began wailing loudly in the corridor below. Harry pulled out his wand and struggled to touch the Marauder s Map, to wipe it blank, but it was too far away to reach - Pulling the cloak back over himself Harry straightened up, listening hard with his eyes screwed up with fear. . . and, almost immediately - \"PEEVES!\""
+    "The golden egg fell through the tapestry at the bottom of the staircase, burst open, and began wailing loudly in the corridor below."
    ]
   },
   {
-   "begin": "1048.240",
+   "begin": "1028.760",
    "children": [],
-   "end": "1059.280",
-   "id": "f000073",
+   "end": "1044.240",
+   "id": "f000231",
    "language": "eng",
    "lines": [
-    "It was the unmistakable hunting cry of Filch the caretaker. Harry could hear his rapid, shuffling footsteps coming nearer and nearer, his wheezy voice raised in fury."
+    "Harry pulled out his wand and struggled to touch the Marauder s Map, to wipe it blank, but it was too far away to reach - Pulling the cloak back over himself Harry straightened up, listening hard with his eyes screwed up with fear."
+   ]
+  },
+  {
+   "begin": "1044.240",
+   "children": [],
+   "end": "1044.240",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1044.240",
+   "children": [],
+   "end": "1044.240",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1044.240",
+   "children": [],
+   "end": "1047.680",
+   "id": "f000234",
+   "language": "eng",
+   "lines": [
+    "and, almost immediately - \"PEEVES!\""
+   ]
+  },
+  {
+   "begin": "1047.680",
+   "children": [],
+   "end": "1051.960",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "It was the unmistakable hunting cry of Filch the caretaker."
+   ]
+  },
+  {
+   "begin": "1051.960",
+   "children": [],
+   "end": "1059.280",
+   "id": "f000236",
+   "language": "eng",
+   "lines": [
+    "Harry could hear his rapid, shuffling footsteps coming nearer and nearer, his wheezy voice raised in fury."
    ]
   },
   {
    "begin": "1059.280",
    "children": [],
-   "end": "1067.480",
-   "id": "f000074",
+   "end": "1060.640",
+   "id": "f000237",
    "language": "eng",
    "lines": [
-    "\"What's this racket? Wake up the whole castle, will you? I'll have you, Peeves, I'll have you, you'll... and what is this?\""
+    "\"What's this racket?"
+   ]
+  },
+  {
+   "begin": "1060.640",
+   "children": [],
+   "end": "1062.760",
+   "id": "f000238",
+   "language": "eng",
+   "lines": [
+    "Wake up the whole castle, will you?"
+   ]
+  },
+  {
+   "begin": "1062.760",
+   "children": [],
+   "end": "1065.720",
+   "id": "f000239",
+   "language": "eng",
+   "lines": [
+    "I'll have you, Peeves, I'll have you, you'll..."
+   ]
+  },
+  {
+   "begin": "1065.720",
+   "children": [],
+   "end": "1067.480",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "and what is this?\""
    ]
   },
   {
    "begin": "1067.480",
    "children": [],
-   "end": "1102.200",
-   "id": "f000075",
+   "end": "1076.760",
+   "id": "f000241",
    "language": "eng",
    "lines": [
-    "Filch's footsteps halted; there was a clink of metal on metal and the wailing stopped - Filch had picked up the egg and closed it. Harry stood very still, one leg still Jammed tightly in the magical step, listening. Any moment now, Filch was going to pull aside the tapestry, expecting to see Peeves . . . and there would be no Peeves ... but if he came up the stairs, he would spot the Marauder's Map . . . and Invisibility Cloak or not, the map would show \"Harry Potter\" standing exactly where he was."
+    "Filch's footsteps halted; there was a clink of metal on metal and the wailing stopped - Filch had picked up the egg and closed it."
+   ]
+  },
+  {
+   "begin": "1076.760",
+   "children": [],
+   "end": "1083.120",
+   "id": "f000242",
+   "language": "eng",
+   "lines": [
+    "Harry stood very still, one leg still Jammed tightly in the magical step, listening."
+   ]
+  },
+  {
+   "begin": "1083.120",
+   "children": [],
+   "end": "1089.520",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "Any moment now, Filch was going to pull aside the tapestry, expecting to see Peeves ."
+   ]
+  },
+  {
+   "begin": "1089.520",
+   "children": [],
+   "end": "1089.520",
+   "id": "f000244",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1089.520",
+   "children": [],
+   "end": "1089.520",
+   "id": "f000245",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1089.520",
+   "children": [],
+   "end": "1091.600",
+   "id": "f000246",
+   "language": "eng",
+   "lines": [
+    "and there would be no Peeves ..."
+   ]
+  },
+  {
+   "begin": "1091.600",
+   "children": [],
+   "end": "1095.040",
+   "id": "f000247",
+   "language": "eng",
+   "lines": [
+    "but if he came up the stairs, he would spot the Marauder's Map ."
+   ]
+  },
+  {
+   "begin": "1095.040",
+   "children": [],
+   "end": "1095.040",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1095.040",
+   "children": [],
+   "end": "1095.040",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1095.040",
+   "children": [],
+   "end": "1102.200",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "and Invisibility Cloak or not, the map would show \"Harry Potter\" standing exactly where he was."
    ]
   },
   {
    "begin": "1102.200",
    "children": [],
-   "end": "1115.840",
-   "id": "f000076",
+   "end": "1104.000",
+   "id": "f000251",
    "language": "eng",
    "lines": [
-    "\"Egg?\" Filch said quietly at the foot of the stairs. \"My sweet!\" - Mrs. Norris was obviously with him - \"This is a Triwizard clue! This belongs to a school champion!\""
+    "\"Egg?\""
    ]
   },
   {
-   "begin": "1115.840",
+   "begin": "1104.000",
    "children": [],
-   "end": "1125.040",
-   "id": "f000077",
+   "end": "1106.840",
+   "id": "f000252",
    "language": "eng",
    "lines": [
-    "Harry felt sick; his heart was hammering very fast - \"PEEVES!\" Filch roared gleefully. \"You've been stealing!\""
+    "Filch said quietly at the foot of the stairs."
+   ]
+  },
+  {
+   "begin": "1106.840",
+   "children": [],
+   "end": "1108.480",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "\"My sweet!\""
+   ]
+  },
+  {
+   "begin": "1108.480",
+   "children": [],
+   "end": "1112.720",
+   "id": "f000254",
+   "language": "eng",
+   "lines": [
+    "- Mrs. Norris was obviously with him - \"This is a Triwizard clue!"
+   ]
+  },
+  {
+   "begin": "1112.720",
+   "children": [],
+   "end": "1115.120",
+   "id": "f000255",
+   "language": "eng",
+   "lines": [
+    "This belongs to a school champion!\""
+   ]
+  },
+  {
+   "begin": "1115.120",
+   "children": [],
+   "end": "1121.440",
+   "id": "f000256",
+   "language": "eng",
+   "lines": [
+    "Harry felt sick; his heart was hammering very fast - \"PEEVES!\""
+   ]
+  },
+  {
+   "begin": "1121.440",
+   "children": [],
+   "end": "1123.240",
+   "id": "f000257",
+   "language": "eng",
+   "lines": [
+    "Filch roared gleefully."
+   ]
+  },
+  {
+   "begin": "1123.240",
+   "children": [],
+   "end": "1125.040",
+   "id": "f000258",
+   "language": "eng",
+   "lines": [
+    "\"You've been stealing!\""
    ]
   },
   {
    "begin": "1125.040",
    "children": [],
    "end": "1137.440",
-   "id": "f000078",
+   "id": "f000259",
    "language": "eng",
    "lines": [
     "He ripped back the tapestry below, and Harry saw his horrible, pouchy face and bulging, pale eyes staring up the dark and (to Filch) deserted staircase."
@@ -783,28 +2593,128 @@
   {
    "begin": "1137.440",
    "children": [],
-   "end": "1151.720",
-   "id": "f000079",
+   "end": "1139.440",
+   "id": "f000260",
    "language": "eng",
    "lines": [
-    "\"Hiding, are you?\" he said softly. \"I'm coming to get you, Peeves. . . . You've gone and stolen a Triwizard clue, Peeves... . Dumbledore'll have you out of here for this, you filthy, pilfering poltergeist. ...\""
+    "\"Hiding, are you?\""
+   ]
+  },
+  {
+   "begin": "1139.440",
+   "children": [],
+   "end": "1140.800",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "he said softly."
+   ]
+  },
+  {
+   "begin": "1140.800",
+   "children": [],
+   "end": "1143.520",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "\"I'm coming to get you, Peeves."
+   ]
+  },
+  {
+   "begin": "1143.520",
+   "children": [],
+   "end": "1143.520",
+   "id": "f000263",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1143.520",
+   "children": [],
+   "end": "1143.520",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1143.520",
+   "children": [],
+   "end": "1143.520",
+   "id": "f000265",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1143.520",
+   "children": [],
+   "end": "1147.320",
+   "id": "f000266",
+   "language": "eng",
+   "lines": [
+    "You've gone and stolen a Triwizard clue, Peeves..."
+   ]
+  },
+  {
+   "begin": "1147.320",
+   "children": [],
+   "end": "1147.360",
+   "id": "f000267",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1147.360",
+   "children": [],
+   "end": "1151.720",
+   "id": "f000268",
+   "language": "eng",
+   "lines": [
+    "Dumbledore'll have you out of here for this, you filthy, pilfering poltergeist."
    ]
   },
   {
    "begin": "1151.720",
    "children": [],
-   "end": "1158.560",
-   "id": "f000080",
+   "end": "1151.720",
+   "id": "f000269",
    "language": "eng",
    "lines": [
-    "Filch started to climb the stairs, his scrawny, dust-colored cat at his heels. Mrs."
+    "...\""
    ]
   },
   {
-   "begin": "1158.560",
+   "begin": "1151.720",
+   "children": [],
+   "end": "1157.760",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "Filch started to climb the stairs, his scrawny, dust-colored cat at his heels."
+   ]
+  },
+  {
+   "begin": "1157.760",
+   "children": [],
+   "end": "1158.480",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "Mrs."
+   ]
+  },
+  {
+   "begin": "1158.480",
    "children": [],
    "end": "1163.920",
-   "id": "f000081",
+   "id": "f000272",
    "language": "eng",
    "lines": [
     "Morris's lamp-like eyes, so very like her masters, were fixed directly upon Harry."
@@ -813,208 +2723,818 @@
   {
    "begin": "1163.920",
    "children": [],
-   "end": "1187.440",
-   "id": "f000082",
+   "end": "1169.920",
+   "id": "f000273",
    "language": "eng",
    "lines": [
-    "He had had occasion before now to wonder whether the Invisibility Cloak worked on cats. . . . Sick with apprehension, he watched Filch drawing nearer and nearer in his old flannel dressing gown - he tried desperately to pull his trapped leg free, but it merely sank a few more inches - any second now, Filch was going to spot the map or walk right into him -"
+    "He had had occasion before now to wonder whether the Invisibility Cloak worked on cats."
+   ]
+  },
+  {
+   "begin": "1169.920",
+   "children": [],
+   "end": "1169.920",
+   "id": "f000274",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1169.920",
+   "children": [],
+   "end": "1169.920",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1169.920",
+   "children": [],
+   "end": "1169.920",
+   "id": "f000276",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1169.920",
+   "children": [],
+   "end": "1187.440",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "Sick with apprehension, he watched Filch drawing nearer and nearer in his old flannel dressing gown - he tried desperately to pull his trapped leg free, but it merely sank a few more inches - any second now, Filch was going to spot the map or walk right into him -"
    ]
   },
   {
    "begin": "1187.440",
    "children": [],
-   "end": "1190.360",
-   "id": "f000083",
+   "end": "1188.480",
+   "id": "f000278",
    "language": "eng",
    "lines": [
-    "\"Filch? Whats going on?\""
+    "\"Filch?"
    ]
   },
   {
-   "begin": "1190.360",
+   "begin": "1188.480",
    "children": [],
-   "end": "1205.280",
-   "id": "f000084",
+   "end": "1189.720",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "Filch stopped a few steps below Harry and turned. At the foot of the stairs stood the only person who could make Harry's situation worse: Snape. He was wearing a long gray nightshirt and he looked livid."
+    "Whats going on?\""
+   ]
+  },
+  {
+   "begin": "1189.720",
+   "children": [],
+   "end": "1193.520",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "Filch stopped a few steps below Harry and turned."
+   ]
+  },
+  {
+   "begin": "1193.520",
+   "children": [],
+   "end": "1200.760",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "At the foot of the stairs stood the only person who could make Harry's situation worse: Snape."
+   ]
+  },
+  {
+   "begin": "1200.760",
+   "children": [],
+   "end": "1205.280",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "He was wearing a long gray nightshirt and he looked livid."
    ]
   },
   {
    "begin": "1205.280",
    "children": [],
-   "end": "1213.480",
-   "id": "f000085",
+   "end": "1209.800",
+   "id": "f000283",
    "language": "eng",
    "lines": [
-    "\"Its Peeves, Professor,\" Filch whispered malevolently. \"He threw this egg down the stairs.\""
+    "\"Its Peeves, Professor,\" Filch whispered malevolently."
    ]
   },
   {
-   "begin": "1213.480",
+   "begin": "1209.800",
    "children": [],
-   "end": "1223.600",
-   "id": "f000086",
+   "end": "1212.840",
+   "id": "f000284",
    "language": "eng",
    "lines": [
-    "Snape climbed up the stairs quickly and stopped beside Filch. Harry gritted his teeth, convinced his loudly thumping heart would give him away at any second. . . ."
+    "\"He threw this egg down the stairs.\""
    ]
   },
   {
-   "begin": "1223.600",
+   "begin": "1212.840",
+   "children": [],
+   "end": "1217.560",
+   "id": "f000285",
+   "language": "eng",
+   "lines": [
+    "Snape climbed up the stairs quickly and stopped beside Filch."
+   ]
+  },
+  {
+   "begin": "1217.560",
+   "children": [],
+   "end": "1223.480",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "Harry gritted his teeth, convinced his loudly thumping heart would give him away at any second."
+   ]
+  },
+  {
+   "begin": "1223.480",
+   "children": [],
+   "end": "1223.480",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1223.480",
+   "children": [],
+   "end": "1223.480",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1223.480",
+   "children": [],
+   "end": "1223.480",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1223.480",
+   "children": [],
+   "end": "1225.960",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "\"Peeves?\""
+   ]
+  },
+  {
+   "begin": "1225.960",
+   "children": [],
+   "end": "1230.000",
+   "id": "f000291",
+   "language": "eng",
+   "lines": [
+    "said Snape softly, staring at the egg in Filch's hands."
+   ]
+  },
+  {
+   "begin": "1230.000",
    "children": [],
    "end": "1233.320",
-   "id": "f000087",
+   "id": "f000292",
    "language": "eng",
    "lines": [
-    "\"Peeves?\" said Snape softly, staring at the egg in Filch's hands. \"But Peeves couldn't get into my office. . . .\""
+    "\"But Peeves couldn't get into my office."
    ]
   },
   {
    "begin": "1233.320",
    "children": [],
-   "end": "1235.960",
-   "id": "f000088",
+   "end": "1233.320",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "\"This egg was in your office. Professor?\""
+    "."
+   ]
+  },
+  {
+   "begin": "1233.320",
+   "children": [],
+   "end": "1233.320",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1233.320",
+   "children": [],
+   "end": "1233.320",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1233.320",
+   "children": [],
+   "end": "1235.440",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "\"This egg was in your office."
+   ]
+  },
+  {
+   "begin": "1235.440",
+   "children": [],
+   "end": "1235.960",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "Professor?\""
    ]
   },
   {
    "begin": "1235.960",
    "children": [],
-   "end": "1253.120",
-   "id": "f000089",
+   "end": "1238.040",
+   "id": "f000298",
    "language": "eng",
    "lines": [
-    "\"Of course not,\" Snape snapped. \"I heard banging and wailing -\" \"Yes, Professor, that was the egg -\" \"- I was coming to investigate -\" \"- Peeves threw it. Professor -\" \"- and when I passed my office, I saw that the torches were lit and a cupboard door was ajar! Somebody has been searching it!\""
+    "\"Of course not,\" Snape snapped."
    ]
   },
   {
-   "begin": "1253.120",
+   "begin": "1238.040",
    "children": [],
-   "end": "1270.920",
-   "id": "f000090",
+   "end": "1245.080",
+   "id": "f000299",
    "language": "eng",
    "lines": [
-    "But Peeves couldn't -\" \"I know he couldn't, Filch!\" Snape snapped again. \"I seal my office with a spell none but a wizard could break!\" Snape looked up the stairs, straight through Harry, and then down into the corridor below. \"I want you to come and help me search for the intruder, Filch.\""
+    "\"I heard banging and wailing -\" \"Yes, Professor, that was the egg -\" \"- I was coming to investigate -\" \"- Peeves threw it."
+   ]
+  },
+  {
+   "begin": "1245.080",
+   "children": [],
+   "end": "1250.680",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "Professor -\" \"- and when I passed my office, I saw that the torches were lit and a cupboard door was ajar!"
+   ]
+  },
+  {
+   "begin": "1250.680",
+   "children": [],
+   "end": "1252.560",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "Somebody has been searching it!\""
+   ]
+  },
+  {
+   "begin": "1252.560",
+   "children": [],
+   "end": "1256.520",
+   "id": "f000302",
+   "language": "eng",
+   "lines": [
+    "But Peeves couldn't -\" \"I know he couldn't, Filch!\""
+   ]
+  },
+  {
+   "begin": "1256.520",
+   "children": [],
+   "end": "1258.080",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "Snape snapped again."
+   ]
+  },
+  {
+   "begin": "1258.080",
+   "children": [],
+   "end": "1261.360",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "\"I seal my office with a spell none but a wizard could break!\""
+   ]
+  },
+  {
+   "begin": "1261.360",
+   "children": [],
+   "end": "1267.360",
+   "id": "f000305",
+   "language": "eng",
+   "lines": [
+    "Snape looked up the stairs, straight through Harry, and then down into the corridor below."
+   ]
+  },
+  {
+   "begin": "1267.360",
+   "children": [],
+   "end": "1270.920",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "\"I want you to come and help me search for the intruder, Filch.\""
    ]
   },
   {
    "begin": "1270.920",
    "children": [],
-   "end": "1299.040",
-   "id": "f000091",
+   "end": "1281.800",
+   "id": "f000307",
    "language": "eng",
    "lines": [
-    "\"I - yes, Professor - but -\" Filch looked yearningly up the stairs, right through Harry, who could see that he was very reluctant to forgo the chance of cornering Peeves. Go, Harry pleaded with him silently, go with Snape . . . go. . . Mrs. Norris was peering around Filch's legs.... Harry had the distinct impression that she could smell him.. . . Why had he filled that bath with so much perfumed foam?"
+    "\"I - yes, Professor - but -\" Filch looked yearningly up the stairs, right through Harry, who could see that he was very reluctant to forgo the chance of cornering Peeves."
    ]
   },
   {
-   "begin": "1299.040",
+   "begin": "1281.800",
    "children": [],
-   "end": "1321.080",
-   "id": "f000092",
+   "end": "1287.120",
+   "id": "f000308",
    "language": "eng",
    "lines": [
-    "\"The thing is, Professor,\" said Filch plaintively, \"the headmaster will have to listen to me this time. Peeves has been stealing from a student, it might be my chance to get him thrown out of the castle once and for all -\" \"Filch, I don't give a damn about that wretched poltergeist; it's my office that's -\" Clunk. Clunk. Clunk."
+    "Go, Harry pleaded with him silently, go with Snape ."
    ]
   },
   {
-   "begin": "1321.080",
+   "begin": "1287.120",
+   "children": [],
+   "end": "1287.120",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1287.120",
+   "children": [],
+   "end": "1287.120",
+   "id": "f000310",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1287.120",
+   "children": [],
+   "end": "1288.200",
+   "id": "f000311",
+   "language": "eng",
+   "lines": [
+    "go."
+   ]
+  },
+  {
+   "begin": "1288.200",
+   "children": [],
+   "end": "1288.200",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1288.200",
+   "children": [],
+   "end": "1288.200",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1288.200",
+   "children": [],
+   "end": "1291.680",
+   "id": "f000314",
+   "language": "eng",
+   "lines": [
+    "Mrs. Norris was peering around Filch's legs...."
+   ]
+  },
+  {
+   "begin": "1291.680",
+   "children": [],
+   "end": "1294.760",
+   "id": "f000315",
+   "language": "eng",
+   "lines": [
+    "Harry had the distinct impression that she could smell him.."
+   ]
+  },
+  {
+   "begin": "1294.760",
+   "children": [],
+   "end": "1294.800",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1294.800",
+   "children": [],
+   "end": "1294.800",
+   "id": "f000317",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1294.800",
+   "children": [],
+   "end": "1298.880",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "Why had he filled that bath with so much perfumed foam?"
+   ]
+  },
+  {
+   "begin": "1298.880",
+   "children": [],
+   "end": "1305.840",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "\"The thing is, Professor,\" said Filch plaintively, \"the headmaster will have to listen to me this time."
+   ]
+  },
+  {
+   "begin": "1305.840",
+   "children": [],
+   "end": "1318.160",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "Peeves has been stealing from a student, it might be my chance to get him thrown out of the castle once and for all -\" \"Filch, I don't give a damn about that wretched poltergeist; it's my office that's -\" Clunk."
+   ]
+  },
+  {
+   "begin": "1318.160",
+   "children": [],
+   "end": "1319.200",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "Clunk."
+   ]
+  },
+  {
+   "begin": "1319.200",
+   "children": [],
+   "end": "1320.280",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "Clunk."
+   ]
+  },
+  {
+   "begin": "1320.280",
+   "children": [],
+   "end": "1323.680",
+   "id": "f000323",
+   "language": "eng",
+   "lines": [
+    "Snape stopped talking very abruptly."
+   ]
+  },
+  {
+   "begin": "1323.680",
+   "children": [],
+   "end": "1327.480",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "He and Filch both looked down at the foot of the stairs."
+   ]
+  },
+  {
+   "begin": "1327.480",
+   "children": [],
+   "end": "1333.640",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "Harry saw Mad-Eye Moody limp into sight through the narrow gap between their heads."
+   ]
+  },
+  {
+   "begin": "1333.640",
    "children": [],
    "end": "1340.280",
-   "id": "f000093",
+   "id": "f000326",
    "language": "eng",
    "lines": [
-    "Snape stopped talking very abruptly. He and Filch both looked down at the foot of the stairs. Harry saw Mad-Eye Moody limp into sight through the narrow gap between their heads. Moody was wearing his old traveling cloak over his nightshirt and leaning on his staff as usual."
+    "Moody was wearing his old traveling cloak over his nightshirt and leaning on his staff as usual."
    ]
   },
   {
    "begin": "1340.280",
    "children": [],
-   "end": "1344.200",
-   "id": "f000094",
+   "end": "1342.520",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "\"Pajama party, is it?\" he growled up the stairs."
+    "\"Pajama party, is it?\""
+   ]
+  },
+  {
+   "begin": "1342.520",
+   "children": [],
+   "end": "1344.200",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "he growled up the stairs."
    ]
   },
   {
    "begin": "1344.200",
    "children": [],
-   "end": "1359.360",
-   "id": "f000095",
+   "end": "1349.120",
+   "id": "f000329",
    "language": "eng",
    "lines": [
-    "\"Professor Snape and I heard noises, Professor,\" said Filch at once. \"Peeves the Poltergeist, throwing things around as usual - and then Professor Snape discovered that someone had broken into his off -\" \"Shut up!\" Snape hissed to Filch."
+    "\"Professor Snape and I heard noises, Professor,\" said Filch at once."
+   ]
+  },
+  {
+   "begin": "1349.120",
+   "children": [],
+   "end": "1357.440",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "\"Peeves the Poltergeist, throwing things around as usual - and then Professor Snape discovered that someone had broken into his off -\" \"Shut up!\""
+   ]
+  },
+  {
+   "begin": "1357.440",
+   "children": [],
+   "end": "1359.360",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "Snape hissed to Filch."
    ]
   },
   {
    "begin": "1359.360",
    "children": [],
-   "end": "1370.600",
-   "id": "f000096",
+   "end": "1362.880",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "Moody took a step closer to the foot of the stairs. Harry saw Moodys magical eye travel over Snape, and then, unmistakably, onto himself."
+    "Moody took a step closer to the foot of the stairs."
+   ]
+  },
+  {
+   "begin": "1362.880",
+   "children": [],
+   "end": "1370.600",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "Harry saw Moodys magical eye travel over Snape, and then, unmistakably, onto himself."
    ]
   },
   {
    "begin": "1370.600",
    "children": [],
-   "end": "1403.000",
-   "id": "f000097",
+   "end": "1373.800",
+   "id": "f000334",
    "language": "eng",
    "lines": [
-    "Harrys heart gave a horrible jolt. Moody could see through Invisibility Cloaks... he alone could see the full strangeness of the scene: Snape in his nightshirt, Filch clutching the egg, and he, Harry, trapped in the stairs behind them. Moody's lopsided gash of a mouth opened in surprise. For a few seconds, he and Harry stared straight into each other's eyes. Then Moody closed his mouth and turned his blue eye upon Snape again."
+    "Harrys heart gave a horrible jolt."
+   ]
+  },
+  {
+   "begin": "1373.800",
+   "children": [],
+   "end": "1377.040",
+   "id": "f000335",
+   "language": "eng",
+   "lines": [
+    "Moody could see through Invisibility Cloaks..."
+   ]
+  },
+  {
+   "begin": "1377.040",
+   "children": [],
+   "end": "1388.200",
+   "id": "f000336",
+   "language": "eng",
+   "lines": [
+    "he alone could see the full strangeness of the scene: Snape in his nightshirt, Filch clutching the egg, and he, Harry, trapped in the stairs behind them."
+   ]
+  },
+  {
+   "begin": "1388.200",
+   "children": [],
+   "end": "1392.760",
+   "id": "f000337",
+   "language": "eng",
+   "lines": [
+    "Moody's lopsided gash of a mouth opened in surprise."
+   ]
+  },
+  {
+   "begin": "1392.760",
+   "children": [],
+   "end": "1397.840",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "For a few seconds, he and Harry stared straight into each other's eyes."
+   ]
+  },
+  {
+   "begin": "1397.840",
+   "children": [],
+   "end": "1403.000",
+   "id": "f000339",
+   "language": "eng",
+   "lines": [
+    "Then Moody closed his mouth and turned his blue eye upon Snape again."
    ]
   },
   {
    "begin": "1403.000",
    "children": [],
-   "end": "1410.440",
-   "id": "f000098",
+   "end": "1406.480",
+   "id": "f000340",
    "language": "eng",
    "lines": [
-    "\"Did I hear that correctly, Snape?\" he asked slowly. \"Someone broke into your office?\""
+    "\"Did I hear that correctly, Snape?\""
+   ]
+  },
+  {
+   "begin": "1406.480",
+   "children": [],
+   "end": "1407.880",
+   "id": "f000341",
+   "language": "eng",
+   "lines": [
+    "he asked slowly."
+   ]
+  },
+  {
+   "begin": "1407.880",
+   "children": [],
+   "end": "1410.440",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "\"Someone broke into your office?\""
    ]
   },
   {
    "begin": "1410.440",
    "children": [],
-   "end": "1420.320",
-   "id": "f000099",
+   "end": "1413.800",
+   "id": "f000343",
    "language": "eng",
    "lines": [
-    "\"It is unimportant,\" said Snape coldly. \"On the contrary,\" growled Moody, \"it is very important. Who'd want to break into your office?\""
+    "\"It is unimportant,\" said Snape coldly."
+   ]
+  },
+  {
+   "begin": "1413.800",
+   "children": [],
+   "end": "1418.200",
+   "id": "f000344",
+   "language": "eng",
+   "lines": [
+    "\"On the contrary,\" growled Moody, \"it is very important."
+   ]
+  },
+  {
+   "begin": "1418.200",
+   "children": [],
+   "end": "1420.320",
+   "id": "f000345",
+   "language": "eng",
+   "lines": [
+    "Who'd want to break into your office?\""
    ]
   },
   {
    "begin": "1420.320",
    "children": [],
-   "end": "1436.000",
-   "id": "f000100",
+   "end": "1423.280",
+   "id": "f000346",
    "language": "eng",
    "lines": [
-    "\"A student, I daresay,\" said Snape. Harry could see a vein flickering horribly on Snape's greasy temple. \"It has happened before. Potion ingredients have gone missing from my private store cupboard ... students attempting illicit mixtures, no doubt....\""
+    "\"A student, I daresay,\" said Snape."
+   ]
+  },
+  {
+   "begin": "1423.280",
+   "children": [],
+   "end": "1427.920",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "Harry could see a vein flickering horribly on Snape's greasy temple."
+   ]
+  },
+  {
+   "begin": "1427.920",
+   "children": [],
+   "end": "1429.720",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "\"It has happened before."
+   ]
+  },
+  {
+   "begin": "1429.720",
+   "children": [],
+   "end": "1433.480",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "Potion ingredients have gone missing from my private store cupboard ..."
+   ]
+  },
+  {
+   "begin": "1433.480",
+   "children": [],
+   "end": "1436.000",
+   "id": "f000350",
+   "language": "eng",
+   "lines": [
+    "students attempting illicit mixtures, no doubt....\""
    ]
   },
   {
    "begin": "1436.000",
    "children": [],
-   "end": "1443.440",
-   "id": "f000101",
+   "end": "1439.400",
+   "id": "f000351",
    "language": "eng",
    "lines": [
-    "\"Reckon they were after potion ingredients, eh?\" said Moody. \"Not hiding anything else in your office, are you?\""
+    "\"Reckon they were after potion ingredients, eh?\""
+   ]
+  },
+  {
+   "begin": "1439.400",
+   "children": [],
+   "end": "1440.240",
+   "id": "f000352",
+   "language": "eng",
+   "lines": [
+    "said Moody."
+   ]
+  },
+  {
+   "begin": "1440.240",
+   "children": [],
+   "end": "1443.440",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "\"Not hiding anything else in your office, are you?\""
    ]
   },
   {
    "begin": "1443.440",
    "children": [],
    "end": "1451.720",
-   "id": "f000102",
+   "id": "f000354",
    "language": "eng",
    "lines": [
     "Harry saw the edge of Snapes sallow face turn a nasty brick color, the vein in his temple pulsing more rapidly."
@@ -1024,7 +3544,7 @@
    "begin": "1451.720",
    "children": [],
    "end": "1462.280",
-   "id": "f000103",
+   "id": "f000355",
    "language": "eng",
    "lines": [
     "\"You know I'm hiding nothing, Moody,\" he said in a soft and dangerous voice, \"as you've searched my office pretty thoroughly yourself.\""
@@ -1033,88 +3553,248 @@
   {
    "begin": "1462.280",
    "children": [],
-   "end": "1479.880",
-   "id": "f000104",
+   "end": "1465.520",
+   "id": "f000356",
    "language": "eng",
    "lines": [
-    "Moodys face twisted into a smile. \"Auror's privilege, Snape. Dumbledore told me to keep an eye -\" \"Dumbledore happens to trust me,\" said Snape through clenched teeth. \"I refuse to believe that he gave you orders to search my office!\""
+    "Moodys face twisted into a smile."
+   ]
+  },
+  {
+   "begin": "1465.520",
+   "children": [],
+   "end": "1467.880",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "\"Auror's privilege, Snape."
+   ]
+  },
+  {
+   "begin": "1467.880",
+   "children": [],
+   "end": "1475.960",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "Dumbledore told me to keep an eye -\" \"Dumbledore happens to trust me,\" said Snape through clenched teeth."
+   ]
+  },
+  {
+   "begin": "1475.960",
+   "children": [],
+   "end": "1479.880",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "\"I refuse to believe that he gave you orders to search my office!\""
    ]
   },
   {
    "begin": "1479.880",
    "children": [],
-   "end": "1485.560",
-   "id": "f000105",
+   "end": "1483.360",
+   "id": "f000360",
    "language": "eng",
    "lines": [
-    "\"Course Dumbledore trusts you,\" growled Moody. \"Hes a trusting man, isn't he?"
+    "\"Course Dumbledore trusts you,\" growled Moody."
    ]
   },
   {
-   "begin": "1485.560",
+   "begin": "1483.360",
    "children": [],
-   "end": "1495.120",
-   "id": "f000106",
+   "end": "1485.520",
+   "id": "f000361",
    "language": "eng",
    "lines": [
-    "Believes in second chances. But me - I say there are spots that don't come off, Snape. Spots that never come off, d'you know what I mean?\""
+    "\"Hes a trusting man, isn't he?"
    ]
   },
   {
-   "begin": "1495.120",
+   "begin": "1485.520",
    "children": [],
-   "end": "1504.640",
-   "id": "f000107",
+   "end": "1487.200",
+   "id": "f000362",
    "language": "eng",
    "lines": [
-    "Snape suddenly did something very strange. He seized his left forearm convulsively with his right hand, as though something on it had hurt him."
+    "Believes in second chances."
    ]
   },
   {
-   "begin": "1504.640",
+   "begin": "1487.200",
    "children": [],
-   "end": "1509.160",
-   "id": "f000108",
+   "end": "1491.120",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "Moody laughed. \"Get back to bed, Snape.\""
+    "But me - I say there are spots that don't come off, Snape."
    ]
   },
   {
-   "begin": "1509.160",
+   "begin": "1491.120",
+   "children": [],
+   "end": "1494.240",
+   "id": "f000364",
+   "language": "eng",
+   "lines": [
+    "Spots that never come off, d'you know what I mean?\""
+   ]
+  },
+  {
+   "begin": "1494.240",
+   "children": [],
+   "end": "1498.280",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "Snape suddenly did something very strange."
+   ]
+  },
+  {
+   "begin": "1498.280",
+   "children": [],
+   "end": "1504.560",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "He seized his left forearm convulsively with his right hand, as though something on it had hurt him."
+   ]
+  },
+  {
+   "begin": "1504.560",
+   "children": [],
+   "end": "1506.800",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "Moody laughed."
+   ]
+  },
+  {
+   "begin": "1506.800",
+   "children": [],
+   "end": "1508.960",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "\"Get back to bed, Snape.\""
+   ]
+  },
+  {
+   "begin": "1508.960",
+   "children": [],
+   "end": "1512.960",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "\"You don't have the authority to send me anywhere!\""
+   ]
+  },
+  {
+   "begin": "1512.960",
+   "children": [],
+   "end": "1516.880",
+   "id": "f000370",
+   "language": "eng",
+   "lines": [
+    "Snape hissed, letting go of his arm as though angry with himself."
+   ]
+  },
+  {
+   "begin": "1516.880",
    "children": [],
    "end": "1520.760",
-   "id": "f000109",
+   "id": "f000371",
    "language": "eng",
    "lines": [
-    "\"You don't have the authority to send me anywhere!\" Snape hissed, letting go of his arm as though angry with himself. \"I have as much right to prowl this school after dark as you do!\""
+    "\"I have as much right to prowl this school after dark as you do!\""
    ]
   },
   {
    "begin": "1520.760",
    "children": [],
-   "end": "1531.960",
-   "id": "f000110",
+   "end": "1525.760",
+   "id": "f000372",
    "language": "eng",
    "lines": [
-    "\"Prowl away,\" said Moody, but his voice was full of menace. \"I look forward to meeting you in a dark corridor some time.... You've dropped something, by the way. ...\""
+    "\"Prowl away,\" said Moody, but his voice was full of menace."
+   ]
+  },
+  {
+   "begin": "1525.760",
+   "children": [],
+   "end": "1529.760",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "\"I look forward to meeting you in a dark corridor some time...."
+   ]
+  },
+  {
+   "begin": "1529.760",
+   "children": [],
+   "end": "1531.960",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "You've dropped something, by the way."
    ]
   },
   {
    "begin": "1531.960",
    "children": [],
-   "end": "1554.360",
-   "id": "f000111",
+   "end": "1531.960",
+   "id": "f000375",
    "language": "eng",
    "lines": [
-    "With a stab of horror. Harry saw Moody point at the Marauders Map, still lying on the staircase six steps below him. As Snape and Filch both turned to look at it, Harry threw caution to the winds; he raised his arms under the cloak and waved furiously at Moody to attract his attention, mouthing \"It's mine! Mine!\""
+    "...\""
+   ]
+  },
+  {
+   "begin": "1531.960",
+   "children": [],
+   "end": "1534.240",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "With a stab of horror."
+   ]
+  },
+  {
+   "begin": "1534.240",
+   "children": [],
+   "end": "1540.760",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "Harry saw Moody point at the Marauders Map, still lying on the staircase six steps below him."
+   ]
+  },
+  {
+   "begin": "1540.760",
+   "children": [],
+   "end": "1553.400",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "As Snape and Filch both turned to look at it, Harry threw caution to the winds; he raised his arms under the cloak and waved furiously at Moody to attract his attention, mouthing \"It's mine!"
+   ]
+  },
+  {
+   "begin": "1553.400",
+   "children": [],
+   "end": "1554.360",
+   "id": "f000379",
+   "language": "eng",
+   "lines": [
+    "Mine!\""
    ]
   },
   {
    "begin": "1554.360",
    "children": [],
    "end": "1563.320",
-   "id": "f000112",
+   "id": "f000380",
    "language": "eng",
    "lines": [
     "Snape had reached out for it, a horrible expression of dawning comprehension on his face - \"Accio Parchment!\""
@@ -1124,7 +3804,7 @@
    "begin": "1563.320",
    "children": [],
    "end": "1572.040",
-   "id": "f000113",
+   "id": "f000381",
    "language": "eng",
    "lines": [
     "The map flew up into the air, slipped through Snapes outstretched fingers, and soared down the stairs into Moodys hand."
@@ -1133,18 +3813,58 @@
   {
    "begin": "1572.040",
    "children": [],
-   "end": "1590.880",
-   "id": "f000114",
+   "end": "1575.160",
+   "id": "f000382",
    "language": "eng",
    "lines": [
-    "\"My mistake,\" Moody said calmly. \"It's mine - must've dropped it earlier -\" But Snape's black eyes were darting from the egg in Filch's arms to the map in Moodys hand, and Harry could tell he was putting two and two together, as only Snape could. . . ."
+    "\"My mistake,\" Moody said calmly."
+   ]
+  },
+  {
+   "begin": "1575.160",
+   "children": [],
+   "end": "1590.880",
+   "id": "f000383",
+   "language": "eng",
+   "lines": [
+    "\"It's mine - must've dropped it earlier -\" But Snape's black eyes were darting from the egg in Filch's arms to the map in Moodys hand, and Harry could tell he was putting two and two together, as only Snape could."
+   ]
+  },
+  {
+   "begin": "1590.880",
+   "children": [],
+   "end": "1590.880",
+   "id": "f000384",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1590.880",
+   "children": [],
+   "end": "1590.880",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1590.880",
+   "children": [],
+   "end": "1590.880",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "."
    ]
   },
   {
    "begin": "1590.880",
    "children": [],
    "end": "1594.400",
-   "id": "f000115",
+   "id": "f000387",
    "language": "eng",
    "lines": [
     "\"Potter,\" he said quietly."
@@ -1153,98 +3873,328 @@
   {
    "begin": "1594.400",
    "children": [],
-   "end": "1598.840",
-   "id": "f000116",
+   "end": "1595.440",
+   "id": "f000388",
    "language": "eng",
    "lines": [
-    "\"What's that?\" said Moody calmly, folding up the map and pocketing it."
+    "\"What's that?\""
+   ]
+  },
+  {
+   "begin": "1595.440",
+   "children": [],
+   "end": "1598.840",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "said Moody calmly, folding up the map and pocketing it."
    ]
   },
   {
    "begin": "1598.840",
    "children": [],
-   "end": "1618.800",
-   "id": "f000117",
+   "end": "1600.560",
+   "id": "f000390",
    "language": "eng",
    "lines": [
-    "\"Potter!\" Snape snarled, and he actually turned his head and stared right at the place where Harry was, as though he could suddenly see him. \"That egg is Potters egg. That piece of parchment belongs to Potter. I have seen it before, I recognize it! Potter is here! Potter, in his Invisibility Cloak!\""
+    "\"Potter!\""
+   ]
+  },
+  {
+   "begin": "1600.560",
+   "children": [],
+   "end": "1608.080",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "Snape snarled, and he actually turned his head and stared right at the place where Harry was, as though he could suddenly see him."
+   ]
+  },
+  {
+   "begin": "1608.080",
+   "children": [],
+   "end": "1610.520",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "\"That egg is Potters egg."
+   ]
+  },
+  {
+   "begin": "1610.520",
+   "children": [],
+   "end": "1612.640",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "That piece of parchment belongs to Potter."
+   ]
+  },
+  {
+   "begin": "1612.640",
+   "children": [],
+   "end": "1614.960",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "I have seen it before, I recognize it!"
+   ]
+  },
+  {
+   "begin": "1614.960",
+   "children": [],
+   "end": "1616.200",
+   "id": "f000395",
+   "language": "eng",
+   "lines": [
+    "Potter is here!"
+   ]
+  },
+  {
+   "begin": "1616.200",
+   "children": [],
+   "end": "1618.800",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "Potter, in his Invisibility Cloak!\""
    ]
   },
   {
    "begin": "1618.800",
    "children": [],
-   "end": "1644.240",
-   "id": "f000118",
+   "end": "1631.320",
+   "id": "f000397",
    "language": "eng",
    "lines": [
-    "Snape stretched out his hands like a blind man and began to move up the stairs; Harry could have sworn his over-large nostrils were dilating, trying to sniff Harry out - trapped. Harry leaned backward, trying to avoid Snapes fingertips, but any moment now- \"There's nothing there, Snape!\" barked Moody, \"but I'll be happy to tell the headmaster how quickly your mind jumped to Harry Potter!\""
+    "Snape stretched out his hands like a blind man and began to move up the stairs; Harry could have sworn his over-large nostrils were dilating, trying to sniff Harry out - trapped."
+   ]
+  },
+  {
+   "begin": "1631.320",
+   "children": [],
+   "end": "1637.960",
+   "id": "f000398",
+   "language": "eng",
+   "lines": [
+    "Harry leaned backward, trying to avoid Snapes fingertips, but any moment now- \"There's nothing there, Snape!\""
+   ]
+  },
+  {
+   "begin": "1637.960",
+   "children": [],
+   "end": "1644.240",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "barked Moody, \"but I'll be happy to tell the headmaster how quickly your mind jumped to Harry Potter!\""
    ]
   },
   {
    "begin": "1644.240",
    "children": [],
-   "end": "1653.200",
-   "id": "f000119",
+   "end": "1646.640",
+   "id": "f000400",
    "language": "eng",
    "lines": [
-    "\"Meaning what?\" Snape turned again to look at Moody, his hands still outstretched, inches from Harry's chest."
+    "\"Meaning what?\""
    ]
   },
   {
-   "begin": "1653.200",
+   "begin": "1646.640",
    "children": [],
-   "end": "1674.720",
-   "id": "f000120",
+   "end": "1653.920",
+   "id": "f000401",
    "language": "eng",
    "lines": [
-    "\"Meaning that Dumbledore's very interested to know who's got it in for that boy!\" said Moody, limping nearer still to the foot of the stairs. \"And so am I, Snape . . . very interested....\" The torchlight flickered across his mangled face, so that the scars, and the chunk missing from his nose, looked deeper and darker than ever."
+    "Snape turned again to look at Moody, his hands still outstretched, inches from Harry's chest."
+   ]
+  },
+  {
+   "begin": "1653.920",
+   "children": [],
+   "end": "1658.800",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "\"Meaning that Dumbledore's very interested to know who's got it in for that boy!\""
+   ]
+  },
+  {
+   "begin": "1658.800",
+   "children": [],
+   "end": "1662.960",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "said Moody, limping nearer still to the foot of the stairs."
+   ]
+  },
+  {
+   "begin": "1662.960",
+   "children": [],
+   "end": "1664.680",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "\"And so am I, Snape ."
+   ]
+  },
+  {
+   "begin": "1664.680",
+   "children": [],
+   "end": "1664.680",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1664.680",
+   "children": [],
+   "end": "1664.680",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1664.680",
+   "children": [],
+   "end": "1666.240",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "very interested....\""
+   ]
+  },
+  {
+   "begin": "1666.240",
+   "children": [],
+   "end": "1674.720",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "The torchlight flickered across his mangled face, so that the scars, and the chunk missing from his nose, looked deeper and darker than ever."
    ]
   },
   {
    "begin": "1674.720",
    "children": [],
-   "end": "1686.640",
-   "id": "f000121",
+   "end": "1680.120",
+   "id": "f000409",
    "language": "eng",
    "lines": [
-    "Snape was looking down at Moody, and Harry couldn't see the expression on his face. For a moment, nobody moved or said anything. Then Snape slowly lowered his hands."
+    "Snape was looking down at Moody, and Harry couldn't see the expression on his face."
+   ]
+  },
+  {
+   "begin": "1680.120",
+   "children": [],
+   "end": "1683.280",
+   "id": "f000410",
+   "language": "eng",
+   "lines": [
+    "For a moment, nobody moved or said anything."
+   ]
+  },
+  {
+   "begin": "1683.280",
+   "children": [],
+   "end": "1686.640",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "Then Snape slowly lowered his hands."
    ]
   },
   {
    "begin": "1686.640",
    "children": [],
-   "end": "1702.800",
-   "id": "f000122",
+   "end": "1696.680",
+   "id": "f000412",
    "language": "eng",
    "lines": [
-    "\"I merely thought,\" said Snape, in a voice of forced calm, \"that if Potter was wandering around after hours again ... it's an unfortunate habit of his ... he should be stopped. For - for his own safety.\""
+    "\"I merely thought,\" said Snape, in a voice of forced calm, \"that if Potter was wandering around after hours again ..."
+   ]
+  },
+  {
+   "begin": "1696.680",
+   "children": [],
+   "end": "1699.160",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "it's an unfortunate habit of his ..."
+   ]
+  },
+  {
+   "begin": "1699.160",
+   "children": [],
+   "end": "1700.320",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "he should be stopped."
+   ]
+  },
+  {
+   "begin": "1700.320",
+   "children": [],
+   "end": "1702.800",
+   "id": "f000415",
+   "language": "eng",
+   "lines": [
+    "For - for his own safety.\""
    ]
   },
   {
    "begin": "1702.800",
    "children": [],
-   "end": "1710.480",
-   "id": "f000123",
+   "end": "1706.960",
+   "id": "f000416",
    "language": "eng",
    "lines": [
-    "\"Ah, I see,\" said Moody softly. \"Got Potter's best interests at heart, have you?\""
+    "\"Ah, I see,\" said Moody softly."
+   ]
+  },
+  {
+   "begin": "1706.960",
+   "children": [],
+   "end": "1710.480",
+   "id": "f000417",
+   "language": "eng",
+   "lines": [
+    "\"Got Potter's best interests at heart, have you?\""
    ]
   },
   {
    "begin": "1710.480",
    "children": [],
-   "end": "1723.800",
-   "id": "f000124",
+   "end": "1712.400",
+   "id": "f000418",
    "language": "eng",
    "lines": [
-    "There was a pause. Snape and Moody were still staring at each other, Mrs. Norris gave a loud meow, still peering around Filch's legs, looking for the source of Harry's bubble-bath smell."
+    "There was a pause."
+   ]
+  },
+  {
+   "begin": "1712.400",
+   "children": [],
+   "end": "1723.800",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "Snape and Moody were still staring at each other, Mrs. Norris gave a loud meow, still peering around Filch's legs, looking for the source of Harry's bubble-bath smell."
    ]
   },
   {
    "begin": "1723.800",
    "children": [],
    "end": "1728.280",
-   "id": "f000125",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "\"I think I will go back to bed,\" Snape said curtly."
@@ -1253,78 +4203,248 @@
   {
    "begin": "1728.280",
    "children": [],
-   "end": "1742.920",
-   "id": "f000126",
+   "end": "1731.480",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "\"Best idea you've had all night,\" said Moody. \"Now, Filch, if you'll just give me that egg-\" \"No!\" said Filch, clutching the egg as though it were his firstborn son. \"Professor Moody, this is evidence of Peeves' treachery!\""
+    "\"Best idea you've had all night,\" said Moody."
+   ]
+  },
+  {
+   "begin": "1731.480",
+   "children": [],
+   "end": "1735.400",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "\"Now, Filch, if you'll just give me that egg-\" \"No!\""
+   ]
+  },
+  {
+   "begin": "1735.400",
+   "children": [],
+   "end": "1738.960",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "said Filch, clutching the egg as though it were his firstborn son."
+   ]
+  },
+  {
+   "begin": "1738.960",
+   "children": [],
+   "end": "1742.920",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "\"Professor Moody, this is evidence of Peeves' treachery!\""
    ]
   },
   {
    "begin": "1742.920",
    "children": [],
-   "end": "1748.600",
-   "id": "f000127",
+   "end": "1746.920",
+   "id": "f000425",
    "language": "eng",
    "lines": [
-    "\"It's the property of the champion he stole it from,\" said Moody. Hand it over, now.\""
+    "\"It's the property of the champion he stole it from,\" said Moody."
+   ]
+  },
+  {
+   "begin": "1746.920",
+   "children": [],
+   "end": "1748.600",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "Hand it over, now.\""
    ]
   },
   {
    "begin": "1748.600",
    "children": [],
-   "end": "1779.440",
-   "id": "f000128",
+   "end": "1753.640",
+   "id": "f000427",
    "language": "eng",
    "lines": [
-    "Snape swept downstairs and passed Moody without another word. Filch made a chirruping noise to Mrs. Norris, who stared blankly at Harry for a few more seconds before turning and following her master. Still breathing very fast. Harry heard Snape walking away down the corridor; Filch handed Moody the egg and disappeared from view too, muttering to Mrs. Norris. \"Never mind. my sweet.. . we'll see Dumbledore in the morning ... tell him what Peeves was up to....\""
+    "Snape swept downstairs and passed Moody without another word."
+   ]
+  },
+  {
+   "begin": "1753.640",
+   "children": [],
+   "end": "1762.000",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "Filch made a chirruping noise to Mrs. Norris, who stared blankly at Harry for a few more seconds before turning and following her master."
+   ]
+  },
+  {
+   "begin": "1762.000",
+   "children": [],
+   "end": "1765.440",
+   "id": "f000429",
+   "language": "eng",
+   "lines": [
+    "Still breathing very fast."
+   ]
+  },
+  {
+   "begin": "1765.440",
+   "children": [],
+   "end": "1773.920",
+   "id": "f000430",
+   "language": "eng",
+   "lines": [
+    "Harry heard Snape walking away down the corridor; Filch handed Moody the egg and disappeared from view too, muttering to Mrs. Norris."
+   ]
+  },
+  {
+   "begin": "1773.920",
+   "children": [],
+   "end": "1775.120",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "\"Never mind."
+   ]
+  },
+  {
+   "begin": "1775.120",
+   "children": [],
+   "end": "1776.000",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    "my sweet.."
+   ]
+  },
+  {
+   "begin": "1776.000",
+   "children": [],
+   "end": "1776.000",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1776.000",
+   "children": [],
+   "end": "1777.640",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "we'll see Dumbledore in the morning ..."
+   ]
+  },
+  {
+   "begin": "1777.640",
+   "children": [],
+   "end": "1779.440",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "tell him what Peeves was up to....\""
    ]
   },
   {
    "begin": "1779.440",
    "children": [],
-   "end": "1794.040",
-   "id": "f000129",
+   "end": "1781.560",
+   "id": "f000436",
    "language": "eng",
    "lines": [
-    "A door slammed. Harry was left staring down at Moody, who placed his staff on the bottommost stair and started to climb laboriously toward him, a dull clunk on every other step."
+    "A door slammed."
    ]
   },
   {
-   "begin": "1794.040",
+   "begin": "1781.560",
    "children": [],
-   "end": "1797.360",
-   "id": "f000130",
+   "end": "1793.920",
+   "id": "f000437",
    "language": "eng",
    "lines": [
-    "\"Close shave. Potter,\" he muttered."
+    "Harry was left staring down at Moody, who placed his staff on the bottommost stair and started to climb laboriously toward him, a dull clunk on every other step."
+   ]
+  },
+  {
+   "begin": "1793.920",
+   "children": [],
+   "end": "1795.880",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "\"Close shave."
+   ]
+  },
+  {
+   "begin": "1795.880",
+   "children": [],
+   "end": "1797.360",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "Potter,\" he muttered."
    ]
   },
   {
    "begin": "1797.360",
    "children": [],
-   "end": "1802.720",
-   "id": "f000131",
+   "end": "1798.520",
+   "id": "f000440",
    "language": "eng",
    "lines": [
-    "\"Yeah ... I - er ... thanks,\" said Harry weakly."
+    "\"Yeah ..."
+   ]
+  },
+  {
+   "begin": "1798.520",
+   "children": [],
+   "end": "1799.960",
+   "id": "f000441",
+   "language": "eng",
+   "lines": [
+    "I - er ..."
+   ]
+  },
+  {
+   "begin": "1799.960",
+   "children": [],
+   "end": "1802.720",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "thanks,\" said Harry weakly."
    ]
   },
   {
    "begin": "1802.720",
    "children": [],
-   "end": "1807.680",
-   "id": "f000132",
+   "end": "1804.360",
+   "id": "f000443",
    "language": "eng",
    "lines": [
-    "\"What is this thing?\" said Moody, drawing the Marauder's Map out of his pocket"
+    "\"What is this thing?\""
    ]
   },
   {
-   "begin": "1807.680",
+   "begin": "1804.360",
+   "children": [],
+   "end": "1807.560",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "said Moody, drawing the Marauder's Map out of his pocket"
+   ]
+  },
+  {
+   "begin": "1807.560",
    "children": [],
    "end": "1808.680",
-   "id": "f000133",
+   "id": "f000445",
    "language": "eng",
    "lines": [
     "and unfolding it."
@@ -1334,7 +4454,7 @@
    "begin": "1808.680",
    "children": [],
    "end": "1816.080",
-   "id": "f000134",
+   "id": "f000446",
    "language": "eng",
    "lines": [
     "\"Map of Hogwarts,\" said Harry, hoping Moody was going to pull him out of the staircase soon; his leg was really hurting him."
@@ -1343,98 +4463,388 @@
   {
    "begin": "1816.080",
    "children": [],
-   "end": "1826.600",
-   "id": "f000135",
+   "end": "1823.120",
+   "id": "f000447",
    "language": "eng",
    "lines": [
-    "\"Merlins beard,\" Moody whispered, staring at the map, his magical eye going haywire. \"This . .. this is some map. Potter!\""
+    "\"Merlins beard,\" Moody whispered, staring at the map, his magical eye going haywire."
+   ]
+  },
+  {
+   "begin": "1823.120",
+   "children": [],
+   "end": "1824.320",
+   "id": "f000448",
+   "language": "eng",
+   "lines": [
+    "\"This ."
+   ]
+  },
+  {
+   "begin": "1824.320",
+   "children": [],
+   "end": "1824.320",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "1824.320",
+   "children": [],
+   "end": "1825.920",
+   "id": "f000450",
+   "language": "eng",
+   "lines": [
+    "this is some map."
+   ]
+  },
+  {
+   "begin": "1825.920",
+   "children": [],
+   "end": "1826.600",
+   "id": "f000451",
+   "language": "eng",
+   "lines": [
+    "Potter!\""
    ]
   },
   {
    "begin": "1826.600",
    "children": [],
-   "end": "1836.000",
-   "id": "f000136",
+   "end": "1827.640",
+   "id": "f000452",
    "language": "eng",
    "lines": [
-    "\"Yeah, its . . . quite useful,\" Harry said. His eyes were starting to water from the pain. \"Er - Professor Moody, d'you think you could help me - ?\""
+    "\"Yeah, its ."
+   ]
+  },
+  {
+   "begin": "1827.640",
+   "children": [],
+   "end": "1827.640",
+   "id": "f000453",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1827.640",
+   "children": [],
+   "end": "1827.640",
+   "id": "f000454",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1827.640",
+   "children": [],
+   "end": "1829.720",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "quite useful,\" Harry said."
+   ]
+  },
+  {
+   "begin": "1829.720",
+   "children": [],
+   "end": "1832.360",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "His eyes were starting to water from the pain."
+   ]
+  },
+  {
+   "begin": "1832.360",
+   "children": [],
+   "end": "1836.000",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "\"Er - Professor Moody, d'you think you could help me - ?\""
    ]
   },
   {
    "begin": "1836.000",
    "children": [],
-   "end": "1839.280",
-   "id": "f000137",
+   "end": "1836.680",
+   "id": "f000458",
    "language": "eng",
    "lines": [
-    "\"What? Oh! Yes . . . yes, of course . ..\""
+    "\"What?"
    ]
   },
   {
-   "begin": "1839.280",
+   "begin": "1836.680",
    "children": [],
-   "end": "1849.600",
-   "id": "f000138",
+   "end": "1837.160",
+   "id": "f000459",
    "language": "eng",
    "lines": [
-    "Moody took hold of Harrys arms and pulled; Harrys leg came free of the trick step, and he climbed onto the one above it. Moody was still gazing at the map."
+    "Oh!"
+   ]
+  },
+  {
+   "begin": "1837.160",
+   "children": [],
+   "end": "1837.720",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "Yes ."
+   ]
+  },
+  {
+   "begin": "1837.720",
+   "children": [],
+   "end": "1837.720",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1837.720",
+   "children": [],
+   "end": "1837.720",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1837.720",
+   "children": [],
+   "end": "1838.680",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "yes, of course ."
+   ]
+  },
+  {
+   "begin": "1838.680",
+   "children": [],
+   "end": "1839.040",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "..\""
+   ]
+  },
+  {
+   "begin": "1839.040",
+   "children": [],
+   "end": "1846.520",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "Moody took hold of Harrys arms and pulled; Harrys leg came free of the trick step, and he climbed onto the one above it."
+   ]
+  },
+  {
+   "begin": "1846.520",
+   "children": [],
+   "end": "1849.600",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "Moody was still gazing at the map."
    ]
   },
   {
    "begin": "1849.600",
    "children": [],
-   "end": "1859.200",
-   "id": "f000139",
+   "end": "1851.480",
+   "id": "f000467",
    "language": "eng",
    "lines": [
-    "\"Potter ...\" he said slowly, \"you didn't happen, by any chance, to see who broke into Snapes office, did you? On this map, I mean?\""
+    "\"Potter ...\""
+   ]
+  },
+  {
+   "begin": "1851.480",
+   "children": [],
+   "end": "1857.840",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "he said slowly, \"you didn't happen, by any chance, to see who broke into Snapes office, did you?"
+   ]
+  },
+  {
+   "begin": "1857.840",
+   "children": [],
+   "end": "1859.200",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "On this map, I mean?\""
    ]
   },
   {
    "begin": "1859.200",
    "children": [],
-   "end": "1864.080",
-   "id": "f000140",
+   "end": "1860.120",
+   "id": "f000470",
    "language": "eng",
    "lines": [
-    "\"Er . . . yeah, I did . . .\" Harry admitted. \"It was Mr. Crouch.\""
+    "\"Er ."
+   ]
+  },
+  {
+   "begin": "1860.120",
+   "children": [],
+   "end": "1860.120",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1860.120",
+   "children": [],
+   "end": "1860.160",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1860.160",
+   "children": [],
+   "end": "1861.320",
+   "id": "f000473",
+   "language": "eng",
+   "lines": [
+    "yeah, I did ."
+   ]
+  },
+  {
+   "begin": "1861.320",
+   "children": [],
+   "end": "1861.320",
+   "id": "f000474",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1861.320",
+   "children": [],
+   "end": "1861.320",
+   "id": "f000475",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1861.320",
+   "children": [],
+   "end": "1862.240",
+   "id": "f000476",
+   "language": "eng",
+   "lines": [
+    "Harry admitted."
+   ]
+  },
+  {
+   "begin": "1862.240",
+   "children": [],
+   "end": "1864.080",
+   "id": "f000477",
+   "language": "eng",
+   "lines": [
+    "\"It was Mr. Crouch.\""
    ]
   },
   {
    "begin": "1864.080",
    "children": [],
-   "end": "1871.200",
-   "id": "f000141",
+   "end": "1869.120",
+   "id": "f000478",
    "language": "eng",
    "lines": [
-    "Moodys magical eye whizzed over the entire surface of the map. He looked suddenly alarmed."
+    "Moodys magical eye whizzed over the entire surface of the map."
+   ]
+  },
+  {
+   "begin": "1869.120",
+   "children": [],
+   "end": "1871.200",
+   "id": "f000479",
+   "language": "eng",
+   "lines": [
+    "He looked suddenly alarmed."
    ]
   },
   {
    "begin": "1871.200",
    "children": [],
-   "end": "1874.640",
-   "id": "f000142",
+   "end": "1872.320",
+   "id": "f000480",
    "language": "eng",
    "lines": [
-    "\"Crouch?\" he said. \"You're - you're sure. Potter?\""
+    "\"Crouch?\""
+   ]
+  },
+  {
+   "begin": "1872.320",
+   "children": [],
+   "end": "1872.920",
+   "id": "f000481",
+   "language": "eng",
+   "lines": [
+    "he said."
+   ]
+  },
+  {
+   "begin": "1872.920",
+   "children": [],
+   "end": "1874.160",
+   "id": "f000482",
+   "language": "eng",
+   "lines": [
+    "\"You're - you're sure."
+   ]
+  },
+  {
+   "begin": "1874.160",
+   "children": [],
+   "end": "1874.640",
+   "id": "f000483",
+   "language": "eng",
+   "lines": [
+    "Potter?\""
    ]
   },
   {
    "begin": "1874.640",
    "children": [],
-   "end": "1876.400",
-   "id": "f000143",
+   "end": "1876.360",
+   "id": "f000484",
    "language": "eng",
    "lines": [
     "\"Positive,\" said Harry."
    ]
   },
   {
-   "begin": "1876.400",
+   "begin": "1876.360",
    "children": [],
    "end": "1881.320",
-   "id": "f000144",
+   "id": "f000485",
    "language": "eng",
    "lines": [
     "\"Well, he's not here anymore,\" said Moody, his eye still whizzing over the map."
@@ -1443,118 +4853,438 @@
   {
    "begin": "1881.320",
    "children": [],
-   "end": "1885.040",
-   "id": "f000145",
+   "end": "1882.560",
+   "id": "f000486",
    "language": "eng",
    "lines": [
-    "\"Crouch . .. that's very - very interesting... .\""
+    "\"Crouch ."
+   ]
+  },
+  {
+   "begin": "1882.560",
+   "children": [],
+   "end": "1882.560",
+   "id": "f000487",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "1882.560",
+   "children": [],
+   "end": "1884.960",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "that's very - very interesting..."
+   ]
+  },
+  {
+   "begin": "1884.960",
+   "children": [],
+   "end": "1885.040",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    ".\""
    ]
   },
   {
    "begin": "1885.040",
    "children": [],
-   "end": "1895.240",
-   "id": "f000146",
+   "end": "1889.600",
+   "id": "f000490",
    "language": "eng",
    "lines": [
-    "He said nothing for almost a minute, still staring at the map. Harry could tell that this news meant something to Moody and very much wanted to know what it was."
+    "He said nothing for almost a minute, still staring at the map."
+   ]
+  },
+  {
+   "begin": "1889.600",
+   "children": [],
+   "end": "1895.240",
+   "id": "f000491",
+   "language": "eng",
+   "lines": [
+    "Harry could tell that this news meant something to Moody and very much wanted to know what it was."
    ]
   },
   {
    "begin": "1895.240",
    "children": [],
-   "end": "1903.000",
-   "id": "f000147",
+   "end": "1897.240",
+   "id": "f000492",
    "language": "eng",
    "lines": [
-    "He wondered whether he dared ask. Moody scared him slightly. . . yet Moody had just helped him avoid an awful lot of trouble. . . ."
+    "He wondered whether he dared ask."
+   ]
+  },
+  {
+   "begin": "1897.240",
+   "children": [],
+   "end": "1899.360",
+   "id": "f000493",
+   "language": "eng",
+   "lines": [
+    "Moody scared him slightly."
+   ]
+  },
+  {
+   "begin": "1899.360",
+   "children": [],
+   "end": "1899.360",
+   "id": "f000494",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1899.360",
+   "children": [],
+   "end": "1899.400",
+   "id": "f000495",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1899.400",
+   "children": [],
+   "end": "1903.000",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "yet Moody had just helped him avoid an awful lot of trouble."
    ]
   },
   {
    "begin": "1903.000",
    "children": [],
-   "end": "1908.560",
-   "id": "f000148",
+   "end": "1903.000",
+   "id": "f000497",
    "language": "eng",
    "lines": [
-    "\"Er ... Professor Moody . . . why d'you reckon Mr. Crouch wanted to look around Snapes office?\""
+    "."
+   ]
+  },
+  {
+   "begin": "1903.000",
+   "children": [],
+   "end": "1903.000",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1903.000",
+   "children": [],
+   "end": "1903.000",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1903.000",
+   "children": [],
+   "end": "1903.880",
+   "id": "f000500",
+   "language": "eng",
+   "lines": [
+    "\"Er ..."
+   ]
+  },
+  {
+   "begin": "1903.880",
+   "children": [],
+   "end": "1905.040",
+   "id": "f000501",
+   "language": "eng",
+   "lines": [
+    "Professor Moody ."
+   ]
+  },
+  {
+   "begin": "1905.040",
+   "children": [],
+   "end": "1905.040",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1905.040",
+   "children": [],
+   "end": "1905.040",
+   "id": "f000503",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1905.040",
+   "children": [],
+   "end": "1908.560",
+   "id": "f000504",
+   "language": "eng",
+   "lines": [
+    "why d'you reckon Mr. Crouch wanted to look around Snapes office?\""
    ]
   },
   {
    "begin": "1908.560",
    "children": [],
-   "end": "1922.840",
-   "id": "f000149",
+   "end": "1913.720",
+   "id": "f000505",
    "language": "eng",
    "lines": [
-    "Moodys magical eye left the map and fixed, quivering, upon Harry. It was a penetrating glare, and Harry had the impression that Moody was sizing him up, wondering whether to answer or not, or how much to tell him."
+    "Moodys magical eye left the map and fixed, quivering, upon Harry."
+   ]
+  },
+  {
+   "begin": "1913.720",
+   "children": [],
+   "end": "1922.840",
+   "id": "f000506",
+   "language": "eng",
+   "lines": [
+    "It was a penetrating glare, and Harry had the impression that Moody was sizing him up, wondering whether to answer or not, or how much to tell him."
    ]
   },
   {
    "begin": "1922.840",
    "children": [],
-   "end": "1936.080",
-   "id": "f000150",
+   "end": "1924.480",
+   "id": "f000507",
    "language": "eng",
    "lines": [
-    "\"Put it this way. Potter,\" Moody muttered finally, \"they say old Mad-Eye's obsessed with catching Dark wizards . . . but I'm nothing - nothing - compared to Barty Crouch.\""
+    "\"Put it this way."
+   ]
+  },
+  {
+   "begin": "1924.480",
+   "children": [],
+   "end": "1931.320",
+   "id": "f000508",
+   "language": "eng",
+   "lines": [
+    "Potter,\" Moody muttered finally, \"they say old Mad-Eye's obsessed with catching Dark wizards ."
+   ]
+  },
+  {
+   "begin": "1931.320",
+   "children": [],
+   "end": "1931.320",
+   "id": "f000509",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1931.320",
+   "children": [],
+   "end": "1931.320",
+   "id": "f000510",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1931.320",
+   "children": [],
+   "end": "1936.080",
+   "id": "f000511",
+   "language": "eng",
+   "lines": [
+    "but I'm nothing - nothing - compared to Barty Crouch.\""
    ]
   },
   {
    "begin": "1936.080",
    "children": [],
-   "end": "1941.160",
-   "id": "f000151",
+   "end": "1938.720",
+   "id": "f000512",
    "language": "eng",
    "lines": [
-    "He continued to stare at the map. Harry was burning to know more."
+    "He continued to stare at the map."
+   ]
+  },
+  {
+   "begin": "1938.720",
+   "children": [],
+   "end": "1941.160",
+   "id": "f000513",
+   "language": "eng",
+   "lines": [
+    "Harry was burning to know more."
    ]
   },
   {
    "begin": "1941.160",
    "children": [],
-   "end": "1950.400",
-   "id": "f000152",
+   "end": "1943.000",
+   "id": "f000514",
    "language": "eng",
    "lines": [
-    "\"Professor Moody?\" he said again. \"D'you think... could this have anything to do with . . . maybe Mr. Crouch thinks there's something going on. ...\""
+    "\"Professor Moody?\""
+   ]
+  },
+  {
+   "begin": "1943.000",
+   "children": [],
+   "end": "1944.000",
+   "id": "f000515",
+   "language": "eng",
+   "lines": [
+    "he said again."
+   ]
+  },
+  {
+   "begin": "1944.000",
+   "children": [],
+   "end": "1944.840",
+   "id": "f000516",
+   "language": "eng",
+   "lines": [
+    "\"D'you think..."
+   ]
+  },
+  {
+   "begin": "1944.840",
+   "children": [],
+   "end": "1946.640",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "could this have anything to do with ."
+   ]
+  },
+  {
+   "begin": "1946.640",
+   "children": [],
+   "end": "1946.640",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1946.640",
+   "children": [],
+   "end": "1946.640",
+   "id": "f000519",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1946.640",
+   "children": [],
+   "end": "1950.400",
+   "id": "f000520",
+   "language": "eng",
+   "lines": [
+    "maybe Mr. Crouch thinks there's something going on."
    ]
   },
   {
    "begin": "1950.400",
    "children": [],
-   "end": "1952.880",
-   "id": "f000153",
+   "end": "1950.400",
+   "id": "f000521",
    "language": "eng",
    "lines": [
-    "\"Like what?\" said Moody sharply."
+    "...\""
+   ]
+  },
+  {
+   "begin": "1950.400",
+   "children": [],
+   "end": "1951.440",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "\"Like what?\""
+   ]
+  },
+  {
+   "begin": "1951.440",
+   "children": [],
+   "end": "1952.880",
+   "id": "f000523",
+   "language": "eng",
+   "lines": [
+    "said Moody sharply."
    ]
   },
   {
    "begin": "1952.880",
    "children": [],
-   "end": "1963.560",
-   "id": "f000154",
+   "end": "1955.920",
+   "id": "f000524",
    "language": "eng",
    "lines": [
-    "Harry wondered how much he dare say. He didn't want Moody to guess that he had a source of information outside Hogwarts; that might lead to tricky questions about Sirius."
+    "Harry wondered how much he dare say."
+   ]
+  },
+  {
+   "begin": "1955.920",
+   "children": [],
+   "end": "1963.560",
+   "id": "f000525",
+   "language": "eng",
+   "lines": [
+    "He didn't want Moody to guess that he had a source of information outside Hogwarts; that might lead to tricky questions about Sirius."
    ]
   },
   {
    "begin": "1963.560",
    "children": [],
-   "end": "1973.800",
-   "id": "f000155",
+   "end": "1968.840",
+   "id": "f000526",
    "language": "eng",
    "lines": [
-    "\"I don't know,\" Harry muttered, \"odd stuffs been happening lately, hasn't it? It's been in the Daily Prophet... the Dark Mark at the World Cup, and the Death Eaters and everything....\""
+    "\"I don't know,\" Harry muttered, \"odd stuffs been happening lately, hasn't it?"
+   ]
+  },
+  {
+   "begin": "1968.840",
+   "children": [],
+   "end": "1970.120",
+   "id": "f000527",
+   "language": "eng",
+   "lines": [
+    "It's been in the Daily Prophet..."
+   ]
+  },
+  {
+   "begin": "1970.120",
+   "children": [],
+   "end": "1973.800",
+   "id": "f000528",
+   "language": "eng",
+   "lines": [
+    "the Dark Mark at the World Cup, and the Death Eaters and everything....\""
    ]
   },
   {
    "begin": "1973.800",
    "children": [],
    "end": "1977.000",
-   "id": "f000156",
+   "id": "f000529",
    "language": "eng",
    "lines": [
     "Both of Moody's mismatched eyes widened."
@@ -1563,68 +5293,218 @@
   {
    "begin": "1977.000",
    "children": [],
-   "end": "1987.640",
-   "id": "f000157",
+   "end": "1979.080",
+   "id": "f000530",
    "language": "eng",
    "lines": [
-    "\"You're a sharp boy. Potter,\" he said. His magical eye roved back to the Marauder's Map. \"Crouch could be thinking along those lines,\" he said slowly."
+    "\"You're a sharp boy."
    ]
   },
   {
-   "begin": "1987.640",
+   "begin": "1979.080",
    "children": [],
-   "end": "2012.880",
-   "id": "f000158",
+   "end": "1980.200",
+   "id": "f000531",
    "language": "eng",
    "lines": [
-    "\"Very possible. . . there have been some funny rumors flying around lately helped along by Rita Skeeter, of course. It's making a lot of people nervous, I reckon.\" A grim smile twisted his lopsided mouth. \"Oh if there's one thing I hate,\" he muttered, more to himself than to Harry, and his magical eye was fixed on the left-hand corner of the map, \"its a Death Eater who walked free. ...\""
+    "Potter,\" he said."
+   ]
+  },
+  {
+   "begin": "1980.200",
+   "children": [],
+   "end": "1983.640",
+   "id": "f000532",
+   "language": "eng",
+   "lines": [
+    "His magical eye roved back to the Marauder's Map."
+   ]
+  },
+  {
+   "begin": "1983.640",
+   "children": [],
+   "end": "1987.600",
+   "id": "f000533",
+   "language": "eng",
+   "lines": [
+    "\"Crouch could be thinking along those lines,\" he said slowly."
+   ]
+  },
+  {
+   "begin": "1987.600",
+   "children": [],
+   "end": "1988.880",
+   "id": "f000534",
+   "language": "eng",
+   "lines": [
+    "\"Very possible."
+   ]
+  },
+  {
+   "begin": "1988.880",
+   "children": [],
+   "end": "1988.880",
+   "id": "f000535",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1988.880",
+   "children": [],
+   "end": "1988.880",
+   "id": "f000536",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1988.880",
+   "children": [],
+   "end": "1994.600",
+   "id": "f000537",
+   "language": "eng",
+   "lines": [
+    "there have been some funny rumors flying around lately helped along by Rita Skeeter, of course."
+   ]
+  },
+  {
+   "begin": "1994.600",
+   "children": [],
+   "end": "1997.120",
+   "id": "f000538",
+   "language": "eng",
+   "lines": [
+    "It's making a lot of people nervous, I reckon.\""
+   ]
+  },
+  {
+   "begin": "1997.120",
+   "children": [],
+   "end": "2000.400",
+   "id": "f000539",
+   "language": "eng",
+   "lines": [
+    "A grim smile twisted his lopsided mouth."
+   ]
+  },
+  {
+   "begin": "2000.400",
+   "children": [],
+   "end": "2012.840",
+   "id": "f000540",
+   "language": "eng",
+   "lines": [
+    "\"Oh if there's one thing I hate,\" he muttered, more to himself than to Harry, and his magical eye was fixed on the left-hand corner of the map, \"its a Death Eater who walked free."
+   ]
+  },
+  {
+   "begin": "2012.840",
+   "children": [],
+   "end": "2012.880",
+   "id": "f000541",
+   "language": "eng",
+   "lines": [
+    "...\""
    ]
   },
   {
    "begin": "2012.880",
    "children": [],
-   "end": "2018.600",
-   "id": "f000159",
+   "end": "2014.880",
+   "id": "f000542",
    "language": "eng",
    "lines": [
-    "Harry stared at him. Could Moody possibly mean what Harry thought he meant?"
+    "Harry stared at him."
+   ]
+  },
+  {
+   "begin": "2014.880",
+   "children": [],
+   "end": "2018.600",
+   "id": "f000543",
+   "language": "eng",
+   "lines": [
+    "Could Moody possibly mean what Harry thought he meant?"
    ]
   },
   {
    "begin": "2018.600",
    "children": [],
-   "end": "2024.880",
-   "id": "f000160",
+   "end": "2021.920",
+   "id": "f000544",
    "language": "eng",
    "lines": [
-    "\"And now I want to ask you a question. Potter,\" said Moody in a more businesslike tone."
+    "\"And now I want to ask you a question."
+   ]
+  },
+  {
+   "begin": "2021.920",
+   "children": [],
+   "end": "2024.880",
+   "id": "f000545",
+   "language": "eng",
+   "lines": [
+    "Potter,\" said Moody in a more businesslike tone."
    ]
   },
   {
    "begin": "2024.880",
    "children": [],
-   "end": "2051.800",
-   "id": "f000161",
+   "end": "2028.800",
+   "id": "f000546",
    "language": "eng",
    "lines": [
-    "Harrys heart sank; he had thought this was coming. Moody was going to ask where he had got this map, which was a very dubious magical object - and the story of how it had fallen into his hands incriminated not only him, but his own father, Fred and George Weasley, and Professor Lupin, their last Defense Against the Dark Arts teacher. Moody waved the map in front of Harry, who braced himself- \"Can I borrow this?\""
+    "Harrys heart sank; he had thought this was coming."
+   ]
+  },
+  {
+   "begin": "2028.800",
+   "children": [],
+   "end": "2045.680",
+   "id": "f000547",
+   "language": "eng",
+   "lines": [
+    "Moody was going to ask where he had got this map, which was a very dubious magical object - and the story of how it had fallen into his hands incriminated not only him, but his own father, Fred and George Weasley, and Professor Lupin, their last Defense Against the Dark Arts teacher."
+   ]
+  },
+  {
+   "begin": "2045.680",
+   "children": [],
+   "end": "2051.800",
+   "id": "f000548",
+   "language": "eng",
+   "lines": [
+    "Moody waved the map in front of Harry, who braced himself- \"Can I borrow this?\""
    ]
   },
   {
    "begin": "2051.800",
    "children": [],
-   "end": "2054.080",
-   "id": "f000162",
+   "end": "2053.200",
+   "id": "f000549",
    "language": "eng",
    "lines": [
-    "\"Oh!\" said Harry."
+    "\"Oh!\""
+   ]
+  },
+  {
+   "begin": "2053.200",
+   "children": [],
+   "end": "2054.080",
+   "id": "f000550",
+   "language": "eng",
+   "lines": [
+    "said Harry."
    ]
   },
   {
    "begin": "2054.080",
    "children": [],
    "end": "2062.880",
-   "id": "f000163",
+   "id": "f000551",
    "language": "eng",
    "lines": [
     "He was very fond of his map, but on the other hand, he was extremely relieved that Moody wasn't asking where he'd got it, and there was no doubt that he owed Moody a favor."
@@ -1634,7 +5514,7 @@
    "begin": "2062.880",
    "children": [],
    "end": "2064.160",
-   "id": "f000164",
+   "id": "f000552",
    "language": "eng",
    "lines": [
     "\"Yeah, okay.\""
@@ -1643,28 +5523,118 @@
   {
    "begin": "2064.160",
    "children": [],
-   "end": "2073.520",
-   "id": "f000165",
+   "end": "2066.480",
+   "id": "f000553",
    "language": "eng",
    "lines": [
-    "\"Good boy,\" growled Moody. \"I can make good use of this . .. this might be exactly what I've been looking for. . . . Right, bed, Potter, come on, now. ...\""
+    "\"Good boy,\" growled Moody."
+   ]
+  },
+  {
+   "begin": "2066.480",
+   "children": [],
+   "end": "2068.160",
+   "id": "f000554",
+   "language": "eng",
+   "lines": [
+    "\"I can make good use of this ."
+   ]
+  },
+  {
+   "begin": "2068.160",
+   "children": [],
+   "end": "2068.160",
+   "id": "f000555",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "2068.160",
+   "children": [],
+   "end": "2071.280",
+   "id": "f000556",
+   "language": "eng",
+   "lines": [
+    "this might be exactly what I've been looking for."
+   ]
+  },
+  {
+   "begin": "2071.280",
+   "children": [],
+   "end": "2071.320",
+   "id": "f000557",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2071.320",
+   "children": [],
+   "end": "2071.320",
+   "id": "f000558",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2071.320",
+   "children": [],
+   "end": "2071.320",
+   "id": "f000559",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2071.320",
+   "children": [],
+   "end": "2073.520",
+   "id": "f000560",
+   "language": "eng",
+   "lines": [
+    "Right, bed, Potter, come on, now."
    ]
   },
   {
    "begin": "2073.520",
    "children": [],
-   "end": "2086.800",
-   "id": "f000166",
+   "end": "2073.520",
+   "id": "f000561",
    "language": "eng",
    "lines": [
-    "They climbed to the top of the stairs together, Moody still examining the map as though it was a treasure the like of which he had never seen before. They walked in silence to the door of Moody's office, where he stopped and looked up at Harry."
+    "...\""
    ]
   },
   {
-   "begin": "2086.800",
+   "begin": "2073.520",
+   "children": [],
+   "end": "2081.440",
+   "id": "f000562",
+   "language": "eng",
+   "lines": [
+    "They climbed to the top of the stairs together, Moody still examining the map as though it was a treasure the like of which he had never seen before."
+   ]
+  },
+  {
+   "begin": "2081.440",
+   "children": [],
+   "end": "2086.720",
+   "id": "f000563",
+   "language": "eng",
+   "lines": [
+    "They walked in silence to the door of Moody's office, where he stopped and looked up at Harry."
+   ]
+  },
+  {
+   "begin": "2086.720",
    "children": [],
    "end": "2090.600",
-   "id": "f000167",
+   "id": "f000564",
    "language": "eng",
    "lines": [
     "\"You ever thought of a career as an Auror, Potter?\""
@@ -1673,81 +5643,221 @@
   {
    "begin": "2090.600",
    "children": [],
-   "end": "2094.360",
-   "id": "f000168",
+   "end": "2093.120",
+   "id": "f000565",
    "language": "eng",
    "lines": [
     "\"No,\" said Harry, taken aback."
    ]
   },
   {
-   "begin": "2094.360",
+   "begin": "2093.120",
    "children": [],
-   "end": "2098.400",
-   "id": "f000169",
+   "end": "2098.320",
+   "id": "f000566",
    "language": "eng",
    "lines": [
     "\"You want to consider it,\" said Moody, nodding and looking at Harry thoughtfully."
    ]
   },
   {
-   "begin": "2098.400",
+   "begin": "2098.320",
    "children": [],
-   "end": "2105.040",
-   "id": "f000170",
+   "end": "2099.640",
+   "id": "f000567",
    "language": "eng",
    "lines": [
-    "\"Yes, indeed ... and incidentally ... I'm guessing you werent Just taking that egg for a walk tonight?\""
+    "\"Yes, indeed ..."
+   ]
+  },
+  {
+   "begin": "2099.640",
+   "children": [],
+   "end": "2101.120",
+   "id": "f000568",
+   "language": "eng",
+   "lines": [
+    "and incidentally ..."
+   ]
+  },
+  {
+   "begin": "2101.120",
+   "children": [],
+   "end": "2105.040",
+   "id": "f000569",
+   "language": "eng",
+   "lines": [
+    "I'm guessing you werent Just taking that egg for a walk tonight?\""
    ]
   },
   {
    "begin": "2105.040",
    "children": [],
-   "end": "2109.520",
-   "id": "f000171",
+   "end": "2107.520",
+   "id": "f000570",
    "language": "eng",
    "lines": [
-    "\"Er - no,\" said Harry, grinning. \"I've been working out the clue.\""
+    "\"Er - no,\" said Harry, grinning."
+   ]
+  },
+  {
+   "begin": "2107.520",
+   "children": [],
+   "end": "2109.520",
+   "id": "f000571",
+   "language": "eng",
+   "lines": [
+    "\"I've been working out the clue.\""
    ]
   },
   {
    "begin": "2109.520",
    "children": [],
-   "end": "2118.280",
-   "id": "f000172",
+   "end": "2113.720",
+   "id": "f000572",
    "language": "eng",
    "lines": [
-    "Moody winked at him, his magical eye going haywire again. \"Nothing like a nighttime stroll to give you ideas, Potter. . .. See you in the morning....\""
+    "Moody winked at him, his magical eye going haywire again."
+   ]
+  },
+  {
+   "begin": "2113.720",
+   "children": [],
+   "end": "2117.000",
+   "id": "f000573",
+   "language": "eng",
+   "lines": [
+    "\"Nothing like a nighttime stroll to give you ideas, Potter."
+   ]
+  },
+  {
+   "begin": "2117.000",
+   "children": [],
+   "end": "2117.040",
+   "id": "f000574",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2117.040",
+   "children": [],
+   "end": "2117.080",
+   "id": "f000575",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "2117.080",
+   "children": [],
+   "end": "2118.280",
+   "id": "f000576",
+   "language": "eng",
+   "lines": [
+    "See you in the morning....\""
    ]
   },
   {
    "begin": "2118.280",
    "children": [],
-   "end": "2124.600",
-   "id": "f000173",
+   "end": "2124.520",
+   "id": "f000577",
    "language": "eng",
    "lines": [
     "He went back into his office, staring down at the Marauders Map again, and closed the door behind him."
    ]
   },
   {
-   "begin": "2124.600",
+   "begin": "2124.520",
    "children": [],
-   "end": "2142.280",
-   "id": "f000174",
+   "end": "2133.080",
+   "id": "f000578",
    "language": "eng",
    "lines": [
-    "Harry walked slowly back to Gryffindor Tower, lost in thought about Snape, and Crouch, and what it all meant.... Why was Crouch pretending to be ill, if he could manage to get to Hogwarts when he wanted to? What did he think Snape was concealing in his office?"
+    "Harry walked slowly back to Gryffindor Tower, lost in thought about Snape, and Crouch, and what it all meant...."
+   ]
+  },
+  {
+   "begin": "2133.080",
+   "children": [],
+   "end": "2138.840",
+   "id": "f000579",
+   "language": "eng",
+   "lines": [
+    "Why was Crouch pretending to be ill, if he could manage to get to Hogwarts when he wanted to?"
+   ]
+  },
+  {
+   "begin": "2138.840",
+   "children": [],
+   "end": "2142.280",
+   "id": "f000580",
+   "language": "eng",
+   "lines": [
+    "What did he think Snape was concealing in his office?"
    ]
   },
   {
    "begin": "2142.280",
    "children": [],
-   "end": "2166.000",
-   "id": "f000175",
+   "end": "2144.560",
+   "id": "f000581",
    "language": "eng",
    "lines": [
-    "And Moody thought he. Harry, ought to be an Auror! Interesting idea.. . but somehow. Harry thought, as he got quietly into his four-poster ten minutes later, the egg and the cloak now safely back in his trunk, he thought he'd like to check how scarred the rest of them were before he chose it as a career."
+    "And Moody thought he."
+   ]
+  },
+  {
+   "begin": "2144.560",
+   "children": [],
+   "end": "2147.040",
+   "id": "f000582",
+   "language": "eng",
+   "lines": [
+    "Harry, ought to be an Auror!"
+   ]
+  },
+  {
+   "begin": "2147.040",
+   "children": [],
+   "end": "2149.280",
+   "id": "f000583",
+   "language": "eng",
+   "lines": [
+    "Interesting idea.."
+   ]
+  },
+  {
+   "begin": "2149.280",
+   "children": [],
+   "end": "2149.280",
+   "id": "f000584",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2149.280",
+   "children": [],
+   "end": "2150.640",
+   "id": "f000585",
+   "language": "eng",
+   "lines": [
+    "but somehow."
+   ]
+  },
+  {
+   "begin": "2150.640",
+   "children": [],
+   "end": "2166.000",
+   "id": "f000586",
+   "language": "eng",
+   "lines": [
+    "Harry thought, as he got quietly into his four-poster ten minutes later, the egg and the cloak now safely back in his trunk, he thought he'd like to check how scarred the rest of them were before he chose it as a career."
    ]
   }
  ]

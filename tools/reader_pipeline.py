@@ -441,9 +441,65 @@ def flush_paragraph(lines: list[str], paragraphs: list[str]) -> None:
         paragraphs.append(paragraph)
 
 
+SENTENCE_ABBREVIATIONS = {
+    "Mr.",
+    "Mrs.",
+    "Ms.",
+    "Dr.",
+    "Prof.",
+    "St.",
+    "Jr.",
+    "Sr.",
+}
+
+
+def split_sentences(paragraph: str) -> list[str]:
+    paragraph = re.sub(r"\s+", " ", paragraph).strip()
+    if not paragraph:
+        return []
+
+    sentences: list[str] = []
+    start = 0
+    index = 0
+    while index < len(paragraph):
+        char = paragraph[index]
+        if char not in ".!?":
+            index += 1
+            continue
+
+        end = index + 1
+        while end < len(paragraph) and paragraph[end] in "\"')]}":
+            end += 1
+        sentence = paragraph[start:end].strip()
+        next_char = paragraph[end : end + 1]
+        if next_char.isspace() and sentence and not is_sentence_abbreviation(sentence):
+            sentences.append(sentence)
+            start = end + 1
+            while start < len(paragraph) and paragraph[start].isspace():
+                start += 1
+            index = start
+            continue
+        index = end
+
+    tail = paragraph[start:].strip()
+    if tail:
+        sentences.append(tail)
+    return sentences
+
+
+def is_sentence_abbreviation(sentence: str) -> bool:
+    last_word = sentence.rstrip("\"')]}").rsplit(" ", 1)[-1]
+    if last_word in SENTENCE_ABBREVIATIONS:
+        return True
+    return bool(re.fullmatch(r"(?:[A-Z]\.){2,}", last_word))
+
+
 def chapter_fragments(chapter: Chapter) -> list[str]:
     heading = f"Chapter {display_chapter_word(chapter.number)}. {chapter.title}."
-    return [heading, *normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter))]
+    fragments = [heading]
+    for paragraph in normalize_paragraphs(chapter.body, running_headers=running_headers_for(chapter)):
+        fragments.extend(split_sentences(paragraph))
+    return fragments
 
 
 def running_headers_for(chapter: Chapter) -> set[str]:

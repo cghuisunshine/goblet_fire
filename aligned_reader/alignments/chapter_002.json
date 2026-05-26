@@ -13,168 +13,548 @@
   {
    "begin": "6.400",
    "children": [],
-   "end": "28.240",
+   "end": "11.800",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Harry lay flat on his back, breathing hard as though he had been running. He had awoken from a vivid dream with his hands pressed over his face. The old scar on his forehead, which was shaped like a bolt of lightning, was burning beneath his fingers as though someone had just pressed a white-hot wire to his skin."
+    "Harry lay flat on his back, breathing hard as though he had been running."
    ]
   },
   {
-   "begin": "28.240",
+   "begin": "11.800",
    "children": [],
-   "end": "47.280",
+   "end": "16.800",
    "id": "f000003",
    "language": "eng",
    "lines": [
-    "He sat up, one hand still on his scar, the other hand reaching out in the darkness for his glasses, which were on the bedside table. He put them on and his bedroom came into clearer focus, lit by a faint, misty orange light that was filtering through the curtains from the street lamp outside the window."
+    "He had awoken from a vivid dream with his hands pressed over his face."
    ]
   },
   {
-   "begin": "47.280",
+   "begin": "16.800",
    "children": [],
-   "end": "96.120",
+   "end": "28.280",
    "id": "f000004",
    "language": "eng",
    "lines": [
-    "Harry ran his fingers over the scar again. It was still painful. He turned on the lamp beside him, scrambled out of bed, crossed the room, opened his wardrobe, and peered into the mirror on the inside of the door. A skinny boy of fourteen looked back at him, his bright green eyes puzzled under his untidy black hair. He examined the lightning-bolt scar of his reflection more closely. It looked normal, but it was still stinging. harry tried to recall what he had been dreaming about before he had awoken. It had seemed so real...There had been two people he knew and one he didn't ...He concentrated hard, frowning, trying to remember..."
+    "The old scar on his forehead, which was shaped like a bolt of lightning, was burning beneath his fingers as though someone had just pressed a white-hot wire to his skin."
+   ]
+  },
+  {
+   "begin": "28.280",
+   "children": [],
+   "end": "36.160",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "He sat up, one hand still on his scar, the other hand reaching out in the darkness for his glasses, which were on the bedside table."
+   ]
+  },
+  {
+   "begin": "36.160",
+   "children": [],
+   "end": "47.400",
+   "id": "f000006",
+   "language": "eng",
+   "lines": [
+    "He put them on and his bedroom came into clearer focus, lit by a faint, misty orange light that was filtering through the curtains from the street lamp outside the window."
+   ]
+  },
+  {
+   "begin": "47.400",
+   "children": [],
+   "end": "51.280",
+   "id": "f000007",
+   "language": "eng",
+   "lines": [
+    "Harry ran his fingers over the scar again."
+   ]
+  },
+  {
+   "begin": "51.280",
+   "children": [],
+   "end": "53.760",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "It was still painful."
+   ]
+  },
+  {
+   "begin": "53.760",
+   "children": [],
+   "end": "62.960",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "He turned on the lamp beside him, scrambled out of bed, crossed the room, opened his wardrobe, and peered into the mirror on the inside of the door."
+   ]
+  },
+  {
+   "begin": "62.960",
+   "children": [],
+   "end": "70.800",
+   "id": "f000010",
+   "language": "eng",
+   "lines": [
+    "A skinny boy of fourteen looked back at him, his bright green eyes puzzled under his untidy black hair."
+   ]
+  },
+  {
+   "begin": "70.800",
+   "children": [],
+   "end": "75.400",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "He examined the lightning-bolt scar of his reflection more closely."
+   ]
+  },
+  {
+   "begin": "75.400",
+   "children": [],
+   "end": "79.920",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "It looked normal, but it was still stinging."
+   ]
+  },
+  {
+   "begin": "79.920",
+   "children": [],
+   "end": "84.560",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "harry tried to recall what he had been dreaming about before he had awoken."
+   ]
+  },
+  {
+   "begin": "84.560",
+   "children": [],
+   "end": "96.120",
+   "id": "f000014",
+   "language": "eng",
+   "lines": [
+    "It had seemed so real...There had been two people he knew and one he didn't ...He concentrated hard, frowning, trying to remember..."
    ]
   },
   {
    "begin": "96.120",
    "children": [],
-   "end": "118.560",
-   "id": "f000005",
+   "end": "112.240",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "The dim picture of a darkened room came to him...There had been a snake on a hearth rug...a small man called Peter, nicknamed Wormtail...and a cold, high voice...the voice of Lord Voldemort. Harry felt as though an ice cube had slipped down into his stomach at the very thought..."
+    "The dim picture of a darkened room came to him...There had been a snake on a hearth rug...a small man called Peter, nicknamed Wormtail...and a cold, high voice...the voice of Lord Voldemort."
+   ]
+  },
+  {
+   "begin": "112.240",
+   "children": [],
+   "end": "118.560",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Harry felt as though an ice cube had slipped down into his stomach at the very thought..."
    ]
   },
   {
    "begin": "118.560",
    "children": [],
-   "end": "141.280",
-   "id": "f000006",
+   "end": "141.240",
+   "id": "f000017",
    "language": "eng",
    "lines": [
     "He closed his eyes tightly and tried to remember what Voldemort had looked like, but it was impossible...All Harry knew was that at the moment when Voldemort's chair had swung around, and he, Harry, had seen what was sitting in it, he had felt a spasm of horror, which had awoken him...or had that been the pain in his scar?"
    ]
   },
   {
-   "begin": "141.280",
+   "begin": "141.240",
    "children": [],
-   "end": "182.040",
-   "id": "f000007",
+   "end": "143.760",
+   "id": "f000018",
    "language": "eng",
    "lines": [
-    "And who had the old man been? For there had definitely been an old man; Harry had watched him fall to the ground. It was all becoming confused. Harry put his face into his hands, blocking out his bedroom, trying to hold on to the picture of that dimly lit room, but it was like trying to keep water in his cupped hands; the details were now trickling away as fast as he tried to hold on to them...Voldemort and Wormtail had been talking about someone they had killed, though Harry could not remember the name...and they had been plotting to kill someone else...him!"
+    "And who had the old man been?"
+   ]
+  },
+  {
+   "begin": "143.760",
+   "children": [],
+   "end": "150.240",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "For there had definitely been an old man; Harry had watched him fall to the ground."
+   ]
+  },
+  {
+   "begin": "150.240",
+   "children": [],
+   "end": "152.720",
+   "id": "f000020",
+   "language": "eng",
+   "lines": [
+    "It was all becoming confused."
+   ]
+  },
+  {
+   "begin": "152.720",
+   "children": [],
+   "end": "182.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Harry put his face into his hands, blocking out his bedroom, trying to hold on to the picture of that dimly lit room, but it was like trying to keep water in his cupped hands; the details were now trickling away as fast as he tried to hold on to them...Voldemort and Wormtail had been talking about someone they had killed, though Harry could not remember the name...and they had been plotting to kill someone else...him!"
    ]
   },
   {
    "begin": "182.040",
    "children": [],
-   "end": "212.800",
-   "id": "f000008",
+   "end": "190.240",
+   "id": "f000022",
    "language": "eng",
    "lines": [
-    "Harry took his face out of his hands, opened his eyes, and stared around his bedroom as though expecting to see something unusual there. As it happened, there was an extraordinary number of unusual things in this room. A large wooden trunk stood open at the foot of his bed, revealing a cauldron, broomstick, black robes, and assorted spellbooks. Rolls of parchment littered that part of his desk that was not taken up by the large, empty cage in which his snowy owl, Hedwig,"
+    "Harry took his face out of his hands, opened his eyes, and stared around his bedroom as though expecting to see something unusual there."
+   ]
+  },
+  {
+   "begin": "190.240",
+   "children": [],
+   "end": "196.080",
+   "id": "f000023",
+   "language": "eng",
+   "lines": [
+    "As it happened, there was an extraordinary number of unusual things in this room."
+   ]
+  },
+  {
+   "begin": "196.080",
+   "children": [],
+   "end": "204.320",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "A large wooden trunk stood open at the foot of his bed, revealing a cauldron, broomstick, black robes, and assorted spellbooks."
+   ]
+  },
+  {
+   "begin": "204.320",
+   "children": [],
+   "end": "212.800",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "Rolls of parchment littered that part of his desk that was not taken up by the large, empty cage in which his snowy owl, Hedwig,"
    ]
   },
   {
    "begin": "212.800",
    "children": [],
-   "end": "232.880",
-   "id": "f000009",
+   "end": "215.000",
+   "id": "f000026",
    "language": "eng",
    "lines": [
-    "usually perched. On the floor beside his bed a book lay open; Harry had been reading it before he fell asleep last night. The pictures in this book were all moving. Men in bright orange robes were zooming in and out of sight on broomsticks, throwing a red ball to one another."
+    "usually perched."
    ]
   },
   {
-   "begin": "232.880",
+   "begin": "215.000",
    "children": [],
-   "end": "260.680",
-   "id": "f000010",
+   "end": "221.080",
+   "id": "f000027",
    "language": "eng",
    "lines": [
-    "Harry walked over to the book, picked it up, and watched on of the wizards score a spectacular goal by putting the ball through a fifty-foot-high hoop. Then he snapped the book shut. Even Quidditch -- in Harry's opinion, the best sport in the world -- couldn't distract him at the moment. He placed Flying with the Cannons on his bedside table, crossed to the window, and drew back the curtains to survey the street below."
+    "On the floor beside his bed a book lay open; Harry had been reading it before he fell asleep last night."
    ]
   },
   {
-   "begin": "260.680",
+   "begin": "221.080",
+   "children": [],
+   "end": "224.320",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "The pictures in this book were all moving."
+   ]
+  },
+  {
+   "begin": "224.320",
+   "children": [],
+   "end": "232.840",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Men in bright orange robes were zooming in and out of sight on broomsticks, throwing a red ball to one another."
+   ]
+  },
+  {
+   "begin": "232.840",
+   "children": [],
+   "end": "242.840",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Harry walked over to the book, picked it up, and watched on of the wizards score a spectacular goal by putting the ball through a fifty-foot-high hoop."
+   ]
+  },
+  {
+   "begin": "242.840",
+   "children": [],
+   "end": "245.160",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "Then he snapped the book shut."
+   ]
+  },
+  {
+   "begin": "245.160",
+   "children": [],
+   "end": "251.840",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "Even Quidditch -- in Harry's opinion, the best sport in the world -- couldn't distract him at the moment."
+   ]
+  },
+  {
+   "begin": "251.840",
+   "children": [],
+   "end": "261.600",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "He placed Flying with the Cannons on his bedside table, crossed to the window, and drew back the curtains to survey the street below."
+   ]
+  },
+  {
+   "begin": "261.600",
+   "children": [],
+   "end": "270.720",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "Privet Drive looked exactly as a respectable suburban street would be expected to look inthe early hours of Saturday morning."
+   ]
+  },
+  {
+   "begin": "270.720",
+   "children": [],
+   "end": "272.680",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "All the curtains were closed."
+   ]
+  },
+  {
+   "begin": "272.680",
    "children": [],
    "end": "280.240",
-   "id": "f000011",
+   "id": "f000036",
    "language": "eng",
    "lines": [
-    "Privet Drive looked exactly as a respectable suburban street would be expected to look inthe early hours of Saturday morning. All the curtains were closed. As far as Harry could see through the darkness, there wasn't a living creature in sight, not even a cat."
+    "As far as Harry could see through the darkness, there wasn't a living creature in sight, not even a cat."
    ]
   },
   {
    "begin": "280.240",
    "children": [],
-   "end": "324.880",
-   "id": "f000012",
+   "end": "290.160",
+   "id": "f000037",
    "language": "eng",
    "lines": [
-    "And yet...and yet...Harry went restlessly back to the bed and sat down on it, running a finger over his scar again. It wasn't the pain that bothered him; Harry was no stranger to pain and injury. He had lost all the bones from his right arm once and had them painfully regrown in a night. The same arm had been pierced by a venemous foot-long fang not long afterward. Only last year Harry had fallen fifty feet from an airborn broomstick. He was used to bizarre accidents and injuries; they were unavoidable if you attended Hogwarts School of Witchcraft and Wizardry and had a knack for attracting a lot of trouble."
+    "And yet...and yet...Harry went restlessly back to the bed and sat down on it, running a finger over his scar again."
+   ]
+  },
+  {
+   "begin": "290.160",
+   "children": [],
+   "end": "295.800",
+   "id": "f000038",
+   "language": "eng",
+   "lines": [
+    "It wasn't the pain that bothered him; Harry was no stranger to pain and injury."
+   ]
+  },
+  {
+   "begin": "295.800",
+   "children": [],
+   "end": "302.040",
+   "id": "f000039",
+   "language": "eng",
+   "lines": [
+    "He had lost all the bones from his right arm once and had them painfully regrown in a night."
+   ]
+  },
+  {
+   "begin": "302.040",
+   "children": [],
+   "end": "307.760",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "The same arm had been pierced by a venemous foot-long fang not long afterward."
+   ]
+  },
+  {
+   "begin": "307.760",
+   "children": [],
+   "end": "312.560",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "Only last year Harry had fallen fifty feet from an airborn broomstick."
+   ]
+  },
+  {
+   "begin": "312.560",
+   "children": [],
+   "end": "324.880",
+   "id": "f000042",
+   "language": "eng",
+   "lines": [
+    "He was used to bizarre accidents and injuries; they were unavoidable if you attended Hogwarts School of Witchcraft and Wizardry and had a knack for attracting a lot of trouble."
    ]
   },
   {
    "begin": "324.880",
    "children": [],
-   "end": "344.720",
-   "id": "f000013",
+   "end": "344.760",
+   "id": "f000043",
    "language": "eng",
    "lines": [
     "No, the thing that was bothering Harry was the last time his scar had hurt him, it had been because Voldemort had been close by...But Voldemort couldn't be here, now...The idea of Voldemort lurking in Privet Drive was absurd, impossible..."
    ]
   },
   {
-   "begin": "344.720",
+   "begin": "344.760",
    "children": [],
-   "end": "361.800",
-   "id": "f000014",
+   "end": "348.680",
+   "id": "f000044",
    "language": "eng",
    "lines": [
-    "Harry listened closely to the silence around him. Was he half expecting to hear the creak of a stair or the swish of a cloak? And then he jumped slightly as he heard his cousin Dudley give a tremendous grunting snore from the next room."
+    "Harry listened closely to the silence around him."
+   ]
+  },
+  {
+   "begin": "348.680",
+   "children": [],
+   "end": "353.960",
+   "id": "f000045",
+   "language": "eng",
+   "lines": [
+    "Was he half expecting to hear the creak of a stair or the swish of a cloak?"
+   ]
+  },
+  {
+   "begin": "353.960",
+   "children": [],
+   "end": "361.800",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "And then he jumped slightly as he heard his cousin Dudley give a tremendous grunting snore from the next room."
    ]
   },
   {
    "begin": "361.800",
    "children": [],
-   "end": "378.280",
-   "id": "f000015",
+   "end": "365.800",
+   "id": "f000047",
    "language": "eng",
    "lines": [
-    "Harry shook himself mentally; he was being stupid. There was no one in the house with him except Uncle Vernon, Aunt Petunia, and Dudley, and they were plainly still asleep, their dreams untroubled and painless."
+    "Harry shook himself mentally; he was being stupid."
    ]
   },
   {
-   "begin": "378.280",
+   "begin": "365.800",
    "children": [],
-   "end": "401.280",
-   "id": "f000016",
+   "end": "378.240",
+   "id": "f000048",
    "language": "eng",
    "lines": [
-    "Asleep was the way Harry liked the Dursleys best; it wasn't as though they were ever any help to him awake. Uncle Vernon, Aunt Petunia, and Dudley were Harry's only living relatives. They were Muggles who hated and despised magic in any form, which meant that Harry was about as welcome in their house as dry rot."
+    "There was no one in the house with him except Uncle Vernon, Aunt Petunia, and Dudley, and they were plainly still asleep, their dreams untroubled and painless."
+   ]
+  },
+  {
+   "begin": "378.240",
+   "children": [],
+   "end": "385.240",
+   "id": "f000049",
+   "language": "eng",
+   "lines": [
+    "Asleep was the way Harry liked the Dursleys best; it wasn't as though they were ever any help to him awake."
+   ]
+  },
+  {
+   "begin": "385.240",
+   "children": [],
+   "end": "390.440",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "Uncle Vernon, Aunt Petunia, and Dudley were Harry's only living relatives."
+   ]
+  },
+  {
+   "begin": "390.440",
+   "children": [],
+   "end": "401.280",
+   "id": "f000051",
+   "language": "eng",
+   "lines": [
+    "They were Muggles who hated and despised magic in any form, which meant that Harry was about as welcome in their house as dry rot."
    ]
   },
   {
    "begin": "401.280",
    "children": [],
-   "end": "431.840",
-   "id": "f000017",
+   "end": "412.240",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "They had explained away Harry's long absences at Hogwarts over the last three years by telling everyone that he went to St. Brutus's Secure Center for Incurably Criminal Boys. They knew perfectly well that, as an underage wizard, Harry wasn't allowed to use magic outside Hogwarts, but they were still apt to blame him for anything that went wrong about the house. Harry had never been able to confide in them or tell them anything about his life in the wizarding world. The"
+    "They had explained away Harry's long absences at Hogwarts over the last three years by telling everyone that he went to St. Brutus's Secure Center for Incurably Criminal Boys."
    ]
   },
   {
-   "begin": "431.840",
+   "begin": "412.240",
+   "children": [],
+   "end": "425.240",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "They knew perfectly well that, as an underage wizard, Harry wasn't allowed to use magic outside Hogwarts, but they were still apt to blame him for anything that went wrong about the house."
+   ]
+  },
+  {
+   "begin": "425.240",
+   "children": [],
+   "end": "431.680",
+   "id": "f000054",
+   "language": "eng",
+   "lines": [
+    "Harry had never been able to confide in them or tell them anything about his life in the wizarding world."
+   ]
+  },
+  {
+   "begin": "431.680",
+   "children": [],
+   "end": "431.920",
+   "id": "f000055",
+   "language": "eng",
+   "lines": [
+    "The"
+   ]
+  },
+  {
+   "begin": "431.920",
    "children": [],
    "end": "441.800",
-   "id": "f000018",
+   "id": "f000056",
    "language": "eng",
    "lines": [
     "very idea of going to them when they awoke, and telling them about his scar hurting him, and about his worries about Voldemort, was laughable."
@@ -183,48 +563,148 @@
   {
    "begin": "441.800",
    "children": [],
-   "end": "460.040",
-   "id": "f000019",
+   "end": "447.200",
+   "id": "f000057",
    "language": "eng",
    "lines": [
-    "And yet it was because of Voldemort that Harry had come to live with the Dursleys in the first place. If it hadn't been for Voldemort, Harry would not have had the lightning scar on his forehead. If it hadn't been for Voldemort, Harry would still have had parents..."
+    "And yet it was because of Voldemort that Harry had come to live with the Dursleys in the first place."
    ]
   },
   {
-   "begin": "460.040",
+   "begin": "447.200",
    "children": [],
-   "end": "522.600",
-   "id": "f000020",
+   "end": "453.480",
+   "id": "f000058",
    "language": "eng",
    "lines": [
-    "Harry had been a year old the night that Voldemort -- the most powerful Dark wizard for a century, a wizard who had been gaining power steadily for eleven years -- arrived at his house and killed his father and mother. Voldemort had then turned his wand on Harry; he had performed the curse that had disposed of many full-grown witches and wizards in his steady rise to power -- and, incredibly, it had not worked. Instead of killing the small boy, the curse had rebounded upon Voldemort. Harry had survived with nothing but a lightning-shaped cut on his forehead, and Voldemort had been reduced to something barely alive. His powers gone, his life almost extinguished, Voldemort had fled; the terror in which the secret community of witches and wizards had lived for so long had lifted, Voldemort's followers had disbanded, and Harry Potter had become famous."
+    "If it hadn't been for Voldemort, Harry would not have had the lightning scar on his forehead."
+   ]
+  },
+  {
+   "begin": "453.480",
+   "children": [],
+   "end": "460.000",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "If it hadn't been for Voldemort, Harry would still have had parents..."
+   ]
+  },
+  {
+   "begin": "460.000",
+   "children": [],
+   "end": "475.680",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "Harry had been a year old the night that Voldemort -- the most powerful Dark wizard for a century, a wizard who had been gaining power steadily for eleven years -- arrived at his house and killed his father and mother."
+   ]
+  },
+  {
+   "begin": "475.680",
+   "children": [],
+   "end": "489.520",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "Voldemort had then turned his wand on Harry; he had performed the curse that had disposed of many full-grown witches and wizards in his steady rise to power -- and, incredibly, it had not worked."
+   ]
+  },
+  {
+   "begin": "489.520",
+   "children": [],
+   "end": "495.080",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "Instead of killing the small boy, the curse had rebounded upon Voldemort."
+   ]
+  },
+  {
+   "begin": "495.080",
+   "children": [],
+   "end": "504.840",
+   "id": "f000063",
+   "language": "eng",
+   "lines": [
+    "Harry had survived with nothing but a lightning-shaped cut on his forehead, and Voldemort had been reduced to something barely alive."
+   ]
+  },
+  {
+   "begin": "504.840",
+   "children": [],
+   "end": "522.600",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "His powers gone, his life almost extinguished, Voldemort had fled; the terror in which the secret community of witches and wizards had lived for so long had lifted, Voldemort's followers had disbanded, and Harry Potter had become famous."
    ]
   },
   {
    "begin": "522.600",
    "children": [],
-   "end": "554.200",
-   "id": "f000021",
+   "end": "536.160",
+   "id": "f000065",
    "language": "eng",
    "lines": [
-    "It had been enough of a shock for Harry to discover, on his eleventh birthday, that he was a wizard; it had been even more disconcerting to find out that everyone in the hidden wizarding world knew his name. Harry had arrived at Hogwarts to find that heads turned and whispers followed him wherever he went. But he was used to it now: At the end of this summer, he would be starting his fourth year at Hogwarts, and Harry was already counting the days until he would be back at the castle again."
+    "It had been enough of a shock for Harry to discover, on his eleventh birthday, that he was a wizard; it had been even more disconcerting to find out that everyone in the hidden wizarding world knew his name."
    ]
   },
   {
-   "begin": "554.200",
+   "begin": "536.160",
    "children": [],
-   "end": "573.120",
-   "id": "f000022",
+   "end": "541.600",
+   "id": "f000066",
    "language": "eng",
    "lines": [
-    "But there was still a fortnight to go before he went back to school. He looked hopelessly around his room again, and his eye paused on the birthday cards his two best friends had sent him at the end of July. What would they say if Harry wrote to them and told them about his scar hurting?"
+    "Harry had arrived at Hogwarts to find that heads turned and whispers followed him wherever he went."
+   ]
+  },
+  {
+   "begin": "541.600",
+   "children": [],
+   "end": "552.680",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "But he was used to it now: At the end of this summer, he would be starting his fourth year at Hogwarts, and Harry was already counting the days until he would be back at the castle again."
+   ]
+  },
+  {
+   "begin": "552.680",
+   "children": [],
+   "end": "558.760",
+   "id": "f000068",
+   "language": "eng",
+   "lines": [
+    "But there was still a fortnight to go before he went back to school."
+   ]
+  },
+  {
+   "begin": "558.760",
+   "children": [],
+   "end": "567.760",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "He looked hopelessly around his room again, and his eye paused on the birthday cards his two best friends had sent him at the end of July."
+   ]
+  },
+  {
+   "begin": "567.760",
+   "children": [],
+   "end": "573.120",
+   "id": "f000070",
+   "language": "eng",
+   "lines": [
+    "What would they say if Harry wrote to them and told them about his scar hurting?"
    ]
   },
   {
    "begin": "573.120",
    "children": [],
    "end": "578.400",
-   "id": "f000023",
+   "id": "f000071",
    "language": "eng",
    "lines": [
     "At once, Hermione Granger's voice seemed to fill his head, shrill and panicky."
@@ -233,48 +713,178 @@
   {
    "begin": "578.400",
    "children": [],
-   "end": "583.440",
-   "id": "f000024",
+   "end": "580.120",
+   "id": "f000072",
    "language": "eng",
    "lines": [
-    "\"Your scar hurt? Harry, that's really serious.... Write to Professor Dumbledore!"
+    "\"Your scar hurt?"
    ]
   },
   {
-   "begin": "583.440",
+   "begin": "580.120",
    "children": [],
-   "end": "590.200",
-   "id": "f000025",
+   "end": "581.880",
+   "id": "f000073",
    "language": "eng",
    "lines": [
-    "And I'll go and check Common Magical Ailments and Afflictions.... Maybe there's something in there about curse scars. . . .\""
+    "Harry, that's really serious...."
    ]
   },
   {
-   "begin": "590.200",
+   "begin": "581.880",
    "children": [],
-   "end": "638.840",
-   "id": "f000026",
+   "end": "583.400",
+   "id": "f000074",
    "language": "eng",
    "lines": [
-    "Yes, that would be Hermione's advice: Go straight to the headmaster of Hogwarts, and in the meantime, consult a book. Harry stared out of the window at the inky blue-black sky. He doubted very much whether a book could help him now. As far as he knew, he was the only living person to have survived a curse like Voldemort's; it was highly unlikely, therefore, that he would find his symptoms listed in Common Magical Ailments and Afflictions. As for informing the headmaster, Harry had no idea where Dumbledore went during the summer holidays. He amused himself for a moment, picturing Dumbledore, with his long silver beard, full length wizard's robes, and pointed hat, stretched out on a beach"
+    "Write to Professor Dumbledore!"
    ]
   },
   {
-   "begin": "638.840",
+   "begin": "583.400",
+   "children": [],
+   "end": "586.720",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "And I'll go and check Common Magical Ailments and Afflictions...."
+   ]
+  },
+  {
+   "begin": "586.720",
+   "children": [],
+   "end": "589.480",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "Maybe there's something in there about curse scars."
+   ]
+  },
+  {
+   "begin": "589.480",
+   "children": [],
+   "end": "589.520",
+   "id": "f000077",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "589.520",
+   "children": [],
+   "end": "589.520",
+   "id": "f000078",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "589.520",
+   "children": [],
+   "end": "590.160",
+   "id": "f000079",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "590.160",
+   "children": [],
+   "end": "599.840",
+   "id": "f000080",
+   "language": "eng",
+   "lines": [
+    "Yes, that would be Hermione's advice: Go straight to the headmaster of Hogwarts, and in the meantime, consult a book."
+   ]
+  },
+  {
+   "begin": "599.840",
+   "children": [],
+   "end": "604.000",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "Harry stared out of the window at the inky blue-black sky."
+   ]
+  },
+  {
+   "begin": "604.000",
+   "children": [],
+   "end": "608.480",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "He doubted very much whether a book could help him now."
+   ]
+  },
+  {
+   "begin": "608.480",
+   "children": [],
+   "end": "620.840",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "As far as he knew, he was the only living person to have survived a curse like Voldemort's; it was highly unlikely, therefore, that he would find his symptoms listed in Common Magical Ailments and Afflictions."
+   ]
+  },
+  {
+   "begin": "620.840",
+   "children": [],
+   "end": "628.640",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "As for informing the headmaster, Harry had no idea where Dumbledore went during the summer holidays."
+   ]
+  },
+  {
+   "begin": "628.640",
+   "children": [],
+   "end": "638.800",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "He amused himself for a moment, picturing Dumbledore, with his long silver beard, full length wizard's robes, and pointed hat, stretched out on a beach"
+   ]
+  },
+  {
+   "begin": "638.800",
+   "children": [],
+   "end": "644.120",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "somewhere, rubbing suntan lotion onto his long crooked nose."
+   ]
+  },
+  {
+   "begin": "644.120",
+   "children": [],
+   "end": "655.520",
+   "id": "f000087",
+   "language": "eng",
+   "lines": [
+    "Wherever Dumbledore was, though, Harry was sure that Hedwig would be able to find him; Harry's owl had never yet failed to deliver a letter to anyone, even without an address."
+   ]
+  },
+  {
+   "begin": "655.520",
    "children": [],
    "end": "658.800",
-   "id": "f000027",
+   "id": "f000088",
    "language": "eng",
    "lines": [
-    "somewhere, rubbing suntan lotion onto his long crooked nose. Wherever Dumbledore was, though, Harry was sure that Hedwig would be able to find him; Harry's owl had never yet failed to deliver a letter to anyone, even without an address. But what would he write?"
+    "But what would he write?"
    ]
   },
   {
    "begin": "658.800",
    "children": [],
    "end": "663.960",
-   "id": "f000028",
+   "id": "f000089",
    "language": "eng",
    "lines": [
     "Dear Professor Dumbledore, Sorry to bother you, but my scar hurt this morning."
@@ -283,28 +893,28 @@
   {
    "begin": "663.960",
    "children": [],
-   "end": "666.760",
-   "id": "f000029",
+   "end": "666.200",
+   "id": "f000090",
    "language": "eng",
    "lines": [
     "Yours sincerely, Harry Potter."
    ]
   },
   {
-   "begin": "666.760",
+   "begin": "666.200",
    "children": [],
-   "end": "671.000",
-   "id": "f000030",
+   "end": "669.840",
+   "id": "f000091",
    "language": "eng",
    "lines": [
     "Even inside his head the words sounded stupid."
    ]
   },
   {
-   "begin": "671.000",
+   "begin": "669.840",
    "children": [],
    "end": "683.520",
-   "id": "f000031",
+   "id": "f000092",
    "language": "eng",
    "lines": [
     "And so he tried to imagine his other best friend, Ron Weasley's, reaction, and in a moment, Ron's red hair and long-nosed, freckled face seemed to swim before Harry, wearing a bemused expression."
@@ -313,211 +923,651 @@
   {
    "begin": "683.520",
    "children": [],
-   "end": "693.800",
-   "id": "f000032",
+   "end": "685.440",
+   "id": "f000093",
    "language": "eng",
    "lines": [
-    "\"Your scar hurt? But ... but You-Know-Who can't be near you now, can he? I mean ... you'd know, wouldn't you? He'd be trying to do you in again, wouldn't be?"
+    "\"Your scar hurt?"
    ]
   },
   {
-   "begin": "693.800",
+   "begin": "685.440",
    "children": [],
-   "end": "698.640",
-   "id": "f000033",
+   "end": "686.360",
+   "id": "f000094",
    "language": "eng",
    "lines": [
-    "I dunno, Harry, maybe curse scars always twinge a bit... I'll ask Dad. . . .\""
+    "But ..."
+   ]
+  },
+  {
+   "begin": "686.360",
+   "children": [],
+   "end": "689.200",
+   "id": "f000095",
+   "language": "eng",
+   "lines": [
+    "but You-Know-Who can't be near you now, can he?"
+   ]
+  },
+  {
+   "begin": "689.200",
+   "children": [],
+   "end": "689.720",
+   "id": "f000096",
+   "language": "eng",
+   "lines": [
+    "I mean ..."
+   ]
+  },
+  {
+   "begin": "689.720",
+   "children": [],
+   "end": "691.200",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "you'd know, wouldn't you?"
+   ]
+  },
+  {
+   "begin": "691.200",
+   "children": [],
+   "end": "693.680",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "He'd be trying to do you in again, wouldn't be?"
+   ]
+  },
+  {
+   "begin": "693.680",
+   "children": [],
+   "end": "696.760",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "I dunno, Harry, maybe curse scars always twinge a bit..."
+   ]
+  },
+  {
+   "begin": "696.760",
+   "children": [],
+   "end": "698.240",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "I'll ask Dad."
+   ]
+  },
+  {
+   "begin": "698.240",
+   "children": [],
+   "end": "698.240",
+   "id": "f000101",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "698.240",
+   "children": [],
+   "end": "698.240",
+   "id": "f000102",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "698.240",
+   "children": [],
+   "end": "698.640",
+   "id": "f000103",
+   "language": "eng",
+   "lines": [
+    ".\""
    ]
   },
   {
    "begin": "698.640",
    "children": [],
-   "end": "748.480",
-   "id": "f000034",
+   "end": "711.440",
+   "id": "f000104",
    "language": "eng",
    "lines": [
-    "Mr. Weasley was a fully qualified wizard who worked in the Misuse of Muggle Artifacts Office at the Ministry of Magic, but he didn't have any particular expertise in the matter of curses, as far as Harry knew. In any case, Harry didn't like the idea of the whole Weasley family knowing that he, Harry, was getting jumpy about a few moments' pain. Mrs. Weasley would fuss worse than Hermione, and Fred and George, Ron's sixteen- year-old twin brothers, might think Harry was losing his nerve. The Weasleys were Harry's favorite family in the world; he was hoping that they might invite him to stay any time now (Ron had mentioned something about the Quidditch World Cup), and he somehow didn't want his visit punctuated with anxious inquiries about his scar."
+    "Mr. Weasley was a fully qualified wizard who worked in the Misuse of Muggle Artifacts Office at the Ministry of Magic, but he didn't have any particular expertise in the matter of curses, as far as Harry knew."
    ]
   },
   {
-   "begin": "748.480",
+   "begin": "711.440",
    "children": [],
-   "end": "771.560",
-   "id": "f000035",
+   "end": "720.240",
+   "id": "f000105",
    "language": "eng",
    "lines": [
-    "Harry kneaded his forehead with his knuckles. What he really wanted (and it felt almost shameful to admit it to himself) was someone like - someone like a parent: an adult wizard whose advice he could ask without feeling stupid, someone who cared about him, who had had experience with Dark Magic...."
+    "In any case, Harry didn't like the idea of the whole Weasley family knowing that he, Harry, was getting jumpy about a few moments' pain."
    ]
   },
   {
-   "begin": "771.560",
+   "begin": "720.240",
    "children": [],
-   "end": "783.320",
-   "id": "f000036",
+   "end": "729.720",
+   "id": "f000106",
    "language": "eng",
    "lines": [
-    "And then the solution came to him. It was so simple, and so obvious, that he couldn't believe it had taken so long - Sirius."
+    "Mrs. Weasley would fuss worse than Hermione, and Fred and George, Ron's sixteen- year-old twin brothers, might think Harry was losing his nerve."
    ]
   },
   {
-   "begin": "783.320",
+   "begin": "729.720",
    "children": [],
-   "end": "813.920",
-   "id": "f000037",
+   "end": "747.000",
+   "id": "f000107",
    "language": "eng",
    "lines": [
-    "Harry leapt up from the bed, hurried across the room, and sat down at his desk; he pulled a piece of parchment toward him, loaded his eagle-feather quill with ink, wrote Dear Sirius, then paused, wondering how best to phrase his problem, still marveling at the fact that he hadn't thought of Sirius straight away. But then, perhaps it wasn't so surprising - after all, he had only found out that Sirius was his godfather two months ago."
+    "The Weasleys were Harry's favorite family in the world; he was hoping that they might invite him to stay any time now (Ron had mentioned something about the Quidditch World Cup), and he somehow didn't want his visit punctuated with anxious inquiries about his scar."
    ]
   },
   {
-   "begin": "813.920",
+   "begin": "747.000",
    "children": [],
-   "end": "842.000",
-   "id": "f000038",
+   "end": "750.920",
+   "id": "f000108",
    "language": "eng",
    "lines": [
-    "There was a simple reason for Sirius's complete absence from Harry's life until then - Sirius had been in Azkaban, the terrifying wizard jail guarded by creatures called dementors, sightless, soul-sucking fiends who had come to search for Sirius at Hogwarts when he had escaped. Yet Sirius had been innocent - the murders for which he had been convicted had been committed by Wormtail, Voldemort's"
+    "Harry kneaded his forehead with his knuckles."
    ]
   },
   {
-   "begin": "842.000",
+   "begin": "750.920",
    "children": [],
-   "end": "857.280",
-   "id": "f000039",
+   "end": "770.440",
+   "id": "f000109",
    "language": "eng",
    "lines": [
-    "supporter, whom nearly everybody now believed dead. Harry, Ron, and Hermione knew otherwise, however; they had come face-to-face with Wormtail only the previous year, though only Professor Dumbledore had believed their story."
+    "What he really wanted (and it felt almost shameful to admit it to himself) was someone like - someone like a parent: an adult wizard whose advice he could ask without feeling stupid, someone who cared about him, who had had experience with Dark Magic...."
    ]
   },
   {
-   "begin": "857.280",
+   "begin": "770.440",
    "children": [],
-   "end": "878.720",
-   "id": "f000040",
+   "end": "774.440",
+   "id": "f000110",
    "language": "eng",
    "lines": [
-    "For one glorious hour, Harry had believed that he was leaving the Dursleys at last, because Sirius had offered him a home once his name had been cleared. But the chance had been snatched away from him - Wormtail had escaped before they could take him to the Ministry of Magic, and Sirius had had to flee for his life."
+    "And then the solution came to him."
    ]
   },
   {
-   "begin": "878.720",
+   "begin": "774.440",
+   "children": [],
+   "end": "782.480",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "It was so simple, and so obvious, that he couldn't believe it had taken so long - Sirius."
+   ]
+  },
+  {
+   "begin": "782.480",
+   "children": [],
+   "end": "803.680",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "Harry leapt up from the bed, hurried across the room, and sat down at his desk; he pulled a piece of parchment toward him, loaded his eagle-feather quill with ink, wrote Dear Sirius, then paused, wondering how best to phrase his problem, still marveling at the fact that he hadn't thought of Sirius straight away."
+   ]
+  },
+  {
+   "begin": "803.680",
+   "children": [],
+   "end": "812.240",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "But then, perhaps it wasn't so surprising - after all, he had only found out that Sirius was his godfather two months ago."
+   ]
+  },
+  {
+   "begin": "812.240",
+   "children": [],
+   "end": "834.680",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "There was a simple reason for Sirius's complete absence from Harry's life until then - Sirius had been in Azkaban, the terrifying wizard jail guarded by creatures called dementors, sightless, soul-sucking fiends who had come to search for Sirius at Hogwarts when he had escaped."
+   ]
+  },
+  {
+   "begin": "834.680",
+   "children": [],
+   "end": "841.920",
+   "id": "f000115",
+   "language": "eng",
+   "lines": [
+    "Yet Sirius had been innocent - the murders for which he had been convicted had been committed by Wormtail, Voldemort's"
+   ]
+  },
+  {
+   "begin": "841.920",
+   "children": [],
+   "end": "845.280",
+   "id": "f000116",
+   "language": "eng",
+   "lines": [
+    "supporter, whom nearly everybody now believed dead."
+   ]
+  },
+  {
+   "begin": "845.280",
+   "children": [],
+   "end": "856.480",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "Harry, Ron, and Hermione knew otherwise, however; they had come face-to-face with Wormtail only the previous year, though only Professor Dumbledore had believed their story."
+   ]
+  },
+  {
+   "begin": "856.480",
+   "children": [],
+   "end": "867.240",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "For one glorious hour, Harry had believed that he was leaving the Dursleys at last, because Sirius had offered him a home once his name had been cleared."
+   ]
+  },
+  {
+   "begin": "867.240",
+   "children": [],
+   "end": "877.680",
+   "id": "f000119",
+   "language": "eng",
+   "lines": [
+    "But the chance had been snatched away from him - Wormtail had escaped before they could take him to the Ministry of Magic, and Sirius had had to flee for his life."
+   ]
+  },
+  {
+   "begin": "877.680",
+   "children": [],
+   "end": "885.880",
+   "id": "f000120",
+   "language": "eng",
+   "lines": [
+    "Harry had helped him escape on the back of a hippogriff called Buckbeak, and since then, Sirius had been on the run."
+   ]
+  },
+  {
+   "begin": "885.880",
+   "children": [],
+   "end": "892.280",
+   "id": "f000121",
+   "language": "eng",
+   "lines": [
+    "The home Harry might have had if Wormtail had not escaped had been haunting him all summer."
+   ]
+  },
+  {
+   "begin": "892.280",
    "children": [],
    "end": "900.720",
-   "id": "f000041",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "Harry had helped him escape on the back of a hippogriff called Buckbeak, and since then, Sirius had been on the run. The home Harry might have had if Wormtail had not escaped had been haunting him all summer. It had been doubly hard to return to the Dursleys knowing that he had so nearly escaped them forever."
+    "It had been doubly hard to return to the Dursleys knowing that he had so nearly escaped them forever."
    ]
   },
   {
    "begin": "900.720",
    "children": [],
-   "end": "939.560",
-   "id": "f000042",
+   "end": "906.080",
+   "id": "f000123",
    "language": "eng",
    "lines": [
-    "Nevertheless, Sirius had been of some help to Harry, even if he couldn't be with him. It was due to Sirius that Harry now had all his school things in his bedroom with him. The Dursleys had never allowed this before; their general wish of keeping Harry as miserable as possible, coupled with their fear of his powers, had led them to lock his school trunk in the cupboard under the stairs every summer prior to this. But their attitude had changed since they had found out that Harry had a dangerous murderer for a godfather - for Harry had conveniently forgotten to tell them that Sirius was innocent."
+    "Nevertheless, Sirius had been of some help to Harry, even if he couldn't be with him."
    ]
   },
   {
-   "begin": "939.560",
+   "begin": "906.080",
    "children": [],
-   "end": "944.880",
-   "id": "f000043",
+   "end": "911.120",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "It was due to Sirius that Harry now had all his school things in his bedroom with him."
+   ]
+  },
+  {
+   "begin": "911.120",
+   "children": [],
+   "end": "926.080",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "The Dursleys had never allowed this before; their general wish of keeping Harry as miserable as possible, coupled with their fear of his powers, had led them to lock his school trunk in the cupboard under the stairs every summer prior to this."
+   ]
+  },
+  {
+   "begin": "926.080",
+   "children": [],
+   "end": "938.440",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "But their attitude had changed since they had found out that Harry had a dangerous murderer for a godfather - for Harry had conveniently forgotten to tell them that Sirius was innocent."
+   ]
+  },
+  {
+   "begin": "938.440",
+   "children": [],
+   "end": "944.760",
+   "id": "f000127",
    "language": "eng",
    "lines": [
     "Harry had received two letters from Sirius since he had been back at Privet Drive."
    ]
   },
   {
-   "begin": "944.880",
+   "begin": "944.760",
    "children": [],
-   "end": "1000.880",
-   "id": "f000044",
+   "end": "952.160",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "Both had been delivered, not by owls (as was usual with wizards), but by large, brightly colored tropical birds. Hedwig had not approved of these flashy intruders; she had been most reluctant to allow them to drink from her water tray before flying off again. Harry, on the other hand, had liked them; they put him in mind of palm trees and white sand, and he hoped that, wherever Sirius was (Sirius never said, in case the letters were intercepted), he was enjoying himself. Somehow, Harry found it hard to imaging dementors surviving for long in bright sunlight, perhapse that was why Sirius had gone South. Sirius's letters, which were now hidden beneath the highly useful loose floorboards under Harry's bed, sounded chearful, and in both of them he had reminded Harry to call on him if ever Harry needed to. Well, he needed to right now, all right..."
+    "Both had been delivered, not by owls (as was usual with wizards), but by large, brightly colored tropical birds."
    ]
   },
   {
-   "begin": "1000.880",
+   "begin": "952.160",
    "children": [],
-   "end": "1023.720",
-   "id": "f000045",
+   "end": "961.040",
+   "id": "f000129",
    "language": "eng",
    "lines": [
-    "Harry's lamp seemed to grow dimmer as the cold gray light that precedes sunrise slowly crept into the room. Finally, when the sun had risen, when his bedroom walls had turned gold, and when sounds of movement could be heard from Uncle Vernon and Aunt Petunia's room, Harry cleared his desk of crumpled pieces of parchment and reread his finished letter."
+    "Hedwig had not approved of these flashy intruders; she had been most reluctant to allow them to drink from her water tray before flying off again."
+   ]
+  },
+  {
+   "begin": "961.040",
+   "children": [],
+   "end": "974.960",
+   "id": "f000130",
+   "language": "eng",
+   "lines": [
+    "Harry, on the other hand, had liked them; they put him in mind of palm trees and white sand, and he hoped that, wherever Sirius was (Sirius never said, in case the letters were intercepted), he was enjoying himself."
+   ]
+  },
+  {
+   "begin": "974.960",
+   "children": [],
+   "end": "984.520",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "Somehow, Harry found it hard to imaging dementors surviving for long in bright sunlight, perhapse that was why Sirius had gone South."
+   ]
+  },
+  {
+   "begin": "984.520",
+   "children": [],
+   "end": "997.000",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "Sirius's letters, which were now hidden beneath the highly useful loose floorboards under Harry's bed, sounded chearful, and in both of them he had reminded Harry to call on him if ever Harry needed to."
+   ]
+  },
+  {
+   "begin": "997.000",
+   "children": [],
+   "end": "999.680",
+   "id": "f000133",
+   "language": "eng",
+   "lines": [
+    "Well, he needed to right now, all right..."
+   ]
+  },
+  {
+   "begin": "999.680",
+   "children": [],
+   "end": "1007.920",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "Harry's lamp seemed to grow dimmer as the cold gray light that precedes sunrise slowly crept into the room."
+   ]
+  },
+  {
+   "begin": "1007.920",
+   "children": [],
+   "end": "1023.720",
+   "id": "f000135",
+   "language": "eng",
+   "lines": [
+    "Finally, when the sun had risen, when his bedroom walls had turned gold, and when sounds of movement could be heard from Uncle Vernon and Aunt Petunia's room, Harry cleared his desk of crumpled pieces of parchment and reread his finished letter."
    ]
   },
   {
    "begin": "1023.720",
    "children": [],
-   "end": "1037.320",
-   "id": "f000046",
+   "end": "1028.160",
+   "id": "f000136",
    "language": "eng",
    "lines": [
-    "Dear Sirius, Thanks for your last letter. That bird was enormous; it could hardly get through my window. Things are the same as usual here. Dudley's diet isn't going too well."
+    "Dear Sirius, Thanks for your last letter."
    ]
   },
   {
-   "begin": "1037.320",
+   "begin": "1028.160",
    "children": [],
-   "end": "1049.080",
-   "id": "f000047",
+   "end": "1031.360",
+   "id": "f000137",
    "language": "eng",
    "lines": [
-    "My aunt found him smuggling doughnuts into his room yesterday. They told him they'd have to cut his pocket money if he keeps doing it, so he got really angry and chucked his PlayStation out of the window. That's a sort of computer thing you"
+    "That bird was enormous; it could hardly get through my window."
    ]
   },
   {
-   "begin": "1049.080",
+   "begin": "1031.360",
    "children": [],
-   "end": "1056.520",
-   "id": "f000048",
+   "end": "1034.280",
+   "id": "f000138",
    "language": "eng",
    "lines": [
-    "can play games on. Bit stupid really, now he hasn't even got Mega-Mutilation Part Three to take his mind off things."
+    "Things are the same as usual here."
    ]
   },
   {
-   "begin": "1056.520",
+   "begin": "1034.280",
    "children": [],
-   "end": "1063.720",
-   "id": "f000049",
+   "end": "1037.040",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "Dudley's diet isn't going too well."
+   ]
+  },
+  {
+   "begin": "1037.040",
+   "children": [],
+   "end": "1040.280",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "My aunt found him smuggling doughnuts into his room yesterday."
+   ]
+  },
+  {
+   "begin": "1040.280",
+   "children": [],
+   "end": "1046.880",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "They told him they'd have to cut his pocket money if he keeps doing it, so he got really angry and chucked his PlayStation out of the window."
+   ]
+  },
+  {
+   "begin": "1046.880",
+   "children": [],
+   "end": "1049.040",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "That's a sort of computer thing you"
+   ]
+  },
+  {
+   "begin": "1049.040",
+   "children": [],
+   "end": "1049.960",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "can play games on."
+   ]
+  },
+  {
+   "begin": "1049.960",
+   "children": [],
+   "end": "1055.600",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "Bit stupid really, now he hasn't even got Mega-Mutilation Part Three to take his mind off things."
+   ]
+  },
+  {
+   "begin": "1055.600",
+   "children": [],
+   "end": "1062.440",
+   "id": "f000145",
    "language": "eng",
    "lines": [
     "I'm okay, mainly because the Dursleys are terrified you might turn up and turn them all into bats if I ask you to."
    ]
   },
   {
-   "begin": "1063.720",
+   "begin": "1062.440",
    "children": [],
-   "end": "1079.760",
-   "id": "f000050",
+   "end": "1065.720",
+   "id": "f000146",
    "language": "eng",
    "lines": [
-    "A weird thing happened this morning, though. My scar hurt again. Last time that happened it was because Voldemort was at Hogwarts. But I don't reckon he can be anywhere near me now, can he? Do you know if curse scars sometimes hurt years afterward?"
+    "A weird thing happened this morning, though."
    ]
   },
   {
-   "begin": "1079.760",
+   "begin": "1065.720",
    "children": [],
-   "end": "1083.960",
-   "id": "f000051",
+   "end": "1067.880",
+   "id": "f000147",
+   "language": "eng",
+   "lines": [
+    "My scar hurt again."
+   ]
+  },
+  {
+   "begin": "1067.880",
+   "children": [],
+   "end": "1071.440",
+   "id": "f000148",
+   "language": "eng",
+   "lines": [
+    "Last time that happened it was because Voldemort was at Hogwarts."
+   ]
+  },
+  {
+   "begin": "1071.440",
+   "children": [],
+   "end": "1074.800",
+   "id": "f000149",
+   "language": "eng",
+   "lines": [
+    "But I don't reckon he can be anywhere near me now, can he?"
+   ]
+  },
+  {
+   "begin": "1074.800",
+   "children": [],
+   "end": "1078.720",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "Do you know if curse scars sometimes hurt years afterward?"
+   ]
+  },
+  {
+   "begin": "1078.720",
+   "children": [],
+   "end": "1083.320",
+   "id": "f000151",
    "language": "eng",
    "lines": [
     "I'll send this with Hedwig when she gets back; she's off hunting at the moment."
    ]
   },
   {
-   "begin": "1083.960",
+   "begin": "1083.320",
    "children": [],
-   "end": "1116.000",
-   "id": "f000052",
+   "end": "1085.360",
+   "id": "f000152",
    "language": "eng",
    "lines": [
-    "Say hello to Buckbeak for me. Harry Yes, thought Harry, that looked all right. There was no point putting in the dream; he didn't want it to look as though he was too worried. He folded up the parchment and laid it aside on his desk, ready for when Hedwig returned. Then he got to his feet, stretched, and opened his wardrobe once more. Without glancing at his reflection he started to get dressed before going down to breakfast."
+    "Say hello to Buckbeak for me."
+   ]
+  },
+  {
+   "begin": "1085.360",
+   "children": [],
+   "end": "1090.720",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "Harry Yes, thought Harry, that looked all right."
+   ]
+  },
+  {
+   "begin": "1090.720",
+   "children": [],
+   "end": "1096.080",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "There was no point putting in the dream; he didn't want it to look as though he was too worried."
+   ]
+  },
+  {
+   "begin": "1096.080",
+   "children": [],
+   "end": "1102.080",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "He folded up the parchment and laid it aside on his desk, ready for when Hedwig returned."
+   ]
+  },
+  {
+   "begin": "1102.080",
+   "children": [],
+   "end": "1107.120",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "Then he got to his feet, stretched, and opened his wardrobe once more."
+   ]
+  },
+  {
+   "begin": "1107.120",
+   "children": [],
+   "end": "1116.000",
+   "id": "f000157",
+   "language": "eng",
+   "lines": [
+    "Without glancing at his reflection he started to get dressed before going down to breakfast."
    ]
   }
  ]

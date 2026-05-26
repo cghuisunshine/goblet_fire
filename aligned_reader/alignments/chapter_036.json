@@ -13,18 +13,48 @@
   {
    "begin": "7.640",
    "children": [],
-   "end": "27.120",
+   "end": "10.000",
    "id": "f000002",
    "language": "eng",
    "lines": [
-    "Dumbledore stood up. He stared down at Barty Crouch for a moment with disgust on his face. Then he raised his wand once more and ropes flew out of it, ropes that twisted themselves around Barty Crouch, binding him tightly. He turned to Professor McGonagall."
+    "Dumbledore stood up."
+   ]
+  },
+  {
+   "begin": "10.000",
+   "children": [],
+   "end": "15.720",
+   "id": "f000003",
+   "language": "eng",
+   "lines": [
+    "He stared down at Barty Crouch for a moment with disgust on his face."
+   ]
+  },
+  {
+   "begin": "15.720",
+   "children": [],
+   "end": "25.360",
+   "id": "f000004",
+   "language": "eng",
+   "lines": [
+    "Then he raised his wand once more and ropes flew out of it, ropes that twisted themselves around Barty Crouch, binding him tightly."
+   ]
+  },
+  {
+   "begin": "25.360",
+   "children": [],
+   "end": "27.120",
+   "id": "f000005",
+   "language": "eng",
+   "lines": [
+    "He turned to Professor McGonagall."
    ]
   },
   {
    "begin": "27.120",
    "children": [],
    "end": "33.080",
-   "id": "f000003",
+   "id": "f000006",
    "language": "eng",
    "lines": [
     "\"Minerva, could I ask you to stand guard here while I take Harry upstairs?\""
@@ -33,28 +63,78 @@
   {
    "begin": "33.080",
    "children": [],
-   "end": "46.840",
-   "id": "f000004",
+   "end": "36.600",
+   "id": "f000007",
    "language": "eng",
    "lines": [
-    "\"Of course,\" said Professor McGonagall. She looked slightly nauseous, as though she had just watched someone being sick. However, when she drew out her wand and pointed it at Barty Crouch, her hand was quite steady."
+    "\"Of course,\" said Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "36.600",
+   "children": [],
+   "end": "41.640",
+   "id": "f000008",
+   "language": "eng",
+   "lines": [
+    "She looked slightly nauseous, as though she had just watched someone being sick."
+   ]
+  },
+  {
+   "begin": "41.640",
+   "children": [],
+   "end": "46.840",
+   "id": "f000009",
+   "language": "eng",
+   "lines": [
+    "However, when she drew out her wand and pointed it at Barty Crouch, her hand was quite steady."
    ]
   },
   {
    "begin": "46.840",
    "children": [],
-   "end": "70.200",
-   "id": "f000005",
+   "end": "56.840",
+   "id": "f000010",
    "language": "eng",
    "lines": [
-    "\"Severus\" - Dumbledore turned to Snape - \"please tell Madam Pomfrey to come down here; we need to get Alastor Moody into the hospital wing. Then go down into the grounds, find Cornelius Fudge, and bring him up to this office. He will undoubtedly want to question Crouch himself. Tell him I will be in the hospital wing in half an hour's time if he needs me.\""
+    "\"Severus\" - Dumbledore turned to Snape - \"please tell Madam Pomfrey to come down here; we need to get Alastor Moody into the hospital wing."
    ]
   },
   {
-   "begin": "70.200",
+   "begin": "56.840",
+   "children": [],
+   "end": "62.680",
+   "id": "f000011",
+   "language": "eng",
+   "lines": [
+    "Then go down into the grounds, find Cornelius Fudge, and bring him up to this office."
+   ]
+  },
+  {
+   "begin": "62.680",
+   "children": [],
+   "end": "65.680",
+   "id": "f000012",
+   "language": "eng",
+   "lines": [
+    "He will undoubtedly want to question Crouch himself."
+   ]
+  },
+  {
+   "begin": "65.680",
+   "children": [],
+   "end": "70.120",
+   "id": "f000013",
+   "language": "eng",
+   "lines": [
+    "Tell him I will be in the hospital wing in half an hour's time if he needs me.\""
+   ]
+  },
+  {
+   "begin": "70.120",
    "children": [],
    "end": "73.160",
-   "id": "f000006",
+   "id": "f000014",
    "language": "eng",
    "lines": [
     "Snape nodded silently and swept out of the room."
@@ -63,48 +143,238 @@
   {
    "begin": "73.160",
    "children": [],
-   "end": "77.480",
-   "id": "f000007",
+   "end": "75.200",
+   "id": "f000015",
    "language": "eng",
    "lines": [
-    "\"Harry?\" Dumbledore said gently."
+    "\"Harry?\""
+   ]
+  },
+  {
+   "begin": "75.200",
+   "children": [],
+   "end": "77.480",
+   "id": "f000016",
+   "language": "eng",
+   "lines": [
+    "Dumbledore said gently."
    ]
   },
   {
    "begin": "77.480",
    "children": [],
-   "end": "93.640",
-   "id": "f000008",
+   "end": "86.840",
+   "id": "f000017",
    "language": "eng",
    "lines": [
-    "Harry got up and swayed again; the pain in his leg, which he had not noticed all the time he had been listening to Crouch, now returned in full measure. He also realized that he was shaking. Dumbledore gripped his arm and helped him out into the dark corridor."
+    "Harry got up and swayed again; the pain in his leg, which he had not noticed all the time he had been listening to Crouch, now returned in full measure."
+   ]
+  },
+  {
+   "begin": "86.840",
+   "children": [],
+   "end": "89.520",
+   "id": "f000018",
+   "language": "eng",
+   "lines": [
+    "He also realized that he was shaking."
+   ]
+  },
+  {
+   "begin": "89.520",
+   "children": [],
+   "end": "93.640",
+   "id": "f000019",
+   "language": "eng",
+   "lines": [
+    "Dumbledore gripped his arm and helped him out into the dark corridor."
    ]
   },
   {
    "begin": "93.640",
    "children": [],
-   "end": "103.640",
-   "id": "f000009",
+   "end": "96.920",
+   "id": "f000020",
    "language": "eng",
    "lines": [
-    "\"I want you to come up to my office first. Harry,\" he said quiedy as they headed up the passageway. \"Sirius is waiting for us there.\""
+    "\"I want you to come up to my office first."
+   ]
+  },
+  {
+   "begin": "96.920",
+   "children": [],
+   "end": "100.040",
+   "id": "f000021",
+   "language": "eng",
+   "lines": [
+    "Harry,\" he said quiedy as they headed up the passageway."
+   ]
+  },
+  {
+   "begin": "100.040",
+   "children": [],
+   "end": "103.640",
+   "id": "f000022",
+   "language": "eng",
+   "lines": [
+    "\"Sirius is waiting for us there.\""
    ]
   },
   {
    "begin": "103.640",
    "children": [],
-   "end": "143.400",
-   "id": "f000010",
+   "end": "105.440",
+   "id": "f000023",
    "language": "eng",
    "lines": [
-    "Harry nodded. A kind of numbness and a sense of complete unreality were upon him, but he did not care; he was even glad of it. He didn't want to have to think about anything that had happened since he had first touched the Triwizard Cup. He didn't want to have to examine the memories, fresh and sharp as photographs, which kept flashing across his mind. Mad-Eye Moody, inside the trunk. Wormtail, slumped on the ground, cradling his stump of an arm. Voldemort, rising from the steaming cauldron. Cedric. . . dead . . . Cedric, asking to be returned to his parents. ..."
+    "Harry nodded."
+   ]
+  },
+  {
+   "begin": "105.440",
+   "children": [],
+   "end": "112.680",
+   "id": "f000024",
+   "language": "eng",
+   "lines": [
+    "A kind of numbness and a sense of complete unreality were upon him, but he did not care; he was even glad of it."
+   ]
+  },
+  {
+   "begin": "112.680",
+   "children": [],
+   "end": "118.800",
+   "id": "f000025",
+   "language": "eng",
+   "lines": [
+    "He didn't want to have to think about anything that had happened since he had first touched the Triwizard Cup."
+   ]
+  },
+  {
+   "begin": "118.800",
+   "children": [],
+   "end": "126.320",
+   "id": "f000026",
+   "language": "eng",
+   "lines": [
+    "He didn't want to have to examine the memories, fresh and sharp as photographs, which kept flashing across his mind."
+   ]
+  },
+  {
+   "begin": "126.320",
+   "children": [],
+   "end": "128.960",
+   "id": "f000027",
+   "language": "eng",
+   "lines": [
+    "Mad-Eye Moody, inside the trunk."
+   ]
+  },
+  {
+   "begin": "128.960",
+   "children": [],
+   "end": "133.560",
+   "id": "f000028",
+   "language": "eng",
+   "lines": [
+    "Wormtail, slumped on the ground, cradling his stump of an arm."
+   ]
+  },
+  {
+   "begin": "133.560",
+   "children": [],
+   "end": "137.520",
+   "id": "f000029",
+   "language": "eng",
+   "lines": [
+    "Voldemort, rising from the steaming cauldron."
+   ]
+  },
+  {
+   "begin": "137.520",
+   "children": [],
+   "end": "138.280",
+   "id": "f000030",
+   "language": "eng",
+   "lines": [
+    "Cedric."
+   ]
+  },
+  {
+   "begin": "138.280",
+   "children": [],
+   "end": "138.280",
+   "id": "f000031",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "138.280",
+   "children": [],
+   "end": "138.920",
+   "id": "f000032",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "138.920",
+   "children": [],
+   "end": "139.920",
+   "id": "f000033",
+   "language": "eng",
+   "lines": [
+    "dead ."
+   ]
+  },
+  {
+   "begin": "139.920",
+   "children": [],
+   "end": "139.920",
+   "id": "f000034",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "139.920",
+   "children": [],
+   "end": "139.920",
+   "id": "f000035",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "139.920",
+   "children": [],
+   "end": "143.400",
+   "id": "f000036",
+   "language": "eng",
+   "lines": [
+    "Cedric, asking to be returned to his parents."
+   ]
+  },
+  {
+   "begin": "143.400",
+   "children": [],
+   "end": "143.400",
+   "id": "f000037",
+   "language": "eng",
+   "lines": [
+    "..."
    ]
   },
   {
    "begin": "143.400",
    "children": [],
    "end": "148.760",
-   "id": "f000011",
+   "id": "f000038",
    "language": "eng",
    "lines": [
     "\"Professor,\" Harry mumbled, \"where are Mr. and Mrs. Diggory?\""
@@ -113,28 +383,58 @@
   {
    "begin": "148.760",
    "children": [],
-   "end": "167.320",
-   "id": "f000012",
+   "end": "153.800",
+   "id": "f000039",
    "language": "eng",
    "lines": [
-    "\"They are with Professor Sprout,\" said Dumbledore. His voice, which had been so calm throughout the interrogation of Barty Crouch, shook very slightly for the first time. \"She was Head of Cedric's house, and knew him best.\""
+    "\"They are with Professor Sprout,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "153.800",
+   "children": [],
+   "end": "160.840",
+   "id": "f000040",
+   "language": "eng",
+   "lines": [
+    "His voice, which had been so calm throughout the interrogation of Barty Crouch, shook very slightly for the first time."
+   ]
+  },
+  {
+   "begin": "160.840",
+   "children": [],
+   "end": "167.320",
+   "id": "f000041",
+   "language": "eng",
+   "lines": [
+    "\"She was Head of Cedric's house, and knew him best.\""
    ]
   },
   {
    "begin": "167.320",
    "children": [],
-   "end": "172.400",
-   "id": "f000013",
+   "end": "169.880",
+   "id": "f000042",
    "language": "eng",
    "lines": [
-    "They had reached the stone gargoyle. Dumbledore gave the password, it sprang"
+    "They had reached the stone gargoyle."
    ]
   },
   {
-   "begin": "172.400",
+   "begin": "169.880",
+   "children": [],
+   "end": "172.360",
+   "id": "f000043",
+   "language": "eng",
+   "lines": [
+    "Dumbledore gave the password, it sprang"
+   ]
+  },
+  {
+   "begin": "172.360",
    "children": [],
    "end": "177.880",
-   "id": "f000014",
+   "id": "f000044",
    "language": "eng",
    "lines": [
     "aside, and he and Harry went up the moving spiral staircase to the oak door."
@@ -143,28 +443,68 @@
   {
    "begin": "177.880",
    "children": [],
-   "end": "189.400",
-   "id": "f000015",
+   "end": "180.400",
+   "id": "f000045",
    "language": "eng",
    "lines": [
-    "Dumbledore pushed it open. Sirius was standing there. His face was white and gaunt as it had been when he had escaped Azkaban. In one swift moment, he had crossed the room."
+    "Dumbledore pushed it open."
+   ]
+  },
+  {
+   "begin": "180.400",
+   "children": [],
+   "end": "182.360",
+   "id": "f000046",
+   "language": "eng",
+   "lines": [
+    "Sirius was standing there."
+   ]
+  },
+  {
+   "begin": "182.360",
+   "children": [],
+   "end": "186.880",
+   "id": "f000047",
+   "language": "eng",
+   "lines": [
+    "His face was white and gaunt as it had been when he had escaped Azkaban."
+   ]
+  },
+  {
+   "begin": "186.880",
+   "children": [],
+   "end": "189.400",
+   "id": "f000048",
+   "language": "eng",
+   "lines": [
+    "In one swift moment, he had crossed the room."
    ]
   },
   {
    "begin": "189.400",
    "children": [],
-   "end": "196.160",
-   "id": "f000016",
+   "end": "191.680",
+   "id": "f000049",
    "language": "eng",
    "lines": [
-    "\"Harry, are you all right? I knew it - I knew something like this - what happened?\""
+    "\"Harry, are you all right?"
    ]
   },
   {
-   "begin": "196.160",
+   "begin": "191.680",
+   "children": [],
+   "end": "195.440",
+   "id": "f000050",
+   "language": "eng",
+   "lines": [
+    "I knew it - I knew something like this - what happened?\""
+   ]
+  },
+  {
+   "begin": "195.440",
    "children": [],
    "end": "199.640",
-   "id": "f000017",
+   "id": "f000051",
    "language": "eng",
    "lines": [
     "His hands shook as he helped Harry into a chair in front of the desk."
@@ -173,78 +513,258 @@
   {
    "begin": "199.640",
    "children": [],
-   "end": "204.280",
-   "id": "f000018",
+   "end": "201.600",
+   "id": "f000052",
    "language": "eng",
    "lines": [
-    "\"What happened?\" he asked more urgently."
+    "\"What happened?\""
+   ]
+  },
+  {
+   "begin": "201.600",
+   "children": [],
+   "end": "204.280",
+   "id": "f000053",
+   "language": "eng",
+   "lines": [
+    "he asked more urgently."
    ]
   },
   {
    "begin": "204.280",
    "children": [],
-   "end": "225.080",
-   "id": "f000019",
+   "end": "208.800",
+   "id": "f000054",
    "language": "eng",
    "lines": [
-    "Dumbledore began to tell Sirius everything Barty Crouch had said. Harry was only half listening. So tired every bone in his body was aching, he wanted nothing more than to sit here, undisturbed, for hours and hours, until he fell asleep and didn't have to think or feel anymore."
+    "Dumbledore began to tell Sirius everything Barty Crouch had said."
    ]
   },
   {
-   "begin": "225.080",
+   "begin": "208.800",
    "children": [],
-   "end": "248.880",
-   "id": "f000020",
+   "end": "210.640",
+   "id": "f000055",
    "language": "eng",
    "lines": [
-    "There was a soft rush of wings. Fawkes the phoenix had left his perch, flown across the office, and landed on Harry's knee. \"'Lo, Fawkes,\" said Harry quietly. He stroked the phoenix's beautiful scarlet-and-gold plumage. Fawkes blinked peacefully up at him. There was something comforting about his warm weight."
+    "Harry was only half listening."
+   ]
+  },
+  {
+   "begin": "210.640",
+   "children": [],
+   "end": "225.040",
+   "id": "f000056",
+   "language": "eng",
+   "lines": [
+    "So tired every bone in his body was aching, he wanted nothing more than to sit here, undisturbed, for hours and hours, until he fell asleep and didn't have to think or feel anymore."
+   ]
+  },
+  {
+   "begin": "225.040",
+   "children": [],
+   "end": "227.760",
+   "id": "f000057",
+   "language": "eng",
+   "lines": [
+    "There was a soft rush of wings."
+   ]
+  },
+  {
+   "begin": "227.760",
+   "children": [],
+   "end": "233.720",
+   "id": "f000058",
+   "language": "eng",
+   "lines": [
+    "Fawkes the phoenix had left his perch, flown across the office, and landed on Harry's knee."
+   ]
+  },
+  {
+   "begin": "233.720",
+   "children": [],
+   "end": "237.640",
+   "id": "f000059",
+   "language": "eng",
+   "lines": [
+    "\"'Lo, Fawkes,\" said Harry quietly."
+   ]
+  },
+  {
+   "begin": "237.640",
+   "children": [],
+   "end": "241.880",
+   "id": "f000060",
+   "language": "eng",
+   "lines": [
+    "He stroked the phoenix's beautiful scarlet-and-gold plumage."
+   ]
+  },
+  {
+   "begin": "241.880",
+   "children": [],
+   "end": "244.080",
+   "id": "f000061",
+   "language": "eng",
+   "lines": [
+    "Fawkes blinked peacefully up at him."
+   ]
+  },
+  {
+   "begin": "244.080",
+   "children": [],
+   "end": "248.880",
+   "id": "f000062",
+   "language": "eng",
+   "lines": [
+    "There was something comforting about his warm weight."
    ]
   },
   {
    "begin": "248.880",
    "children": [],
-   "end": "263.360",
-   "id": "f000021",
+   "end": "250.760",
+   "id": "f000063",
    "language": "eng",
    "lines": [
-    "Dumbledore stopped talking. He sat down opposite Harry, behind his desk. He was looking at Harry, who avoided his eyes. Dumbledore was going to question him. He was going to make Harry relive everything."
+    "Dumbledore stopped talking."
+   ]
+  },
+  {
+   "begin": "250.760",
+   "children": [],
+   "end": "253.600",
+   "id": "f000064",
+   "language": "eng",
+   "lines": [
+    "He sat down opposite Harry, behind his desk."
+   ]
+  },
+  {
+   "begin": "253.600",
+   "children": [],
+   "end": "257.320",
+   "id": "f000065",
+   "language": "eng",
+   "lines": [
+    "He was looking at Harry, who avoided his eyes."
+   ]
+  },
+  {
+   "begin": "257.320",
+   "children": [],
+   "end": "259.760",
+   "id": "f000066",
+   "language": "eng",
+   "lines": [
+    "Dumbledore was going to question him."
+   ]
+  },
+  {
+   "begin": "259.760",
+   "children": [],
+   "end": "263.360",
+   "id": "f000067",
+   "language": "eng",
+   "lines": [
+    "He was going to make Harry relive everything."
    ]
   },
   {
    "begin": "263.360",
    "children": [],
-   "end": "270.480",
-   "id": "f000022",
+   "end": "268.840",
+   "id": "f000068",
    "language": "eng",
    "lines": [
-    "\"I need to know what happened after you touched the Portkey in the maze. Harry,\" said Dumbledore."
+    "\"I need to know what happened after you touched the Portkey in the maze."
+   ]
+  },
+  {
+   "begin": "268.840",
+   "children": [],
+   "end": "270.480",
+   "id": "f000069",
+   "language": "eng",
+   "lines": [
+    "Harry,\" said Dumbledore."
    ]
   },
   {
    "begin": "270.480",
    "children": [],
-   "end": "281.240",
-   "id": "f000023",
+   "end": "274.000",
+   "id": "f000070",
    "language": "eng",
    "lines": [
-    "\"We can leave that till morning, can't we, Dumbledore?\" said Sirius harshly. He had put a hand on Harrys shoulder. \"Let him have a sleep. Let him rest.\""
+    "\"We can leave that till morning, can't we, Dumbledore?\""
    ]
   },
   {
-   "begin": "281.240",
+   "begin": "274.000",
    "children": [],
-   "end": "290.120",
-   "id": "f000024",
+   "end": "276.040",
+   "id": "f000071",
    "language": "eng",
    "lines": [
-    "Harry felt a rush of gratitude toward Sirius, but Dumbledore took no notice of Sirius's words. He leaned forward toward Harry."
+    "said Sirius harshly."
+   ]
+  },
+  {
+   "begin": "276.040",
+   "children": [],
+   "end": "277.840",
+   "id": "f000072",
+   "language": "eng",
+   "lines": [
+    "He had put a hand on Harrys shoulder."
+   ]
+  },
+  {
+   "begin": "277.840",
+   "children": [],
+   "end": "279.440",
+   "id": "f000073",
+   "language": "eng",
+   "lines": [
+    "\"Let him have a sleep."
+   ]
+  },
+  {
+   "begin": "279.440",
+   "children": [],
+   "end": "281.200",
+   "id": "f000074",
+   "language": "eng",
+   "lines": [
+    "Let him rest.\""
+   ]
+  },
+  {
+   "begin": "281.200",
+   "children": [],
+   "end": "287.160",
+   "id": "f000075",
+   "language": "eng",
+   "lines": [
+    "Harry felt a rush of gratitude toward Sirius, but Dumbledore took no notice of Sirius's words."
+   ]
+  },
+  {
+   "begin": "287.160",
+   "children": [],
+   "end": "290.120",
+   "id": "f000076",
+   "language": "eng",
+   "lines": [
+    "He leaned forward toward Harry."
    ]
   },
   {
    "begin": "290.120",
    "children": [],
    "end": "295.240",
-   "id": "f000025",
+   "id": "f000077",
    "language": "eng",
    "lines": [
     "Very unwillingly, Harry raised his head and looked into those blue eyes."
@@ -253,78 +773,168 @@
   {
    "begin": "295.240",
    "children": [],
-   "end": "311.520",
-   "id": "f000026",
+   "end": "309.760",
+   "id": "f000078",
    "language": "eng",
    "lines": [
-    "\"If I thought I could help you,\" Dumbledore said gently, \"by putting you into an enchanted sleep and allowing you to postpone the moment when you would have to think about what has happened tonight, I would do it. But I know better."
+    "\"If I thought I could help you,\" Dumbledore said gently, \"by putting you into an enchanted sleep and allowing you to postpone the moment when you would have to think about what has happened tonight, I would do it."
    ]
   },
   {
-   "begin": "311.520",
+   "begin": "309.760",
    "children": [],
-   "end": "330.120",
-   "id": "f000027",
+   "end": "311.480",
+   "id": "f000079",
    "language": "eng",
    "lines": [
-    "Numbing the pain for a while will make it worse when you finally feel it. You have shown bravery beyond anything I could have expected of you. I ask you to demonstrate your courage one more time. I ask you to tell us what happened.\""
+    "But I know better."
    ]
   },
   {
-   "begin": "330.120",
+   "begin": "311.480",
    "children": [],
-   "end": "345.560",
-   "id": "f000028",
+   "end": "316.000",
+   "id": "f000080",
    "language": "eng",
    "lines": [
-    "The phoenix let out one soft, quavering note. It shivered in the air, and Harry felt as though a drop of hot liquid had slipped down his throat into his stomach, warming him, and strengthening him."
+    "Numbing the pain for a while will make it worse when you finally feel it."
    ]
   },
   {
-   "begin": "345.560",
+   "begin": "316.000",
+   "children": [],
+   "end": "321.080",
+   "id": "f000081",
+   "language": "eng",
+   "lines": [
+    "You have shown bravery beyond anything I could have expected of you."
+   ]
+  },
+  {
+   "begin": "321.080",
+   "children": [],
+   "end": "325.880",
+   "id": "f000082",
+   "language": "eng",
+   "lines": [
+    "I ask you to demonstrate your courage one more time."
+   ]
+  },
+  {
+   "begin": "325.880",
+   "children": [],
+   "end": "331.000",
+   "id": "f000083",
+   "language": "eng",
+   "lines": [
+    "I ask you to tell us what happened.\""
+   ]
+  },
+  {
+   "begin": "331.000",
+   "children": [],
+   "end": "334.720",
+   "id": "f000084",
+   "language": "eng",
+   "lines": [
+    "The phoenix let out one soft, quavering note."
+   ]
+  },
+  {
+   "begin": "334.720",
+   "children": [],
+   "end": "344.680",
+   "id": "f000085",
+   "language": "eng",
+   "lines": [
+    "It shivered in the air, and Harry felt as though a drop of hot liquid had slipped down his throat into his stomach, warming him, and strengthening him."
+   ]
+  },
+  {
+   "begin": "344.680",
+   "children": [],
+   "end": "349.440",
+   "id": "f000086",
+   "language": "eng",
+   "lines": [
+    "He took a deep breath and began to tell them."
+   ]
+  },
+  {
+   "begin": "349.440",
    "children": [],
    "end": "353.480",
-   "id": "f000029",
+   "id": "f000087",
    "language": "eng",
    "lines": [
-    "He took a deep breath and began to tell them. As he spoke, visions of everything"
+    "As he spoke, visions of everything"
    ]
   },
   {
    "begin": "353.480",
    "children": [],
-   "end": "370.080",
-   "id": "f000030",
+   "end": "369.360",
+   "id": "f000088",
    "language": "eng",
    "lines": [
     "that had passed that night seemed to rise before his eyes; he saw the sparkling surface of the potion that had revived Voldemort; he saw the Death Eaters Apparating between the graves around them; he saw Cedric's body, lying on the ground beside the cup."
    ]
   },
   {
-   "begin": "370.080",
+   "begin": "369.360",
    "children": [],
-   "end": "401.320",
-   "id": "f000031",
+   "end": "384.680",
+   "id": "f000089",
    "language": "eng",
    "lines": [
-    "Once or twice, Sirius made a noise as though about to say something, his hand still tight on Harry's shoulder, but Dumbledore raised his hand to stop him, and Harry was glad of this, because it was easier to keep going now he had started. It was even a relief; he felt almost as though something poisonous were being extracted from him. It was costing him every bit of determination he had to keep talking, yet he sensed that once he had finished, he would feel better."
+    "Once or twice, Sirius made a noise as though about to say something, his hand still tight on Harry's shoulder, but Dumbledore raised his hand to stop him, and Harry was glad of this, because it was easier to keep going now he had started."
    ]
   },
   {
-   "begin": "401.320",
+   "begin": "384.680",
    "children": [],
-   "end": "416.920",
-   "id": "f000032",
+   "end": "391.440",
+   "id": "f000090",
    "language": "eng",
    "lines": [
-    "When Harry told of Wormtail piercing his arm with the dagger, however, Sirius let out a vehement exclamation and Dumbledore stood up so quickly that Harry started. Dumbledore walked around the desk and told Harry to stretch out his arm."
+    "It was even a relief; he felt almost as though something poisonous were being extracted from him."
    ]
   },
   {
-   "begin": "416.920",
+   "begin": "391.440",
+   "children": [],
+   "end": "399.840",
+   "id": "f000091",
+   "language": "eng",
+   "lines": [
+    "It was costing him every bit of determination he had to keep talking, yet he sensed that once he had finished, he would feel better."
+   ]
+  },
+  {
+   "begin": "399.840",
+   "children": [],
+   "end": "411.840",
+   "id": "f000092",
+   "language": "eng",
+   "lines": [
+    "When Harry told of Wormtail piercing his arm with the dagger, however, Sirius let out a vehement exclamation and Dumbledore stood up so quickly that Harry started."
+   ]
+  },
+  {
+   "begin": "411.840",
+   "children": [],
+   "end": "416.320",
+   "id": "f000093",
+   "language": "eng",
+   "lines": [
+    "Dumbledore walked around the desk and told Harry to stretch out his arm."
+   ]
+  },
+  {
+   "begin": "416.320",
    "children": [],
    "end": "421.600",
-   "id": "f000033",
+   "id": "f000094",
    "language": "eng",
    "lines": [
     "Harry showed them both the place where his robes were torn and the cut beneath them."
@@ -333,58 +943,208 @@
   {
    "begin": "421.600",
    "children": [],
-   "end": "440.600",
-   "id": "f000034",
+   "end": "428.400",
+   "id": "f000095",
    "language": "eng",
    "lines": [
-    "\"He said my blood would make him stronger than if he'd used someone else's,\" Harry told Dumbledore. \"He said the protection my - my mother left in me - he'd have it too. And he was right - he could touch me without hurting himself, he touched my face.\""
+    "\"He said my blood would make him stronger than if he'd used someone else's,\" Harry told Dumbledore."
    ]
   },
   {
-   "begin": "440.600",
+   "begin": "428.400",
    "children": [],
-   "end": "457.960",
-   "id": "f000035",
+   "end": "434.280",
+   "id": "f000096",
    "language": "eng",
    "lines": [
-    "For a fleeting instant, Harry thought he saw a gleam of something like triumph in Dumbledore's eyes. But next second. Harry was sure he had imagined it, for when Dumbledore had returned to his seat behind the desk, he looked as old and weary as Harry had ever seen him."
+    "\"He said the protection my - my mother left in me - he'd have it too."
+   ]
+  },
+  {
+   "begin": "434.280",
+   "children": [],
+   "end": "439.560",
+   "id": "f000097",
+   "language": "eng",
+   "lines": [
+    "And he was right - he could touch me without hurting himself, he touched my face.\""
+   ]
+  },
+  {
+   "begin": "439.560",
+   "children": [],
+   "end": "447.840",
+   "id": "f000098",
+   "language": "eng",
+   "lines": [
+    "For a fleeting instant, Harry thought he saw a gleam of something like triumph in Dumbledore's eyes."
+   ]
+  },
+  {
+   "begin": "447.840",
+   "children": [],
+   "end": "449.360",
+   "id": "f000099",
+   "language": "eng",
+   "lines": [
+    "But next second."
+   ]
+  },
+  {
+   "begin": "449.360",
+   "children": [],
+   "end": "457.960",
+   "id": "f000100",
+   "language": "eng",
+   "lines": [
+    "Harry was sure he had imagined it, for when Dumbledore had returned to his seat behind the desk, he looked as old and weary as Harry had ever seen him."
    ]
   },
   {
    "begin": "457.960",
    "children": [],
-   "end": "469.000",
-   "id": "f000036",
+   "end": "461.720",
+   "id": "f000101",
    "language": "eng",
    "lines": [
-    "\"Very well,\" he said, sitting down again. \"Voldemort has overcome that particular barrier. Harry, continue, please.\""
+    "\"Very well,\" he said, sitting down again."
    ]
   },
   {
-   "begin": "469.000",
+   "begin": "461.720",
    "children": [],
-   "end": "485.560",
-   "id": "f000037",
+   "end": "465.640",
+   "id": "f000102",
    "language": "eng",
    "lines": [
-    "Harry went on; he explained how Voldemort had emerged from the cauldron, and told them all he could remember of Voldemort's speech to the Death Eaters. Then he told how Voldemort had untied him, returned his wand to him, and prepared to duel."
+    "\"Voldemort has overcome that particular barrier."
    ]
   },
   {
-   "begin": "485.560",
+   "begin": "465.640",
    "children": [],
-   "end": "510.640",
-   "id": "f000038",
+   "end": "468.160",
+   "id": "f000103",
    "language": "eng",
    "lines": [
-    "But when he reached the part where the golden beam of light had connected his and Voldemort's wands, he found his throat obstructed. He tried to keep talking, but the memories of what had come out of Voldemort's wand were flooding into his mind. He could see Cedric emerging, see the old man, Bertha Jorkins ... his father . . . his mother . . ."
+    "Harry, continue, please.\""
    ]
   },
   {
-   "begin": "510.640",
+   "begin": "468.160",
+   "children": [],
+   "end": "477.960",
+   "id": "f000104",
+   "language": "eng",
+   "lines": [
+    "Harry went on; he explained how Voldemort had emerged from the cauldron, and told them all he could remember of Voldemort's speech to the Death Eaters."
+   ]
+  },
+  {
+   "begin": "477.960",
+   "children": [],
+   "end": "484.400",
+   "id": "f000105",
+   "language": "eng",
+   "lines": [
+    "Then he told how Voldemort had untied him, returned his wand to him, and prepared to duel."
+   ]
+  },
+  {
+   "begin": "484.400",
+   "children": [],
+   "end": "493.440",
+   "id": "f000106",
+   "language": "eng",
+   "lines": [
+    "But when he reached the part where the golden beam of light had connected his and Voldemort's wands, he found his throat obstructed."
+   ]
+  },
+  {
+   "begin": "493.440",
+   "children": [],
+   "end": "500.160",
+   "id": "f000107",
+   "language": "eng",
+   "lines": [
+    "He tried to keep talking, but the memories of what had come out of Voldemort's wand were flooding into his mind."
+   ]
+  },
+  {
+   "begin": "500.160",
+   "children": [],
+   "end": "505.760",
+   "id": "f000108",
+   "language": "eng",
+   "lines": [
+    "He could see Cedric emerging, see the old man, Bertha Jorkins ..."
+   ]
+  },
+  {
+   "begin": "505.760",
+   "children": [],
+   "end": "507.240",
+   "id": "f000109",
+   "language": "eng",
+   "lines": [
+    "his father ."
+   ]
+  },
+  {
+   "begin": "507.240",
+   "children": [],
+   "end": "507.240",
+   "id": "f000110",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "507.240",
+   "children": [],
+   "end": "507.240",
+   "id": "f000111",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "507.240",
+   "children": [],
+   "end": "508.840",
+   "id": "f000112",
+   "language": "eng",
+   "lines": [
+    "his mother ."
+   ]
+  },
+  {
+   "begin": "508.840",
+   "children": [],
+   "end": "508.840",
+   "id": "f000113",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "508.840",
+   "children": [],
+   "end": "508.840",
+   "id": "f000114",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "508.840",
    "children": [],
    "end": "513.200",
-   "id": "f000039",
+   "id": "f000115",
    "language": "eng",
    "lines": [
     "He was glad when Sirius broke the silence."
@@ -393,38 +1153,58 @@
   {
    "begin": "513.200",
    "children": [],
-   "end": "520.240",
-   "id": "f000040",
+   "end": "515.800",
+   "id": "f000116",
    "language": "eng",
    "lines": [
-    "\"The wands connected?\" he said, looking from Harry to Dumbledore. \"Why?\""
+    "\"The wands connected?\""
    ]
   },
   {
-   "begin": "520.240",
+   "begin": "515.800",
    "children": [],
-   "end": "524.440",
-   "id": "f000041",
+   "end": "518.360",
+   "id": "f000117",
+   "language": "eng",
+   "lines": [
+    "he said, looking from Harry to Dumbledore."
+   ]
+  },
+  {
+   "begin": "518.360",
+   "children": [],
+   "end": "519.440",
+   "id": "f000118",
+   "language": "eng",
+   "lines": [
+    "\"Why?\""
+   ]
+  },
+  {
+   "begin": "519.440",
+   "children": [],
+   "end": "524.640",
+   "id": "f000119",
    "language": "eng",
    "lines": [
     "Harry looked up at Dumbledore again, on whose face there was an arrested look."
    ]
   },
   {
-   "begin": "524.440",
+   "begin": "524.640",
    "children": [],
-   "end": "529.080",
-   "id": "f000042",
+   "end": "528.280",
+   "id": "f000120",
    "language": "eng",
    "lines": [
     "\"Priori Incantatem,\" he muttered."
    ]
   },
   {
-   "begin": "529.080",
+   "begin": "528.280",
    "children": [],
    "end": "535.480",
-   "id": "f000043",
+   "id": "f000121",
    "language": "eng",
    "lines": [
     "His eyes gazed into Harry's and it was almost as though an invisible beam of understanding shot between them."
@@ -433,78 +1213,248 @@
   {
    "begin": "535.480",
    "children": [],
-   "end": "539.360",
-   "id": "f000044",
+   "end": "537.480",
+   "id": "f000122",
    "language": "eng",
    "lines": [
-    "\"The Reverse Spell effect?\" said Sirius sharply."
+    "\"The Reverse Spell effect?\""
    ]
   },
   {
-   "begin": "539.360",
+   "begin": "537.480",
    "children": [],
-   "end": "545.840",
-   "id": "f000045",
+   "end": "538.960",
+   "id": "f000123",
    "language": "eng",
    "lines": [
-    "\"Exactly,\" said Dumbledore. \"Harry's wand and Voldemorts wand share cores."
+    "said Sirius sharply."
    ]
   },
   {
-   "begin": "545.840",
+   "begin": "538.960",
+   "children": [],
+   "end": "541.200",
+   "id": "f000124",
+   "language": "eng",
+   "lines": [
+    "\"Exactly,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "541.200",
+   "children": [],
+   "end": "545.760",
+   "id": "f000125",
+   "language": "eng",
+   "lines": [
+    "\"Harry's wand and Voldemorts wand share cores."
+   ]
+  },
+  {
+   "begin": "545.760",
+   "children": [],
+   "end": "550.040",
+   "id": "f000126",
+   "language": "eng",
+   "lines": [
+    "Each of them contains a feather from the tail of the same phoenix."
+   ]
+  },
+  {
+   "begin": "550.040",
    "children": [],
    "end": "558.560",
-   "id": "f000046",
+   "id": "f000127",
    "language": "eng",
    "lines": [
-    "Each of them contains a feather from the tail of the same phoenix. This phoenix, in fact,\" he added, and he pointed at the scarlet-and-gold bird, perching peacefully on Harry's knee."
+    "This phoenix, in fact,\" he added, and he pointed at the scarlet-and-gold bird, perching peacefully on Harry's knee."
    ]
   },
   {
    "begin": "558.560",
    "children": [],
-   "end": "563.880",
-   "id": "f000047",
+   "end": "561.960",
+   "id": "f000128",
    "language": "eng",
    "lines": [
-    "\"My wand's feather came from Fawkes?\" Harry said, amazed."
+    "\"My wand's feather came from Fawkes?\""
+   ]
+  },
+  {
+   "begin": "561.960",
+   "children": [],
+   "end": "563.880",
+   "id": "f000129",
+   "language": "eng",
+   "lines": [
+    "Harry said, amazed."
    ]
   },
   {
    "begin": "563.880",
    "children": [],
-   "end": "571.760",
-   "id": "f000048",
+   "end": "565.600",
+   "id": "f000130",
    "language": "eng",
    "lines": [
-    "\"Yes,\" said Dumbledore. \"Mr. Ollivander wrote to tell me you had bought the second wand, the moment you left his shop four years ago.\""
+    "\"Yes,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "565.600",
+   "children": [],
+   "end": "566.120",
+   "id": "f000131",
+   "language": "eng",
+   "lines": [
+    "\"Mr."
+   ]
+  },
+  {
+   "begin": "566.120",
+   "children": [],
+   "end": "571.760",
+   "id": "f000132",
+   "language": "eng",
+   "lines": [
+    "Ollivander wrote to tell me you had bought the second wand, the moment you left his shop four years ago.\""
    ]
   },
   {
    "begin": "571.760",
    "children": [],
-   "end": "576.760",
-   "id": "f000049",
+   "end": "575.640",
+   "id": "f000133",
    "language": "eng",
    "lines": [
-    "\"So what happens when a wand meets its brother?\" said Sirius."
+    "\"So what happens when a wand meets its brother?\""
+   ]
+  },
+  {
+   "begin": "575.640",
+   "children": [],
+   "end": "576.760",
+   "id": "f000134",
+   "language": "eng",
+   "lines": [
+    "said Sirius."
    ]
   },
   {
    "begin": "576.760",
    "children": [],
-   "end": "599.560",
-   "id": "f000050",
+   "end": "581.440",
+   "id": "f000135",
    "language": "eng",
    "lines": [
-    "\"They will not work properly against each other,\" said Dumbledore. \"If, however, the owners of the wands force the wands to do battle ... a very rare effect will take place. One of the wands will force the other to regurgitate spells it has performed in reverse. The most recent first. . . and then those which preceded it. . . .\""
+    "\"They will not work properly against each other,\" said Dumbledore."
    ]
   },
   {
-   "begin": "599.560",
+   "begin": "581.440",
+   "children": [],
+   "end": "585.680",
+   "id": "f000136",
+   "language": "eng",
+   "lines": [
+    "\"If, however, the owners of the wands force the wands to do battle ..."
+   ]
+  },
+  {
+   "begin": "585.680",
+   "children": [],
+   "end": "588.680",
+   "id": "f000137",
+   "language": "eng",
+   "lines": [
+    "a very rare effect will take place."
+   ]
+  },
+  {
+   "begin": "588.680",
+   "children": [],
+   "end": "595.680",
+   "id": "f000138",
+   "language": "eng",
+   "lines": [
+    "One of the wands will force the other to regurgitate spells it has performed in reverse."
+   ]
+  },
+  {
+   "begin": "595.680",
+   "children": [],
+   "end": "597.120",
+   "id": "f000139",
+   "language": "eng",
+   "lines": [
+    "The most recent first."
+   ]
+  },
+  {
+   "begin": "597.120",
+   "children": [],
+   "end": "597.160",
+   "id": "f000140",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "597.160",
+   "children": [],
+   "end": "597.160",
+   "id": "f000141",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "597.160",
+   "children": [],
+   "end": "599.080",
+   "id": "f000142",
+   "language": "eng",
+   "lines": [
+    "and then those which preceded it."
+   ]
+  },
+  {
+   "begin": "599.080",
+   "children": [],
+   "end": "599.080",
+   "id": "f000143",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "599.080",
+   "children": [],
+   "end": "599.080",
+   "id": "f000144",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "599.080",
+   "children": [],
+   "end": "599.080",
+   "id": "f000145",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "599.080",
    "children": [],
    "end": "602.960",
-   "id": "f000051",
+   "id": "f000146",
    "language": "eng",
    "lines": [
     "He looked interrogatively at Harry, and Harry nodded."
@@ -513,18 +1463,18 @@
   {
    "begin": "602.960",
    "children": [],
-   "end": "612.320",
-   "id": "f000052",
+   "end": "611.720",
+   "id": "f000147",
    "language": "eng",
    "lines": [
     "\"Which means,\" said Dumbledore slowly, his eyes upon Harry's face, \"that some form of Cedric must have reappeared.\""
    ]
   },
   {
-   "begin": "612.320",
+   "begin": "611.720",
    "children": [],
    "end": "613.680",
-   "id": "f000053",
+   "id": "f000148",
    "language": "eng",
    "lines": [
     "Harry nodded again."
@@ -533,68 +1483,268 @@
   {
    "begin": "613.680",
    "children": [],
-   "end": "617.200",
-   "id": "f000054",
+   "end": "615.800",
+   "id": "f000149",
    "language": "eng",
    "lines": [
-    "\"Diggory came back to life?\" said Sirius sharply."
+    "\"Diggory came back to life?\""
+   ]
+  },
+  {
+   "begin": "615.800",
+   "children": [],
+   "end": "617.200",
+   "id": "f000150",
+   "language": "eng",
+   "lines": [
+    "said Sirius sharply."
    ]
   },
   {
    "begin": "617.200",
    "children": [],
-   "end": "631.880",
-   "id": "f000055",
+   "end": "622.080",
+   "id": "f000151",
    "language": "eng",
    "lines": [
-    "\"No spell can reawaken the dead,\" said Dumbledore heavily. \"All that would have happened is a kind of reverse echo. A shadow of the living Cedric would have emerged from the wand . . . am I correct, Harry?\""
+    "\"No spell can reawaken the dead,\" said Dumbledore heavily."
+   ]
+  },
+  {
+   "begin": "622.080",
+   "children": [],
+   "end": "625.920",
+   "id": "f000152",
+   "language": "eng",
+   "lines": [
+    "\"All that would have happened is a kind of reverse echo."
+   ]
+  },
+  {
+   "begin": "625.920",
+   "children": [],
+   "end": "630.360",
+   "id": "f000153",
+   "language": "eng",
+   "lines": [
+    "A shadow of the living Cedric would have emerged from the wand ."
+   ]
+  },
+  {
+   "begin": "630.360",
+   "children": [],
+   "end": "630.360",
+   "id": "f000154",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "630.360",
+   "children": [],
+   "end": "630.360",
+   "id": "f000155",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "630.360",
+   "children": [],
+   "end": "631.880",
+   "id": "f000156",
+   "language": "eng",
+   "lines": [
+    "am I correct, Harry?\""
    ]
   },
   {
    "begin": "631.880",
    "children": [],
-   "end": "641.840",
-   "id": "f000056",
+   "end": "635.080",
+   "id": "f000157",
    "language": "eng",
    "lines": [
-    "\"He spoke to me,\" Harry said. He was suddenly shaking again. \"The . . . the ghost Cedric, or whatever he was, spoke.\""
+    "\"He spoke to me,\" Harry said."
+   ]
+  },
+  {
+   "begin": "635.080",
+   "children": [],
+   "end": "637.080",
+   "id": "f000158",
+   "language": "eng",
+   "lines": [
+    "He was suddenly shaking again."
+   ]
+  },
+  {
+   "begin": "637.080",
+   "children": [],
+   "end": "637.840",
+   "id": "f000159",
+   "language": "eng",
+   "lines": [
+    "\"The ."
+   ]
+  },
+  {
+   "begin": "637.840",
+   "children": [],
+   "end": "637.840",
+   "id": "f000160",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "637.840",
+   "children": [],
+   "end": "637.840",
+   "id": "f000161",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "637.840",
+   "children": [],
+   "end": "641.840",
+   "id": "f000162",
+   "language": "eng",
+   "lines": [
+    "the ghost Cedric, or whatever he was, spoke.\""
    ]
   },
   {
    "begin": "641.840",
    "children": [],
-   "end": "653.600",
-   "id": "f000057",
+   "end": "648.240",
+   "id": "f000163",
    "language": "eng",
    "lines": [
-    "\"An echo,\" said Dumbledore, \"which retained Cedric's appearance and character. I am guessing other such forms appeared . . . less recent victims of Voldemort's wand....\""
+    "\"An echo,\" said Dumbledore, \"which retained Cedric's appearance and character."
+   ]
+  },
+  {
+   "begin": "648.240",
+   "children": [],
+   "end": "650.640",
+   "id": "f000164",
+   "language": "eng",
+   "lines": [
+    "I am guessing other such forms appeared ."
+   ]
+  },
+  {
+   "begin": "650.640",
+   "children": [],
+   "end": "650.640",
+   "id": "f000165",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "650.640",
+   "children": [],
+   "end": "650.640",
+   "id": "f000166",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "650.640",
+   "children": [],
+   "end": "653.600",
+   "id": "f000167",
+   "language": "eng",
+   "lines": [
+    "less recent victims of Voldemort's wand....\""
    ]
   },
   {
    "begin": "653.600",
    "children": [],
-   "end": "661.400",
-   "id": "f000058",
+   "end": "658.120",
+   "id": "f000168",
    "language": "eng",
    "lines": [
-    "\"An old man,\" Harry said, his throat still constricted. \"Bertha Jorkins. And . . .\""
+    "\"An old man,\" Harry said, his throat still constricted."
+   ]
+  },
+  {
+   "begin": "658.120",
+   "children": [],
+   "end": "660.080",
+   "id": "f000169",
+   "language": "eng",
+   "lines": [
+    "\"Bertha Jorkins."
+   ]
+  },
+  {
+   "begin": "660.080",
+   "children": [],
+   "end": "661.400",
+   "id": "f000170",
+   "language": "eng",
+   "lines": [
+    "And ."
    ]
   },
   {
    "begin": "661.400",
    "children": [],
-   "end": "665.240",
-   "id": "f000059",
+   "end": "661.400",
+   "id": "f000171",
    "language": "eng",
    "lines": [
-    "\"Your parents?\" said Dumbledore quietly."
+    "."
+   ]
+  },
+  {
+   "begin": "661.400",
+   "children": [],
+   "end": "661.400",
+   "id": "f000172",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "661.400",
+   "children": [],
+   "end": "663.480",
+   "id": "f000173",
+   "language": "eng",
+   "lines": [
+    "\"Your parents?\""
+   ]
+  },
+  {
+   "begin": "663.480",
+   "children": [],
+   "end": "665.240",
+   "id": "f000174",
+   "language": "eng",
+   "lines": [
+    "said Dumbledore quietly."
    ]
   },
   {
    "begin": "665.240",
    "children": [],
    "end": "667.560",
-   "id": "f000060",
+   "id": "f000175",
    "language": "eng",
    "lines": [
     "\"Yes,\" said Harry."
@@ -603,108 +1753,348 @@
   {
    "begin": "667.560",
    "children": [],
-   "end": "672.960",
-   "id": "f000061",
+   "end": "672.040",
+   "id": "f000176",
    "language": "eng",
    "lines": [
     "Sirius's grip on Harry's shoulder was now so tight it was painful."
    ]
   },
   {
-   "begin": "672.960",
+   "begin": "672.040",
    "children": [],
-   "end": "683.400",
-   "id": "f000062",
+   "end": "677.600",
+   "id": "f000177",
    "language": "eng",
    "lines": [
-    "\"The last murders the wand performed,\" said Dumbledore, nodding. \"In reverse order. More would have appeared, of course, had you maintained the connection."
+    "\"The last murders the wand performed,\" said Dumbledore, nodding."
    ]
   },
   {
-   "begin": "683.400",
+   "begin": "677.600",
    "children": [],
-   "end": "689.000",
-   "id": "f000063",
+   "end": "678.960",
+   "id": "f000178",
    "language": "eng",
    "lines": [
-    "Very well, Harry, these echoes, these shadows . .. what did they do?\""
+    "\"In reverse order."
    ]
   },
   {
-   "begin": "689.000",
+   "begin": "678.960",
    "children": [],
-   "end": "704.400",
-   "id": "f000064",
+   "end": "682.880",
+   "id": "f000179",
+   "language": "eng",
+   "lines": [
+    "More would have appeared, of course, had you maintained the connection."
+   ]
+  },
+  {
+   "begin": "682.880",
+   "children": [],
+   "end": "686.880",
+   "id": "f000180",
+   "language": "eng",
+   "lines": [
+    "Very well, Harry, these echoes, these shadows ."
+   ]
+  },
+  {
+   "begin": "686.880",
+   "children": [],
+   "end": "686.880",
+   "id": "f000181",
+   "language": "eng",
+   "lines": [
+    ".."
+   ]
+  },
+  {
+   "begin": "686.880",
+   "children": [],
+   "end": "688.200",
+   "id": "f000182",
+   "language": "eng",
+   "lines": [
+    "what did they do?\""
+   ]
+  },
+  {
+   "begin": "688.200",
+   "children": [],
+   "end": "703.480",
+   "id": "f000183",
    "language": "eng",
    "lines": [
     "Harry described how the figures that had emerged from the wand had prowled the edges of the golden web, how Voldemort had seemed to fear them, how the shadow of Harry's mother had told him what to do, how Cedric's had made its final request."
    ]
   },
   {
-   "begin": "704.400",
+   "begin": "703.480",
    "children": [],
-   "end": "713.080",
-   "id": "f000065",
+   "end": "705.240",
+   "id": "f000184",
    "language": "eng",
    "lines": [
-    "At this point. Harry found he could not continue. He looked around at Sirius and saw that he had his face in his hands."
+    "At this point."
    ]
   },
   {
-   "begin": "713.080",
+   "begin": "705.240",
    "children": [],
-   "end": "730.600",
-   "id": "f000066",
+   "end": "707.400",
+   "id": "f000185",
    "language": "eng",
    "lines": [
-    "Harry suddenly became aware that Fawkes had left his knee. The phoenix had fluttered to the floor. It was resting its beautiful head against Harry's injured leg, and thick, pearly tears were falling from its eyes onto the wound left by the spider."
+    "Harry found he could not continue."
    ]
   },
   {
-   "begin": "730.600",
+   "begin": "707.400",
+   "children": [],
+   "end": "712.080",
+   "id": "f000186",
+   "language": "eng",
+   "lines": [
+    "He looked around at Sirius and saw that he had his face in his hands."
+   ]
+  },
+  {
+   "begin": "712.080",
+   "children": [],
+   "end": "716.360",
+   "id": "f000187",
+   "language": "eng",
+   "lines": [
+    "Harry suddenly became aware that Fawkes had left his knee."
+   ]
+  },
+  {
+   "begin": "716.360",
+   "children": [],
+   "end": "718.800",
+   "id": "f000188",
+   "language": "eng",
+   "lines": [
+    "The phoenix had fluttered to the floor."
+   ]
+  },
+  {
+   "begin": "718.800",
+   "children": [],
+   "end": "729.440",
+   "id": "f000189",
+   "language": "eng",
+   "lines": [
+    "It was resting its beautiful head against Harry's injured leg, and thick, pearly tears were falling from its eyes onto the wound left by the spider."
+   ]
+  },
+  {
+   "begin": "729.440",
+   "children": [],
+   "end": "732.040",
+   "id": "f000190",
+   "language": "eng",
+   "lines": [
+    "The pain vanished."
+   ]
+  },
+  {
+   "begin": "732.040",
+   "children": [],
+   "end": "733.360",
+   "id": "f000191",
+   "language": "eng",
+   "lines": [
+    "The skin mended."
+   ]
+  },
+  {
+   "begin": "733.360",
    "children": [],
    "end": "736.480",
-   "id": "f000067",
+   "id": "f000192",
    "language": "eng",
    "lines": [
-    "The pain vanished. The skin mended. His leg was repaired."
+    "His leg was repaired."
    ]
   },
   {
    "begin": "736.480",
    "children": [],
-   "end": "780.520",
-   "id": "f000068",
+   "end": "745.800",
+   "id": "f000193",
    "language": "eng",
    "lines": [
-    "\"I will say it again,\" said Dumbledore as the phoenix rose into the air and resettled itself upon the perch beside the door. \"You have shown bravery beyond anything I could have expected of you tonight. Harry. You have shown bravery equal to those who died fighting Voldemort at the height of his powers. You have shouldered a grown wizard's burden and found yourself equal to it - and you have now given us all we have a right to expect. You will come with me to the hospital wing. I do not want you returning to the dormitory tonight. A Sleeping Potion, and some peace . . . Sirius, would you like to stay with him?\""
+    "\"I will say it again,\" said Dumbledore as the phoenix rose into the air and resettled itself upon the perch beside the door."
    ]
   },
   {
-   "begin": "780.520",
+   "begin": "745.800",
    "children": [],
-   "end": "793.320",
-   "id": "f000069",
+   "end": "751.680",
+   "id": "f000194",
    "language": "eng",
    "lines": [
-    "Sirius nodded and stood up. He transformed back into the great black dog and walked with Harry and Dumbledore out of the office, accompanying them down a flight of stairs to the hospital wing."
+    "\"You have shown bravery beyond anything I could have expected of you tonight."
    ]
   },
   {
-   "begin": "793.320",
+   "begin": "751.680",
    "children": [],
-   "end": "812.160",
-   "id": "f000070",
+   "end": "752.520",
+   "id": "f000195",
    "language": "eng",
    "lines": [
-    "When Dumbledore pushed open the door. Harry saw Mrs. Weasley, Bill, Ron, and Hermione grouped around a harassed-looking Madam Pomfrey. They appeared to be demanding to know where Harry was and what had happened to him. All of them whipped around as Harry, Dumbledore, and the black dog entered, and Mrs."
+    "Harry."
    ]
   },
   {
-   "begin": "812.160",
+   "begin": "752.520",
+   "children": [],
+   "end": "758.480",
+   "id": "f000196",
+   "language": "eng",
+   "lines": [
+    "You have shown bravery equal to those who died fighting Voldemort at the height of his powers."
+   ]
+  },
+  {
+   "begin": "758.480",
+   "children": [],
+   "end": "769.360",
+   "id": "f000197",
+   "language": "eng",
+   "lines": [
+    "You have shouldered a grown wizard's burden and found yourself equal to it - and you have now given us all we have a right to expect."
+   ]
+  },
+  {
+   "begin": "769.360",
+   "children": [],
+   "end": "771.280",
+   "id": "f000198",
+   "language": "eng",
+   "lines": [
+    "You will come with me to the hospital wing."
+   ]
+  },
+  {
+   "begin": "771.280",
+   "children": [],
+   "end": "774.640",
+   "id": "f000199",
+   "language": "eng",
+   "lines": [
+    "I do not want you returning to the dormitory tonight."
+   ]
+  },
+  {
+   "begin": "774.640",
+   "children": [],
+   "end": "777.120",
+   "id": "f000200",
+   "language": "eng",
+   "lines": [
+    "A Sleeping Potion, and some peace ."
+   ]
+  },
+  {
+   "begin": "777.120",
+   "children": [],
+   "end": "777.120",
+   "id": "f000201",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "777.120",
+   "children": [],
+   "end": "777.120",
+   "id": "f000202",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "777.120",
+   "children": [],
+   "end": "779.760",
+   "id": "f000203",
+   "language": "eng",
+   "lines": [
+    "Sirius, would you like to stay with him?\""
+   ]
+  },
+  {
+   "begin": "779.760",
+   "children": [],
+   "end": "782.200",
+   "id": "f000204",
+   "language": "eng",
+   "lines": [
+    "Sirius nodded and stood up."
+   ]
+  },
+  {
+   "begin": "782.200",
+   "children": [],
+   "end": "792.080",
+   "id": "f000205",
+   "language": "eng",
+   "lines": [
+    "He transformed back into the great black dog and walked with Harry and Dumbledore out of the office, accompanying them down a flight of stairs to the hospital wing."
+   ]
+  },
+  {
+   "begin": "792.080",
+   "children": [],
+   "end": "795.520",
+   "id": "f000206",
+   "language": "eng",
+   "lines": [
+    "When Dumbledore pushed open the door."
+   ]
+  },
+  {
+   "begin": "795.520",
+   "children": [],
+   "end": "801.880",
+   "id": "f000207",
+   "language": "eng",
+   "lines": [
+    "Harry saw Mrs. Weasley, Bill, Ron, and Hermione grouped around a harassed-looking Madam Pomfrey."
+   ]
+  },
+  {
+   "begin": "801.880",
+   "children": [],
+   "end": "806.600",
+   "id": "f000208",
+   "language": "eng",
+   "lines": [
+    "They appeared to be demanding to know where Harry was and what had happened to him."
+   ]
+  },
+  {
+   "begin": "806.600",
+   "children": [],
+   "end": "812.080",
+   "id": "f000209",
+   "language": "eng",
+   "lines": [
+    "All of them whipped around as Harry, Dumbledore, and the black dog entered, and Mrs."
+   ]
+  },
+  {
+   "begin": "812.080",
    "children": [],
    "end": "815.040",
-   "id": "f000071",
+   "id": "f000210",
    "language": "eng",
    "lines": [
     "Weasley let out a kind of muffled scream."
@@ -713,18 +2103,28 @@
   {
    "begin": "815.040",
    "children": [],
-   "end": "818.120",
-   "id": "f000072",
+   "end": "815.800",
+   "id": "f000211",
    "language": "eng",
    "lines": [
-    "\"Harry! Oh Harry!\""
+    "\"Harry!"
    ]
   },
   {
-   "begin": "818.120",
+   "begin": "815.800",
+   "children": [],
+   "end": "817.520",
+   "id": "f000212",
+   "language": "eng",
+   "lines": [
+    "Oh Harry!\""
+   ]
+  },
+  {
+   "begin": "817.520",
    "children": [],
    "end": "822.040",
-   "id": "f000073",
+   "id": "f000213",
    "language": "eng",
    "lines": [
     "She started to hurry toward him, but Dumbledore moved between them."
@@ -733,48 +2133,118 @@
   {
    "begin": "822.040",
    "children": [],
-   "end": "846.440",
-   "id": "f000074",
+   "end": "827.920",
+   "id": "f000214",
    "language": "eng",
    "lines": [
-    "\"Molly,\" he said, holding up a hand, \"please listen to me for a moment. Harry has been through a terrible ordeal tonight. He has just had to relive it for me. What he needs now is sleep, and peace, and quiet. If he would like you all to stay with him,\" he added, looking around at Ron, Hermione, and Bill too, \"you may do so."
+    "\"Molly,\" he said, holding up a hand, \"please listen to me for a moment."
+   ]
+  },
+  {
+   "begin": "827.920",
+   "children": [],
+   "end": "831.000",
+   "id": "f000215",
+   "language": "eng",
+   "lines": [
+    "Harry has been through a terrible ordeal tonight."
+   ]
+  },
+  {
+   "begin": "831.000",
+   "children": [],
+   "end": "833.360",
+   "id": "f000216",
+   "language": "eng",
+   "lines": [
+    "He has just had to relive it for me."
+   ]
+  },
+  {
+   "begin": "833.360",
+   "children": [],
+   "end": "838.360",
+   "id": "f000217",
+   "language": "eng",
+   "lines": [
+    "What he needs now is sleep, and peace, and quiet."
+   ]
+  },
+  {
+   "begin": "838.360",
+   "children": [],
+   "end": "846.440",
+   "id": "f000218",
+   "language": "eng",
+   "lines": [
+    "If he would like you all to stay with him,\" he added, looking around at Ron, Hermione, and Bill too, \"you may do so."
    ]
   },
   {
    "begin": "846.440",
    "children": [],
-   "end": "853.120",
-   "id": "f000075",
+   "end": "852.320",
+   "id": "f000219",
    "language": "eng",
    "lines": [
     "But I do not want you questioning him until he is ready to answer, and certainly not this evening.\""
    ]
   },
   {
-   "begin": "853.120",
+   "begin": "852.320",
    "children": [],
-   "end": "863.360",
-   "id": "f000076",
+   "end": "854.320",
+   "id": "f000220",
    "language": "eng",
    "lines": [
-    "Mrs. Weasley nodded. She was very white. She rounded on Ron, Hermione, and Bill as though they were being noisy, and hissed, \"Did you hear? He needs quiet!\""
+    "Mrs. Weasley nodded."
+   ]
+  },
+  {
+   "begin": "854.320",
+   "children": [],
+   "end": "855.840",
+   "id": "f000221",
+   "language": "eng",
+   "lines": [
+    "She was very white."
+   ]
+  },
+  {
+   "begin": "855.840",
+   "children": [],
+   "end": "862.120",
+   "id": "f000222",
+   "language": "eng",
+   "lines": [
+    "She rounded on Ron, Hermione, and Bill as though they were being noisy, and hissed, \"Did you hear?"
+   ]
+  },
+  {
+   "begin": "862.120",
+   "children": [],
+   "end": "863.360",
+   "id": "f000223",
+   "language": "eng",
+   "lines": [
+    "He needs quiet!\""
    ]
   },
   {
    "begin": "863.360",
    "children": [],
-   "end": "869.280",
-   "id": "f000077",
+   "end": "869.480",
+   "id": "f000224",
    "language": "eng",
    "lines": [
     "\"Headmaster,\" said Madam Pomfrey, staring at the great black dog that was Sirius,"
    ]
   },
   {
-   "begin": "869.280",
+   "begin": "869.480",
    "children": [],
    "end": "871.200",
-   "id": "f000078",
+   "id": "f000225",
    "language": "eng",
    "lines": [
     "\"may I ask what - ?\""
@@ -783,88 +2253,188 @@
   {
    "begin": "871.200",
    "children": [],
-   "end": "882.720",
-   "id": "f000079",
+   "end": "876.480",
+   "id": "f000226",
    "language": "eng",
    "lines": [
-    "\"This dog will be remaining with Harry for a while,\" said Dumbledore simply. \"I assure you, he is extremely well trained. Harry - I will wait while you get into bed.\""
+    "\"This dog will be remaining with Harry for a while,\" said Dumbledore simply."
+   ]
+  },
+  {
+   "begin": "876.480",
+   "children": [],
+   "end": "879.640",
+   "id": "f000227",
+   "language": "eng",
+   "lines": [
+    "\"I assure you, he is extremely well trained."
+   ]
+  },
+  {
+   "begin": "879.640",
+   "children": [],
+   "end": "882.720",
+   "id": "f000228",
+   "language": "eng",
+   "lines": [
+    "Harry - I will wait while you get into bed.\""
    ]
   },
   {
    "begin": "882.720",
    "children": [],
-   "end": "902.560",
-   "id": "f000080",
+   "end": "890.680",
+   "id": "f000229",
    "language": "eng",
    "lines": [
-    "Harry felt an inexpressible sense of gratitude to Dumbledore for asking the others not to question him. It wasn't as though he didn't want them there; but the thought of explaining it all over again, the idea of reliving it one more time, was more than he could stand."
+    "Harry felt an inexpressible sense of gratitude to Dumbledore for asking the others not to question him."
    ]
   },
   {
-   "begin": "902.560",
+   "begin": "890.680",
    "children": [],
-   "end": "913.760",
-   "id": "f000081",
+   "end": "902.480",
+   "id": "f000230",
    "language": "eng",
    "lines": [
-    "\"I will be back to see you as soon as I have met with Fudge, Harry,\" said Dumbledore. \"I would like you to remain here tomorrow until I have spoken to the school.\" He left."
+    "It wasn't as though he didn't want them there; but the thought of explaining it all over again, the idea of reliving it one more time, was more than he could stand."
+   ]
+  },
+  {
+   "begin": "902.480",
+   "children": [],
+   "end": "908.280",
+   "id": "f000231",
+   "language": "eng",
+   "lines": [
+    "\"I will be back to see you as soon as I have met with Fudge, Harry,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "908.280",
+   "children": [],
+   "end": "912.400",
+   "id": "f000232",
+   "language": "eng",
+   "lines": [
+    "\"I would like you to remain here tomorrow until I have spoken to the school.\""
+   ]
+  },
+  {
+   "begin": "912.400",
+   "children": [],
+   "end": "913.760",
+   "id": "f000233",
+   "language": "eng",
+   "lines": [
+    "He left."
    ]
   },
   {
    "begin": "913.760",
    "children": [],
-   "end": "928.040",
-   "id": "f000082",
+   "end": "923.400",
+   "id": "f000234",
    "language": "eng",
    "lines": [
-    "As Madam Pomfrey led Harry to a nearby bed, he caught sight of the real Moody lying motionless in a bed at the far end of the room. His wooden leg and magical eye were lying on the bedside table."
+    "As Madam Pomfrey led Harry to a nearby bed, he caught sight of the real Moody lying motionless in a bed at the far end of the room."
+   ]
+  },
+  {
+   "begin": "923.400",
+   "children": [],
+   "end": "928.040",
+   "id": "f000235",
+   "language": "eng",
+   "lines": [
+    "His wooden leg and magical eye were lying on the bedside table."
    ]
   },
   {
    "begin": "928.040",
    "children": [],
-   "end": "930.960",
-   "id": "f000083",
+   "end": "929.880",
+   "id": "f000236",
    "language": "eng",
    "lines": [
-    "\"Is he okay?\" Harry asked."
+    "\"Is he okay?\""
+   ]
+  },
+  {
+   "begin": "929.880",
+   "children": [],
+   "end": "930.960",
+   "id": "f000237",
+   "language": "eng",
+   "lines": [
+    "Harry asked."
    ]
   },
   {
    "begin": "930.960",
    "children": [],
-   "end": "942.080",
-   "id": "f000084",
+   "end": "937.040",
+   "id": "f000238",
    "language": "eng",
    "lines": [
-    "\"He'll be fine,\" said Madam Pomfrey, giving Harry some pajamas and pulling screens around him. He took off his robes, pulled on the pajamas, and got into bed."
+    "\"He'll be fine,\" said Madam Pomfrey, giving Harry some pajamas and pulling screens around him."
    ]
   },
   {
-   "begin": "942.080",
+   "begin": "937.040",
    "children": [],
-   "end": "955.000",
-   "id": "f000085",
+   "end": "941.480",
+   "id": "f000239",
    "language": "eng",
    "lines": [
-    "Ron, Hermione, Bill, Mrs. Weasley, and the black dog came around the screen and settled themselves in chairs on either side of him. Ron and Hermione were looking at him almost cautiously, as though scared of him."
+    "He took off his robes, pulled on the pajamas, and got into bed."
+   ]
+  },
+  {
+   "begin": "941.480",
+   "children": [],
+   "end": "949.600",
+   "id": "f000240",
+   "language": "eng",
+   "lines": [
+    "Ron, Hermione, Bill, Mrs. Weasley, and the black dog came around the screen and settled themselves in chairs on either side of him."
+   ]
+  },
+  {
+   "begin": "949.600",
+   "children": [],
+   "end": "955.000",
+   "id": "f000241",
+   "language": "eng",
+   "lines": [
+    "Ron and Hermione were looking at him almost cautiously, as though scared of him."
    ]
   },
   {
    "begin": "955.000",
    "children": [],
-   "end": "959.320",
-   "id": "f000086",
+   "end": "957.800",
+   "id": "f000242",
    "language": "eng",
    "lines": [
-    "\"I'm all right,\" he told them. \"Just tired.\""
+    "\"I'm all right,\" he told them."
+   ]
+  },
+  {
+   "begin": "957.800",
+   "children": [],
+   "end": "959.320",
+   "id": "f000243",
+   "language": "eng",
+   "lines": [
+    "\"Just tired.\""
    ]
   },
   {
    "begin": "959.320",
    "children": [],
    "end": "965.760",
-   "id": "f000087",
+   "id": "f000244",
    "language": "eng",
    "lines": [
     "Mrs. Weasleys eyes filled with tears as she smoothed his bed-covers unnecessarily."
@@ -874,7 +2444,7 @@
    "begin": "965.760",
    "children": [],
    "end": "973.640",
-   "id": "f000088",
+   "id": "f000245",
    "language": "eng",
    "lines": [
     "Madam Pomfrey, who had bustled off to her office, returned holding a small bottle of some purple potion and a goblet."
@@ -883,38 +2453,98 @@
   {
    "begin": "973.640",
    "children": [],
-   "end": "979.080",
-   "id": "f000089",
+   "end": "975.440",
+   "id": "f000246",
    "language": "eng",
    "lines": [
-    "\"You'll need to drink all of this. Harry,\" she said. \"It's a potion for dreamless sleep.\""
+    "\"You'll need to drink all of this."
    ]
   },
   {
-   "begin": "979.080",
+   "begin": "975.440",
    "children": [],
-   "end": "1011.560",
-   "id": "f000090",
+   "end": "976.480",
+   "id": "f000247",
    "language": "eng",
    "lines": [
-    "Harry took the goblet and drank a few mouthfuls. He felt himself becoming drowsy at once. Everything around him became hazy; the lamps around the hospital wing seemed to be winking at him in a friendly way through the screen around his bed; his body felt as though it was sinking deeper into the warmth of the feather matress. Before he could finish the potion, before he could say another word, his exhaustion had carried him off to sleep."
+    "Harry,\" she said."
    ]
   },
   {
-   "begin": "1011.560",
+   "begin": "976.480",
+   "children": [],
+   "end": "978.880",
+   "id": "f000248",
+   "language": "eng",
+   "lines": [
+    "\"It's a potion for dreamless sleep.\""
+   ]
+  },
+  {
+   "begin": "978.880",
+   "children": [],
+   "end": "983.160",
+   "id": "f000249",
+   "language": "eng",
+   "lines": [
+    "Harry took the goblet and drank a few mouthfuls."
+   ]
+  },
+  {
+   "begin": "983.160",
+   "children": [],
+   "end": "986.640",
+   "id": "f000250",
+   "language": "eng",
+   "lines": [
+    "He felt himself becoming drowsy at once."
+   ]
+  },
+  {
+   "begin": "986.640",
+   "children": [],
+   "end": "1001.640",
+   "id": "f000251",
+   "language": "eng",
+   "lines": [
+    "Everything around him became hazy; the lamps around the hospital wing seemed to be winking at him in a friendly way through the screen around his bed; his body felt as though it was sinking deeper into the warmth of the feather matress."
+   ]
+  },
+  {
+   "begin": "1001.640",
+   "children": [],
+   "end": "1008.960",
+   "id": "f000252",
+   "language": "eng",
+   "lines": [
+    "Before he could finish the potion, before he could say another word, his exhaustion had carried him off to sleep."
+   ]
+  },
+  {
+   "begin": "1008.960",
+   "children": [],
+   "end": "1018.840",
+   "id": "f000253",
+   "language": "eng",
+   "lines": [
+    "Harry woke up, so warm, so very sleepy, that he didn't open his eyes, wanting to drop off again."
+   ]
+  },
+  {
+   "begin": "1018.840",
    "children": [],
    "end": "1026.640",
-   "id": "f000091",
+   "id": "f000254",
    "language": "eng",
    "lines": [
-    "Harry woke up, so warm, so very sleepy, that he didn't open his eyes, wanting to drop off again. The room was still dimly lit; he was sure it was still nighttime and had a feeling that he couldn't have been asleep very long."
+    "The room was still dimly lit; he was sure it was still nighttime and had a feeling that he couldn't have been asleep very long."
    ]
   },
   {
    "begin": "1026.640",
    "children": [],
    "end": "1029.280",
-   "id": "f000092",
+   "id": "f000255",
    "language": "eng",
    "lines": [
     "Then he heard whispering around him."
@@ -924,7 +2554,7 @@
    "begin": "1029.280",
    "children": [],
    "end": "1031.840",
-   "id": "f000093",
+   "id": "f000256",
    "language": "eng",
    "lines": [
     "\"They'll wake him if they don't shut up!\""
@@ -933,38 +2563,88 @@
   {
    "begin": "1031.840",
    "children": [],
-   "end": "1035.280",
-   "id": "f000094",
+   "end": "1033.600",
+   "id": "f000257",
    "language": "eng",
    "lines": [
-    "\"What are they shouting about? Nothing else can have happened, can it?\""
+    "\"What are they shouting about?"
    ]
   },
   {
-   "begin": "1035.280",
+   "begin": "1033.600",
    "children": [],
-   "end": "1046.760",
-   "id": "f000095",
+   "end": "1036.480",
+   "id": "f000258",
    "language": "eng",
    "lines": [
-    "Harry opened his eyes blearily. Someone had removed his glasses. He could see the fuzzy outlines of Mrs. Weasley and Bill close by. Mrs. Weasley was on her feet."
+    "Nothing else can have happened, can it?\""
+   ]
+  },
+  {
+   "begin": "1036.480",
+   "children": [],
+   "end": "1038.000",
+   "id": "f000259",
+   "language": "eng",
+   "lines": [
+    "Harry opened his eyes blearily."
+   ]
+  },
+  {
+   "begin": "1038.000",
+   "children": [],
+   "end": "1040.440",
+   "id": "f000260",
+   "language": "eng",
+   "lines": [
+    "Someone had removed his glasses."
+   ]
+  },
+  {
+   "begin": "1040.440",
+   "children": [],
+   "end": "1045.040",
+   "id": "f000261",
+   "language": "eng",
+   "lines": [
+    "He could see the fuzzy outlines of Mrs. Weasley and Bill close by."
+   ]
+  },
+  {
+   "begin": "1045.040",
+   "children": [],
+   "end": "1046.760",
+   "id": "f000262",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley was on her feet."
    ]
   },
   {
    "begin": "1046.760",
    "children": [],
-   "end": "1051.520",
-   "id": "f000096",
+   "end": "1049.560",
+   "id": "f000263",
    "language": "eng",
    "lines": [
-    "\"That's Fudge's voice,\" she whispered. \"And that's Minerva McGonagall's, isn't it?"
+    "\"That's Fudge's voice,\" she whispered."
+   ]
+  },
+  {
+   "begin": "1049.560",
+   "children": [],
+   "end": "1051.520",
+   "id": "f000264",
+   "language": "eng",
+   "lines": [
+    "\"And that's Minerva McGonagall's, isn't it?"
    ]
   },
   {
    "begin": "1051.520",
    "children": [],
    "end": "1053.240",
-   "id": "f000097",
+   "id": "f000265",
    "language": "eng",
    "lines": [
     "But what are they arguing about?\""
@@ -974,7 +2654,7 @@
    "begin": "1053.240",
    "children": [],
    "end": "1058.720",
-   "id": "f000098",
+   "id": "f000266",
    "language": "eng",
    "lines": [
     "Now Harry could hear them too: people shouting and running toward the hospital wing."
@@ -984,7 +2664,7 @@
    "begin": "1058.720",
    "children": [],
    "end": "1064.360",
-   "id": "f000099",
+   "id": "f000267",
    "language": "eng",
    "lines": [
     "\"Regrettable, but all the same, Minerva -\" Cornelius Fudge was saying loudly."
@@ -993,58 +2673,168 @@
   {
    "begin": "1064.360",
    "children": [],
-   "end": "1083.680",
-   "id": "f000100",
+   "end": "1067.320",
+   "id": "f000268",
    "language": "eng",
    "lines": [
-    "\"You should never have brought it inside the castle!\" yelled Professor McGonagall. \"When Dumbledore finds out -\" Harry heard the hospital doors burst open. Unnoticed by any of the people around his bed, all of whom were staring at the door as Bill pulled back the screens, Harry sat up and put his glasses back on."
+    "\"You should never have brought it inside the castle!\""
+   ]
+  },
+  {
+   "begin": "1067.320",
+   "children": [],
+   "end": "1068.960",
+   "id": "f000269",
+   "language": "eng",
+   "lines": [
+    "yelled Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "1068.960",
+   "children": [],
+   "end": "1073.920",
+   "id": "f000270",
+   "language": "eng",
+   "lines": [
+    "\"When Dumbledore finds out -\" Harry heard the hospital doors burst open."
+   ]
+  },
+  {
+   "begin": "1073.920",
+   "children": [],
+   "end": "1083.680",
+   "id": "f000271",
+   "language": "eng",
+   "lines": [
+    "Unnoticed by any of the people around his bed, all of whom were staring at the door as Bill pulled back the screens, Harry sat up and put his glasses back on."
    ]
   },
   {
    "begin": "1083.680",
    "children": [],
-   "end": "1089.320",
-   "id": "f000101",
+   "end": "1086.480",
+   "id": "f000272",
    "language": "eng",
    "lines": [
-    "Fudge came striding up the ward. Professors McGonagall and Snape were at his heels."
+    "Fudge came striding up the ward."
+   ]
+  },
+  {
+   "begin": "1086.480",
+   "children": [],
+   "end": "1089.320",
+   "id": "f000273",
+   "language": "eng",
+   "lines": [
+    "Professors McGonagall and Snape were at his heels."
    ]
   },
   {
    "begin": "1089.320",
    "children": [],
-   "end": "1093.160",
-   "id": "f000102",
+   "end": "1091.120",
+   "id": "f000274",
    "language": "eng",
    "lines": [
-    "\"Where's Dumbledore?\" Fudge demanded of Mrs. Weasley."
+    "\"Where's Dumbledore?\""
+   ]
+  },
+  {
+   "begin": "1091.120",
+   "children": [],
+   "end": "1093.160",
+   "id": "f000275",
+   "language": "eng",
+   "lines": [
+    "Fudge demanded of Mrs. Weasley."
    ]
   },
   {
    "begin": "1093.160",
    "children": [],
-   "end": "1104.600",
-   "id": "f000103",
+   "end": "1096.760",
+   "id": "f000276",
    "language": "eng",
    "lines": [
-    "\"He's not here,\" said Mrs. Weasley angrily. \"This is a hospital wing. Minister, don't you think you'd do better to -\" But the door opened, and Dumbledore came sweeping up the ward."
+    "\"He's not here,\" said Mrs. Weasley angrily."
+   ]
+  },
+  {
+   "begin": "1096.760",
+   "children": [],
+   "end": "1098.120",
+   "id": "f000277",
+   "language": "eng",
+   "lines": [
+    "\"This is a hospital wing."
+   ]
+  },
+  {
+   "begin": "1098.120",
+   "children": [],
+   "end": "1104.600",
+   "id": "f000278",
+   "language": "eng",
+   "lines": [
+    "Minister, don't you think you'd do better to -\" But the door opened, and Dumbledore came sweeping up the ward."
    ]
   },
   {
    "begin": "1104.600",
    "children": [],
-   "end": "1122.480",
-   "id": "f000104",
+   "end": "1105.920",
+   "id": "f000279",
    "language": "eng",
    "lines": [
-    "\"What has happened?\" said Dumbledore sharply, looking from Fudge to Professor McGonagall. \"Why are you disturbing these people? Minerva, I'm surprised at you - I asked you to stand guard over Barty Crouch -\" \"There is no need to stand guard over him anymore, Dumble-dore!\" she shrieked."
+    "\"What has happened?\""
    ]
   },
   {
-   "begin": "1122.480",
+   "begin": "1105.920",
+   "children": [],
+   "end": "1110.040",
+   "id": "f000280",
+   "language": "eng",
+   "lines": [
+    "said Dumbledore sharply, looking from Fudge to Professor McGonagall."
+   ]
+  },
+  {
+   "begin": "1110.040",
+   "children": [],
+   "end": "1112.120",
+   "id": "f000281",
+   "language": "eng",
+   "lines": [
+    "\"Why are you disturbing these people?"
+   ]
+  },
+  {
+   "begin": "1112.120",
+   "children": [],
+   "end": "1121.680",
+   "id": "f000282",
+   "language": "eng",
+   "lines": [
+    "Minerva, I'm surprised at you - I asked you to stand guard over Barty Crouch -\" \"There is no need to stand guard over him anymore, Dumble-dore!\""
+   ]
+  },
+  {
+   "begin": "1121.680",
+   "children": [],
+   "end": "1122.680",
+   "id": "f000283",
+   "language": "eng",
+   "lines": [
+    "she shrieked."
+   ]
+  },
+  {
+   "begin": "1122.680",
    "children": [],
    "end": "1124.520",
-   "id": "f000105",
+   "id": "f000284",
    "language": "eng",
    "lines": [
     "\"The Minister has seen to that!\""
@@ -1053,68 +2843,258 @@
   {
    "begin": "1124.520",
    "children": [],
-   "end": "1166.000",
-   "id": "f000106",
+   "end": "1129.200",
+   "id": "f000285",
    "language": "eng",
    "lines": [
-    "Harry had never seen Professor McGonagall lose control like this. There were angry blotches of color in her cheeks, and a hands were balled into fists; she was trembling with fury.- \"When we told Mr. Fudge that we had caught the Death Eater responsible for tonight's events,\" said Snape, in a low voice; he seemed to feel his personal safety was in question. He insisted on summoning a dementor to accompany him into the castle. He brought it up to the office where Barty Crouch -\" \"I told him you would not agree, Dumbledore!\" McGonagall fumed. \"I told him you would never allow dementors to set foot inside the castle, but -\""
+    "Harry had never seen Professor McGonagall lose control like this."
+   ]
+  },
+  {
+   "begin": "1129.200",
+   "children": [],
+   "end": "1148.600",
+   "id": "f000286",
+   "language": "eng",
+   "lines": [
+    "There were angry blotches of color in her cheeks, and a hands were balled into fists; she was trembling with fury.- \"When we told Mr. Fudge that we had caught the Death Eater responsible for tonight's events,\" said Snape, in a low voice; he seemed to feel his personal safety was in question."
+   ]
+  },
+  {
+   "begin": "1148.600",
+   "children": [],
+   "end": "1153.040",
+   "id": "f000287",
+   "language": "eng",
+   "lines": [
+    "He insisted on summoning a dementor to accompany him into the castle."
+   ]
+  },
+  {
+   "begin": "1153.040",
+   "children": [],
+   "end": "1159.600",
+   "id": "f000288",
+   "language": "eng",
+   "lines": [
+    "He brought it up to the office where Barty Crouch -\" \"I told him you would not agree, Dumbledore!\""
+   ]
+  },
+  {
+   "begin": "1159.600",
+   "children": [],
+   "end": "1161.040",
+   "id": "f000289",
+   "language": "eng",
+   "lines": [
+    "McGonagall fumed."
+   ]
+  },
+  {
+   "begin": "1161.040",
+   "children": [],
+   "end": "1166.000",
+   "id": "f000290",
+   "language": "eng",
+   "lines": [
+    "\"I told him you would never allow dementors to set foot inside the castle, but -\""
    ]
   },
   {
    "begin": "1166.000",
    "children": [],
-   "end": "1184.000",
-   "id": "f000107",
+   "end": "1167.760",
+   "id": "f000291",
    "language": "eng",
    "lines": [
-    "\"My dear woman!\" roared Fudge, who likewise looked angrier than Harry had ever seen him, \"as Minister of Magic, it is my decision whether I wish to bring protection with me when interviewing a possibly dangerous -\" But Professor McGonagall's voice drowned Fudge's."
+    "\"My dear woman!\""
+   ]
+  },
+  {
+   "begin": "1167.760",
+   "children": [],
+   "end": "1184.000",
+   "id": "f000292",
+   "language": "eng",
+   "lines": [
+    "roared Fudge, who likewise looked angrier than Harry had ever seen him, \"as Minister of Magic, it is my decision whether I wish to bring protection with me when interviewing a possibly dangerous -\" But Professor McGonagall's voice drowned Fudge's."
    ]
   },
   {
    "begin": "1184.000",
    "children": [],
-   "end": "1216.360",
-   "id": "f000108",
+   "end": "1201.320",
+   "id": "f000293",
    "language": "eng",
    "lines": [
-    "\"The moment that - that thing entered the room,\" she screamed, pointing at Fudge, trembling all over, \"it swooped down on Crouch and - and -\" Harry felt a chill in his stomach as Professor McGonagall struggled to find words to describe what had happened. He did not need her to finish her sentence. He knew what the dementor must have done. It had administered its fatal kiss to Barty Crouch. It had sucked his soul out through his mouth. He was worse than dead."
+    "\"The moment that - that thing entered the room,\" she screamed, pointing at Fudge, trembling all over, \"it swooped down on Crouch and - and -\" Harry felt a chill in his stomach as Professor McGonagall struggled to find words to describe what had happened."
+   ]
+  },
+  {
+   "begin": "1201.320",
+   "children": [],
+   "end": "1204.360",
+   "id": "f000294",
+   "language": "eng",
+   "lines": [
+    "He did not need her to finish her sentence."
+   ]
+  },
+  {
+   "begin": "1204.360",
+   "children": [],
+   "end": "1207.000",
+   "id": "f000295",
+   "language": "eng",
+   "lines": [
+    "He knew what the dementor must have done."
+   ]
+  },
+  {
+   "begin": "1207.000",
+   "children": [],
+   "end": "1211.040",
+   "id": "f000296",
+   "language": "eng",
+   "lines": [
+    "It had administered its fatal kiss to Barty Crouch."
+   ]
+  },
+  {
+   "begin": "1211.040",
+   "children": [],
+   "end": "1214.040",
+   "id": "f000297",
+   "language": "eng",
+   "lines": [
+    "It had sucked his soul out through his mouth."
+   ]
+  },
+  {
+   "begin": "1214.040",
+   "children": [],
+   "end": "1216.360",
+   "id": "f000298",
+   "language": "eng",
+   "lines": [
+    "He was worse than dead."
    ]
   },
   {
    "begin": "1216.360",
    "children": [],
-   "end": "1222.920",
-   "id": "f000109",
+   "end": "1218.920",
+   "id": "f000299",
    "language": "eng",
    "lines": [
-    "\"By all accounts, he is no loss!\" blustered Fudge. \"It seems he has been responsible for several deaths'.\""
+    "\"By all accounts, he is no loss!\""
+   ]
+  },
+  {
+   "begin": "1218.920",
+   "children": [],
+   "end": "1220.200",
+   "id": "f000300",
+   "language": "eng",
+   "lines": [
+    "blustered Fudge."
+   ]
+  },
+  {
+   "begin": "1220.200",
+   "children": [],
+   "end": "1222.920",
+   "id": "f000301",
+   "language": "eng",
+   "lines": [
+    "\"It seems he has been responsible for several deaths'.\""
    ]
   },
   {
    "begin": "1222.920",
    "children": [],
-   "end": "1238.200",
-   "id": "f000110",
+   "end": "1228.200",
+   "id": "f000302",
    "language": "eng",
    "lines": [
-    "\"But he cannot now give testimony, Cornelius,\" said Dumbledore. He was staring hard at Fudge, as though seeing him plainly for the first time. \"He cannot give evidence about why he killed those people.\""
+    "\"But he cannot now give testimony, Cornelius,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1228.200",
+   "children": [],
+   "end": "1233.560",
+   "id": "f000303",
+   "language": "eng",
+   "lines": [
+    "He was staring hard at Fudge, as though seeing him plainly for the first time."
+   ]
+  },
+  {
+   "begin": "1233.560",
+   "children": [],
+   "end": "1238.200",
+   "id": "f000304",
+   "language": "eng",
+   "lines": [
+    "\"He cannot give evidence about why he killed those people.\""
    ]
   },
   {
    "begin": "1238.200",
    "children": [],
-   "end": "1250.040",
-   "id": "f000111",
+   "end": "1239.880",
+   "id": "f000305",
    "language": "eng",
    "lines": [
-    "\"Why he killed them? Well, that's no mystery, is it?\" blustered Fudge. \"He was a raving lunatic! From what Minerva and Severus have told me, he seems to have thought he was doing it all on You-Know-Who's instructions!\""
+    "\"Why he killed them?"
+   ]
+  },
+  {
+   "begin": "1239.880",
+   "children": [],
+   "end": "1241.400",
+   "id": "f000306",
+   "language": "eng",
+   "lines": [
+    "Well, that's no mystery, is it?\""
+   ]
+  },
+  {
+   "begin": "1241.400",
+   "children": [],
+   "end": "1242.720",
+   "id": "f000307",
+   "language": "eng",
+   "lines": [
+    "blustered Fudge."
+   ]
+  },
+  {
+   "begin": "1242.720",
+   "children": [],
+   "end": "1244.120",
+   "id": "f000308",
+   "language": "eng",
+   "lines": [
+    "\"He was a raving lunatic!"
+   ]
+  },
+  {
+   "begin": "1244.120",
+   "children": [],
+   "end": "1250.040",
+   "id": "f000309",
+   "language": "eng",
+   "lines": [
+    "From what Minerva and Severus have told me, he seems to have thought he was doing it all on You-Know-Who's instructions!\""
    ]
   },
   {
    "begin": "1250.040",
    "children": [],
    "end": "1255.920",
-   "id": "f000112",
+   "id": "f000310",
    "language": "eng",
    "lines": [
     "\"Lord Voldemort was giving him instructions, Cornelius,\" Dumbledore said."
@@ -1123,18 +3103,38 @@
   {
    "begin": "1255.920",
    "children": [],
-   "end": "1268.120",
-   "id": "f000113",
+   "end": "1262.640",
+   "id": "f000311",
    "language": "eng",
    "lines": [
-    "\"Those peoples deaths were mere by-products of a plan to restore Voldemort to full strength again. The plan succeeded. Voldemort has been restored to his body.\""
+    "\"Those peoples deaths were mere by-products of a plan to restore Voldemort to full strength again."
+   ]
+  },
+  {
+   "begin": "1262.640",
+   "children": [],
+   "end": "1264.520",
+   "id": "f000312",
+   "language": "eng",
+   "lines": [
+    "The plan succeeded."
+   ]
+  },
+  {
+   "begin": "1264.520",
+   "children": [],
+   "end": "1268.120",
+   "id": "f000313",
+   "language": "eng",
+   "lines": [
+    "Voldemort has been restored to his body.\""
    ]
   },
   {
    "begin": "1268.120",
    "children": [],
    "end": "1274.040",
-   "id": "f000114",
+   "id": "f000314",
    "language": "eng",
    "lines": [
     "Fudge looked as though someone had just swung a heavy weight into his face."
@@ -1143,58 +3143,208 @@
   {
    "begin": "1274.040",
    "children": [],
-   "end": "1284.720",
-   "id": "f000115",
+   "end": "1280.840",
+   "id": "f000315",
    "language": "eng",
    "lines": [
-    "Dazed and blinking, he stared back at Dumbledore as if he couldn't quite believe what he had just heard. He began to sputter, still goggling at Dumbledore."
+    "Dazed and blinking, he stared back at Dumbledore as if he couldn't quite believe what he had just heard."
+   ]
+  },
+  {
+   "begin": "1280.840",
+   "children": [],
+   "end": "1284.720",
+   "id": "f000316",
+   "language": "eng",
+   "lines": [
+    "He began to sputter, still goggling at Dumbledore."
    ]
   },
   {
    "begin": "1284.720",
    "children": [],
-   "end": "1290.360",
-   "id": "f000116",
+   "end": "1286.760",
+   "id": "f000317",
    "language": "eng",
    "lines": [
-    "\"You-Know-Who . . . returned? Preposterous. Come now, Dumbledore ...\""
+    "\"You-Know-Who ."
+   ]
+  },
+  {
+   "begin": "1286.760",
+   "children": [],
+   "end": "1286.760",
+   "id": "f000318",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1286.760",
+   "children": [],
+   "end": "1286.760",
+   "id": "f000319",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1286.760",
+   "children": [],
+   "end": "1288.040",
+   "id": "f000320",
+   "language": "eng",
+   "lines": [
+    "returned?"
+   ]
+  },
+  {
+   "begin": "1288.040",
+   "children": [],
+   "end": "1289.240",
+   "id": "f000321",
+   "language": "eng",
+   "lines": [
+    "Preposterous."
+   ]
+  },
+  {
+   "begin": "1289.240",
+   "children": [],
+   "end": "1290.360",
+   "id": "f000322",
+   "language": "eng",
+   "lines": [
+    "Come now, Dumbledore ...\""
    ]
   },
   {
    "begin": "1290.360",
    "children": [],
-   "end": "1318.240",
-   "id": "f000117",
+   "end": "1298.720",
+   "id": "f000323",
    "language": "eng",
    "lines": [
-    "\"As Minerva and Severus have doubtless told you,\" said Dumbledore, \"we heard Barty Crouch confess. Under the influence of Veritaserum, he told us how he was smuggled out of Azkaban, and how Voldemort - learning of his continued existence from Bertha Jorkins - went to free him from his father and used him to capture Harry. The plan worked, I tell you. Crouch has helped Voldemort to return.\""
+    "\"As Minerva and Severus have doubtless told you,\" said Dumbledore, \"we heard Barty Crouch confess."
+   ]
+  },
+  {
+   "begin": "1298.720",
+   "children": [],
+   "end": "1313.000",
+   "id": "f000324",
+   "language": "eng",
+   "lines": [
+    "Under the influence of Veritaserum, he told us how he was smuggled out of Azkaban, and how Voldemort - learning of his continued existence from Bertha Jorkins - went to free him from his father and used him to capture Harry."
+   ]
+  },
+  {
+   "begin": "1313.000",
+   "children": [],
+   "end": "1314.800",
+   "id": "f000325",
+   "language": "eng",
+   "lines": [
+    "The plan worked, I tell you."
+   ]
+  },
+  {
+   "begin": "1314.800",
+   "children": [],
+   "end": "1318.240",
+   "id": "f000326",
+   "language": "eng",
+   "lines": [
+    "Crouch has helped Voldemort to return.\""
    ]
   },
   {
    "begin": "1318.240",
    "children": [],
-   "end": "1341.480",
-   "id": "f000118",
+   "end": "1331.480",
+   "id": "f000327",
    "language": "eng",
    "lines": [
-    "\"See here, Dumbledore,\" said Fudge, and Harry was astonished to see a slight smile dawning on his face, \"you - you can't seriously believe that You-Know-Who - back? Come now, come now . . . certainly, Crouch may have believed himself to be acting upon You-Know-Who's orders - but to take the word of a lunatic like that, Dumbledore ...\""
+    "\"See here, Dumbledore,\" said Fudge, and Harry was astonished to see a slight smile dawning on his face, \"you - you can't seriously believe that You-Know-Who - back?"
+   ]
+  },
+  {
+   "begin": "1331.480",
+   "children": [],
+   "end": "1332.760",
+   "id": "f000328",
+   "language": "eng",
+   "lines": [
+    "Come now, come now ."
+   ]
+  },
+  {
+   "begin": "1332.760",
+   "children": [],
+   "end": "1332.760",
+   "id": "f000329",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1332.760",
+   "children": [],
+   "end": "1332.760",
+   "id": "f000330",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1332.760",
+   "children": [],
+   "end": "1341.480",
+   "id": "f000331",
+   "language": "eng",
+   "lines": [
+    "certainly, Crouch may have believed himself to be acting upon You-Know-Who's orders - but to take the word of a lunatic like that, Dumbledore ...\""
    ]
   },
   {
    "begin": "1341.480",
    "children": [],
-   "end": "1354.280",
-   "id": "f000119",
+   "end": "1350.360",
+   "id": "f000332",
    "language": "eng",
    "lines": [
-    "\"When Harry touched the Triwizard Cup tonight, he was transported straight to Voldemort,\" said Dumbledore steadily. \"He witnessed Lord Voldemort's rebirth. I"
+    "\"When Harry touched the Triwizard Cup tonight, he was transported straight to Voldemort,\" said Dumbledore steadily."
+   ]
+  },
+  {
+   "begin": "1350.360",
+   "children": [],
+   "end": "1353.560",
+   "id": "f000333",
+   "language": "eng",
+   "lines": [
+    "\"He witnessed Lord Voldemort's rebirth."
+   ]
+  },
+  {
+   "begin": "1353.560",
+   "children": [],
+   "end": "1354.280",
+   "id": "f000334",
+   "language": "eng",
+   "lines": [
+    "I"
    ]
   },
   {
    "begin": "1354.280",
    "children": [],
    "end": "1357.960",
-   "id": "f000120",
+   "id": "f000335",
    "language": "eng",
    "lines": [
     "will explain it all to you if you will step up to my office.\""
@@ -1204,7 +3354,7 @@
    "begin": "1357.960",
    "children": [],
    "end": "1368.520",
-   "id": "f000121",
+   "id": "f000336",
    "language": "eng",
    "lines": [
     "Dumbledore glanced around at Harry and saw that he was awake, but shook his head and said, \"I am afraid I cannot permit you to question Harry tonight.\""
@@ -1213,58 +3363,138 @@
   {
    "begin": "1368.520",
    "children": [],
-   "end": "1381.600",
-   "id": "f000122",
+   "end": "1371.960",
+   "id": "f000337",
    "language": "eng",
    "lines": [
-    "Fudge's curious smile lingered. He too glanced at Harry, then looked back at Dumbledore, and said, \"You are - er - prepared to take Harry's word on this, are you, Dumbledore?\""
+    "Fudge's curious smile lingered."
+   ]
+  },
+  {
+   "begin": "1371.960",
+   "children": [],
+   "end": "1381.600",
+   "id": "f000338",
+   "language": "eng",
+   "lines": [
+    "He too glanced at Harry, then looked back at Dumbledore, and said, \"You are - er - prepared to take Harry's word on this, are you, Dumbledore?\""
    ]
   },
   {
    "begin": "1381.600",
    "children": [],
-   "end": "1391.320",
-   "id": "f000123",
+   "end": "1387.360",
+   "id": "f000339",
    "language": "eng",
    "lines": [
-    "There was a moment's silence, which was broken by Sirius growling. His hackles were raised, and he was baring his teeth at Fudge."
+    "There was a moment's silence, which was broken by Sirius growling."
+   ]
+  },
+  {
+   "begin": "1387.360",
+   "children": [],
+   "end": "1391.320",
+   "id": "f000340",
+   "language": "eng",
+   "lines": [
+    "His hackles were raised, and he was baring his teeth at Fudge."
    ]
   },
   {
    "begin": "1391.320",
    "children": [],
-   "end": "1410.600",
-   "id": "f000124",
+   "end": "1394.600",
+   "id": "f000341",
    "language": "eng",
    "lines": [
-    "\"Certainly, I believe Harry,\" said Dumbledore. His eyes were blazing now. \"I heard Crouch's confession, and I heard Harry's account of what happened after he touched the Triwizard Cup; the two stories make sense, they explain everything that has happened since Bertha Jorkins disappeared last summer.\""
+    "\"Certainly, I believe Harry,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1394.600",
+   "children": [],
+   "end": "1396.720",
+   "id": "f000342",
+   "language": "eng",
+   "lines": [
+    "His eyes were blazing now."
+   ]
+  },
+  {
+   "begin": "1396.720",
+   "children": [],
+   "end": "1410.600",
+   "id": "f000343",
+   "language": "eng",
+   "lines": [
+    "\"I heard Crouch's confession, and I heard Harry's account of what happened after he touched the Triwizard Cup; the two stories make sense, they explain everything that has happened since Bertha Jorkins disappeared last summer.\""
    ]
   },
   {
    "begin": "1410.600",
    "children": [],
-   "end": "1419.000",
-   "id": "f000125",
+   "end": "1415.360",
+   "id": "f000344",
    "language": "eng",
    "lines": [
-    "Fudge still had that strange smile on his face. Once again, he glanced at Harry before answering."
+    "Fudge still had that strange smile on his face."
    ]
   },
   {
-   "begin": "1419.000",
+   "begin": "1415.360",
    "children": [],
-   "end": "1427.840",
-   "id": "f000126",
+   "end": "1418.880",
+   "id": "f000345",
    "language": "eng",
    "lines": [
-    "\"You are prepared to believe that Lord Voldemort has returned, on the word of a lunatic murderer, and a boy who . . . well...\""
+    "Once again, he glanced at Harry before answering."
+   ]
+  },
+  {
+   "begin": "1418.880",
+   "children": [],
+   "end": "1427.120",
+   "id": "f000346",
+   "language": "eng",
+   "lines": [
+    "\"You are prepared to believe that Lord Voldemort has returned, on the word of a lunatic murderer, and a boy who ."
+   ]
+  },
+  {
+   "begin": "1427.120",
+   "children": [],
+   "end": "1427.160",
+   "id": "f000347",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1427.160",
+   "children": [],
+   "end": "1427.160",
+   "id": "f000348",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1427.160",
+   "children": [],
+   "end": "1427.840",
+   "id": "f000349",
+   "language": "eng",
+   "lines": [
+    "well...\""
    ]
   },
   {
    "begin": "1427.840",
    "children": [],
    "end": "1432.960",
-   "id": "f000127",
+   "id": "f000350",
    "language": "eng",
    "lines": [
     "Fudge shot Harry another look, and Harry suddenly understood."
@@ -1274,7 +3504,7 @@
    "begin": "1432.960",
    "children": [],
    "end": "1438.840",
-   "id": "f000128",
+   "id": "f000351",
    "language": "eng",
    "lines": [
     "\"You've been reading Rita Skeeter, Mr. Fudge,\" he said quietly."
@@ -1283,18 +3513,28 @@
   {
    "begin": "1438.840",
    "children": [],
-   "end": "1445.520",
-   "id": "f000129",
+   "end": "1443.000",
+   "id": "f000352",
    "language": "eng",
    "lines": [
-    "Ron, Hermione, Mrs. Weasley, and Bill all jumped. None of them had realized that Harry was awake."
+    "Ron, Hermione, Mrs. Weasley, and Bill all jumped."
+   ]
+  },
+  {
+   "begin": "1443.000",
+   "children": [],
+   "end": "1445.520",
+   "id": "f000353",
+   "language": "eng",
+   "lines": [
+    "None of them had realized that Harry was awake."
    ]
   },
   {
    "begin": "1445.520",
    "children": [],
    "end": "1451.560",
-   "id": "f000130",
+   "id": "f000354",
    "language": "eng",
    "lines": [
     "Fudge reddened slightly, but a defiant and obstinate look came over his face."
@@ -1303,148 +3543,548 @@
   {
    "begin": "1451.560",
    "children": [],
-   "end": "1471.520",
-   "id": "f000131",
+   "end": "1453.280",
+   "id": "f000355",
    "language": "eng",
    "lines": [
-    "\"And if I have?\" he said, looking at Dumbledore. \"If I have discovered that you've been keeping certain facts about the boy very quiet? A Parselmouth, eh? And having funny turns all over the place -\" \"I assume that you are referring to the pains Harry has been experiencing in his scar?\" said Dumbledore coolly."
+    "\"And if I have?\""
+   ]
+  },
+  {
+   "begin": "1453.280",
+   "children": [],
+   "end": "1455.040",
+   "id": "f000356",
+   "language": "eng",
+   "lines": [
+    "he said, looking at Dumbledore."
+   ]
+  },
+  {
+   "begin": "1455.040",
+   "children": [],
+   "end": "1460.160",
+   "id": "f000357",
+   "language": "eng",
+   "lines": [
+    "\"If I have discovered that you've been keeping certain facts about the boy very quiet?"
+   ]
+  },
+  {
+   "begin": "1460.160",
+   "children": [],
+   "end": "1461.680",
+   "id": "f000358",
+   "language": "eng",
+   "lines": [
+    "A Parselmouth, eh?"
+   ]
+  },
+  {
+   "begin": "1461.680",
+   "children": [],
+   "end": "1469.760",
+   "id": "f000359",
+   "language": "eng",
+   "lines": [
+    "And having funny turns all over the place -\" \"I assume that you are referring to the pains Harry has been experiencing in his scar?\""
+   ]
+  },
+  {
+   "begin": "1469.760",
+   "children": [],
+   "end": "1471.520",
+   "id": "f000360",
+   "language": "eng",
+   "lines": [
+    "said Dumbledore coolly."
    ]
   },
   {
    "begin": "1471.520",
    "children": [],
-   "end": "1475.200",
-   "id": "f000132",
+   "end": "1474.120",
+   "id": "f000361",
    "language": "eng",
    "lines": [
-    "\"You admit that he has been having these pains, then?\" said Fudge quickly."
+    "\"You admit that he has been having these pains, then?\""
+   ]
+  },
+  {
+   "begin": "1474.120",
+   "children": [],
+   "end": "1475.200",
+   "id": "f000362",
+   "language": "eng",
+   "lines": [
+    "said Fudge quickly."
    ]
   },
   {
    "begin": "1475.200",
    "children": [],
-   "end": "1479.320",
-   "id": "f000133",
+   "end": "1475.920",
+   "id": "f000363",
    "language": "eng",
    "lines": [
-    "\"Headaches? Nightmares? Possibly - hallucinations?\""
+    "\"Headaches?"
    ]
   },
   {
-   "begin": "1479.320",
+   "begin": "1475.920",
    "children": [],
-   "end": "1507.080",
-   "id": "f000134",
+   "end": "1476.960",
+   "id": "f000364",
    "language": "eng",
    "lines": [
-    "\"Listen to me, Cornelius,\" said Dumbledore, taking a step toward Fudge, and once again, he seemed to radiate that indefinable sense of power that Harry had felt after Dumbledore had Stunned young Crouch. \"Harry is as sane as you or I. That scar upon his forehead has not addled his brains. I believe it hurts him when Lord Voldemort is close by, or feeling particularly murderous.\""
+    "Nightmares?"
+   ]
+  },
+  {
+   "begin": "1476.960",
+   "children": [],
+   "end": "1479.280",
+   "id": "f000365",
+   "language": "eng",
+   "lines": [
+    "Possibly - hallucinations?\""
+   ]
+  },
+  {
+   "begin": "1479.280",
+   "children": [],
+   "end": "1493.520",
+   "id": "f000366",
+   "language": "eng",
+   "lines": [
+    "\"Listen to me, Cornelius,\" said Dumbledore, taking a step toward Fudge, and once again, he seemed to radiate that indefinable sense of power that Harry had felt after Dumbledore had Stunned young Crouch."
+   ]
+  },
+  {
+   "begin": "1493.520",
+   "children": [],
+   "end": "1496.480",
+   "id": "f000367",
+   "language": "eng",
+   "lines": [
+    "\"Harry is as sane as you or I."
+   ]
+  },
+  {
+   "begin": "1496.480",
+   "children": [],
+   "end": "1500.480",
+   "id": "f000368",
+   "language": "eng",
+   "lines": [
+    "That scar upon his forehead has not addled his brains."
+   ]
+  },
+  {
+   "begin": "1500.480",
+   "children": [],
+   "end": "1507.080",
+   "id": "f000369",
+   "language": "eng",
+   "lines": [
+    "I believe it hurts him when Lord Voldemort is close by, or feeling particularly murderous.\""
    ]
   },
   {
    "begin": "1507.080",
    "children": [],
-   "end": "1513.640",
-   "id": "f000135",
+   "end": "1513.200",
+   "id": "f000370",
    "language": "eng",
    "lines": [
     "Fudge had taken half a step back from Dumbledore, but he looked no less stubborn."
    ]
   },
   {
-   "begin": "1513.640",
+   "begin": "1513.200",
    "children": [],
    "end": "1519.560",
-   "id": "f000136",
+   "id": "f000371",
    "language": "eng",
    "lines": [
-    "\"You'll forgive me, Dumbledore, but I've never heard of a curse scar acting as an alarm bell before. ...\""
+    "\"You'll forgive me, Dumbledore, but I've never heard of a curse scar acting as an alarm bell before."
    ]
   },
   {
    "begin": "1519.560",
    "children": [],
-   "end": "1538.040",
-   "id": "f000137",
+   "end": "1519.560",
+   "id": "f000372",
    "language": "eng",
    "lines": [
-    "\"Look, I saw Voldemort come back!\" Harry shouted. He tried to get out of bed again, but Mrs. Weasley forced him back. \"I saw the Death Eaters! I can give you their names! Lucius Malfoy -\" Snape made a sudden movement, but as Harry looked at him, Snape's eyes flew back to Fudge."
+    "...\""
+   ]
+  },
+  {
+   "begin": "1519.560",
+   "children": [],
+   "end": "1522.640",
+   "id": "f000373",
+   "language": "eng",
+   "lines": [
+    "\"Look, I saw Voldemort come back!\""
+   ]
+  },
+  {
+   "begin": "1522.640",
+   "children": [],
+   "end": "1523.640",
+   "id": "f000374",
+   "language": "eng",
+   "lines": [
+    "Harry shouted."
+   ]
+  },
+  {
+   "begin": "1523.640",
+   "children": [],
+   "end": "1527.640",
+   "id": "f000375",
+   "language": "eng",
+   "lines": [
+    "He tried to get out of bed again, but Mrs. Weasley forced him back."
+   ]
+  },
+  {
+   "begin": "1527.640",
+   "children": [],
+   "end": "1529.200",
+   "id": "f000376",
+   "language": "eng",
+   "lines": [
+    "\"I saw the Death Eaters!"
+   ]
+  },
+  {
+   "begin": "1529.200",
+   "children": [],
+   "end": "1530.840",
+   "id": "f000377",
+   "language": "eng",
+   "lines": [
+    "I can give you their names!"
+   ]
+  },
+  {
+   "begin": "1530.840",
+   "children": [],
+   "end": "1538.040",
+   "id": "f000378",
+   "language": "eng",
+   "lines": [
+    "Lucius Malfoy -\" Snape made a sudden movement, but as Harry looked at him, Snape's eyes flew back to Fudge."
    ]
   },
   {
    "begin": "1538.040",
    "children": [],
-   "end": "1547.880",
-   "id": "f000138",
+   "end": "1540.240",
+   "id": "f000379",
    "language": "eng",
    "lines": [
-    "\"Malfoy was cleared!\" said Fudge, visibly affronted. \"A very old family donations to excellent causes -\" \"Macnair!\" Harry continued."
+    "\"Malfoy was cleared!\""
+   ]
+  },
+  {
+   "begin": "1540.240",
+   "children": [],
+   "end": "1541.960",
+   "id": "f000380",
+   "language": "eng",
+   "lines": [
+    "said Fudge, visibly affronted."
+   ]
+  },
+  {
+   "begin": "1541.960",
+   "children": [],
+   "end": "1546.800",
+   "id": "f000381",
+   "language": "eng",
+   "lines": [
+    "\"A very old family donations to excellent causes -\" \"Macnair!\""
+   ]
+  },
+  {
+   "begin": "1546.800",
+   "children": [],
+   "end": "1547.880",
+   "id": "f000382",
+   "language": "eng",
+   "lines": [
+    "Harry continued."
    ]
   },
   {
    "begin": "1547.880",
    "children": [],
-   "end": "1551.000",
-   "id": "f000139",
+   "end": "1549.160",
+   "id": "f000383",
    "language": "eng",
    "lines": [
-    "\"Also cleared! Now working for the Ministry!\""
+    "\"Also cleared!"
    ]
   },
   {
-   "begin": "1551.000",
+   "begin": "1549.160",
    "children": [],
-   "end": "1579.680",
-   "id": "f000140",
+   "end": "1550.960",
+   "id": "f000384",
    "language": "eng",
    "lines": [
-    "\"Avery - Nott - Crabbe - Goyle -\" \"You are merely repeating the names of those who were acquitted of being Death Eaters thirteen years ago!\" said Fudge angrily. \"You could have found those names in old reports of the trials! For heavens sake, Dumbledore - the boy was full of some crackpot story at the end of last year too - his tales are getting taller, and you're still swallowing them - the boy can talk to snakes. Dumbledore, and you still think he's trustworthy?\""
+    "Now working for the Ministry!\""
+   ]
+  },
+  {
+   "begin": "1550.960",
+   "children": [],
+   "end": "1560.240",
+   "id": "f000385",
+   "language": "eng",
+   "lines": [
+    "\"Avery - Nott - Crabbe - Goyle -\" \"You are merely repeating the names of those who were acquitted of being Death Eaters thirteen years ago!\""
+   ]
+  },
+  {
+   "begin": "1560.240",
+   "children": [],
+   "end": "1561.640",
+   "id": "f000386",
+   "language": "eng",
+   "lines": [
+    "said Fudge angrily."
+   ]
+  },
+  {
+   "begin": "1561.640",
+   "children": [],
+   "end": "1564.800",
+   "id": "f000387",
+   "language": "eng",
+   "lines": [
+    "\"You could have found those names in old reports of the trials!"
+   ]
+  },
+  {
+   "begin": "1564.800",
+   "children": [],
+   "end": "1576.560",
+   "id": "f000388",
+   "language": "eng",
+   "lines": [
+    "For heavens sake, Dumbledore - the boy was full of some crackpot story at the end of last year too - his tales are getting taller, and you're still swallowing them - the boy can talk to snakes."
+   ]
+  },
+  {
+   "begin": "1576.560",
+   "children": [],
+   "end": "1579.680",
+   "id": "f000389",
+   "language": "eng",
+   "lines": [
+    "Dumbledore, and you still think he's trustworthy?\""
    ]
   },
   {
    "begin": "1579.680",
    "children": [],
-   "end": "1588.680",
-   "id": "f000141",
+   "end": "1581.280",
+   "id": "f000390",
    "language": "eng",
    "lines": [
-    "\"You fool!\" Professor McGonagall cried. \"Cedric Diggory! Mr. Crouch! These deaths were not the random work of a lunatic!\""
+    "\"You fool!\""
+   ]
+  },
+  {
+   "begin": "1581.280",
+   "children": [],
+   "end": "1582.720",
+   "id": "f000391",
+   "language": "eng",
+   "lines": [
+    "Professor McGonagall cried."
+   ]
+  },
+  {
+   "begin": "1582.720",
+   "children": [],
+   "end": "1584.160",
+   "id": "f000392",
+   "language": "eng",
+   "lines": [
+    "\"Cedric Diggory!"
+   ]
+  },
+  {
+   "begin": "1584.160",
+   "children": [],
+   "end": "1585.520",
+   "id": "f000393",
+   "language": "eng",
+   "lines": [
+    "Mr. Crouch!"
+   ]
+  },
+  {
+   "begin": "1585.520",
+   "children": [],
+   "end": "1588.680",
+   "id": "f000394",
+   "language": "eng",
+   "lines": [
+    "These deaths were not the random work of a lunatic!\""
    ]
   },
   {
    "begin": "1588.680",
    "children": [],
-   "end": "1604.480",
-   "id": "f000142",
+   "end": "1591.440",
+   "id": "f000395",
    "language": "eng",
    "lines": [
-    "\"I see no evidence to the contrary!\" shouted Fudge, now matching her anger, his face purpling. \"It seems to me that you are all determined to start a panic that will destabilize everything we have worked for these last thirteen years!\""
+    "\"I see no evidence to the contrary!\""
+   ]
+  },
+  {
+   "begin": "1591.440",
+   "children": [],
+   "end": "1595.760",
+   "id": "f000396",
+   "language": "eng",
+   "lines": [
+    "shouted Fudge, now matching her anger, his face purpling."
+   ]
+  },
+  {
+   "begin": "1595.760",
+   "children": [],
+   "end": "1604.480",
+   "id": "f000397",
+   "language": "eng",
+   "lines": [
+    "\"It seems to me that you are all determined to start a panic that will destabilize everything we have worked for these last thirteen years!\""
    ]
   },
   {
    "begin": "1604.480",
    "children": [],
-   "end": "1628.280",
-   "id": "f000143",
+   "end": "1607.840",
+   "id": "f000398",
    "language": "eng",
    "lines": [
-    "Harry couldn't believe what he was hearing. He had always thought of Fudge as a kindly figure, a little blustering, a little pompous, but essentially good-natured. But now a short, angry wizard stood before him, refusing, point-blank, to accept the prospect of disruption in his comfortable and ordered world - to believe that Voldemort could have risen."
+    "Harry couldn't believe what he was hearing."
+   ]
+  },
+  {
+   "begin": "1607.840",
+   "children": [],
+   "end": "1615.040",
+   "id": "f000399",
+   "language": "eng",
+   "lines": [
+    "He had always thought of Fudge as a kindly figure, a little blustering, a little pompous, but essentially good-natured."
+   ]
+  },
+  {
+   "begin": "1615.040",
+   "children": [],
+   "end": "1628.280",
+   "id": "f000400",
+   "language": "eng",
+   "lines": [
+    "But now a short, angry wizard stood before him, refusing, point-blank, to accept the prospect of disruption in his comfortable and ordered world - to believe that Voldemort could have risen."
    ]
   },
   {
    "begin": "1628.280",
    "children": [],
-   "end": "1659.280",
-   "id": "f000144",
+   "end": "1633.320",
+   "id": "f000401",
    "language": "eng",
    "lines": [
-    "\"Voldemort has returned,\" Dumbledore repeated. \"If you accept that fact straightaway. Fudge, and take the necessary measures, we may still be able to save the situation. The first and most essential step is to remove Azkaban from the control of the dementors -\" \"Preposterous!\" shouted Fudge again. \"Remove the dementors? I'd be kicked out of office for suggesting it! Half of us only feel safe in our beds at night because we know the dementors are standing guard at Azkaban!\""
+    "\"Voldemort has returned,\" Dumbledore repeated."
+   ]
+  },
+  {
+   "begin": "1633.320",
+   "children": [],
+   "end": "1635.720",
+   "id": "f000402",
+   "language": "eng",
+   "lines": [
+    "\"If you accept that fact straightaway."
+   ]
+  },
+  {
+   "begin": "1635.720",
+   "children": [],
+   "end": "1640.720",
+   "id": "f000403",
+   "language": "eng",
+   "lines": [
+    "Fudge, and take the necessary measures, we may still be able to save the situation."
+   ]
+  },
+  {
+   "begin": "1640.720",
+   "children": [],
+   "end": "1648.880",
+   "id": "f000404",
+   "language": "eng",
+   "lines": [
+    "The first and most essential step is to remove Azkaban from the control of the dementors -\" \"Preposterous!\""
+   ]
+  },
+  {
+   "begin": "1648.880",
+   "children": [],
+   "end": "1650.120",
+   "id": "f000405",
+   "language": "eng",
+   "lines": [
+    "shouted Fudge again."
+   ]
+  },
+  {
+   "begin": "1650.120",
+   "children": [],
+   "end": "1651.680",
+   "id": "f000406",
+   "language": "eng",
+   "lines": [
+    "\"Remove the dementors?"
+   ]
+  },
+  {
+   "begin": "1651.680",
+   "children": [],
+   "end": "1654.040",
+   "id": "f000407",
+   "language": "eng",
+   "lines": [
+    "I'd be kicked out of office for suggesting it!"
+   ]
+  },
+  {
+   "begin": "1654.040",
+   "children": [],
+   "end": "1659.280",
+   "id": "f000408",
+   "language": "eng",
+   "lines": [
+    "Half of us only feel safe in our beds at night because we know the dementors are standing guard at Azkaban!\""
    ]
   },
   {
    "begin": "1659.280",
    "children": [],
    "end": "1670.120",
-   "id": "f000145",
+   "id": "f000409",
    "language": "eng",
    "lines": [
     "\"The rest of us sleep less soundly in our beds, Cornelius, knowing that you have put Lord Voldemort's most dangerous supporters in the care of creatures who will"
@@ -1453,28 +4093,68 @@
   {
    "begin": "1670.120",
    "children": [],
-   "end": "1692.680",
-   "id": "f000146",
+   "end": "1672.560",
+   "id": "f000410",
    "language": "eng",
    "lines": [
-    "join him the instant he asks them!\" said Dumbledore. \"They will not remain loyal to you, Fudge! Voldemort can offer them much more scope for their powers and their pleasures than you can! With the dementors behind him, and his old supporters returned to him, you will be hard-pressed to stop him regaining the sort of power he had thirteen years ago!\""
+    "join him the instant he asks them!\""
+   ]
+  },
+  {
+   "begin": "1672.560",
+   "children": [],
+   "end": "1673.800",
+   "id": "f000411",
+   "language": "eng",
+   "lines": [
+    "said Dumbledore."
+   ]
+  },
+  {
+   "begin": "1673.800",
+   "children": [],
+   "end": "1676.880",
+   "id": "f000412",
+   "language": "eng",
+   "lines": [
+    "\"They will not remain loyal to you, Fudge!"
+   ]
+  },
+  {
+   "begin": "1676.880",
+   "children": [],
+   "end": "1682.440",
+   "id": "f000413",
+   "language": "eng",
+   "lines": [
+    "Voldemort can offer them much more scope for their powers and their pleasures than you can!"
+   ]
+  },
+  {
+   "begin": "1682.440",
+   "children": [],
+   "end": "1692.680",
+   "id": "f000414",
+   "language": "eng",
+   "lines": [
+    "With the dementors behind him, and his old supporters returned to him, you will be hard-pressed to stop him regaining the sort of power he had thirteen years ago!\""
    ]
   },
   {
    "begin": "1692.680",
    "children": [],
-   "end": "1699.120",
-   "id": "f000147",
+   "end": "1699.680",
+   "id": "f000415",
    "language": "eng",
    "lines": [
     "Fudge was opening and closing his mouth as though no words could express his outrage."
    ]
   },
   {
-   "begin": "1699.120",
+   "begin": "1699.680",
    "children": [],
    "end": "1707.400",
-   "id": "f000148",
+   "id": "f000416",
    "language": "eng",
    "lines": [
     "\"The second step you must take - and at once,\" Dumbledore pressed on, \"is to send envoys to the giants.\""
@@ -1483,18 +4163,38 @@
   {
    "begin": "1707.400",
    "children": [],
-   "end": "1714.280",
-   "id": "f000149",
+   "end": "1709.720",
+   "id": "f000417",
    "language": "eng",
    "lines": [
-    "\"Envoys to the giants?\" Fudge shrieked, finding his tongue again. \"What madness is this?\""
+    "\"Envoys to the giants?\""
+   ]
+  },
+  {
+   "begin": "1709.720",
+   "children": [],
+   "end": "1712.640",
+   "id": "f000418",
+   "language": "eng",
+   "lines": [
+    "Fudge shrieked, finding his tongue again."
+   ]
+  },
+  {
+   "begin": "1712.640",
+   "children": [],
+   "end": "1714.280",
+   "id": "f000419",
+   "language": "eng",
+   "lines": [
+    "\"What madness is this?\""
    ]
   },
   {
    "begin": "1714.280",
    "children": [],
    "end": "1728.040",
-   "id": "f000150",
+   "id": "f000420",
    "language": "eng",
    "lines": [
     "\"Extend them the hand of friendship, now, before it is too late,\" said Dumbledore, \"or Voldemort will persuade them, as he did before, that he alone among wizards will give them their rights and their freedom!\""
@@ -1503,48 +4203,198 @@
   {
    "begin": "1728.040",
    "children": [],
-   "end": "1807.560",
-   "id": "f000151",
+   "end": "1731.080",
+   "id": "f000421",
    "language": "eng",
    "lines": [
-    "\"You - you cannot be serious!\" Fudge gasped, shaking his head and retreating further from Dumbledore. \"If the magical community got wind that I had approached the giants - people hate them, Dumbledore - end of my career -\" \"You are blinded,\" said Dumbledore, his voice rising now, the aura of power around him palpable, his eyes blazing once more, \"by the love of the office you hold, Cornelius! You place too much importance, and you always have done, on the so-called purity of blood! You fail to recognize that it matters not what someone is born, but what they grow to be! Your dementor has just destroyed the last remaining member of a pure-blood family as old as any - and see what that man chose to make of his life! I tell you now- take the steps I have suggested, and you will be remembered, in office or out, as one of the bravest and greatest Ministers of Magic we have ever known. Fail to act - and history will remember you as the man who stepped aside and allowed Voldemort a second chance to destroy the world we have tried to rebuild!\""
+    "\"You - you cannot be serious!\""
+   ]
+  },
+  {
+   "begin": "1731.080",
+   "children": [],
+   "end": "1735.880",
+   "id": "f000422",
+   "language": "eng",
+   "lines": [
+    "Fudge gasped, shaking his head and retreating further from Dumbledore."
+   ]
+  },
+  {
+   "begin": "1735.880",
+   "children": [],
+   "end": "1757.080",
+   "id": "f000423",
+   "language": "eng",
+   "lines": [
+    "\"If the magical community got wind that I had approached the giants - people hate them, Dumbledore - end of my career -\" \"You are blinded,\" said Dumbledore, his voice rising now, the aura of power around him palpable, his eyes blazing once more, \"by the love of the office you hold, Cornelius!"
+   ]
+  },
+  {
+   "begin": "1757.080",
+   "children": [],
+   "end": "1764.560",
+   "id": "f000424",
+   "language": "eng",
+   "lines": [
+    "You place too much importance, and you always have done, on the so-called purity of blood!"
+   ]
+  },
+  {
+   "begin": "1764.560",
+   "children": [],
+   "end": "1771.720",
+   "id": "f000425",
+   "language": "eng",
+   "lines": [
+    "You fail to recognize that it matters not what someone is born, but what they grow to be!"
+   ]
+  },
+  {
+   "begin": "1771.720",
+   "children": [],
+   "end": "1782.360",
+   "id": "f000426",
+   "language": "eng",
+   "lines": [
+    "Your dementor has just destroyed the last remaining member of a pure-blood family as old as any - and see what that man chose to make of his life!"
+   ]
+  },
+  {
+   "begin": "1782.360",
+   "children": [],
+   "end": "1794.880",
+   "id": "f000427",
+   "language": "eng",
+   "lines": [
+    "I tell you now- take the steps I have suggested, and you will be remembered, in office or out, as one of the bravest and greatest Ministers of Magic we have ever known."
+   ]
+  },
+  {
+   "begin": "1794.880",
+   "children": [],
+   "end": "1807.560",
+   "id": "f000428",
+   "language": "eng",
+   "lines": [
+    "Fail to act - and history will remember you as the man who stepped aside and allowed Voldemort a second chance to destroy the world we have tried to rebuild!\""
    ]
   },
   {
    "begin": "1807.560",
    "children": [],
-   "end": "1814.120",
-   "id": "f000152",
+   "end": "1812.160",
+   "id": "f000429",
    "language": "eng",
    "lines": [
-    "\"Insane,\" whispered Fudge, still backing away. \"Mad . . .\""
+    "\"Insane,\" whispered Fudge, still backing away."
    ]
   },
   {
-   "begin": "1814.120",
+   "begin": "1812.160",
    "children": [],
-   "end": "1830.040",
-   "id": "f000153",
+   "end": "1813.240",
+   "id": "f000430",
    "language": "eng",
    "lines": [
-    "And then there was silence. Madam Pomfrey was standing frozen at the foot of Harry's bed, her hands over her mouth. Mrs.Weasley was still standing over Harry, her hand on his shoulder to prevent him from rising. Bill, Ron, and Hermione were staring at Fudge."
+    "\"Mad ."
+   ]
+  },
+  {
+   "begin": "1813.240",
+   "children": [],
+   "end": "1813.240",
+   "id": "f000431",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "1813.240",
+   "children": [],
+   "end": "1813.240",
+   "id": "f000432",
+   "language": "eng",
+   "lines": [
+    ".\""
+   ]
+  },
+  {
+   "begin": "1813.240",
+   "children": [],
+   "end": "1815.640",
+   "id": "f000433",
+   "language": "eng",
+   "lines": [
+    "And then there was silence."
+   ]
+  },
+  {
+   "begin": "1815.640",
+   "children": [],
+   "end": "1821.320",
+   "id": "f000434",
+   "language": "eng",
+   "lines": [
+    "Madam Pomfrey was standing frozen at the foot of Harry's bed, her hands over her mouth."
+   ]
+  },
+  {
+   "begin": "1821.320",
+   "children": [],
+   "end": "1826.640",
+   "id": "f000435",
+   "language": "eng",
+   "lines": [
+    "Mrs.Weasley was still standing over Harry, her hand on his shoulder to prevent him from rising."
+   ]
+  },
+  {
+   "begin": "1826.640",
+   "children": [],
+   "end": "1830.040",
+   "id": "f000436",
+   "language": "eng",
+   "lines": [
+    "Bill, Ron, and Hermione were staring at Fudge."
    ]
   },
   {
    "begin": "1830.040",
    "children": [],
-   "end": "1847.160",
-   "id": "f000154",
+   "end": "1840.640",
+   "id": "f000437",
    "language": "eng",
    "lines": [
-    "\"If your determination to shut your eyes will carry you as far as this, Cornelius,\" said Dumbledore, \"we have reached a parting of the ways. You must act as you see fit. And I - I shall act as I see fit.\""
+    "\"If your determination to shut your eyes will carry you as far as this, Cornelius,\" said Dumbledore, \"we have reached a parting of the ways."
+   ]
+  },
+  {
+   "begin": "1840.640",
+   "children": [],
+   "end": "1843.000",
+   "id": "f000438",
+   "language": "eng",
+   "lines": [
+    "You must act as you see fit."
+   ]
+  },
+  {
+   "begin": "1843.000",
+   "children": [],
+   "end": "1847.160",
+   "id": "f000439",
+   "language": "eng",
+   "lines": [
+    "And I - I shall act as I see fit.\""
    ]
   },
   {
    "begin": "1847.160",
    "children": [],
    "end": "1857.760",
-   "id": "f000155",
+   "id": "f000440",
    "language": "eng",
    "lines": [
     "Dumbledore's voice carried no hint of a threat; it sounded like a mere statement, but Fudge bristled as though Dumbledore were advancing upon him with a wand."
@@ -1553,28 +4403,98 @@
   {
    "begin": "1857.760",
    "children": [],
-   "end": "1892.960",
-   "id": "f000156",
+   "end": "1862.680",
+   "id": "f000441",
    "language": "eng",
    "lines": [
-    "\"Now, see here, Dumbledore,\" he said, waving a threatening finger. \"I've given you free rein, always. I've had a lot of respect for you. I might not have agreed with some of your decisions, but I've kept quiet. There aren't many who'd have let you hire werewolves, or keep Hagrid, or decide what to teach your students without reference to the Ministry. But if you're going to work against me -\" \"The only one against whom I intend to work,\" said Dumbledore, \"is Lord Voldemort. If you are against him, then we remain, Cornelius, on the same side.\""
+    "\"Now, see here, Dumbledore,\" he said, waving a threatening finger."
+   ]
+  },
+  {
+   "begin": "1862.680",
+   "children": [],
+   "end": "1864.800",
+   "id": "f000442",
+   "language": "eng",
+   "lines": [
+    "\"I've given you free rein, always."
+   ]
+  },
+  {
+   "begin": "1864.800",
+   "children": [],
+   "end": "1866.520",
+   "id": "f000443",
+   "language": "eng",
+   "lines": [
+    "I've had a lot of respect for you."
+   ]
+  },
+  {
+   "begin": "1866.520",
+   "children": [],
+   "end": "1870.520",
+   "id": "f000444",
+   "language": "eng",
+   "lines": [
+    "I might not have agreed with some of your decisions, but I've kept quiet."
+   ]
+  },
+  {
+   "begin": "1870.520",
+   "children": [],
+   "end": "1878.120",
+   "id": "f000445",
+   "language": "eng",
+   "lines": [
+    "There aren't many who'd have let you hire werewolves, or keep Hagrid, or decide what to teach your students without reference to the Ministry."
+   ]
+  },
+  {
+   "begin": "1878.120",
+   "children": [],
+   "end": "1887.280",
+   "id": "f000446",
+   "language": "eng",
+   "lines": [
+    "But if you're going to work against me -\" \"The only one against whom I intend to work,\" said Dumbledore, \"is Lord Voldemort."
+   ]
+  },
+  {
+   "begin": "1887.280",
+   "children": [],
+   "end": "1892.960",
+   "id": "f000447",
+   "language": "eng",
+   "lines": [
+    "If you are against him, then we remain, Cornelius, on the same side.\""
    ]
   },
   {
    "begin": "1892.960",
    "children": [],
-   "end": "1903.760",
-   "id": "f000157",
+   "end": "1896.960",
+   "id": "f000448",
    "language": "eng",
    "lines": [
-    "It seemed Fudge could think of no answer to this. He rocked backward and forward on his small feet for a moment and spun his bowler hat in his hands."
+    "It seemed Fudge could think of no answer to this."
+   ]
+  },
+  {
+   "begin": "1896.960",
+   "children": [],
+   "end": "1903.760",
+   "id": "f000449",
+   "language": "eng",
+   "lines": [
+    "He rocked backward and forward on his small feet for a moment and spun his bowler hat in his hands."
    ]
   },
   {
    "begin": "1903.760",
    "children": [],
    "end": "1913.440",
-   "id": "f000158",
+   "id": "f000450",
    "language": "eng",
    "lines": [
     "Finally, he said, with a hint of a plea in his voice, \"He can't be back, Dumbledore, he just can't be ...\""
@@ -1583,158 +4503,528 @@
   {
    "begin": "1913.440",
    "children": [],
-   "end": "1924.840",
-   "id": "f000159",
+   "end": "1920.600",
+   "id": "f000451",
    "language": "eng",
    "lines": [
-    "Snape strode forward, past Dumbledore, pulling up the left sleeve of his robes as he went. He stuck out his forearm and showed it to Fudge, who recoiled."
+    "Snape strode forward, past Dumbledore, pulling up the left sleeve of his robes as he went."
+   ]
+  },
+  {
+   "begin": "1920.600",
+   "children": [],
+   "end": "1924.840",
+   "id": "f000452",
+   "language": "eng",
+   "lines": [
+    "He stuck out his forearm and showed it to Fudge, who recoiled."
    ]
   },
   {
    "begin": "1924.840",
    "children": [],
-   "end": "1952.440",
-   "id": "f000160",
+   "end": "1927.480",
+   "id": "f000453",
    "language": "eng",
    "lines": [
-    "\"There,\" said Snape harshly. \"There. The Dark Mark. It is not as clear as it was an hour or so ago, when it burned black, but you can still see it. Every Death Eater had the sign burned into him by the Dark Lord. It was a means of distinguishing one another, and his means of summoning us to him. When he touched the Mark of any Death Eater, we were to Disapparate, and Apparate, instantly, at his side."
+    "\"There,\" said Snape harshly."
    ]
   },
   {
-   "begin": "1952.440",
+   "begin": "1927.480",
    "children": [],
-   "end": "1972.840",
-   "id": "f000161",
+   "end": "1928.240",
+   "id": "f000454",
    "language": "eng",
    "lines": [
-    "This Mark has been growing clearer all year. Karkaroff s too. Why do you think Karkaroff fled tonight? We both felt the Mark burn. We both knew he had returned. Karkaroff fears the Dark Lord's vengeance. He betrayed too many of his fellow Death Eaters to be sure of a welcome back into the fold.\""
+    "\"There."
+   ]
+  },
+  {
+   "begin": "1928.240",
+   "children": [],
+   "end": "1929.800",
+   "id": "f000455",
+   "language": "eng",
+   "lines": [
+    "The Dark Mark."
+   ]
+  },
+  {
+   "begin": "1929.800",
+   "children": [],
+   "end": "1936.560",
+   "id": "f000456",
+   "language": "eng",
+   "lines": [
+    "It is not as clear as it was an hour or so ago, when it burned black, but you can still see it."
+   ]
+  },
+  {
+   "begin": "1936.560",
+   "children": [],
+   "end": "1940.640",
+   "id": "f000457",
+   "language": "eng",
+   "lines": [
+    "Every Death Eater had the sign burned into him by the Dark Lord."
+   ]
+  },
+  {
+   "begin": "1940.640",
+   "children": [],
+   "end": "1945.160",
+   "id": "f000458",
+   "language": "eng",
+   "lines": [
+    "It was a means of distinguishing one another, and his means of summoning us to him."
+   ]
+  },
+  {
+   "begin": "1945.160",
+   "children": [],
+   "end": "1952.920",
+   "id": "f000459",
+   "language": "eng",
+   "lines": [
+    "When he touched the Mark of any Death Eater, we were to Disapparate, and Apparate, instantly, at his side."
+   ]
+  },
+  {
+   "begin": "1952.920",
+   "children": [],
+   "end": "1955.800",
+   "id": "f000460",
+   "language": "eng",
+   "lines": [
+    "This Mark has been growing clearer all year."
+   ]
+  },
+  {
+   "begin": "1955.800",
+   "children": [],
+   "end": "1957.160",
+   "id": "f000461",
+   "language": "eng",
+   "lines": [
+    "Karkaroff s too."
+   ]
+  },
+  {
+   "begin": "1957.160",
+   "children": [],
+   "end": "1959.680",
+   "id": "f000462",
+   "language": "eng",
+   "lines": [
+    "Why do you think Karkaroff fled tonight?"
+   ]
+  },
+  {
+   "begin": "1959.680",
+   "children": [],
+   "end": "1962.440",
+   "id": "f000463",
+   "language": "eng",
+   "lines": [
+    "We both felt the Mark burn."
+   ]
+  },
+  {
+   "begin": "1962.440",
+   "children": [],
+   "end": "1964.720",
+   "id": "f000464",
+   "language": "eng",
+   "lines": [
+    "We both knew he had returned."
+   ]
+  },
+  {
+   "begin": "1964.720",
+   "children": [],
+   "end": "1967.600",
+   "id": "f000465",
+   "language": "eng",
+   "lines": [
+    "Karkaroff fears the Dark Lord's vengeance."
+   ]
+  },
+  {
+   "begin": "1967.600",
+   "children": [],
+   "end": "1972.840",
+   "id": "f000466",
+   "language": "eng",
+   "lines": [
+    "He betrayed too many of his fellow Death Eaters to be sure of a welcome back into the fold.\""
    ]
   },
   {
    "begin": "1972.840",
    "children": [],
-   "end": "2000.800",
-   "id": "f000162",
+   "end": "1976.160",
+   "id": "f000467",
    "language": "eng",
    "lines": [
-    "Fudge stepped back from Snape too. He was shaking his head. He did not seem to have taken in a word Snape had said. He stared, apparently repelled by the ugly mark on Snape's arm, then looked up at Dumbledore and whispered, \"I don't know what you and your staff are playing at, Dumbledore, but I have heard enough. I have no more to add. I will be in touch with you tomorrow, Dumbledore, to discuss the running of this school. I must return to the Ministry.\""
+    "Fudge stepped back from Snape too."
+   ]
+  },
+  {
+   "begin": "1976.160",
+   "children": [],
+   "end": "1978.040",
+   "id": "f000468",
+   "language": "eng",
+   "lines": [
+    "He was shaking his head."
+   ]
+  },
+  {
+   "begin": "1978.040",
+   "children": [],
+   "end": "1981.360",
+   "id": "f000469",
+   "language": "eng",
+   "lines": [
+    "He did not seem to have taken in a word Snape had said."
+   ]
+  },
+  {
+   "begin": "1981.360",
+   "children": [],
+   "end": "1993.600",
+   "id": "f000470",
+   "language": "eng",
+   "lines": [
+    "He stared, apparently repelled by the ugly mark on Snape's arm, then looked up at Dumbledore and whispered, \"I don't know what you and your staff are playing at, Dumbledore, but I have heard enough."
+   ]
+  },
+  {
+   "begin": "1993.600",
+   "children": [],
+   "end": "1995.280",
+   "id": "f000471",
+   "language": "eng",
+   "lines": [
+    "I have no more to add."
+   ]
+  },
+  {
+   "begin": "1995.280",
+   "children": [],
+   "end": "1999.240",
+   "id": "f000472",
+   "language": "eng",
+   "lines": [
+    "I will be in touch with you tomorrow, Dumbledore, to discuss the running of this school."
+   ]
+  },
+  {
+   "begin": "1999.240",
+   "children": [],
+   "end": "2000.800",
+   "id": "f000473",
+   "language": "eng",
+   "lines": [
+    "I must return to the Ministry.\""
    ]
   },
   {
    "begin": "2000.800",
    "children": [],
-   "end": "2010.120",
-   "id": "f000163",
+   "end": "2004.760",
+   "id": "f000474",
    "language": "eng",
    "lines": [
-    "He had almost reached the door when he paused. He turned around, strode back down the dormitory, and stopped at Harry's bed."
+    "He had almost reached the door when he paused."
+   ]
+  },
+  {
+   "begin": "2004.760",
+   "children": [],
+   "end": "2010.120",
+   "id": "f000475",
+   "language": "eng",
+   "lines": [
+    "He turned around, strode back down the dormitory, and stopped at Harry's bed."
    ]
   },
   {
    "begin": "2010.120",
    "children": [],
-   "end": "2024.280",
-   "id": "f000164",
+   "end": "2018.320",
+   "id": "f000476",
    "language": "eng",
    "lines": [
-    "\"Your winnings,\" he said shortly, taking a large bag of gold out of his pocket and dropping it onto Harrys bedside table. \"One thousand Galleons. There should have been a presentation ceremony, but under the circumstances .. .\""
+    "\"Your winnings,\" he said shortly, taking a large bag of gold out of his pocket and dropping it onto Harrys bedside table."
+   ]
+  },
+  {
+   "begin": "2018.320",
+   "children": [],
+   "end": "2020.360",
+   "id": "f000477",
+   "language": "eng",
+   "lines": [
+    "\"One thousand Galleons."
+   ]
+  },
+  {
+   "begin": "2020.360",
+   "children": [],
+   "end": "2024.280",
+   "id": "f000478",
+   "language": "eng",
+   "lines": [
+    "There should have been a presentation ceremony, but under the circumstances .."
    ]
   },
   {
    "begin": "2024.280",
    "children": [],
-   "end": "2036.080",
-   "id": "f000165",
+   "end": "2024.280",
+   "id": "f000479",
    "language": "eng",
    "lines": [
-    "He crammed his bowler hat onto his head and walked out of the room, slamming the door behind him. The moment he had disappeared, Dumbledore turned to look at the group around Harry's bed."
+    ".\""
+   ]
+  },
+  {
+   "begin": "2024.280",
+   "children": [],
+   "end": "2030.600",
+   "id": "f000480",
+   "language": "eng",
+   "lines": [
+    "He crammed his bowler hat onto his head and walked out of the room, slamming the door behind him."
+   ]
+  },
+  {
+   "begin": "2030.600",
+   "children": [],
+   "end": "2036.080",
+   "id": "f000481",
+   "language": "eng",
+   "lines": [
+    "The moment he had disappeared, Dumbledore turned to look at the group around Harry's bed."
    ]
   },
   {
    "begin": "2036.080",
    "children": [],
-   "end": "2042.400",
-   "id": "f000166",
+   "end": "2038.960",
+   "id": "f000482",
    "language": "eng",
    "lines": [
-    "\"There is work to be done,\" he said. \"Molly... am I right in thinking that I can count on you and Arthur?\""
+    "\"There is work to be done,\" he said."
+   ]
+  },
+  {
+   "begin": "2038.960",
+   "children": [],
+   "end": "2039.480",
+   "id": "f000483",
+   "language": "eng",
+   "lines": [
+    "\"Molly..."
+   ]
+  },
+  {
+   "begin": "2039.480",
+   "children": [],
+   "end": "2042.400",
+   "id": "f000484",
+   "language": "eng",
+   "lines": [
+    "am I right in thinking that I can count on you and Arthur?\""
    ]
   },
   {
    "begin": "2042.400",
    "children": [],
-   "end": "2047.600",
-   "id": "f000167",
+   "end": "2045.360",
+   "id": "f000485",
    "language": "eng",
    "lines": [
-    "\"Of course you can,\" said Mrs. Weasley. She was white to the lips, but she looked"
+    "\"Of course you can,\" said Mrs. Weasley."
+   ]
+  },
+  {
+   "begin": "2045.360",
+   "children": [],
+   "end": "2047.600",
+   "id": "f000486",
+   "language": "eng",
+   "lines": [
+    "She was white to the lips, but she looked"
    ]
   },
   {
    "begin": "2047.600",
    "children": [],
-   "end": "2057.840",
-   "id": "f000168",
+   "end": "2048.320",
+   "id": "f000487",
    "language": "eng",
    "lines": [
-    "resolute. \"We know what Fudge is. It's Arthur's fondness for Muggles that has held him back at the Ministry all these years. Fudge thinks he lacks proper wizarding pride.\""
+    "resolute."
+   ]
+  },
+  {
+   "begin": "2048.320",
+   "children": [],
+   "end": "2050.360",
+   "id": "f000488",
+   "language": "eng",
+   "lines": [
+    "\"We know what Fudge is."
+   ]
+  },
+  {
+   "begin": "2050.360",
+   "children": [],
+   "end": "2054.680",
+   "id": "f000489",
+   "language": "eng",
+   "lines": [
+    "It's Arthur's fondness for Muggles that has held him back at the Ministry all these years."
+   ]
+  },
+  {
+   "begin": "2054.680",
+   "children": [],
+   "end": "2057.840",
+   "id": "f000490",
+   "language": "eng",
+   "lines": [
+    "Fudge thinks he lacks proper wizarding pride.\""
    ]
   },
   {
    "begin": "2057.840",
    "children": [],
-   "end": "2071.400",
-   "id": "f000169",
+   "end": "2061.520",
+   "id": "f000491",
    "language": "eng",
    "lines": [
-    "\"Then I need to send a message to Arthur,\" said Dumbledore. \"All those that we can persuade of the truth must be notified immediately, and he is well placed to contact those at the Ministry who are not as shortsighted as Cornelius.\""
+    "\"Then I need to send a message to Arthur,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2061.520",
+   "children": [],
+   "end": "2071.400",
+   "id": "f000492",
+   "language": "eng",
+   "lines": [
+    "\"All those that we can persuade of the truth must be notified immediately, and he is well placed to contact those at the Ministry who are not as shortsighted as Cornelius.\""
    ]
   },
   {
    "begin": "2071.400",
    "children": [],
-   "end": "2075.120",
-   "id": "f000170",
+   "end": "2074.120",
+   "id": "f000493",
    "language": "eng",
    "lines": [
-    "\"I'll go to Dad,\" said Bill, standing up. \"I'll go now.\""
+    "\"I'll go to Dad,\" said Bill, standing up."
+   ]
+  },
+  {
+   "begin": "2074.120",
+   "children": [],
+   "end": "2075.120",
+   "id": "f000494",
+   "language": "eng",
+   "lines": [
+    "\"I'll go now.\""
    ]
   },
   {
    "begin": "2075.120",
    "children": [],
-   "end": "2088.280",
-   "id": "f000171",
+   "end": "2077.080",
+   "id": "f000495",
    "language": "eng",
    "lines": [
-    "\"Excellent,\" said Dumbledore. \"Tell him what has happened. Tell him I will be in direct contact with him shortly. He will need to be discreet, however. If Fudge thinks I am interfering at the Ministry -\" \"Leave it to me,\" said Bill."
+    "\"Excellent,\" said Dumbledore."
+   ]
+  },
+  {
+   "begin": "2077.080",
+   "children": [],
+   "end": "2078.280",
+   "id": "f000496",
+   "language": "eng",
+   "lines": [
+    "\"Tell him what has happened."
+   ]
+  },
+  {
+   "begin": "2078.280",
+   "children": [],
+   "end": "2081.120",
+   "id": "f000497",
+   "language": "eng",
+   "lines": [
+    "Tell him I will be in direct contact with him shortly."
+   ]
+  },
+  {
+   "begin": "2081.120",
+   "children": [],
+   "end": "2083.200",
+   "id": "f000498",
+   "language": "eng",
+   "lines": [
+    "He will need to be discreet, however."
+   ]
+  },
+  {
+   "begin": "2083.200",
+   "children": [],
+   "end": "2088.280",
+   "id": "f000499",
+   "language": "eng",
+   "lines": [
+    "If Fudge thinks I am interfering at the Ministry -\" \"Leave it to me,\" said Bill."
    ]
   },
   {
    "begin": "2088.280",
    "children": [],
-   "end": "2095.240",
-   "id": "f000172",
+   "end": "2095.200",
+   "id": "f000500",
    "language": "eng",
    "lines": [
     "He clapped a hand on Harry's shoulder, kissed his mother on the cheek, pulled on his cloak, and strode quickly from the room."
    ]
   },
   {
-   "begin": "2095.240",
+   "begin": "2095.200",
    "children": [],
-   "end": "2105.840",
-   "id": "f000173",
+   "end": "2102.400",
+   "id": "f000501",
    "language": "eng",
    "lines": [
-    "\"Minerva,\" said Dumbledore, turning to Professor McGonagall, \"I want to see Hagrid in my office as soon as possible. Also - if she will consent to come - Madame Maxime.\""
+    "\"Minerva,\" said Dumbledore, turning to Professor McGonagall, \"I want to see Hagrid in my office as soon as possible."
+   ]
+  },
+  {
+   "begin": "2102.400",
+   "children": [],
+   "end": "2105.840",
+   "id": "f000502",
+   "language": "eng",
+   "lines": [
+    "Also - if she will consent to come - Madame Maxime.\""
    ]
   },
   {
    "begin": "2105.840",
    "children": [],
    "end": "2109.440",
-   "id": "f000174",
+   "id": "f000503",
    "language": "eng",
    "lines": [
     "Professor McGonagall nodded and left without a word."
@@ -1743,28 +5033,48 @@
   {
    "begin": "2109.440",
    "children": [],
-   "end": "2126.120",
-   "id": "f000175",
+   "end": "2120.840",
+   "id": "f000504",
    "language": "eng",
    "lines": [
-    "\"Poppy,\" Dumbledore said to Madam Pomfrey, \"would you be very kind and go down to Professor Moodys office, where I think you will find a house-elf called Winky in considerable distress? Do what you can for her, and take her back to the kitchens. I think Dobby will look after her for us.\""
+    "\"Poppy,\" Dumbledore said to Madam Pomfrey, \"would you be very kind and go down to Professor Moodys office, where I think you will find a house-elf called Winky in considerable distress?"
+   ]
+  },
+  {
+   "begin": "2120.840",
+   "children": [],
+   "end": "2124.040",
+   "id": "f000505",
+   "language": "eng",
+   "lines": [
+    "Do what you can for her, and take her back to the kitchens."
+   ]
+  },
+  {
+   "begin": "2124.040",
+   "children": [],
+   "end": "2126.120",
+   "id": "f000506",
+   "language": "eng",
+   "lines": [
+    "I think Dobby will look after her for us.\""
    ]
   },
   {
    "begin": "2126.120",
    "children": [],
-   "end": "2132.640",
-   "id": "f000176",
+   "end": "2132.560",
+   "id": "f000507",
    "language": "eng",
    "lines": [
     "\"Very - very well,\" said Madam Pomfrey, looking startled, and she too left."
    ]
   },
   {
-   "begin": "2132.640",
+   "begin": "2132.560",
    "children": [],
    "end": "2139.680",
-   "id": "f000177",
+   "id": "f000508",
    "language": "eng",
    "lines": [
     "Dumbledore made sure that the door was closed, and that Madam Pomfrey's footsteps had died away, before he spoke again."
@@ -1773,18 +5083,38 @@
   {
    "begin": "2139.680",
    "children": [],
-   "end": "2150.120",
-   "id": "f000178",
+   "end": "2146.520",
+   "id": "f000509",
    "language": "eng",
    "lines": [
-    "\"And now,\" he said, \"it is time for two of our number to recognize each other for what they are. Sirius ... if you could resume your usual form.\""
+    "\"And now,\" he said, \"it is time for two of our number to recognize each other for what they are."
+   ]
+  },
+  {
+   "begin": "2146.520",
+   "children": [],
+   "end": "2147.440",
+   "id": "f000510",
+   "language": "eng",
+   "lines": [
+    "Sirius ..."
+   ]
+  },
+  {
+   "begin": "2147.440",
+   "children": [],
+   "end": "2150.120",
+   "id": "f000511",
+   "language": "eng",
+   "lines": [
+    "if you could resume your usual form.\""
    ]
   },
   {
    "begin": "2150.120",
    "children": [],
    "end": "2157.160",
-   "id": "f000179",
+   "id": "f000512",
    "language": "eng",
    "lines": [
     "The great black dog looked up at Dumbledore, then, in an instant, turned back into a man."
@@ -1794,7 +5124,7 @@
    "begin": "2157.160",
    "children": [],
    "end": "2161.160",
-   "id": "f000180",
+   "id": "f000513",
    "language": "eng",
    "lines": [
     "Mrs. Weasley screamed and leapt back from the bed."
@@ -1803,28 +5133,58 @@
   {
    "begin": "2161.160",
    "children": [],
-   "end": "2164.080",
-   "id": "f000181",
+   "end": "2162.360",
+   "id": "f000514",
    "language": "eng",
    "lines": [
-    "\"Sirius Black!\" she shrieked, pointing at him."
+    "\"Sirius Black!\""
+   ]
+  },
+  {
+   "begin": "2162.360",
+   "children": [],
+   "end": "2164.080",
+   "id": "f000515",
+   "language": "eng",
+   "lines": [
+    "she shrieked, pointing at him."
    ]
   },
   {
    "begin": "2164.080",
    "children": [],
-   "end": "2167.720",
-   "id": "f000182",
+   "end": "2165.920",
+   "id": "f000516",
    "language": "eng",
    "lines": [
-    "\"Mum, shut up!\" Ron yelled. \"It's okay!\""
+    "\"Mum, shut up!\""
+   ]
+  },
+  {
+   "begin": "2165.920",
+   "children": [],
+   "end": "2166.560",
+   "id": "f000517",
+   "language": "eng",
+   "lines": [
+    "Ron yelled."
+   ]
+  },
+  {
+   "begin": "2166.560",
+   "children": [],
+   "end": "2167.720",
+   "id": "f000518",
+   "language": "eng",
+   "lines": [
+    "\"It's okay!\""
    ]
   },
   {
    "begin": "2167.720",
    "children": [],
    "end": "2174.480",
-   "id": "f000183",
+   "id": "f000519",
    "language": "eng",
    "lines": [
     "Snape had not yelled or jumped backward, but the look on his face was one of mingled fury and horror."
@@ -1833,18 +5193,38 @@
   {
    "begin": "2174.480",
    "children": [],
-   "end": "2180.960",
-   "id": "f000184",
+   "end": "2175.640",
+   "id": "f000520",
    "language": "eng",
    "lines": [
-    "\"Him!\" he snarled, staring at Sirius, whose face showed equal dislike. \"What is he"
+    "\"Him!\""
+   ]
+  },
+  {
+   "begin": "2175.640",
+   "children": [],
+   "end": "2180.320",
+   "id": "f000521",
+   "language": "eng",
+   "lines": [
+    "he snarled, staring at Sirius, whose face showed equal dislike."
+   ]
+  },
+  {
+   "begin": "2180.320",
+   "children": [],
+   "end": "2180.960",
+   "id": "f000522",
+   "language": "eng",
+   "lines": [
+    "\"What is he"
    ]
   },
   {
    "begin": "2180.960",
    "children": [],
    "end": "2181.680",
-   "id": "f000185",
+   "id": "f000523",
    "language": "eng",
    "lines": [
     "doing here?\""
@@ -1853,58 +5233,178 @@
   {
    "begin": "2181.680",
    "children": [],
-   "end": "2195.360",
-   "id": "f000186",
+   "end": "2188.720",
+   "id": "f000524",
    "language": "eng",
    "lines": [
-    "\"He is here at my invitation,\" said Dumbledore, looking between them, \"as are you, Severus. I trust you both. It is time for you to lay aside your old differences and trust each other.\""
+    "\"He is here at my invitation,\" said Dumbledore, looking between them, \"as are you, Severus."
+   ]
+  },
+  {
+   "begin": "2188.720",
+   "children": [],
+   "end": "2190.560",
+   "id": "f000525",
+   "language": "eng",
+   "lines": [
+    "I trust you both."
+   ]
+  },
+  {
+   "begin": "2190.560",
+   "children": [],
+   "end": "2195.360",
+   "id": "f000526",
+   "language": "eng",
+   "lines": [
+    "It is time for you to lay aside your old differences and trust each other.\""
    ]
   },
   {
    "begin": "2195.360",
    "children": [],
-   "end": "2204.440",
-   "id": "f000187",
+   "end": "2199.600",
+   "id": "f000527",
    "language": "eng",
    "lines": [
-    "Harry thought Dumbledore was asking for a near miracle. Sirius and Snape were eyeing each other with the utmost loathing."
+    "Harry thought Dumbledore was asking for a near miracle."
+   ]
+  },
+  {
+   "begin": "2199.600",
+   "children": [],
+   "end": "2204.440",
+   "id": "f000528",
+   "language": "eng",
+   "lines": [
+    "Sirius and Snape were eyeing each other with the utmost loathing."
    ]
   },
   {
    "begin": "2204.440",
    "children": [],
-   "end": "2223.960",
-   "id": "f000188",
+   "end": "2213.600",
+   "id": "f000529",
    "language": "eng",
    "lines": [
-    "\"I will settle, in the short term,\" said Dumbledore, with a bite of impatience in his voice, \"for a lack of open hostility. You will shake hands. You are on the same side now. Time is short, and unless the few of us who know the truth do not stand united, there is no hope for any us."
+    "\"I will settle, in the short term,\" said Dumbledore, with a bite of impatience in his voice, \"for a lack of open hostility."
+   ]
+  },
+  {
+   "begin": "2213.600",
+   "children": [],
+   "end": "2215.320",
+   "id": "f000530",
+   "language": "eng",
+   "lines": [
+    "You will shake hands."
+   ]
+  },
+  {
+   "begin": "2215.320",
+   "children": [],
+   "end": "2217.240",
+   "id": "f000531",
+   "language": "eng",
+   "lines": [
+    "You are on the same side now."
+   ]
+  },
+  {
+   "begin": "2217.240",
+   "children": [],
+   "end": "2223.960",
+   "id": "f000532",
+   "language": "eng",
+   "lines": [
+    "Time is short, and unless the few of us who know the truth do not stand united, there is no hope for any us."
    ]
   },
   {
    "begin": "2223.960",
    "children": [],
-   "end": "2237.880",
-   "id": "f000189",
+   "end": "2234.720",
+   "id": "f000533",
    "language": "eng",
    "lines": [
-    "Very slowly - but still glaring at each other as though each wished the other nothing but ill - Sirius and Snape moved toward each other and shook hands. They let go extremely quickly."
+    "Very slowly - but still glaring at each other as though each wished the other nothing but ill - Sirius and Snape moved toward each other and shook hands."
    ]
   },
   {
-   "begin": "2237.880",
+   "begin": "2234.720",
    "children": [],
-   "end": "2260.760",
-   "id": "f000190",
+   "end": "2237.760",
+   "id": "f000534",
    "language": "eng",
    "lines": [
-    "\"That will do to be going on with,\" said Dumbledore, stepping between them once more. \"Now I have work for each of you. Fudge's attitude, though not unexpected, changes everything. Sirius, I need you to set off at once. You are to alert Remus Lupin, Arabella Figg, Mundungus Fletcher - the old crowd. Lie low at Lupin's for a while; I will contact you there.\""
+    "They let go extremely quickly."
+   ]
+  },
+  {
+   "begin": "2237.760",
+   "children": [],
+   "end": "2242.600",
+   "id": "f000535",
+   "language": "eng",
+   "lines": [
+    "\"That will do to be going on with,\" said Dumbledore, stepping between them once more."
+   ]
+  },
+  {
+   "begin": "2242.600",
+   "children": [],
+   "end": "2244.720",
+   "id": "f000536",
+   "language": "eng",
+   "lines": [
+    "\"Now I have work for each of you."
+   ]
+  },
+  {
+   "begin": "2244.720",
+   "children": [],
+   "end": "2249.280",
+   "id": "f000537",
+   "language": "eng",
+   "lines": [
+    "Fudge's attitude, though not unexpected, changes everything."
+   ]
+  },
+  {
+   "begin": "2249.280",
+   "children": [],
+   "end": "2252.080",
+   "id": "f000538",
+   "language": "eng",
+   "lines": [
+    "Sirius, I need you to set off at once."
+   ]
+  },
+  {
+   "begin": "2252.080",
+   "children": [],
+   "end": "2257.880",
+   "id": "f000539",
+   "language": "eng",
+   "lines": [
+    "You are to alert Remus Lupin, Arabella Figg, Mundungus Fletcher - the old crowd."
+   ]
+  },
+  {
+   "begin": "2257.880",
+   "children": [],
+   "end": "2260.760",
+   "id": "f000540",
+   "language": "eng",
+   "lines": [
+    "Lie low at Lupin's for a while; I will contact you there.\""
    ]
   },
   {
    "begin": "2260.760",
    "children": [],
    "end": "2262.480",
-   "id": "f000191",
+   "id": "f000541",
    "language": "eng",
    "lines": [
     "\"But -\" said Harry."
@@ -1913,58 +5413,188 @@
   {
    "begin": "2262.480",
    "children": [],
-   "end": "2267.360",
-   "id": "f000192",
+   "end": "2264.600",
+   "id": "f000542",
    "language": "eng",
    "lines": [
-    "He wanted Sirius to stay. He did not want to have to say goodbye again so quickly."
+    "He wanted Sirius to stay."
+   ]
+  },
+  {
+   "begin": "2264.600",
+   "children": [],
+   "end": "2267.360",
+   "id": "f000543",
+   "language": "eng",
+   "lines": [
+    "He did not want to have to say goodbye again so quickly."
    ]
   },
   {
    "begin": "2267.360",
    "children": [],
-   "end": "2275.440",
-   "id": "f000193",
+   "end": "2269.360",
+   "id": "f000544",
    "language": "eng",
    "lines": [
-    "\"You'll see me very soon. Harry,\" said Sirius, turning to him. \"I promise you. But I must do what I can, you understand, don't you?\""
+    "\"You'll see me very soon."
+   ]
+  },
+  {
+   "begin": "2269.360",
+   "children": [],
+   "end": "2271.520",
+   "id": "f000545",
+   "language": "eng",
+   "lines": [
+    "Harry,\" said Sirius, turning to him."
+   ]
+  },
+  {
+   "begin": "2271.520",
+   "children": [],
+   "end": "2272.600",
+   "id": "f000546",
+   "language": "eng",
+   "lines": [
+    "\"I promise you."
+   ]
+  },
+  {
+   "begin": "2272.600",
+   "children": [],
+   "end": "2275.440",
+   "id": "f000547",
+   "language": "eng",
+   "lines": [
+    "But I must do what I can, you understand, don't you?\""
    ]
   },
   {
    "begin": "2275.440",
    "children": [],
-   "end": "2278.160",
-   "id": "f000194",
+   "end": "2276.960",
+   "id": "f000548",
    "language": "eng",
    "lines": [
-    "\"Yeah,\" said Harry. \"Yeah . . . of course I do.\""
+    "\"Yeah,\" said Harry."
+   ]
+  },
+  {
+   "begin": "2276.960",
+   "children": [],
+   "end": "2277.480",
+   "id": "f000549",
+   "language": "eng",
+   "lines": [
+    "\"Yeah ."
+   ]
+  },
+  {
+   "begin": "2277.480",
+   "children": [],
+   "end": "2277.480",
+   "id": "f000550",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2277.480",
+   "children": [],
+   "end": "2277.480",
+   "id": "f000551",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2277.480",
+   "children": [],
+   "end": "2278.160",
+   "id": "f000552",
+   "language": "eng",
+   "lines": [
+    "of course I do.\""
    ]
   },
   {
    "begin": "2278.160",
    "children": [],
-   "end": "2290.360",
-   "id": "f000195",
+   "end": "2288.640",
+   "id": "f000553",
    "language": "eng",
    "lines": [
-    "Sirius grasped his hand briefly, nodded to Dumbledore, transformed again into the black dog, and ran the length of the room to the door, whose handle he turned with a paw. Then he was gone."
+    "Sirius grasped his hand briefly, nodded to Dumbledore, transformed again into the black dog, and ran the length of the room to the door, whose handle he turned with a paw."
+   ]
+  },
+  {
+   "begin": "2288.640",
+   "children": [],
+   "end": "2290.360",
+   "id": "f000554",
+   "language": "eng",
+   "lines": [
+    "Then he was gone."
    ]
   },
   {
    "begin": "2290.360",
    "children": [],
-   "end": "2299.160",
-   "id": "f000196",
+   "end": "2296.200",
+   "id": "f000555",
    "language": "eng",
    "lines": [
-    "\"Severus,\" said Dumbledore, turning to Snape, \"you know what I must ask you to do. If you are ready . . . if you are prepared ...\""
+    "\"Severus,\" said Dumbledore, turning to Snape, \"you know what I must ask you to do."
+   ]
+  },
+  {
+   "begin": "2296.200",
+   "children": [],
+   "end": "2297.520",
+   "id": "f000556",
+   "language": "eng",
+   "lines": [
+    "If you are ready ."
+   ]
+  },
+  {
+   "begin": "2297.520",
+   "children": [],
+   "end": "2297.520",
+   "id": "f000557",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2297.520",
+   "children": [],
+   "end": "2297.520",
+   "id": "f000558",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2297.520",
+   "children": [],
+   "end": "2299.160",
+   "id": "f000559",
+   "language": "eng",
+   "lines": [
+    "if you are prepared ...\""
    ]
   },
   {
    "begin": "2299.160",
    "children": [],
    "end": "2301.840",
-   "id": "f000197",
+   "id": "f000560",
    "language": "eng",
    "lines": [
     "\"I am,\" said Snape."
@@ -1974,7 +5604,7 @@
    "begin": "2301.840",
    "children": [],
    "end": "2307.680",
-   "id": "f000198",
+   "id": "f000561",
    "language": "eng",
    "lines": [
     "He looked slightly paler than usual, and his cold, black eyes glittered strangely."
@@ -1984,7 +5614,7 @@
    "begin": "2307.680",
    "children": [],
    "end": "2317.520",
-   "id": "f000199",
+   "id": "f000562",
    "language": "eng",
    "lines": [
     "\"Then good luck,\" said Dumbledore, and he watched, with a trace of apprehension on his face, as Snape swept wordlessly after Sirius."
@@ -1994,7 +5624,7 @@
    "begin": "2317.520",
    "children": [],
    "end": "2321.120",
-   "id": "f000200",
+   "id": "f000563",
    "language": "eng",
    "lines": [
     "It was several minutes before Dumbledore spoke again."
@@ -2003,78 +5633,258 @@
   {
    "begin": "2321.120",
    "children": [],
-   "end": "2331.280",
-   "id": "f000201",
+   "end": "2325.320",
+   "id": "f000564",
    "language": "eng",
    "lines": [
-    "\"I must go downstairs,\" he said finally. \"I must see the Diggorys. Harry - take the rest of your potion. I will see all of you later.\""
+    "\"I must go downstairs,\" he said finally."
+   ]
+  },
+  {
+   "begin": "2325.320",
+   "children": [],
+   "end": "2326.960",
+   "id": "f000565",
+   "language": "eng",
+   "lines": [
+    "\"I must see the Diggorys."
+   ]
+  },
+  {
+   "begin": "2326.960",
+   "children": [],
+   "end": "2329.120",
+   "id": "f000566",
+   "language": "eng",
+   "lines": [
+    "Harry - take the rest of your potion."
+   ]
+  },
+  {
+   "begin": "2329.120",
+   "children": [],
+   "end": "2331.280",
+   "id": "f000567",
+   "language": "eng",
+   "lines": [
+    "I will see all of you later.\""
    ]
   },
   {
    "begin": "2331.280",
    "children": [],
-   "end": "2342.840",
-   "id": "f000202",
+   "end": "2336.280",
+   "id": "f000568",
    "language": "eng",
    "lines": [
-    "Harry slumped back against his pillows as Dumbledore disappeared. Hermione, Ron, and Mrs. Weasley were all looking at him. None of them spoke for a very long time."
+    "Harry slumped back against his pillows as Dumbledore disappeared."
    ]
   },
   {
-   "begin": "2342.840",
+   "begin": "2336.280",
    "children": [],
-   "end": "2360.640",
-   "id": "f000203",
+   "end": "2339.880",
+   "id": "f000569",
    "language": "eng",
    "lines": [
-    "\"You've got to take the rest of your potion. Harry,\" Mrs. Weasley said at last. Her hand nudged the sack of gold on his bedside cabinet as she reached for the bottle and the goblet. \"You have a good long sleep. Try and think about something else for a while . . . think about what you're going to buy with your winnings!\""
+    "Hermione, Ron, and Mrs. Weasley were all looking at him."
+   ]
+  },
+  {
+   "begin": "2339.880",
+   "children": [],
+   "end": "2342.800",
+   "id": "f000570",
+   "language": "eng",
+   "lines": [
+    "None of them spoke for a very long time."
+   ]
+  },
+  {
+   "begin": "2342.800",
+   "children": [],
+   "end": "2346.400",
+   "id": "f000571",
+   "language": "eng",
+   "lines": [
+    "\"You've got to take the rest of your potion."
+   ]
+  },
+  {
+   "begin": "2346.400",
+   "children": [],
+   "end": "2348.520",
+   "id": "f000572",
+   "language": "eng",
+   "lines": [
+    "Harry,\" Mrs. Weasley said at last."
+   ]
+  },
+  {
+   "begin": "2348.520",
+   "children": [],
+   "end": "2354.320",
+   "id": "f000573",
+   "language": "eng",
+   "lines": [
+    "Her hand nudged the sack of gold on his bedside cabinet as she reached for the bottle and the goblet."
+   ]
+  },
+  {
+   "begin": "2354.320",
+   "children": [],
+   "end": "2356.360",
+   "id": "f000574",
+   "language": "eng",
+   "lines": [
+    "\"You have a good long sleep."
+   ]
+  },
+  {
+   "begin": "2356.360",
+   "children": [],
+   "end": "2358.560",
+   "id": "f000575",
+   "language": "eng",
+   "lines": [
+    "Try and think about something else for a while ."
+   ]
+  },
+  {
+   "begin": "2358.560",
+   "children": [],
+   "end": "2358.600",
+   "id": "f000576",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2358.600",
+   "children": [],
+   "end": "2358.640",
+   "id": "f000577",
+   "language": "eng",
+   "lines": [
+    "."
+   ]
+  },
+  {
+   "begin": "2358.640",
+   "children": [],
+   "end": "2360.640",
+   "id": "f000578",
+   "language": "eng",
+   "lines": [
+    "think about what you're going to buy with your winnings!\""
    ]
   },
   {
    "begin": "2360.640",
    "children": [],
-   "end": "2366.600",
-   "id": "f000204",
+   "end": "2365.440",
+   "id": "f000579",
    "language": "eng",
    "lines": [
-    "\"I don't want that gold,\" said Harry in an expressionless voice. \"You have it."
+    "\"I don't want that gold,\" said Harry in an expressionless voice."
    ]
   },
   {
-   "begin": "2366.600",
+   "begin": "2365.440",
    "children": [],
-   "end": "2370.720",
-   "id": "f000205",
+   "end": "2366.560",
+   "id": "f000580",
    "language": "eng",
    "lines": [
-    "Anyone can have it. I shouldn't have won it. It should've been Cedric's.\""
+    "\"You have it."
+   ]
+  },
+  {
+   "begin": "2366.560",
+   "children": [],
+   "end": "2368.120",
+   "id": "f000581",
+   "language": "eng",
+   "lines": [
+    "Anyone can have it."
+   ]
+  },
+  {
+   "begin": "2368.120",
+   "children": [],
+   "end": "2369.400",
+   "id": "f000582",
+   "language": "eng",
+   "lines": [
+    "I shouldn't have won it."
+   ]
+  },
+  {
+   "begin": "2369.400",
+   "children": [],
+   "end": "2370.720",
+   "id": "f000583",
+   "language": "eng",
+   "lines": [
+    "It should've been Cedric's.\""
    ]
   },
   {
    "begin": "2370.720",
    "children": [],
-   "end": "2385.760",
-   "id": "f000206",
+   "end": "2378.720",
+   "id": "f000584",
    "language": "eng",
    "lines": [
-    "The thing against which he had been fighting on and off ever since he had come out of the maze was threatening to overpower him. He could feel a burning, prickling feeling in the inner corners of his eyes. He blinked and stared up at the ceiling."
+    "The thing against which he had been fighting on and off ever since he had come out of the maze was threatening to overpower him."
    ]
   },
   {
-   "begin": "2385.760",
+   "begin": "2378.720",
    "children": [],
-   "end": "2390.200",
-   "id": "f000207",
+   "end": "2383.160",
+   "id": "f000585",
    "language": "eng",
    "lines": [
-    "\"It wasn't your fault. Harry,\" Mrs. Weasley whispered."
+    "He could feel a burning, prickling feeling in the inner corners of his eyes."
+   ]
+  },
+  {
+   "begin": "2383.160",
+   "children": [],
+   "end": "2385.680",
+   "id": "f000586",
+   "language": "eng",
+   "lines": [
+    "He blinked and stared up at the ceiling."
+   ]
+  },
+  {
+   "begin": "2385.680",
+   "children": [],
+   "end": "2387.960",
+   "id": "f000587",
+   "language": "eng",
+   "lines": [
+    "\"It wasn't your fault."
+   ]
+  },
+  {
+   "begin": "2387.960",
+   "children": [],
+   "end": "2390.200",
+   "id": "f000588",
+   "language": "eng",
+   "lines": [
+    "Harry,\" Mrs. Weasley whispered."
    ]
   },
   {
    "begin": "2390.200",
    "children": [],
    "end": "2394.480",
-   "id": "f000208",
+   "id": "f000589",
    "language": "eng",
    "lines": [
     "\"I told him to take the cup with me,\" said Harry."
@@ -2083,48 +5893,98 @@
   {
    "begin": "2394.480",
    "children": [],
-   "end": "2399.760",
-   "id": "f000209",
+   "end": "2397.480",
+   "id": "f000590",
    "language": "eng",
    "lines": [
-    "Now the burning feeling was in his throat too. He wished Ron would look away."
+    "Now the burning feeling was in his throat too."
    ]
   },
   {
-   "begin": "2399.760",
+   "begin": "2397.480",
    "children": [],
-   "end": "2435.080",
-   "id": "f000210",
+   "end": "2399.720",
+   "id": "f000591",
    "language": "eng",
    "lines": [
-    "Mrs. Weasley set the potion down on the bedside cabinet, bent down, and put her arms around Harry. He had no memory of ever being hugged like this, as though by a mother. The full weight of everything he had seen that night seemed to fall in upon him as Mrs. Weasley held him to her. His mother s face, his father's voice, the sight of Cedric, dead on the ground all started spinning in his head until he could hardly bear it, until he was screwing up his face against the howl of misery fighting to get out of him."
+    "He wished Ron would look away."
    ]
   },
   {
-   "begin": "2435.080",
+   "begin": "2399.720",
    "children": [],
-   "end": "2441.000",
-   "id": "f000211",
+   "end": "2406.400",
+   "id": "f000592",
+   "language": "eng",
+   "lines": [
+    "Mrs. Weasley set the potion down on the bedside cabinet, bent down, and put her arms around Harry."
+   ]
+  },
+  {
+   "begin": "2406.400",
+   "children": [],
+   "end": "2411.320",
+   "id": "f000593",
+   "language": "eng",
+   "lines": [
+    "He had no memory of ever being hugged like this, as though by a mother."
+   ]
+  },
+  {
+   "begin": "2411.320",
+   "children": [],
+   "end": "2419.440",
+   "id": "f000594",
+   "language": "eng",
+   "lines": [
+    "The full weight of everything he had seen that night seemed to fall in upon him as Mrs. Weasley held him to her."
+   ]
+  },
+  {
+   "begin": "2419.440",
+   "children": [],
+   "end": "2435.040",
+   "id": "f000595",
+   "language": "eng",
+   "lines": [
+    "His mother s face, his father's voice, the sight of Cedric, dead on the ground all started spinning in his head until he could hardly bear it, until he was screwing up his face against the howl of misery fighting to get out of him."
+   ]
+  },
+  {
+   "begin": "2435.040",
+   "children": [],
+   "end": "2440.960",
+   "id": "f000596",
    "language": "eng",
    "lines": [
     "There was a loud slamming noise, and Mrs. Weasley and Harry broke apart."
    ]
   },
   {
-   "begin": "2441.000",
+   "begin": "2440.960",
    "children": [],
-   "end": "2446.640",
-   "id": "f000212",
+   "end": "2443.680",
+   "id": "f000597",
    "language": "eng",
    "lines": [
-    "Hermione was standing by the window. She was holding something tight in her hand."
+    "Hermione was standing by the window."
+   ]
+  },
+  {
+   "begin": "2443.680",
+   "children": [],
+   "end": "2446.640",
+   "id": "f000598",
+   "language": "eng",
+   "lines": [
+    "She was holding something tight in her hand."
    ]
   },
   {
    "begin": "2446.640",
    "children": [],
    "end": "2448.800",
-   "id": "f000213",
+   "id": "f000599",
    "language": "eng",
    "lines": [
     "\"Sorry,\" she whispered."
@@ -2133,21 +5993,41 @@
   {
    "begin": "2448.800",
    "children": [],
-   "end": "2454.800",
-   "id": "f000214",
+   "end": "2454.640",
+   "id": "f000600",
    "language": "eng",
    "lines": [
     "\"Your potion, Harry,\" said Mrs. Weasley quickly, wiping her eyes on the back of her hand."
    ]
   },
   {
-   "begin": "2454.800",
+   "begin": "2454.640",
    "children": [],
-   "end": "2472.000",
-   "id": "f000215",
+   "end": "2457.120",
+   "id": "f000601",
    "language": "eng",
    "lines": [
-    "Harry drank it in one gulp. The effect was instantaneous. Heavy, irresistible waves of dreamless sleep broke over him; he fell back onto his pillows and thought no more."
+    "Harry drank it in one gulp."
+   ]
+  },
+  {
+   "begin": "2457.120",
+   "children": [],
+   "end": "2460.040",
+   "id": "f000602",
+   "language": "eng",
+   "lines": [
+    "The effect was instantaneous."
+   ]
+  },
+  {
+   "begin": "2460.040",
+   "children": [],
+   "end": "2472.000",
+   "id": "f000603",
+   "language": "eng",
+   "lines": [
+    "Heavy, irresistible waves of dreamless sleep broke over him; he fell back onto his pillows and thought no more."
    ]
   }
  ]

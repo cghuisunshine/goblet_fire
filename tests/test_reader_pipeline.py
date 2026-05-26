@@ -160,6 +160,25 @@ class ReaderPipelineTests(unittest.TestCase):
 
         self.assertEqual(paragraphs, ["top-of-the-range broomstick", "summer holidays"])
 
+    def test_chapter_fragments_split_paragraphs_into_sentence_alignment_fragments(self):
+        chapter = reader_pipeline.Chapter(
+            1,
+            "The Riddle House",
+            'The villagers called it "the Riddle House." It stood on a hill. "Creepy," they said.',
+        )
+
+        fragments = reader_pipeline.chapter_fragments(chapter)
+
+        self.assertEqual(
+            fragments,
+            [
+                "Chapter One. The Riddle House.",
+                'The villagers called it "the Riddle House."',
+                "It stood on a hill.",
+                '"Creepy," they said.',
+            ],
+        )
+
     def test_extract_chapter_without_visible_title_keeps_body(self):
         source = """
         CHAPTER THREE
